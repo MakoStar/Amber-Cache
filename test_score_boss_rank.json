@@ -1,0 +1,6119 @@
+{
+    "LastRefreshTime": "1780104330",
+    "Self": {
+        "Id": "100457344",
+        "NickName": "萌娘cafe枪",
+        "WorldClass": 40,
+        "HeadIcon": 10301,
+        "Score": 217467,
+        "Rank": 5970,
+        "TitlePrefix": 1,
+        "TitleSuffix": 2,
+        "Teams": [
+            {
+                "BuildScore": 8895,
+                "Chars": [
+                    {
+                        "Id": 135,
+                        "Level": 90
+                    },
+                    {
+                        "Id": 145,
+                        "Level": 90
+                    },
+                    {
+                        "Id": 142,
+                        "Level": 90
+                    }
+                ],
+                "LevelScore": 155534
+            },
+            {
+                "BuildScore": 7965,
+                "Chars": [
+                    {
+                        "Id": 144,
+                        "Level": 90
+                    },
+                    {
+                        "Id": 127,
+                        "Level": 90
+                    },
+                    {
+                        "Id": 130,
+                        "Level": 90
+                    }
+                ],
+                "LevelScore": 61933
+            }
+        ],
+        "Honors": [
+            {
+                "Id": 112103,
+                "AffinityLV": 25
+            },
+            {},
+            {}
+        ]
+    },
+    "Rank": [
+        {
+            "Id": "100463233",
+            "NickName": "yuyu",
+            "WorldClass": 1,
+            "HeadIcon": 11603,
+            "Score": 1806604,
+            "Rank": 1,
+            "TitlePrefix": 1,
+            "TitleSuffix": 4,
+            "Teams": [
+                {
+                    "BuildScore": 9645,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 1001119
+                },
+                {
+                    "BuildScore": 9645,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 805485
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 112155,
+                    "AffinityLV": 50
+                },
+                {
+                    "Id": 112115,
+                    "AffinityLV": 30
+                }
+            ]
+        },
+        {
+            "Id": "100481860",
+            "NickName": "楪祈",
+            "WorldClass": 1,
+            "HeadIcon": 14403,
+            "Score": 1711127,
+            "Rank": 2,
+            "TitlePrefix": 9,
+            "TitleSuffix": 30,
+            "Teams": [
+                {
+                    "BuildScore": 10215,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 970341
+                },
+                {
+                    "BuildScore": 9465,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 740786
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 116003
+                },
+                {
+                    "Id": 116007
+                },
+                {
+                    "Id": 112143,
+                    "AffinityLV": 21
+                }
+            ]
+        },
+        {
+            "Id": "100490650",
+            "NickName": "柯林斯一代目",
+            "WorldClass": 1,
+            "HeadIcon": 130007,
+            "Score": 1595705,
+            "Rank": 3,
+            "TitlePrefix": 21,
+            "TitleSuffix": 22,
+            "Teams": [
+                {
+                    "BuildScore": 9090,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 774545
+                },
+                {
+                    "BuildScore": 9915,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 821160
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112125,
+                    "AffinityLV": 42
+                },
+                {
+                    "Id": 112134,
+                    "AffinityLV": 46
+                },
+                {
+                    "Id": 112144,
+                    "AffinityLV": 46
+                }
+            ]
+        },
+        {
+            "Id": "100391766",
+            "NickName": "赖名紫阳花",
+            "WorldClass": 1,
+            "HeadIcon": 130007,
+            "Score": 1579902,
+            "Rank": 4,
+            "TitlePrefix": 5,
+            "TitleSuffix": 26,
+            "Teams": [
+                {
+                    "BuildScore": 9675,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 822560
+                },
+                {
+                    "BuildScore": 9030,
+                    "Chars": [
+                        {
+                            "Id": 143,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 133,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 123,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 757342
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 114004
+                },
+                {
+                    "Id": 112133,
+                    "AffinityLV": 50
+                },
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                }
+            ]
+        },
+        {
+            "Id": "100420071",
+            "NickName": "小兔子小鹿和你",
+            "WorldClass": 1,
+            "HeadIcon": 14703,
+            "Score": 1480454,
+            "Rank": 5,
+            "TitlePrefix": 1,
+            "TitleSuffix": 6,
+            "Teams": [
+                {
+                    "BuildScore": 9225,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 837319
+                },
+                {
+                    "BuildScore": 9495,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 643135
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 112110,
+                    "AffinityLV": 38
+                },
+                {
+                    "Id": 112143,
+                    "AffinityLV": 32
+                }
+            ]
+        },
+        {
+            "Id": "101008611",
+            "NickName": "VampiresATX",
+            "WorldClass": 1,
+            "HeadIcon": 14403,
+            "Score": 1478881,
+            "Rank": 6,
+            "TitlePrefix": 23,
+            "TitleSuffix": 12,
+            "Teams": [
+                {
+                    "BuildScore": 9315,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 667806
+                },
+                {
+                    "BuildScore": 9975,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 811075
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112130,
+                    "AffinityLV": 32
+                },
+                {
+                    "Id": 114001
+                },
+                {
+                    "Id": 117021
+                }
+            ]
+        },
+        {
+            "Id": "100353697",
+            "NickName": "miyo",
+            "WorldClass": 1,
+            "HeadIcon": 13204,
+            "Score": 1470837,
+            "Rank": 7,
+            "TitlePrefix": 21,
+            "TitleSuffix": 30,
+            "Teams": [
+                {
+                    "BuildScore": 9255,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 936489
+                },
+                {
+                    "BuildScore": 9615,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 534348
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112110,
+                    "AffinityLV": 44
+                },
+                {
+                    "Id": 112145,
+                    "AffinityLV": 38
+                },
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                }
+            ]
+        },
+        {
+            "Id": "100356101",
+            "NickName": "你知道吗我饿了",
+            "WorldClass": 1,
+            "HeadIcon": 130004,
+            "Score": 1289533,
+            "Rank": 8,
+            "TitlePrefix": 3,
+            "TitleSuffix": 4,
+            "Teams": [
+                {
+                    "BuildScore": 9060,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 734120
+                },
+                {
+                    "BuildScore": 9060,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 555413
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 112134,
+                    "AffinityLV": 52
+                },
+                {
+                    "Id": 112155,
+                    "AffinityLV": 52
+                }
+            ]
+        },
+        {
+            "Id": "100337084",
+            "NickName": "丰川祥子",
+            "WorldClass": 1,
+            "HeadIcon": 130003,
+            "Score": 1283892,
+            "Rank": 9,
+            "TitlePrefix": 27,
+            "TitleSuffix": 18,
+            "Teams": [
+                {
+                    "BuildScore": 9270,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 895281
+                },
+                {
+                    "BuildScore": 9195,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 388611
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 115010
+                },
+                {
+                    "Id": 112143,
+                    "AffinityLV": 42
+                },
+                {
+                    "Id": 112145,
+                    "AffinityLV": 35
+                }
+            ]
+        },
+        {
+            "Id": "100417128",
+            "NickName": "深蓝碎片",
+            "WorldClass": 1,
+            "HeadIcon": 13503,
+            "Score": 1266918,
+            "Rank": 10,
+            "TitlePrefix": 1,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 10005,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 647122
+                },
+                {
+                    "BuildScore": 9345,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 619796
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112158,
+                    "AffinityLV": 43
+                },
+                {
+                    "Id": 112143,
+                    "AffinityLV": 34
+                },
+                {
+                    "Id": 111008
+                }
+            ]
+        },
+        {
+            "Id": "100855962",
+            "NickName": "久田泉奈",
+            "WorldClass": 1,
+            "HeadIcon": 130007,
+            "Score": 1226415,
+            "Rank": 11,
+            "TitlePrefix": 3,
+            "TitleSuffix": 24,
+            "Teams": [
+                {
+                    "BuildScore": 10320,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 548566
+                },
+                {
+                    "BuildScore": 9315,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 677849
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112155,
+                    "AffinityLV": 49
+                },
+                {
+                    "Id": 118001
+                },
+                {
+                    "Id": 117001
+                }
+            ]
+        },
+        {
+            "Id": "100964127",
+            "NickName": "彩色穿透",
+            "WorldClass": 1,
+            "HeadIcon": 14401,
+            "Score": 1198897,
+            "Rank": 12,
+            "TitlePrefix": 3,
+            "TitleSuffix": 4,
+            "Teams": [
+                {
+                    "BuildScore": 9330,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 639092
+                },
+                {
+                    "BuildScore": 9480,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 559805
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112155,
+                    "AffinityLV": 47
+                },
+                {
+                    "Id": 112110,
+                    "AffinityLV": 34
+                },
+                {
+                    "Id": 114002
+                }
+            ]
+        },
+        {
+            "Id": "100861159",
+            "NickName": "山雨",
+            "WorldClass": 1,
+            "HeadIcon": 101,
+            "Score": 1149185,
+            "Rank": 13,
+            "TitlePrefix": 29,
+            "TitleSuffix": 30,
+            "Teams": [
+                {
+                    "BuildScore": 9615,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 808060
+                },
+                {
+                    "BuildScore": 9000,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 341125
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 116010
+                },
+                {
+                    "Id": 118001
+                },
+                {
+                    "Id": 112155,
+                    "AffinityLV": 48
+                }
+            ]
+        },
+        {
+            "Id": "100342893",
+            "NickName": "旋律",
+            "WorldClass": 1,
+            "HeadIcon": 14401,
+            "Score": 1134737,
+            "Rank": 14,
+            "TitlePrefix": 3,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 9150,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 506429
+                },
+                {
+                    "BuildScore": 9060,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 628308
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 112134,
+                    "AffinityLV": 39
+                },
+                {
+                    "Id": 116002
+                }
+            ]
+        },
+        {
+            "Id": "101181773",
+            "NickName": "我叫秦江雪",
+            "WorldClass": 1,
+            "HeadIcon": 14501,
+            "Score": 1124011,
+            "Rank": 15,
+            "TitlePrefix": 3,
+            "TitleSuffix": 22,
+            "Teams": [
+                {
+                    "BuildScore": 9015,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 609642
+                },
+                {
+                    "BuildScore": 9255,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 514369
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 111001
+                },
+                {
+                    "Id": 114001
+                },
+                {
+                    "Id": 114004
+                }
+            ]
+        },
+        {
+            "Id": "100407130",
+            "NickName": "まゆ",
+            "WorldClass": 1,
+            "HeadIcon": 13303,
+            "Score": 1120770,
+            "Rank": 16,
+            "TitlePrefix": 1,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 9735,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 627316
+                },
+                {
+                    "BuildScore": 9300,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 493454
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112133,
+                    "AffinityLV": 43
+                },
+                {},
+                {}
+            ]
+        },
+        {
+            "Id": "100545802",
+            "NickName": "星塔攻略组川子",
+            "WorldClass": 1,
+            "HeadIcon": 130003,
+            "Score": 1095881,
+            "Rank": 17,
+            "TitlePrefix": 1,
+            "TitleSuffix": 10,
+            "Teams": [
+                {
+                    "BuildScore": 9210,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 132,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 622132
+                },
+                {
+                    "BuildScore": 9165,
+                    "Chars": [
+                        {
+                            "Id": 143,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 123,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 133,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 473749
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112155,
+                    "AffinityLV": 42
+                },
+                {
+                    "Id": 112143,
+                    "AffinityLV": 30
+                },
+                {
+                    "Id": 112110,
+                    "AffinityLV": 25
+                }
+            ]
+        },
+        {
+            "Id": "101482613",
+            "NickName": "长歌",
+            "WorldClass": 1,
+            "HeadIcon": 101,
+            "Score": 1030352,
+            "Rank": 18,
+            "TitlePrefix": 1,
+            "TitleSuffix": 4,
+            "Teams": [
+                {
+                    "BuildScore": 9225,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 539027
+                },
+                {
+                    "BuildScore": 9255,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 491325
+                }
+            ],
+            "Honors": [
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "Id": "100585538",
+            "NickName": "鲁鲁修",
+            "WorldClass": 1,
+            "HeadIcon": 130007,
+            "Score": 1027774,
+            "Rank": 19,
+            "TitlePrefix": 17,
+            "TitleSuffix": 8,
+            "Teams": [
+                {
+                    "BuildScore": 9135,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 627142
+                },
+                {
+                    "BuildScore": 9180,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 400632
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112134,
+                    "AffinityLV": 51
+                },
+                {
+                    "Id": 112145,
+                    "AffinityLV": 24
+                },
+                {
+                    "Id": 112158,
+                    "AffinityLV": 20
+                }
+            ]
+        },
+        {
+            "Id": "101001404",
+            "NickName": "蔚奥莱的小蛋糕",
+            "WorldClass": 1,
+            "HeadIcon": 14502,
+            "Score": 1021453,
+            "Rank": 20,
+            "TitlePrefix": 21,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 9255,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 463117
+                },
+                {
+                    "BuildScore": 8790,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 558336
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 112145,
+                    "AffinityLV": 27
+                },
+                {
+                    "Id": 112134,
+                    "AffinityLV": 40
+                }
+            ]
+        },
+        {
+            "Id": "100385991",
+            "NickName": "纯白纸浪近涛声",
+            "WorldClass": 1,
+            "HeadIcon": 15603,
+            "Score": 1020207,
+            "Rank": 21,
+            "TitlePrefix": 1,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 9300,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 707612
+                },
+                {
+                    "BuildScore": 9195,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 312595
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112156,
+                    "AffinityLV": 19
+                },
+                {
+                    "Id": 112133,
+                    "AffinityLV": 22
+                },
+                {
+                    "Id": 117031
+                }
+            ]
+        },
+        {
+            "Id": "101003023",
+            "NickName": "Suteki",
+            "WorldClass": 1,
+            "HeadIcon": 130007,
+            "Score": 985453,
+            "Rank": 22,
+            "TitlePrefix": 9,
+            "TitleSuffix": 4,
+            "Teams": [
+                {
+                    "BuildScore": 9480,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 401813
+                },
+                {
+                    "BuildScore": 10005,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 583640
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112144,
+                    "AffinityLV": 48
+                },
+                {
+                    "Id": 116010
+                },
+                {
+                    "Id": 116008
+                }
+            ]
+        },
+        {
+            "Id": "100551865",
+            "NickName": "糖心搜罗琳小姐",
+            "WorldClass": 1,
+            "HeadIcon": 102,
+            "Score": 961847,
+            "Rank": 23,
+            "TitlePrefix": 21,
+            "TitleSuffix": 16,
+            "Teams": [
+                {
+                    "BuildScore": 9345,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 381738
+                },
+                {
+                    "BuildScore": 9045,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 580109
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112144,
+                    "AffinityLV": 54
+                },
+                {
+                    "Id": 115009
+                },
+                {
+                    "Id": 115001
+                }
+            ]
+        },
+        {
+            "Id": "100584539",
+            "NickName": "魔女想睡觉",
+            "WorldClass": 1,
+            "HeadIcon": 101,
+            "Score": 947927,
+            "Rank": 24,
+            "TitlePrefix": 1,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 9375,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 125,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 638730
+                },
+                {
+                    "BuildScore": 9000,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 309197
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112127,
+                    "AffinityLV": 34
+                },
+                {
+                    "Id": 112125,
+                    "AffinityLV": 55
+                },
+                {
+                    "Id": 112130,
+                    "AffinityLV": 27
+                }
+            ]
+        },
+        {
+            "Id": "101440223",
+            "NickName": "八奈限",
+            "WorldClass": 1,
+            "HeadIcon": 13303,
+            "Score": 943633,
+            "Rank": 25,
+            "TitlePrefix": 21,
+            "TitleSuffix": 4,
+            "Teams": [
+                {
+                    "BuildScore": 9615,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 439838
+                },
+                {
+                    "BuildScore": 9315,
+                    "Chars": [
+                        {
+                            "Id": 143,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 133,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 123,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 503795
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112143,
+                    "AffinityLV": 36
+                },
+                {
+                    "Id": 112133,
+                    "AffinityLV": 42
+                },
+                {
+                    "Id": 116003
+                }
+            ]
+        },
+        {
+            "Id": "100469686",
+            "NickName": "冰糖柚子茶",
+            "WorldClass": 1,
+            "HeadIcon": 130007,
+            "Score": 935352,
+            "Rank": 26,
+            "TitlePrefix": 3,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 8730,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 517052
+                },
+                {
+                    "BuildScore": 8115,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 418300
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 112133,
+                    "AffinityLV": 39
+                },
+                {
+                    "Id": 112143,
+                    "AffinityLV": 30
+                }
+            ]
+        },
+        {
+            "Id": "100500231",
+            "NickName": "霜冷长天",
+            "WorldClass": 1,
+            "HeadIcon": 12703,
+            "Score": 920452,
+            "Rank": 27,
+            "TitlePrefix": 3,
+            "TitleSuffix": 20,
+            "Teams": [
+                {
+                    "BuildScore": 9420,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 518574
+                },
+                {
+                    "BuildScore": 9360,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 401878
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112134,
+                    "AffinityLV": 42
+                },
+                {
+                    "Id": 116007
+                },
+                {
+                    "Id": 116001
+                }
+            ]
+        },
+        {
+            "Id": "100512719",
+            "NickName": "纯爱战神",
+            "WorldClass": 1,
+            "HeadIcon": 130007,
+            "Score": 918662,
+            "Rank": 28,
+            "TitlePrefix": 21,
+            "TitleSuffix": 20,
+            "Teams": [
+                {
+                    "BuildScore": 9075,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 528646
+                },
+                {
+                    "BuildScore": 9075,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 390016
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 112158,
+                    "AffinityLV": 52
+                },
+                {
+                    "Id": 112155,
+                    "AffinityLV": 52
+                }
+            ]
+        },
+        {
+            "Id": "100511151",
+            "NickName": "Garcia",
+            "WorldClass": 1,
+            "HeadIcon": 11203,
+            "Score": 898198,
+            "Rank": 29,
+            "TitlePrefix": 5,
+            "TitleSuffix": 16,
+            "Teams": [
+                {
+                    "BuildScore": 9255,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 555721
+                },
+                {
+                    "BuildScore": 8415,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 342477
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112125,
+                    "AffinityLV": 16
+                },
+                {
+                    "Id": 118041
+                },
+                {
+                    "Id": 115008
+                }
+            ]
+        },
+        {
+            "Id": "100572482",
+            "NickName": "水荥号已经登不",
+            "WorldClass": 1,
+            "HeadIcon": 14401,
+            "Score": 895415,
+            "Rank": 30,
+            "TitlePrefix": 21,
+            "TitleSuffix": 30,
+            "Teams": [
+                {
+                    "BuildScore": 9540,
+                    "Chars": [
+                        {
+                            "Id": 135,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 446186
+                },
+                {
+                    "BuildScore": 9390,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 449229
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 117031
+                },
+                {
+                    "Id": 118051
+                }
+            ]
+        },
+        {
+            "Id": "100651493",
+            "NickName": "软软的卡布奇诺",
+            "WorldClass": 1,
+            "HeadIcon": 14201,
+            "Score": 887985,
+            "Rank": 31,
+            "TitlePrefix": 5,
+            "TitleSuffix": 6,
+            "Teams": [
+                {
+                    "BuildScore": 9210,
+                    "Chars": [
+                        {
+                            "Id": 143,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 133,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 123,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 563527
+                },
+                {
+                    "BuildScore": 9435,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 125,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 324458
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 116008
+                },
+                {
+                    "Id": 118001
+                },
+                {
+                    "Id": 117001
+                }
+            ]
+        },
+        {
+            "Id": "100540914",
+            "NickName": "龟海音",
+            "WorldClass": 1,
+            "HeadIcon": 13303,
+            "Score": 885208,
+            "Rank": 32,
+            "TitlePrefix": 27,
+            "TitleSuffix": 28,
+            "Teams": [
+                {
+                    "BuildScore": 9165,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 582302
+                },
+                {
+                    "BuildScore": 9495,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 302906
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112133,
+                    "AffinityLV": 46
+                },
+                {
+                    "Id": 112143,
+                    "AffinityLV": 41
+                },
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                }
+            ]
+        },
+        {
+            "Id": "100776572",
+            "NickName": "欧皇",
+            "WorldClass": 1,
+            "HeadIcon": 14301,
+            "Score": 883173,
+            "Rank": 33,
+            "TitlePrefix": 1,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 9375,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 328039
+                },
+                {
+                    "BuildScore": 9615,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 555134
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 119011
+                },
+                {
+                    "Id": 119012
+                }
+            ]
+        },
+        {
+            "Id": "101499080",
+            "NickName": "鲨鱼咬咬伯爵",
+            "WorldClass": 1,
+            "HeadIcon": 130007,
+            "Score": 874027,
+            "Rank": 34,
+            "TitlePrefix": 21,
+            "TitleSuffix": 22,
+            "Teams": [
+                {
+                    "BuildScore": 8850,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 419013
+                },
+                {
+                    "BuildScore": 9405,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 455014
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112156,
+                    "AffinityLV": 39
+                },
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 116010
+                }
+            ]
+        },
+        {
+            "Id": "100395617",
+            "NickName": "GRAYNITE",
+            "WorldClass": 1,
+            "HeadIcon": 10303,
+            "Score": 871062,
+            "Rank": 35,
+            "TitlePrefix": 13,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 9405,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 413532
+                },
+                {
+                    "BuildScore": 9300,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 457530
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112103,
+                    "AffinityLV": 21
+                },
+                {
+                    "Id": 112115,
+                    "AffinityLV": 21
+                },
+                {
+                    "Id": 112130,
+                    "AffinityLV": 27
+                }
+            ]
+        },
+        {
+            "Id": "101163590",
+            "NickName": "Satori",
+            "WorldClass": 1,
+            "HeadIcon": 130003,
+            "Score": 870163,
+            "Rank": 36,
+            "TitlePrefix": 1,
+            "TitleSuffix": 30,
+            "Teams": [
+                {
+                    "BuildScore": 9090,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 422732
+                },
+                {
+                    "BuildScore": 8925,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 447431
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112158,
+                    "AffinityLV": 31
+                },
+                {
+                    "Id": 112134,
+                    "AffinityLV": 42
+                },
+                {
+                    "Id": 112155,
+                    "AffinityLV": 42
+                }
+            ]
+        },
+        {
+            "Id": "100420098",
+            "NickName": "风队就是个技瓣",
+            "WorldClass": 1,
+            "HeadIcon": 130005,
+            "Score": 863394,
+            "Rank": 37,
+            "TitlePrefix": 5,
+            "TitleSuffix": 24,
+            "Teams": [
+                {
+                    "BuildScore": 9000,
+                    "Chars": [
+                        {
+                            "Id": 143,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 133,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 123,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 631882
+                },
+                {
+                    "BuildScore": 9015,
+                    "Chars": [
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 125,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 231512
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112143,
+                    "AffinityLV": 33
+                },
+                {
+                    "Id": 112123,
+                    "AffinityLV": 27
+                },
+                {
+                    "Id": 112133,
+                    "AffinityLV": 36
+                }
+            ]
+        },
+        {
+            "Id": "100428582",
+            "NickName": "莎夏由已弃坑",
+            "WorldClass": 1,
+            "HeadIcon": 11603,
+            "Score": 852038,
+            "Rank": 38,
+            "TitlePrefix": 13,
+            "TitleSuffix": 28,
+            "Teams": [
+                {
+                    "BuildScore": 8205,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 248338
+                },
+                {
+                    "BuildScore": 9015,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 603700
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112155,
+                    "AffinityLV": 50
+                },
+                {
+                    "Id": 112134,
+                    "AffinityLV": 49
+                },
+                {
+                    "Id": 112144,
+                    "AffinityLV": 45
+                }
+            ]
+        },
+        {
+            "Id": "100765450",
+            "NickName": "黑蜥蜴星人",
+            "WorldClass": 1,
+            "HeadIcon": 130007,
+            "Score": 843454,
+            "Rank": 39,
+            "TitlePrefix": 9,
+            "TitleSuffix": 10,
+            "Teams": [
+                {
+                    "BuildScore": 9075,
+                    "Chars": [
+                        {
+                            "Id": 143,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 133,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 123,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 355607
+                },
+                {
+                    "BuildScore": 9630,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 487847
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112144,
+                    "AffinityLV": 46
+                },
+                {
+                    "Id": 112133,
+                    "AffinityLV": 37
+                },
+                {
+                    "Id": 112143,
+                    "AffinityLV": 36
+                }
+            ]
+        },
+        {
+            "Id": "101103944",
+            "NickName": "皮皮",
+            "WorldClass": 1,
+            "HeadIcon": 130003,
+            "Score": 841230,
+            "Rank": 40,
+            "TitlePrefix": 9,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 9060,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 526473
+                },
+                {
+                    "BuildScore": 8745,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 314757
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 116007
+                },
+                {
+                    "Id": 112155,
+                    "AffinityLV": 32
+                },
+                {
+                    "Id": 112144,
+                    "AffinityLV": 31
+                }
+            ]
+        },
+        {
+            "Id": "100893306",
+            "NickName": "康纳",
+            "WorldClass": 1,
+            "HeadIcon": 14401,
+            "Score": 840805,
+            "Rank": 41,
+            "TitlePrefix": 13,
+            "TitleSuffix": 10,
+            "Teams": [
+                {
+                    "BuildScore": 9690,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 483329
+                },
+                {
+                    "BuildScore": 9345,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 357476
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112144,
+                    "AffinityLV": 49
+                },
+                {
+                    "Id": 118041
+                },
+                {
+                    "Id": 118051
+                }
+            ]
+        },
+        {
+            "Id": "100405231",
+            "NickName": "玖小月",
+            "WorldClass": 1,
+            "HeadIcon": 14301,
+            "Score": 836844,
+            "Rank": 42,
+            "TitlePrefix": 1,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 9345,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 132,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 501919
+                },
+                {
+                    "BuildScore": 9210,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 334925
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112155,
+                    "AffinityLV": 46
+                },
+                {},
+                {}
+            ]
+        },
+        {
+            "Id": "100349764",
+            "NickName": "木北海",
+            "WorldClass": 1,
+            "HeadIcon": 12301,
+            "Score": 834503,
+            "Rank": 43,
+            "TitlePrefix": 5,
+            "TitleSuffix": 30,
+            "Teams": [
+                {
+                    "BuildScore": 9105,
+                    "Chars": [
+                        {
+                            "Id": 143,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 123,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 133,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 420198
+                },
+                {
+                    "BuildScore": 9030,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 414305
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112145,
+                    "AffinityLV": 25
+                },
+                {
+                    "Id": 112133,
+                    "AffinityLV": 45
+                },
+                {
+                    "Id": 112156,
+                    "AffinityLV": 44
+                }
+            ]
+        },
+        {
+            "Id": "101146237",
+            "NickName": "额黑桃皇后",
+            "WorldClass": 1,
+            "HeadIcon": 15502,
+            "Score": 832106,
+            "Rank": 44,
+            "TitlePrefix": 17,
+            "TitleSuffix": 18,
+            "Teams": [
+                {
+                    "BuildScore": 9675,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 452426
+                },
+                {
+                    "BuildScore": 9900,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 379680
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 112155,
+                    "AffinityLV": 45
+                },
+                {
+                    "Id": 117021
+                }
+            ]
+        },
+        {
+            "Id": "101006070",
+            "NickName": "一九",
+            "WorldClass": 1,
+            "HeadIcon": 13204,
+            "Score": 830108,
+            "Rank": 45,
+            "TitlePrefix": 1,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 9735,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 560629
+                },
+                {
+                    "BuildScore": 9495,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 269479
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 112155,
+                    "AffinityLV": 38
+                },
+                {
+                    "Id": 112149,
+                    "AffinityLV": 34
+                }
+            ]
+        },
+        {
+            "Id": "101473912",
+            "NickName": "雪华",
+            "WorldClass": 1,
+            "HeadIcon": 14403,
+            "Score": 827611,
+            "Rank": 46,
+            "TitlePrefix": 21,
+            "TitleSuffix": 18,
+            "Teams": [
+                {
+                    "BuildScore": 10425,
+                    "Chars": [
+                        {
+                            "Id": 143,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 133,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 123,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 396134
+                },
+                {
+                    "BuildScore": 10755,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 431477
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112144,
+                    "AffinityLV": 30
+                },
+                {
+                    "Id": 112133,
+                    "AffinityLV": 30
+                },
+                {
+                    "Id": 112125,
+                    "AffinityLV": 30
+                }
+            ]
+        },
+        {
+            "Id": "100401157",
+            "NickName": "速速补强希娅",
+            "WorldClass": 1,
+            "HeadIcon": 15502,
+            "Score": 826924,
+            "Rank": 47,
+            "TitlePrefix": 1,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 9075,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 282464
+                },
+                {
+                    "BuildScore": 9075,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 132,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 544460
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112155,
+                    "AffinityLV": 55
+                },
+                {
+                    "Id": 117001
+                },
+                {
+                    "Id": 118001
+                }
+            ]
+        },
+        {
+            "Id": "100558968",
+            "NickName": "忘川",
+            "WorldClass": 1,
+            "HeadIcon": 101,
+            "Score": 823178,
+            "Rank": 48,
+            "TitlePrefix": 15,
+            "TitleSuffix": 16,
+            "Teams": [
+                {
+                    "BuildScore": 8790,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 480247
+                },
+                {
+                    "BuildScore": 9240,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 342931
+                }
+            ],
+            "Honors": [
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "Id": "100425595",
+            "NickName": "白墨",
+            "WorldClass": 1,
+            "HeadIcon": 11902,
+            "Score": 821903,
+            "Rank": 49,
+            "TitlePrefix": 13,
+            "TitleSuffix": 12,
+            "Teams": [
+                {
+                    "BuildScore": 9600,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 503003
+                },
+                {
+                    "BuildScore": 9525,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 318900
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 117001
+                },
+                {
+                    "Id": 112155,
+                    "AffinityLV": 39
+                },
+                {
+                    "Id": 118001
+                }
+            ]
+        },
+        {
+            "Id": "100544463",
+            "NickName": "池鱼",
+            "WorldClass": 1,
+            "HeadIcon": 130003,
+            "Score": 821821,
+            "Rank": 50,
+            "TitlePrefix": 9,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 9345,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 451720
+                },
+                {
+                    "BuildScore": 9150,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 370101
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112134,
+                    "AffinityLV": 43
+                },
+                {
+                    "Id": 112144,
+                    "AffinityLV": 30
+                },
+                {
+                    "Id": 112155,
+                    "AffinityLV": 33
+                }
+            ]
+        },
+        {
+            "Id": "100438011",
+            "NickName": "小漂亮",
+            "WorldClass": 1,
+            "HeadIcon": 13502,
+            "Score": 819717,
+            "Rank": 51,
+            "TitlePrefix": 29,
+            "TitleSuffix": 30,
+            "Teams": [
+                {
+                    "BuildScore": 9510,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 375211
+                },
+                {
+                    "BuildScore": 9225,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 444506
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 119011
+                },
+                {
+                    "Id": 119012
+                },
+                {
+                    "Id": 117001
+                }
+            ]
+        },
+        {
+            "Id": "101093322",
+            "NickName": "立华奏",
+            "WorldClass": 1,
+            "HeadIcon": 14403,
+            "Score": 818563,
+            "Rank": 52,
+            "TitlePrefix": 23,
+            "TitleSuffix": 4,
+            "Teams": [
+                {
+                    "BuildScore": 9345,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 438249
+                },
+                {
+                    "BuildScore": 9585,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 380314
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 114004
+                },
+                {
+                    "Id": 117001
+                },
+                {
+                    "Id": 117021
+                }
+            ]
+        },
+        {
+            "Id": "100701214",
+            "NickName": "七清冉",
+            "WorldClass": 1,
+            "HeadIcon": 130007,
+            "Score": 810246,
+            "Rank": 53,
+            "TitlePrefix": 1,
+            "TitleSuffix": 4,
+            "Teams": [
+                {
+                    "BuildScore": 9915,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 132,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 463853
+                },
+                {
+                    "BuildScore": 9585,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 346393
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 114004
+                },
+                {
+                    "Id": 112134,
+                    "AffinityLV": 37
+                },
+                {
+                    "Id": 112144,
+                    "AffinityLV": 31
+                }
+            ]
+        },
+        {
+            "Id": "100496786",
+            "NickName": "松饼",
+            "WorldClass": 1,
+            "HeadIcon": 13001,
+            "Score": 807940,
+            "Rank": 54,
+            "TitlePrefix": 5,
+            "TitleSuffix": 20,
+            "Teams": [
+                {
+                    "BuildScore": 9120,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 351148
+                },
+                {
+                    "BuildScore": 9330,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 456792
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112119,
+                    "AffinityLV": 42
+                },
+                {
+                    "Id": 112144,
+                    "AffinityLV": 42
+                },
+                {
+                    "Id": 112155,
+                    "AffinityLV": 42
+                }
+            ]
+        },
+        {
+            "Id": "100388263",
+            "NickName": "正在载入",
+            "WorldClass": 1,
+            "HeadIcon": 130005,
+            "Score": 802205,
+            "Rank": 55,
+            "TitlePrefix": 9,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 8580,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 132,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 273139
+                },
+                {
+                    "BuildScore": 9225,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 529066
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 117001
+                },
+                {
+                    "Id": 117011
+                },
+                {
+                    "Id": 117031
+                }
+            ]
+        },
+        {
+            "Id": "100888999",
+            "NickName": "白築慕",
+            "WorldClass": 1,
+            "HeadIcon": 130007,
+            "Score": 797656,
+            "Rank": 56,
+            "TitlePrefix": 23,
+            "TitleSuffix": 12,
+            "Teams": [
+                {
+                    "BuildScore": 9810,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 488000
+                },
+                {
+                    "BuildScore": 9480,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 309656
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 117021
+                },
+                {
+                    "Id": 118041
+                },
+                {
+                    "Id": 119011
+                }
+            ]
+        },
+        {
+            "Id": "100555426",
+            "NickName": "轩辕无我",
+            "WorldClass": 1,
+            "HeadIcon": 130007,
+            "Score": 797296,
+            "Rank": 57,
+            "TitlePrefix": 1,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 9585,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 466934
+                },
+                {
+                    "BuildScore": 9615,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 330362
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 117021
+                },
+                {
+                    "Id": 117011
+                },
+                {
+                    "Id": 117001
+                }
+            ]
+        },
+        {
+            "Id": "100358429",
+            "NickName": "万里",
+            "WorldClass": 1,
+            "HeadIcon": 15603,
+            "Score": 793002,
+            "Rank": 58,
+            "TitlePrefix": 3,
+            "TitleSuffix": 4,
+            "Teams": [
+                {
+                    "BuildScore": 9315,
+                    "Chars": [
+                        {
+                            "Id": 143,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 133,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 123,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 354286
+                },
+                {
+                    "BuildScore": 9930,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 438716
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 116008
+                },
+                {
+                    "Id": 112133,
+                    "AffinityLV": 36
+                },
+                {
+                    "Id": 114004
+                }
+            ]
+        },
+        {
+            "Id": "100686470",
+            "NickName": "关注塔菲喵",
+            "WorldClass": 1,
+            "HeadIcon": 11902,
+            "Score": 787536,
+            "Rank": 59,
+            "TitlePrefix": 17,
+            "TitleSuffix": 20,
+            "Teams": [
+                {
+                    "BuildScore": 9105,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 545510
+                },
+                {
+                    "BuildScore": 8445,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 242026
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 112158,
+                    "AffinityLV": 31
+                },
+                {
+                    "Id": 112110,
+                    "AffinityLV": 37
+                }
+            ]
+        },
+        {
+            "Id": "100565968",
+            "NickName": "DiRiGie",
+            "WorldClass": 1,
+            "HeadIcon": 130007,
+            "Score": 786015,
+            "Rank": 60,
+            "TitlePrefix": 3,
+            "TitleSuffix": 4,
+            "Teams": [
+                {
+                    "BuildScore": 9645,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 469477
+                },
+                {
+                    "BuildScore": 9750,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 316538
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112144,
+                    "AffinityLV": 43
+                },
+                {
+                    "Id": 112125,
+                    "AffinityLV": 34
+                },
+                {
+                    "Id": 112130,
+                    "AffinityLV": 26
+                }
+            ]
+        },
+        {
+            "Id": "100603279",
+            "NickName": "隐杏珠",
+            "WorldClass": 1,
+            "HeadIcon": 11502,
+            "Score": 785859,
+            "Rank": 61,
+            "TitlePrefix": 1,
+            "TitleSuffix": 4,
+            "Teams": [
+                {
+                    "BuildScore": 9180,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 454791
+                },
+                {
+                    "BuildScore": 9420,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 132,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 331068
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 112115,
+                    "AffinityLV": 10
+                },
+                {
+                    "Id": 116010
+                }
+            ]
+        },
+        {
+            "Id": "100360057",
+            "NickName": "小柳香穗",
+            "WorldClass": 1,
+            "HeadIcon": 15601,
+            "Score": 785315,
+            "Rank": 62,
+            "TitlePrefix": 13,
+            "TitleSuffix": 16,
+            "Teams": [
+                {
+                    "BuildScore": 9330,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 366856
+                },
+                {
+                    "BuildScore": 8880,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 418459
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 116008
+                },
+                {
+                    "Id": 112130,
+                    "AffinityLV": 39
+                },
+                {
+                    "Id": 112156,
+                    "AffinityLV": 52
+                }
+            ]
+        },
+        {
+            "Id": "101044149",
+            "NickName": "Yoke",
+            "WorldClass": 1,
+            "HeadIcon": 130007,
+            "Score": 785268,
+            "Rank": 63,
+            "TitlePrefix": 21,
+            "TitleSuffix": 20,
+            "Teams": [
+                {
+                    "BuildScore": 9210,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 384355
+                },
+                {
+                    "BuildScore": 10005,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 400913
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112134,
+                    "AffinityLV": 30
+                },
+                {
+                    "Id": 112155,
+                    "AffinityLV": 30
+                },
+                {
+                    "Id": 112144,
+                    "AffinityLV": 29
+                }
+            ]
+        },
+        {
+            "Id": "100783842",
+            "NickName": "摘星人",
+            "WorldClass": 1,
+            "HeadIcon": 13402,
+            "Score": 775813,
+            "Rank": 64,
+            "TitlePrefix": 13,
+            "TitleSuffix": 26,
+            "Teams": [
+                {
+                    "BuildScore": 9255,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 338245
+                },
+                {
+                    "BuildScore": 9270,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 437568
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112115,
+                    "AffinityLV": 15
+                },
+                {
+                    "Id": 116010
+                },
+                {
+                    "Id": 119012
+                }
+            ]
+        },
+        {
+            "Id": "100507711",
+            "NickName": "小瞬",
+            "WorldClass": 1,
+            "HeadIcon": 15603,
+            "Score": 774373,
+            "Rank": 65,
+            "TitlePrefix": 1,
+            "TitleSuffix": 30,
+            "Teams": [
+                {
+                    "BuildScore": 8715,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 341885
+                },
+                {
+                    "BuildScore": 8535,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 432488
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112156,
+                    "AffinityLV": 14
+                },
+                {
+                    "Id": 112147,
+                    "AffinityLV": 44
+                },
+                {
+                    "Id": 112130,
+                    "AffinityLV": 33
+                }
+            ]
+        },
+        {
+            "Id": "101558821",
+            "NickName": "玥",
+            "WorldClass": 1,
+            "HeadIcon": 101,
+            "Score": 773933,
+            "Rank": 66,
+            "TitlePrefix": 19,
+            "TitleSuffix": 16,
+            "Teams": [
+                {
+                    "BuildScore": 9075,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 530474
+                },
+                {
+                    "BuildScore": 9540,
+                    "Chars": [
+                        {
+                            "Id": 135,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 243459
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 114001
+                },
+                {
+                    "Id": 111009
+                },
+                {
+                    "Id": 114003
+                }
+            ]
+        },
+        {
+            "Id": "100387369",
+            "NickName": "wrrop",
+            "WorldClass": 1,
+            "HeadIcon": 15001,
+            "Score": 767818,
+            "Rank": 67,
+            "TitlePrefix": 5,
+            "TitleSuffix": 10,
+            "Teams": [
+                {
+                    "BuildScore": 9195,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 485442
+                },
+                {
+                    "BuildScore": 9210,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 282376
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112150,
+                    "AffinityLV": 37
+                },
+                {
+                    "Id": 112144,
+                    "AffinityLV": 27
+                },
+                {
+                    "Id": 112158,
+                    "AffinityLV": 27
+                }
+            ]
+        },
+        {
+            "Id": "100375361",
+            "NickName": "二萌",
+            "WorldClass": 1,
+            "HeadIcon": 14502,
+            "Score": 764061,
+            "Rank": 68,
+            "TitlePrefix": 15,
+            "TitleSuffix": 30,
+            "Teams": [
+                {
+                    "BuildScore": 9765,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 394154
+                },
+                {
+                    "BuildScore": 9195,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 369907
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 116010
+                },
+                {
+                    "Id": 116003
+                },
+                {
+                    "Id": 116009
+                }
+            ]
+        },
+        {
+            "Id": "101252570",
+            "NickName": "Momoko",
+            "WorldClass": 1,
+            "HeadIcon": 15603,
+            "Score": 759024,
+            "Rank": 69,
+            "TitlePrefix": 9,
+            "TitleSuffix": 8,
+            "Teams": [
+                {
+                    "BuildScore": 9195,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 363079
+                },
+                {
+                    "BuildScore": 9255,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 395945
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112134,
+                    "AffinityLV": 39
+                },
+                {
+                    "Id": 112133,
+                    "AffinityLV": 31
+                },
+                {
+                    "Id": 112155,
+                    "AffinityLV": 30
+                }
+            ]
+        },
+        {
+            "Id": "101052843",
+            "NickName": "Dong",
+            "WorldClass": 1,
+            "HeadIcon": 130007,
+            "Score": 752115,
+            "Rank": 70,
+            "TitlePrefix": 1,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 8955,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 427093
+                },
+                {
+                    "BuildScore": 9180,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 325022
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 112134,
+                    "AffinityLV": 48
+                },
+                {
+                    "Id": 112144,
+                    "AffinityLV": 30
+                }
+            ]
+        },
+        {
+            "Id": "100667668",
+            "NickName": "涂山Nagisa",
+            "WorldClass": 1,
+            "HeadIcon": 14403,
+            "Score": 746493,
+            "Rank": 71,
+            "TitlePrefix": 29,
+            "TitleSuffix": 26,
+            "Teams": [
+                {
+                    "BuildScore": 9255,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 457473
+                },
+                {
+                    "BuildScore": 9060,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 289020
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 112145,
+                    "AffinityLV": 26
+                },
+                {
+                    "Id": 116009
+                }
+            ]
+        },
+        {
+            "Id": "101131637",
+            "NickName": "猫娘不好吸",
+            "WorldClass": 1,
+            "HeadIcon": 14402,
+            "Score": 742983,
+            "Rank": 72,
+            "TitlePrefix": 25,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 9450,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 386278
+                },
+                {
+                    "BuildScore": 9690,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 356705
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112144,
+                    "AffinityLV": 44
+                },
+                {},
+                {}
+            ]
+        },
+        {
+            "Id": "100405702",
+            "NickName": "七夜志贵",
+            "WorldClass": 1,
+            "HeadIcon": 130002,
+            "Score": 742825,
+            "Rank": 73,
+            "TitlePrefix": 29,
+            "TitleSuffix": 30,
+            "Teams": [
+                {
+                    "BuildScore": 9375,
+                    "Chars": [
+                        {
+                            "Id": 143,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 123,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 133,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 344242
+                },
+                {
+                    "BuildScore": 9525,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 398583
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112143,
+                    "AffinityLV": 34
+                },
+                {
+                    "Id": 112134,
+                    "AffinityLV": 40
+                },
+                {
+                    "Id": 112133,
+                    "AffinityLV": 39
+                }
+            ]
+        },
+        {
+            "Id": "100482233",
+            "NickName": "极饿就是主",
+            "WorldClass": 1,
+            "HeadIcon": 13403,
+            "Score": 741753,
+            "Rank": 74,
+            "TitlePrefix": 17,
+            "TitleSuffix": 18,
+            "Teams": [
+                {
+                    "BuildScore": 9105,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 406884
+                },
+                {
+                    "BuildScore": 9165,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 334869
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112134,
+                    "AffinityLV": 39
+                },
+                {
+                    "Id": 112155,
+                    "AffinityLV": 37
+                },
+                {
+                    "Id": 112156,
+                    "AffinityLV": 36
+                }
+            ]
+        },
+        {
+            "Id": "100350114",
+            "NickName": "纱夜",
+            "WorldClass": 1,
+            "HeadIcon": 14403,
+            "Score": 737775,
+            "Rank": 75,
+            "TitlePrefix": 1,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 8805,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 381854
+                },
+                {
+                    "BuildScore": 9405,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 355921
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112144,
+                    "AffinityLV": 55
+                },
+                {
+                    "Id": 112155,
+                    "AffinityLV": 27
+                },
+                {
+                    "Id": 112133,
+                    "AffinityLV": 26
+                }
+            ]
+        },
+        {
+            "Id": "100412499",
+            "NickName": "森猫",
+            "WorldClass": 1,
+            "HeadIcon": 14401,
+            "Score": 736656,
+            "Rank": 76,
+            "TitlePrefix": 13,
+            "TitleSuffix": 16,
+            "Teams": [
+                {
+                    "BuildScore": 9240,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 509272
+                },
+                {
+                    "BuildScore": 9180,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 227384
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112144,
+                    "AffinityLV": 27
+                },
+                {
+                    "Id": 118001
+                },
+                {
+                    "Id": 118011
+                }
+            ]
+        },
+        {
+            "Id": "100440261",
+            "NickName": "木花",
+            "WorldClass": 1,
+            "HeadIcon": 11502,
+            "Score": 730359,
+            "Rank": 77,
+            "TitlePrefix": 1,
+            "TitleSuffix": 30,
+            "Teams": [
+                {
+                    "BuildScore": 9030,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 386780
+                },
+                {
+                    "BuildScore": 8970,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 343579
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112155,
+                    "AffinityLV": 42
+                },
+                {
+                    "Id": 118001
+                },
+                {
+                    "Id": 117001
+                }
+            ]
+        },
+        {
+            "Id": "100878085",
+            "NickName": "摸鱼ing",
+            "WorldClass": 1,
+            "HeadIcon": 101,
+            "Score": 729461,
+            "Rank": 78,
+            "TitlePrefix": 11,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 8445,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 297470
+                },
+                {
+                    "BuildScore": 9030,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 431991
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 116008
+                },
+                {
+                    "Id": 117011
+                },
+                {
+                    "Id": 117021
+                }
+            ]
+        },
+        {
+            "Id": "100727351",
+            "NickName": "燃尽の泽仙",
+            "WorldClass": 1,
+            "HeadIcon": 13402,
+            "Score": 728506,
+            "Rank": 79,
+            "TitlePrefix": 9,
+            "TitleSuffix": 10,
+            "Teams": [
+                {
+                    "BuildScore": 9375,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 490552
+                },
+                {
+                    "BuildScore": 9555,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 237954
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112155,
+                    "AffinityLV": 44
+                },
+                {
+                    "Id": 117021
+                },
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                }
+            ]
+        },
+        {
+            "Id": "100532104",
+            "NickName": "困困熊",
+            "WorldClass": 1,
+            "HeadIcon": 13502,
+            "Score": 727312,
+            "Rank": 80,
+            "TitlePrefix": 3,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 9390,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 414615
+                },
+                {
+                    "BuildScore": 9045,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 312697
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112135,
+                    "AffinityLV": 27
+                },
+                {
+                    "Id": 111008
+                },
+                {
+                    "Id": 119011
+                }
+            ]
+        },
+        {
+            "Id": "100363990",
+            "NickName": "梦醒说",
+            "WorldClass": 1,
+            "HeadIcon": 15602,
+            "Score": 726540,
+            "Rank": 81,
+            "TitlePrefix": 17,
+            "TitleSuffix": 30,
+            "Teams": [
+                {
+                    "BuildScore": 10035,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 452889
+                },
+                {
+                    "BuildScore": 9795,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 273651
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112155,
+                    "AffinityLV": 38
+                },
+                {
+                    "Id": 112144,
+                    "AffinityLV": 28
+                },
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                }
+            ]
+        },
+        {
+            "Id": "100488710",
+            "NickName": "甘织遥奈",
+            "WorldClass": 1,
+            "HeadIcon": 101,
+            "Score": 725810,
+            "Rank": 82,
+            "TitlePrefix": 3,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 9405,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 314055
+                },
+                {
+                    "BuildScore": 9840,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 132,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 411755
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 111001
+                },
+                {
+                    "Id": 117001
+                },
+                {
+                    "Id": 118001
+                }
+            ]
+        },
+        {
+            "Id": "100817286",
+            "NickName": "小青",
+            "WorldClass": 1,
+            "HeadIcon": 14301,
+            "Score": 725723,
+            "Rank": 83,
+            "TitlePrefix": 23,
+            "TitleSuffix": 18,
+            "Teams": [
+                {
+                    "BuildScore": 9495,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 365743
+                },
+                {
+                    "BuildScore": 9390,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 359980
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 116010
+                },
+                {
+                    "Id": 117031
+                },
+                {
+                    "Id": 119012
+                }
+            ]
+        },
+        {
+            "Id": "100363725",
+            "NickName": "Chitose",
+            "WorldClass": 1,
+            "HeadIcon": 130007,
+            "Score": 724756,
+            "Rank": 84,
+            "TitlePrefix": 9,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 9705,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 529059
+                },
+                {
+                    "BuildScore": 8715,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 195697
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112144,
+                    "AffinityLV": 50
+                },
+                {
+                    "Id": 114004
+                },
+                {
+                    "Id": 118001
+                }
+            ]
+        },
+        {
+            "Id": "101565606",
+            "NickName": "鸢璃",
+            "WorldClass": 1,
+            "HeadIcon": 101,
+            "Score": 723896,
+            "Rank": 85,
+            "TitlePrefix": 21,
+            "TitleSuffix": 16,
+            "Teams": [
+                {
+                    "BuildScore": 9105,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 377772
+                },
+                {
+                    "BuildScore": 9135,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 346124
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 116009
+                },
+                {
+                    "Id": 112145,
+                    "AffinityLV": 25
+                },
+                {
+                    "Id": 112135,
+                    "AffinityLV": 16
+                }
+            ]
+        },
+        {
+            "Id": "101246101",
+            "NickName": "冰糖雪梨橙",
+            "WorldClass": 1,
+            "HeadIcon": 15601,
+            "Score": 718787,
+            "Rank": 86,
+            "TitlePrefix": 3,
+            "TitleSuffix": 10,
+            "Teams": [
+                {
+                    "BuildScore": 9120,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 430145
+                },
+                {
+                    "BuildScore": 9285,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 288642
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112156,
+                    "AffinityLV": 36
+                },
+                {
+                    "Id": 112145,
+                    "AffinityLV": 19
+                },
+                {
+                    "Id": 116009
+                }
+            ]
+        },
+        {
+            "Id": "100695394",
+            "NickName": "猞猁小耳朵",
+            "WorldClass": 1,
+            "HeadIcon": 14401,
+            "Score": 717888,
+            "Rank": 87,
+            "TitlePrefix": 17,
+            "TitleSuffix": 30,
+            "Teams": [
+                {
+                    "BuildScore": 9060,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 393440
+                },
+                {
+                    "BuildScore": 9480,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 324448
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 117001
+                },
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 112144,
+                    "AffinityLV": 35
+                }
+            ]
+        },
+        {
+            "Id": "101061033",
+            "NickName": "哈基米米",
+            "WorldClass": 1,
+            "HeadIcon": 130003,
+            "Score": 712363,
+            "Rank": 88,
+            "TitlePrefix": 1,
+            "TitleSuffix": 30,
+            "Teams": [
+                {
+                    "BuildScore": 8775,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 359673
+                },
+                {
+                    "BuildScore": 9450,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 352690
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112134,
+                    "AffinityLV": 42
+                },
+                {
+                    "Id": 116002
+                },
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                }
+            ]
+        },
+        {
+            "Id": "101170672",
+            "NickName": "娘子",
+            "WorldClass": 1,
+            "HeadIcon": 14502,
+            "Score": 711988,
+            "Rank": 89,
+            "TitlePrefix": 5,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 9015,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 410900
+                },
+                {
+                    "BuildScore": 8805,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 301088
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112156,
+                    "AffinityLV": 43
+                },
+                {
+                    "Id": 117021
+                },
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                }
+            ]
+        },
+        {
+            "Id": "100400859",
+            "NickName": "湫",
+            "WorldClass": 1,
+            "HeadIcon": 14501,
+            "Score": 708050,
+            "Rank": 90,
+            "TitlePrefix": 7,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 8760,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 388271
+                },
+                {
+                    "BuildScore": 9585,
+                    "Chars": [
+                        {
+                            "Id": 135,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 319779
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 118001
+                },
+                {
+                    "Id": 117001
+                }
+            ]
+        },
+        {
+            "Id": "100745462",
+            "NickName": "叶仔",
+            "WorldClass": 1,
+            "HeadIcon": 130007,
+            "Score": 706537,
+            "Rank": 91,
+            "TitlePrefix": 21,
+            "TitleSuffix": 24,
+            "Teams": [
+                {
+                    "BuildScore": 9090,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 364232
+                },
+                {
+                    "BuildScore": 9390,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 342305
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 112133,
+                    "AffinityLV": 35
+                },
+                {
+                    "Id": 112144,
+                    "AffinityLV": 27
+                }
+            ]
+        },
+        {
+            "Id": "101042528",
+            "NickName": "綾地寧ね",
+            "WorldClass": 1,
+            "HeadIcon": 12703,
+            "Score": 702378,
+            "Rank": 92,
+            "TitlePrefix": 17,
+            "TitleSuffix": 18,
+            "Teams": [
+                {
+                    "BuildScore": 9720,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 420130
+                },
+                {
+                    "BuildScore": 9255,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 282248
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 118001
+                },
+                {
+                    "Id": 118011
+                },
+                {
+                    "Id": 118021
+                }
+            ]
+        },
+        {
+            "Id": "101454205",
+            "NickName": "硝硝暮雨",
+            "WorldClass": 1,
+            "HeadIcon": 13002,
+            "Score": 701934,
+            "Rank": 93,
+            "TitlePrefix": 3,
+            "TitleSuffix": 26,
+            "Teams": [
+                {
+                    "BuildScore": 8685,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 376070
+                },
+                {
+                    "BuildScore": 9225,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 325864
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112130,
+                    "AffinityLV": 31
+                },
+                {
+                    "Id": 112156,
+                    "AffinityLV": 35
+                },
+                {
+                    "Id": 114004
+                }
+            ]
+        },
+        {
+            "Id": "100536468",
+            "NickName": "Guo",
+            "WorldClass": 1,
+            "HeadIcon": 101,
+            "Score": 700046,
+            "Rank": 94,
+            "TitlePrefix": 1,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 9000,
+                    "Chars": [
+                        {
+                            "Id": 143,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 133,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 123,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 340953
+                },
+                {
+                    "BuildScore": 9150,
+                    "Chars": [
+                        {
+                            "Id": 156,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 159,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 149,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 359093
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 112155,
+                    "AffinityLV": 32
+                },
+                {
+                    "Id": 112144,
+                    "AffinityLV": 28
+                }
+            ]
+        },
+        {
+            "Id": "100349666",
+            "NickName": "克亚路ga",
+            "WorldClass": 1,
+            "HeadIcon": 130003,
+            "Score": 699712,
+            "Rank": 95,
+            "TitlePrefix": 9,
+            "TitleSuffix": 24,
+            "Teams": [
+                {
+                    "BuildScore": 9420,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 443747
+                },
+                {
+                    "BuildScore": 9000,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 255965
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 114002
+                },
+                {
+                    "Id": 112134,
+                    "AffinityLV": 35
+                },
+                {
+                    "Id": 112135,
+                    "AffinityLV": 22
+                }
+            ]
+        },
+        {
+            "Id": "100491421",
+            "NickName": "G",
+            "WorldClass": 1,
+            "HeadIcon": 101,
+            "Score": 699374,
+            "Rank": 96,
+            "TitlePrefix": 1,
+            "TitleSuffix": 2,
+            "Teams": [
+                {
+                    "BuildScore": 9435,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 368994
+                },
+                {
+                    "BuildScore": 9285,
+                    "Chars": [
+                        {
+                            "Id": 155,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 115,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 107,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 330380
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 111001
+                },
+                {
+                    "Id": 116010
+                },
+                {
+                    "Id": 112135,
+                    "AffinityLV": 38
+                }
+            ]
+        },
+        {
+            "Id": "101188385",
+            "NickName": "吴嘿嘿",
+            "WorldClass": 1,
+            "HeadIcon": 10703,
+            "Score": 698251,
+            "Rank": 97,
+            "TitlePrefix": 23,
+            "TitleSuffix": 4,
+            "Teams": [
+                {
+                    "BuildScore": 9240,
+                    "Chars": [
+                        {
+                            "Id": 134,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 158,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 126,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 306643
+                },
+                {
+                    "BuildScore": 9405,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 391608
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112125,
+                    "AffinityLV": 25
+                },
+                {
+                    "Id": 112144,
+                    "AffinityLV": 28
+                },
+                {
+                    "Id": 112134,
+                    "AffinityLV": 37
+                }
+            ]
+        },
+        {
+            "Id": "101055893",
+            "NickName": "银狼LV999",
+            "WorldClass": 1,
+            "HeadIcon": 14501,
+            "Score": 697806,
+            "Rank": 98,
+            "TitlePrefix": 17,
+            "TitleSuffix": 30,
+            "Teams": [
+                {
+                    "BuildScore": 9210,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 411494
+                },
+                {
+                    "BuildScore": 8910,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 286312
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 118051
+                },
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 112134,
+                    "AffinityLV": 33
+                }
+            ]
+        },
+        {
+            "Id": "100525846",
+            "NickName": "空白",
+            "WorldClass": 1,
+            "HeadIcon": 130005,
+            "Score": 697458,
+            "Rank": 99,
+            "TitlePrefix": 13,
+            "TitleSuffix": 18,
+            "Teams": [
+                {
+                    "BuildScore": 9015,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 426992
+                },
+                {
+                    "BuildScore": 9210,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 270466
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 118051
+                },
+                {
+                    "Id": 117031
+                }
+            ]
+        },
+        {
+            "Id": "100918979",
+            "NickName": "月夜",
+            "WorldClass": 1,
+            "HeadIcon": 13002,
+            "Score": 696705,
+            "Rank": 100,
+            "TitlePrefix": 27,
+            "TitleSuffix": 28,
+            "Teams": [
+                {
+                    "BuildScore": 9510,
+                    "Chars": [
+                        {
+                            "Id": 110,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 145,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 142,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 323484
+                },
+                {
+                    "BuildScore": 10200,
+                    "Chars": [
+                        {
+                            "Id": 144,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 127,
+                            "Level": 90
+                        },
+                        {
+                            "Id": 130,
+                            "Level": 90
+                        }
+                    ],
+                    "LevelScore": 373221
+                }
+            ],
+            "Honors": [
+                {
+                    "Id": 112115,
+                    "AffinityLV": 19
+                },
+                {
+                    "Id": 119901,
+                    "AffinityLV": 18
+                },
+                {
+                    "Id": 117001
+                }
+            ]
+        }
+    ],
+    "Total": 28605
+}
