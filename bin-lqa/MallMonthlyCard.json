@@ -1,0 +1,19 @@
+{
+  "monthlyCard.small": {
+    "Id": "monthlyCard.small",
+    "HasId": true,
+    "Name": "盈月星愿",
+    "HasName": true,
+    "StatisticalGroup": "monthlyCard.small",
+    "HasStatisticalGroup": true,
+    "MonthlyCardId": 401,
+    "Price": 3000,
+    "ShowPrice": "<size=70>￥</size><space=-10>30.00",
+    "HasShowPrice": true,
+    "BaseItemId": 4,
+    "BaseItemQty": 600,
+    "MaxDays": 180,
+    "Icon": "1",
+    "HasIcon": true
+  }
+}

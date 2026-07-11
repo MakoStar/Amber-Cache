@@ -1,0 +1,82 @@
+{
+  "8069901": {
+    "Id": 8069901,
+    "ExpGive": 1000000,
+    "HpReduce": 1,
+    "AmountReduce": 1,
+    "Brief": "TowerDefenseMonster.8069901.1",
+    "HasBrief": true
+  },
+  "8069902": {
+    "Id": 8069902,
+    "ExpGive": 2000000,
+    "HpReduce": 1,
+    "AmountReduce": 1,
+    "Brief": "TowerDefenseMonster.8069902.1",
+    "HasBrief": true
+  },
+  "8069903": {
+    "Id": 8069903,
+    "ExpGive": 1200000,
+    "HpReduce": 1,
+    "AmountReduce": 1,
+    "Brief": "TowerDefenseMonster.8069903.1",
+    "HasBrief": true
+  },
+  "8069904": {
+    "Id": 8069904,
+    "ExpGive": 2400000,
+    "HpReduce": 1,
+    "AmountReduce": 1,
+    "Brief": "TowerDefenseMonster.8069904.1",
+    "HasBrief": true
+  },
+  "8079901": {
+    "Id": 8079901,
+    "ExpGive": 5000000,
+    "HpReduce": 1,
+    "AmountReduce": 1,
+    "Brief": "TowerDefenseMonster.8079901.1",
+    "HasBrief": true
+  },
+  "8079902": {
+    "Id": 8079902,
+    "ExpGive": 4000000,
+    "HpReduce": 1,
+    "AmountReduce": 1,
+    "Brief": "【精英】翻滚途中不停加速，一旦受到控制就会恢复原状。",
+    "HasBrief": true
+  },
+  "8089901": {
+    "Id": 8089901,
+    "ExpGive": 20000000,
+    "HpReduce": 2,
+    "AmountReduce": 1,
+    "Brief": "【首领】会给周围所有队友施加加速效果，需要优先消灭。",
+    "HasBrief": true
+  },
+  "8079903": {
+    "Id": 8079903,
+    "ExpGive": 6000000,
+    "HpReduce": 1,
+    "AmountReduce": 1,
+    "Brief": "【精英】双手插入大地时重量增加，猛烈的进攻可以打断。",
+    "HasBrief": true
+  },
+  "8089902": {
+    "Id": 8089902,
+    "ExpGive": 20000000,
+    "HpReduce": 2,
+    "AmountReduce": 1,
+    "Brief": "【首领】泥泞区域为队友附加减速、重量增加与减伤效果。",
+    "HasBrief": true
+  },
+  "8070201": {
+    "Id": 8070201,
+    "ExpGive": 6000000,
+    "HpReduce": 1,
+    "AmountReduce": 1,
+    "Brief": "【精英】双手插入大地时重量增加，猛烈的进攻可以打断。",
+    "HasBrief": true
+  }
+}

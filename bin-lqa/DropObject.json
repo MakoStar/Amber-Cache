@@ -1,0 +1,102 @@
+{
+  "101": {
+    "Id": 101,
+    "DropObjectRes": "Actor/Item/Drop_HealthRecover/Drop_HealthRecover",
+    "HasDropObjectRes": true
+  },
+  "102": {
+    "Id": 102,
+    "DropObjectRes": "Actor/Item/Drop_EnergyRecover/Drop_EnergyRecover",
+    "HasDropObjectRes": true
+  },
+  "103": {
+    "Id": 103,
+    "DropObjectRes": "Actor/Item/Drop_AttackUp/Drop_AttackUp",
+    "HasDropObjectRes": true
+  },
+  "104": {
+    "Id": 104,
+    "DropObjectRes": "Actor/Item/Drop_Vampire/Drop_Vampire_ExpValue",
+    "HasDropObjectRes": true
+  },
+  "105": {
+    "Id": 105,
+    "DropObjectRes": "Actor/Item/Drop_Vampire/Drop_Vampire_Treasure",
+    "HasDropObjectRes": true
+  },
+  "106": {
+    "Id": 106,
+    "DropObjectRes": "Actor/Item/Drop_Vampire/Drop_Vampire_HP",
+    "HasDropObjectRes": true
+  },
+  "107": {
+    "Id": 107,
+    "DropObjectRes": "Actor/Item/Drop_Vampire/Drop_Vampire_MP",
+    "HasDropObjectRes": true
+  },
+  "108": {
+    "Id": 108,
+    "DropObjectRes": "Actor/Item/Drop_Vampire/Drop_Vampire_ATK",
+    "HasDropObjectRes": true
+  },
+  "109": {
+    "Id": 109,
+    "DropObjectRes": "Actor/Item/Drop_Vampire/Drop_Vampire_Clear",
+    "HasDropObjectRes": true
+  },
+  "110": {
+    "Id": 110,
+    "DropObjectRes": "Actor/Item/Drop_Vampire/Drop_Vampire_Get",
+    "HasDropObjectRes": true
+  },
+  "111": {
+    "Id": 111,
+    "DropObjectRes": "Actor/Item/Drop_EnergyRecover/Drop_EnergyRecover_Main_Chap3",
+    "HasDropObjectRes": true
+  },
+  "112": {
+    "Id": 112,
+    "DropObjectRes": "Actor/Item/Drop_EnergyRecover/Drop_EnergyRecover_Trial",
+    "HasDropObjectRes": true
+  },
+  "113": {
+    "Id": 113,
+    "DropObjectRes": "Misc/BreakOut/Drop/Drop_BreakOut_Mp",
+    "HasDropObjectRes": true
+  },
+  "114": {
+    "Id": 114,
+    "DropObjectRes": "Misc/BreakOut/Drop/Drop_BreakOut_Hp",
+    "HasDropObjectRes": true
+  },
+  "115": {
+    "Id": 115,
+    "DropObjectRes": "Misc/BreakOut/Drop/Drop_BreakOut_Fire",
+    "HasDropObjectRes": true
+  },
+  "116": {
+    "Id": 116,
+    "DropObjectRes": "Misc/BreakOut/Drop/Drop_BreakOut_Coin",
+    "HasDropObjectRes": true
+  },
+  "117": {
+    "Id": 117,
+    "DropObjectRes": "Misc/BreakOut/Drop/Drop_BreakOut_Boom",
+    "HasDropObjectRes": true
+  },
+  "118": {
+    "Id": 118,
+    "DropObjectRes": "Misc/BreakOut/Drop/Drop_BreakOut_BoardChange",
+    "HasDropObjectRes": true
+  },
+  "119": {
+    "Id": 119,
+    "DropObjectRes": "Actor/Item/Drop_EnergyRecover/Drop_EnergyRecover_Trial",
+    "HasDropObjectRes": true
+  },
+  "120": {
+    "Id": 120,
+    "DropObjectRes": "Actor/Item/Drop_EnergyRecover/Drop_EnergyRecover_DXHuoDong",
+    "HasDropObjectRes": true
+  }
+}

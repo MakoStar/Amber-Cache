@@ -1,0 +1,57 @@
+{
+  "5": {
+    "Id": 5,
+    "Name": "洞窟",
+    "HasName": true,
+    "Desc": "城外不远处的有名探险地。或许是个游玩的好去处？",
+    "HasDesc": true,
+    "Icon": "Icon/LandMark/LandMark_005",
+    "HasIcon": true,
+    "Bg": "cavern",
+    "HasBg": true
+  },
+  "6": {
+    "Id": 6,
+    "Name": "甜品屋",
+    "HasName": true,
+    "Desc": "以美味闻名的连锁好店，每次光顾都可能有新品推出。",
+    "HasDesc": true,
+    "Icon": "Icon/LandMark/LandMark_006",
+    "HasIcon": true,
+    "Bg": "dessert_house_inside",
+    "HasBg": true
+  },
+  "7": {
+    "Id": 7,
+    "Name": "集市",
+    "HasName": true,
+    "Desc": "充满了生活气息的热闹集市，是捡漏、娱乐的良选。",
+    "HasDesc": true,
+    "Icon": "Icon/LandMark/LandMark_007",
+    "HasIcon": true,
+    "Bg": "ttc_market_daylight",
+    "HasBg": true
+  },
+  "8": {
+    "Id": 8,
+    "Name": "港口",
+    "HasName": true,
+    "Desc": "货物在此流转，但也是散步、吹风的绝佳地方。",
+    "HasDesc": true,
+    "Icon": "Icon/LandMark/LandMark_008",
+    "HasIcon": true,
+    "Bg": "ttc_harbour_daylight",
+    "HasBg": true
+  },
+  "14": {
+    "Id": 14,
+    "Name": "学院",
+    "HasName": true,
+    "Desc": "习得知识与技能的好地方。一起去回忆下学生时代吧。",
+    "HasDesc": true,
+    "Icon": "Icon/LandMark/LandMark_014",
+    "HasIcon": true,
+    "Bg": "wog_academy_classroom",
+    "HasBg": true
+  }
+}

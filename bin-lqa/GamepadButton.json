@@ -1,0 +1,218 @@
+{
+  "buttonSouth": {
+    "Id": "buttonSouth",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/XboxOne_A",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/PS4_Cross",
+    "HasPlayStationIcon": true
+  },
+  "buttonNorth": {
+    "Id": "buttonNorth",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/XboxOne_Y",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/PS4_Triangle",
+    "HasPlayStationIcon": true
+  },
+  "buttonEast": {
+    "Id": "buttonEast",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/XboxOne_B",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/PS4_Circle",
+    "HasPlayStationIcon": true
+  },
+  "buttonWest": {
+    "Id": "buttonWest",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/XboxOne_X",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/PS4_Square",
+    "HasPlayStationIcon": true
+  },
+  "start": {
+    "Id": "start",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/XboxOne_Menu",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/PS4_Options",
+    "HasPlayStationIcon": true
+  },
+  "select": {
+    "Id": "select",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/XboxOne_Windows",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/PS4_Share",
+    "HasPlayStationIcon": true
+  },
+  "leftTrigger": {
+    "Id": "leftTrigger",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/XboxOne_LT",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/PS4_L2",
+    "HasPlayStationIcon": true
+  },
+  "rightTrigger": {
+    "Id": "rightTrigger",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/XboxOne_RT",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/PS4_R2",
+    "HasPlayStationIcon": true
+  },
+  "leftShoulder": {
+    "Id": "leftShoulder",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/XboxOne_LB",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/PS4_L1",
+    "HasPlayStationIcon": true
+  },
+  "rightShoulder": {
+    "Id": "rightShoulder",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/XboxOne_RB",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/PS4_R1",
+    "HasPlayStationIcon": true
+  },
+  "dpad": {
+    "Id": "dpad",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/XboxOne_Dpad",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/PS4_Dpad",
+    "HasPlayStationIcon": true
+  },
+  "up": {
+    "Id": "up",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/XboxOne_Dpad_Up",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/PS4_Dpad_Up",
+    "HasPlayStationIcon": true
+  },
+  "down": {
+    "Id": "down",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/XboxOne_Dpad_Down",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/PS4_Dpad_Down",
+    "HasPlayStationIcon": true
+  },
+  "left": {
+    "Id": "left",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/XboxOne_Dpad_Left",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/PS4_Dpad_Left",
+    "HasPlayStationIcon": true
+  },
+  "right": {
+    "Id": "right",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/XboxOne_Dpad_Right",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/PS4_Dpad_Right",
+    "HasPlayStationIcon": true
+  },
+  "leftStick": {
+    "Id": "leftStick",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/XboxOne_Left_Stick",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/PS4_Left_Stick",
+    "HasPlayStationIcon": true
+  },
+  "rightStick": {
+    "Id": "rightStick",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/XboxOne_Right_Stick",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/PS4_Right_Stick",
+    "HasPlayStationIcon": true
+  },
+  "leftStickPress": {
+    "Id": "leftStickPress",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/XboxOne_Left_Stick",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/PS4_Left_Stick",
+    "HasPlayStationIcon": true
+  },
+  "rightStickPress": {
+    "Id": "rightStickPress",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/XboxOne_Right_Stick_Press",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/PS4_Right_Stick_Press",
+    "HasPlayStationIcon": true
+  },
+  "leftButton": {
+    "Id": "leftButton",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/Mouse_1",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/Mouse_1",
+    "HasPlayStationIcon": true
+  },
+  "rightButton": {
+    "Id": "rightButton",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/Mouse_2",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/Mouse_2",
+    "HasPlayStationIcon": true
+  },
+  "middleButton": {
+    "Id": "middleButton",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/Mouse_3",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/Mouse_3",
+    "HasPlayStationIcon": true
+  },
+  "backButton": {
+    "Id": "backButton",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/Mouse_5",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/Mouse_5",
+    "HasPlayStationIcon": true
+  },
+  "forwardButton": {
+    "Id": "forwardButton",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/Mouse_4",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/Mouse_4",
+    "HasPlayStationIcon": true
+  },
+  "space": {
+    "Id": "space",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/Space",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/Space",
+    "HasPlayStationIcon": true
+  },
+  "backspace": {
+    "Id": "backspace",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/BackSpace",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/BackSpace",
+    "HasPlayStationIcon": true
+  },
+  "enter": {
+    "Id": "enter",
+    "HasId": true,
+    "XboxIcon": "Icon/Gamepad/Enter",
+    "HasXboxIcon": true,
+    "PlayStationIcon": "Icon/Gamepad/Enter",
+    "HasPlayStationIcon": true
+  }
+}

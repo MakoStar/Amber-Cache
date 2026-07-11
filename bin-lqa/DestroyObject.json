@@ -1,0 +1,22 @@
+{
+  "5080000": {
+    "Id": 5080000,
+    "Name": "Rogue标准低阻挡",
+    "HasName": true,
+    "Lv": 1,
+    "AttributeId": "",
+    "HasAttributeId": false,
+    "Templete": 9200000,
+    "Faction": 5
+  },
+  "5080100": {
+    "Id": 5080100,
+    "Name": "Rogue标准中阻挡",
+    "HasName": true,
+    "Lv": 1,
+    "AttributeId": "",
+    "HasAttributeId": false,
+    "Templete": 9200010,
+    "Faction": 5
+  }
+}

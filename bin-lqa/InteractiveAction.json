@@ -1,0 +1,98 @@
+{
+  "0": {
+    "Id": 0,
+    "PlayerAni": false,
+    "Icon0": "Icon/ZZZOther/interact_btn_hand",
+    "HasIcon0": true,
+    "Title0": "打开",
+    "HasTitle0": true,
+    "Icon1": "Icon/ZZZOther/interact_btn_hand",
+    "HasIcon1": true,
+    "Title1": "关闭",
+    "HasTitle1": true
+  },
+  "10000": {
+    "Id": 10000,
+    "PlayerAni": true,
+    "Icon0": "Icon/ZZZOther/interact_btn_hand",
+    "HasIcon0": true,
+    "Title0": "打开",
+    "HasTitle0": true,
+    "Icon1": "Icon/ZZZOther/interact_btn_hand",
+    "HasIcon1": true,
+    "Title1": "打开",
+    "HasTitle1": true
+  },
+  "10001": {
+    "Id": 10001,
+    "PlayerAni": false,
+    "Icon0": "Icon/ZZZOther/interact_btn_hand",
+    "HasIcon0": true,
+    "Title0": "打开",
+    "HasTitle0": true,
+    "Icon1": "Icon/ZZZOther/interact_btn_hand",
+    "HasIcon1": true,
+    "Title1": "打开",
+    "HasTitle1": true
+  },
+  "10002": {
+    "Id": 10002,
+    "PlayerAni": false,
+    "Icon0": "Icon/ZZZOther/interact_btn_investigate",
+    "HasIcon0": true,
+    "Title0": "调查",
+    "HasTitle0": true,
+    "Icon1": "Icon/ZZZOther/interact_btn_investigate",
+    "HasIcon1": true,
+    "Title1": "调查",
+    "HasTitle1": true
+  },
+  "10003": {
+    "Id": 10003,
+    "PlayerAni": false,
+    "Icon0": "Icon/ZZZOther/interact_btn_talk",
+    "HasIcon0": true,
+    "Title0": "对话",
+    "HasTitle0": true,
+    "Icon1": "Icon/ZZZOther/interact_btn_talk",
+    "HasIcon1": true,
+    "Title1": "对话",
+    "HasTitle1": true
+  },
+  "10004": {
+    "Id": 10004,
+    "PlayerAni": false,
+    "Icon0": "Icon/ZZZOther/interact_btn_investigate",
+    "HasIcon0": true,
+    "Title0": "离开",
+    "HasTitle0": true,
+    "Icon1": "Icon/ZZZOther/interact_btn_investigate",
+    "HasIcon1": true,
+    "Title1": "离开",
+    "HasTitle1": true
+  },
+  "10005": {
+    "Id": 10005,
+    "PlayerAni": false,
+    "Icon0": "Icon/ZZZOther/interact_btn_hand",
+    "HasIcon0": true,
+    "Title0": "强化",
+    "HasTitle0": true,
+    "Icon1": "Icon/ZZZOther/interact_btn_hand",
+    "HasIcon1": true,
+    "Title1": "强化",
+    "HasTitle1": true
+  },
+  "1200301": {
+    "Id": 1200301,
+    "PlayerAni": false,
+    "Icon0": "Icon/ZZZOther/interact_btn_investigate",
+    "HasIcon0": true,
+    "Title0": "乘坐",
+    "HasTitle0": true,
+    "Icon1": "Icon/ZZZOther/interact_btn_investigate",
+    "HasIcon1": true,
+    "Title1": "乘坐",
+    "HasTitle1": true
+  }
+}

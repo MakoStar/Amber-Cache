@@ -1,0 +1,24 @@
+{
+  "500001": {
+    "Id": 500001,
+    "OptionList": [
+      101,
+      102,
+      103
+    ],
+    "RewardGroup": 1,
+    "ScoreItemId": 73201,
+    "ScoreItemLimit": 2400
+  },
+  "500002": {
+    "Id": 500002,
+    "OptionList": [
+      201,
+      202,
+      203
+    ],
+    "RewardGroup": 2,
+    "ScoreItemId": 73201,
+    "ScoreItemLimit": 2400
+  }
+}

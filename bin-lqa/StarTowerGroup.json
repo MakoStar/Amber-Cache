@@ -1,0 +1,59 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "流水与暗影",
+    "HasName": true,
+    "EET": [
+      5,
+      3
+    ],
+    "Episode": "Icon/MapEpisode/db_rogue_1",
+    "HasEpisode": true,
+    "CoverImage": "Icon/MapChallenge/rogue_cover_01",
+    "HasCoverImage": true,
+    "Sort": 1,
+    "GroupTheme": 1
+  },
+  "2": {
+    "Id": 2,
+    "Name": "烈焰与尘埃",
+    "HasName": true,
+    "EET": [
+      1,
+      4
+    ],
+    "Episode": "Icon/MapEpisode/db_rogue_2",
+    "HasEpisode": true,
+    "CoverImage": "Icon/MapChallenge/rogue_cover_02",
+    "HasCoverImage": true,
+    "Sort": 2,
+    "GroupTheme": 2
+  },
+  "3": {
+    "Id": 3,
+    "Name": "风暴与闪电",
+    "HasName": true,
+    "EET": [
+      2,
+      6
+    ],
+    "Episode": "Icon/MapEpisode/db_rogue_3",
+    "HasEpisode": true,
+    "CoverImage": "Icon/MapChallenge/rogue_cover_03",
+    "HasCoverImage": true,
+    "Sort": 3,
+    "GroupTheme": 3
+  },
+  "4": {
+    "Id": 4,
+    "Name": "原初的迷途",
+    "HasName": true,
+    "EET": [],
+    "Episode": "Icon/MapEpisode/db_rogue_4",
+    "HasEpisode": true,
+    "CoverImage": "Icon/MapChallenge/rogue_cover_04",
+    "HasCoverImage": true,
+    "Sort": 4,
+    "GroupTheme": 4
+  }
+}

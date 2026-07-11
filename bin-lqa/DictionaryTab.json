@@ -1,0 +1,32 @@
+{
+  "1": {
+    "Id": 1,
+    "Icon": "Icon/Dict/icon_dict_tab_01",
+    "HasIcon": true,
+    "Icon2": "Icon/Dict/icon_dict_tab_01_select",
+    "HasIcon2": true,
+    "Title": "旅人相关",
+    "HasTitle": true,
+    "HideInBattle": true
+  },
+  "2": {
+    "Id": 2,
+    "Icon": "Icon/Dict/icon_dict_tab_02",
+    "HasIcon": true,
+    "Icon2": "Icon/Dict/icon_dict_tab_02_select",
+    "HasIcon2": true,
+    "Title": "系统玩法",
+    "HasTitle": true,
+    "HideInBattle": true
+  },
+  "3": {
+    "Id": 3,
+    "Icon": "Icon/Dict/icon_dict_tab_03",
+    "HasIcon": true,
+    "Icon2": "Icon/Dict/icon_dict_tab_03_select",
+    "HasIcon2": true,
+    "Title": "战斗相关",
+    "HasTitle": true,
+    "HideInBattle": false
+  }
+}

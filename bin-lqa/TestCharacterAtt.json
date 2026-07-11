@@ -1,0 +1,44 @@
+{
+  "Level": {
+    "Id": "Level",
+    "HasId": true,
+    "Value": "90",
+    "HasValue": true
+  },
+  "AdvanceLevel": {
+    "Id": "AdvanceLevel",
+    "HasId": true,
+    "Value": "8",
+    "HasValue": true
+  },
+  "TalentLevel": {
+    "Id": "TalentLevel",
+    "HasId": true,
+    "Value": "5",
+    "HasValue": true
+  },
+  "SkillLevel": {
+    "Id": "SkillLevel",
+    "HasId": true,
+    "Value": "13",
+    "HasValue": true
+  },
+  "PotentialLevel": {
+    "Id": "PotentialLevel",
+    "HasId": true,
+    "Value": "9",
+    "HasValue": true
+  },
+  "MainPlayerHP": {
+    "Id": "MainPlayerHP",
+    "HasId": true,
+    "Value": "30",
+    "HasValue": true
+  },
+  "MonsterHP": {
+    "Id": "MonsterHP",
+    "HasId": true,
+    "Value": "30",
+    "HasValue": true
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "8010301": {
+    "Id": 8010301,
+    "ComboGroupPath": "Character/10301/TowerDefense/Combo/ComboGroup",
+    "HasComboGroupPath": true,
+    "SpawnShowSkillId": 0,
+    "DieSkillId": 0,
+    "ActionAIPath": "AIScript.Monster.TowerDefense.TowerCharacterBaseAI",
+    "HasActionAIPath": true,
+    "ParallelAIPath": "AIScript.Monster.TowerDefense._10301.Parallel",
+    "HasParallelAIPath": true
+  },
+  "8011101": {
+    "Id": 8011101,
+    "ComboGroupPath": "Character/11101/TowerDefense/Combo/ComboGroup",
+    "HasComboGroupPath": true,
+    "SpawnShowSkillId": 0,
+    "DieSkillId": 0,
+    "ActionAIPath": "AIScript.Monster.TowerDefense.TowerCharacterBaseAI",
+    "HasActionAIPath": true,
+    "ParallelAIPath": "AIScript.Monster.TowerDefense._11101.Parallel",
+    "HasParallelAIPath": true
+  },
+  "8011201": {
+    "Id": 8011201,
+    "ComboGroupPath": "Character/11201/TowerDefense/Combo/ComboGroup",
+    "HasComboGroupPath": true,
+    "SpawnShowSkillId": 0,
+    "DieSkillId": 0,
+    "ActionAIPath": "AIScript.Monster.TowerDefense.TowerCharacterBaseAI",
+    "HasActionAIPath": true,
+    "ParallelAIPath": "AIScript.Monster.TowerDefense._11201.Parallel",
+    "HasParallelAIPath": true
+  },
+  "8012701": {
+    "Id": 8012701,
+    "ComboGroupPath": "Character/12701/TowerDefense/Combo/ComboGroup",
+    "HasComboGroupPath": true,
+    "SpawnShowSkillId": 0,
+    "DieSkillId": 0,
+    "ActionAIPath": "AIScript.Monster.TowerDefense._12701.Action",
+    "HasActionAIPath": true,
+    "ParallelAIPath": "AIScript.Monster.TowerDefense._12701.Parallel",
+    "HasParallelAIPath": true
+  },
+  "8013401": {
+    "Id": 8013401,
+    "ComboGroupPath": "Character/13401/TowerDefense/Combo/ComboGroup",
+    "HasComboGroupPath": true,
+    "SpawnShowSkillId": 0,
+    "DieSkillId": 0,
+    "ActionAIPath": "AIScript.Monster.TowerDefense.TowerCharacterBaseAI",
+    "HasActionAIPath": true,
+    "ParallelAIPath": "AIScript.Monster.TowerDefense._13401.Parallel",
+    "HasParallelAIPath": true
+  },
+  "8015601": {
+    "Id": 8015601,
+    "ComboGroupPath": "Character/15601/TowerDefense/Combo/ComboGroup",
+    "HasComboGroupPath": true,
+    "SpawnShowSkillId": 0,
+    "DieSkillId": 0,
+    "ActionAIPath": "AIScript.Monster.TowerDefense.TowerCharacterBaseAI",
+    "HasActionAIPath": true,
+    "ParallelAIPath": "AIScript.Monster.TowerDefense._15601.Parallel",
+    "HasParallelAIPath": true
+  },
+  "8013301": {
+    "Id": 8013301,
+    "ComboGroupPath": "Character/13301/TowerDefense/Combo/ComboGroup",
+    "HasComboGroupPath": true,
+    "SpawnShowSkillId": 0,
+    "DieSkillId": 0,
+    "ActionAIPath": "AIScript.Monster.TowerDefense.TowerCharacterBaseAI",
+    "HasActionAIPath": true,
+    "ParallelAIPath": "AIScript.Monster.TowerDefense._13301.Parallel",
+    "HasParallelAIPath": true
+  },
+  "8011801": {
+    "Id": 8011801,
+    "ComboGroupPath": "Character/11801/TowerDefense/Combo/ComboGroup",
+    "HasComboGroupPath": true,
+    "SpawnShowSkillId": 0,
+    "DieSkillId": 0,
+    "ActionAIPath": "AIScript.Monster.TowerDefense._11801.Action",
+    "HasActionAIPath": true,
+    "ParallelAIPath": "AIScript.Monster.TowerDefense._11801.Parallel",
+    "HasParallelAIPath": true
+  },
+  "8011001": {
+    "Id": 8011001,
+    "ComboGroupPath": "Character/11001/TowerDefense/Combo/ComboGroup",
+    "HasComboGroupPath": true,
+    "SpawnShowSkillId": 0,
+    "DieSkillId": 0,
+    "ActionAIPath": "AIScript.Monster.TowerDefense.TowerCharacterBaseAI",
+    "HasActionAIPath": true,
+    "ParallelAIPath": "AIScript.Monster.TowerDefense._11001.Parallel",
+    "HasParallelAIPath": true
+  },
+  "8012301": {
+    "Id": 8012301,
+    "ComboGroupPath": "Character/12301/TowerDefense/Combo/ComboGroup",
+    "HasComboGroupPath": true,
+    "SpawnShowSkillId": 0,
+    "DieSkillId": 0,
+    "ActionAIPath": "AIScript.Monster.TowerDefense._12301.Action",
+    "HasActionAIPath": true,
+    "ParallelAIPath": "AIScript.Monster.TowerDefense._12301.Parallel",
+    "HasParallelAIPath": true
+  }
+}

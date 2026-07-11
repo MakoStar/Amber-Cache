@@ -1,0 +1,62 @@
+{
+  "913301": {
+    "Id": 913301,
+    "Name": "第一话",
+    "HasName": true,
+    "Desc": "孤独的店员",
+    "HasDesc": true,
+    "PlotSum": "NPCAffinityPlot.913301.3",
+    "HasPlotSum": true,
+    "AvgId": "CG_npc133_01",
+    "HasAvgId": true,
+    "NPCId": 9133,
+    "AffinityLevel": 5,
+    "ItemId": 2,
+    "ItemQty": 30
+  },
+  "917201": {
+    "Id": 917201,
+    "Name": "第一话",
+    "HasName": true,
+    "Desc": "纯白天使",
+    "HasDesc": true,
+    "PlotSum": "NPCAffinityPlot.917201.3",
+    "HasPlotSum": true,
+    "AvgId": "CG_npc172_01",
+    "HasAvgId": true,
+    "NPCId": 9172,
+    "AffinityLevel": 5,
+    "ItemId": 2,
+    "ItemQty": 30
+  },
+  "917301": {
+    "Id": 917301,
+    "Name": "第一话",
+    "HasName": true,
+    "Desc": "恶魔的诱惑",
+    "HasDesc": true,
+    "PlotSum": "NPCAffinityPlot.917301.3",
+    "HasPlotSum": true,
+    "AvgId": "CG_npc173_01",
+    "HasAvgId": true,
+    "NPCId": 9173,
+    "AffinityLevel": 5,
+    "ItemId": 2,
+    "ItemQty": 30
+  },
+  "917401": {
+    "Id": 917401,
+    "Name": "第一话",
+    "HasName": true,
+    "Desc": "恶魔的挑战",
+    "HasDesc": true,
+    "PlotSum": "NPCAffinityPlot.917401.3",
+    "HasPlotSum": true,
+    "AvgId": "CG_npc174_01",
+    "HasAvgId": true,
+    "NPCId": 9174,
+    "AffinityLevel": 5,
+    "ItemId": 2,
+    "ItemQty": 30
+  }
+}

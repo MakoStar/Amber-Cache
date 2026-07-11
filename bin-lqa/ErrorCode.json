@@ -1,0 +1,1426 @@
+{
+  "100101": {
+    "Id": 100101,
+    "Title": "ErrInvalidToken",
+    "HasTitle": true,
+    "Template": "消息令牌无效",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "100102": {
+    "Id": 100102,
+    "Title": "ErrInvalidTimestamp",
+    "HasTitle": true,
+    "Template": "消息时间无效",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "100103": {
+    "Id": 100103,
+    "Title": "ErrInvalidMsgId",
+    "HasTitle": true,
+    "Template": "消息命令号无效",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "100104": {
+    "Id": 100104,
+    "Title": "ErrInvalidMsgBody",
+    "HasTitle": true,
+    "Template": "消息请求体无效",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "100105": {
+    "Id": 100105,
+    "Title": "ErrAgentBusy",
+    "HasTitle": true,
+    "Template": "服务器繁忙，请稍后重试",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "100106": {
+    "Id": 100106,
+    "Title": "ErrServiceUnavailable",
+    "HasTitle": true,
+    "Template": "服务器无法响应，请稍后重试",
+    "HasTemplate": true,
+    "ShowType": 3
+  },
+  "100107": {
+    "Id": 100107,
+    "Title": "ErrRequestTimeout",
+    "HasTitle": true,
+    "Template": "请求超时，请稍后重试",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "100108": {
+    "Id": 100108,
+    "Title": "ErrLoginFailed",
+    "HasTitle": true,
+    "Template": "登录失败：%s",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "100109": {
+    "Id": 100109,
+    "Title": "ErrInvalidVersion",
+    "HasTitle": true,
+    "Template": "版本号错误，请获取新版本后重试",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "100110": {
+    "Id": 100110,
+    "Title": "ErrLogin",
+    "HasTitle": true,
+    "Template": "登录失败，请稍后重试",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "100111": {
+    "Id": 100111,
+    "Title": "ErrResVersion",
+    "HasTitle": true,
+    "Template": "登录失败，请更新后重试",
+    "HasTemplate": true,
+    "ShowType": 3
+  },
+  "100112": {
+    "Id": 100112,
+    "Title": "ErrClientVersion",
+    "HasTitle": true,
+    "Template": "登录失败，请更新客户端后重试",
+    "HasTemplate": true,
+    "ShowType": 3
+  },
+  "110101": {
+    "Id": 110101,
+    "Title": "ErrMask",
+    "HasTitle": true,
+    "Template": "遭遇异常，请联系客服",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110102": {
+    "Id": 110102,
+    "Title": "ErrServerBusy",
+    "HasTitle": true,
+    "Template": "服务器繁忙，请稍后再试",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110103": {
+    "Id": 110103,
+    "Title": "ErrData",
+    "HasTitle": true,
+    "Template": "数据错误，%s",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110104": {
+    "Id": 110104,
+    "Title": "ErrArgs",
+    "HasTitle": true,
+    "Template": "参数错误",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110105": {
+    "Id": 110105,
+    "Title": "ErrInternal",
+    "HasTitle": true,
+    "Template": "服务器错误，%s",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110106": {
+    "Id": 110106,
+    "Title": "ErrTokenExpire",
+    "HasTitle": true,
+    "Template": "您需要重新登录",
+    "HasTemplate": true,
+    "ShowType": 3
+  },
+  "110107": {
+    "Id": 110107,
+    "Title": "ErrRelogin",
+    "HasTitle": true,
+    "Template": "您的账号已在别处登录",
+    "HasTemplate": true,
+    "ShowType": 3
+  },
+  "110108": {
+    "Id": 110108,
+    "Title": "ErrInvalidReq",
+    "HasTitle": true,
+    "Template": "非法请求",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110109": {
+    "Id": 110109,
+    "Title": "ErrApiDisabled",
+    "HasTitle": true,
+    "Template": "此功能维护中，请稍后重试",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110110": {
+    "Id": 110110,
+    "Title": "ErrResUpdated",
+    "HasTitle": true,
+    "Template": "版本已更新，请获取新版本后重试",
+    "HasTemplate": true,
+    "ShowType": 3
+  },
+  "110111": {
+    "Id": 110111,
+    "Title": "ErrOperateTooFast",
+    "HasTitle": true,
+    "Template": "当前操作过快，请稍等片刻",
+    "HasTemplate": true,
+    "ShowType": 2
+  },
+  "110201": {
+    "Id": 110201,
+    "Title": "ErrNickLenViolation",
+    "HasTitle": true,
+    "Template": "名称长度违规",
+    "HasTemplate": true,
+    "ShowType": 2
+  },
+  "110202": {
+    "Id": 110202,
+    "Title": "ErrNickIllegal",
+    "HasTitle": true,
+    "Template": "名称含有非法字符",
+    "HasTemplate": true,
+    "ShowType": 2
+  },
+  "110203": {
+    "Id": 110203,
+    "Title": "ErrNickForbidden",
+    "HasTitle": true,
+    "Template": "名称含有非法字符",
+    "HasTemplate": true,
+    "ShowType": 2
+  },
+  "110205": {
+    "Id": 110205,
+    "Title": "ErrBan",
+    "HasTitle": true,
+    "Template": "您的账号被限制登录，解封日期：%s",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110206": {
+    "Id": 110206,
+    "Title": "ErrSignatureForbidden",
+    "HasTitle": true,
+    "Template": "签名含有非法字符",
+    "HasTemplate": true,
+    "ShowType": 2
+  },
+  "110207": {
+    "Id": 110207,
+    "Title": "ErrSignatureLenViolation",
+    "HasTitle": true,
+    "Template": "签名长度违规",
+    "HasTemplate": true,
+    "ShowType": 2
+  },
+  "110208": {
+    "Id": 110208,
+    "Title": "ErrSignatureIllegal",
+    "HasTitle": true,
+    "Template": "签名含有非法字符",
+    "HasTemplate": true,
+    "ShowType": 2
+  },
+  "110209": {
+    "Id": 110209,
+    "Title": "ErrTitleNotFound",
+    "HasTitle": true,
+    "Template": "头衔未解锁",
+    "HasTemplate": true,
+    "ShowType": 2
+  },
+  "110210": {
+    "Id": 110210,
+    "Title": "ErrSurveyNotFound",
+    "HasTitle": true,
+    "Template": "问卷不存在",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110211": {
+    "Id": 110211,
+    "Title": "ErrSurveyNotOpenYet",
+    "HasTitle": true,
+    "Template": "问卷尚未开放",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110212": {
+    "Id": 110212,
+    "Title": "ErrSurveyHasCompleted",
+    "HasTitle": true,
+    "Template": "已完成过此问卷",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110401": {
+    "Id": 110401,
+    "Title": "ErrMailMiss",
+    "HasTitle": true,
+    "Template": "邮件不存在",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110402": {
+    "Id": 110402,
+    "Title": "ErrMailRevoked",
+    "HasTitle": true,
+    "Template": "邮件数据变更，请稍后重试",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110403": {
+    "Id": 110403,
+    "Title": "ErrMailUpdate",
+    "HasTitle": true,
+    "Template": "邮件数据更新，请稍后重试",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110404": {
+    "Id": 110404,
+    "Title": "ErrMailPinned",
+    "HasTitle": true,
+    "Template": "星标邮件无法删除",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110501": {
+    "Id": 110501,
+    "Title": "ErrQuestNotComplete",
+    "HasTitle": true,
+    "Template": "任务尚未完成",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110502": {
+    "Id": 110502,
+    "Title": "ErrQuestClosed",
+    "HasTitle": true,
+    "Template": "任务奖励已领取",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110601": {
+    "Id": 110601,
+    "Title": "ErrProductNotReady",
+    "HasTitle": true,
+    "Template": "商品尚未开始出售",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110602": {
+    "Id": 110602,
+    "Title": "ErrProductRestockLimit",
+    "HasTitle": true,
+    "Template": "商品库存不足",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110603": {
+    "Id": 110603,
+    "Title": "ErrGoodsNotFound",
+    "HasTitle": true,
+    "Template": "商品不存在",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110604": {
+    "Id": 110604,
+    "Title": "ErrGoodsLockPurchase",
+    "HasTitle": true,
+    "Template": "商品未到购买时间",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110605": {
+    "Id": 110605,
+    "Title": "ErrGoodsDelisted",
+    "HasTitle": true,
+    "Template": "商品已下架",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110606": {
+    "Id": 110606,
+    "Title": "ErrShopNotFound",
+    "HasTitle": true,
+    "Template": "商店未开启",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110607": {
+    "Id": 110607,
+    "Title": "ErrShopAlreadyClosed",
+    "HasTitle": true,
+    "Template": "商店已关闭",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110701": {
+    "Id": 110701,
+    "Title": "ErrRecvReward",
+    "HasTitle": true,
+    "Template": "领取奖励失败",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110702": {
+    "Id": 110702,
+    "Title": "ErrMainlineCondPremission",
+    "HasTitle": true,
+    "Template": "前置关卡尚未满足条件",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110801": {
+    "Id": 110801,
+    "Title": "ErrEnergyHoldLimit",
+    "HasTitle": true,
+    "Template": "干劲已达上限，无法再购买",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110802": {
+    "Id": 110802,
+    "Title": "ErrEnergyBuyLimit",
+    "HasTitle": true,
+    "Template": "今日购买已达上限",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110803": {
+    "Id": 110803,
+    "Title": "ErrEnergyLack",
+    "HasTitle": true,
+    "Template": "干劲不足",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110804": {
+    "Id": 110804,
+    "Title": "ErrEnergyRestore",
+    "HasTitle": true,
+    "Template": "干劲已达上限，道具恢复失败",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110901": {
+    "Id": 110901,
+    "Title": "ErrGachaSpinLimit",
+    "HasTitle": true,
+    "Template": "今日招募已达上限",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111001": {
+    "Id": 111001,
+    "Title": "ErrItemUseRefused",
+    "HasTitle": true,
+    "Template": "当前道具无法使用",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111101": {
+    "Id": 111101,
+    "Title": "ErrRglInProgress",
+    "HasTitle": true,
+    "Template": "星塔正在进行中",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111102": {
+    "Id": 111102,
+    "Title": "ErrRglCond",
+    "HasTitle": true,
+    "Template": "尚未满足进入星塔条件",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111103": {
+    "Id": 111103,
+    "Title": "ErrRglBuildNotFound",
+    "HasTitle": true,
+    "Template": "纪录不存在",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111104": {
+    "Id": 111104,
+    "Title": "ErrRglBuildLock",
+    "HasTitle": true,
+    "Template": "纪录被锁定",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111105": {
+    "Id": 111105,
+    "Title": "ErrFormationIdNeed",
+    "HasTitle": true,
+    "Template": "需要编队ID信息",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111106": {
+    "Id": 111106,
+    "Title": "ErrFormationFullNeed",
+    "HasTitle": true,
+    "Template": "需要满编队才能进入",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111107": {
+    "Id": 111107,
+    "Title": "ErrBuildNameMinLenLimit",
+    "HasTitle": true,
+    "Template": "纪录名称长度不能少于%s",
+    "HasTemplate": true,
+    "ShowType": 2
+  },
+  "111108": {
+    "Id": 111108,
+    "Title": "ErrBuildNameMaxLenLimit",
+    "HasTitle": true,
+    "Template": "纪录名称长度不能大于%s",
+    "HasTemplate": true,
+    "ShowType": 2
+  },
+  "111109": {
+    "Id": 111109,
+    "Title": "ErrBuildNameViolation",
+    "HasTitle": true,
+    "Template": "纪录名称不合规",
+    "HasTemplate": true,
+    "ShowType": 2
+  },
+  "111201": {
+    "Id": 111201,
+    "Title": "ErrOutfitStrengthenMax",
+    "HasTitle": true,
+    "Template": "秘纹已强化至最大等级",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111202": {
+    "Id": 111202,
+    "Title": "ErrOutfitNoData",
+    "HasTitle": true,
+    "Template": "秘纹不存在",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111203": {
+    "Id": 111203,
+    "Title": "ErrOutfitBeEquipped",
+    "HasTitle": true,
+    "Template": "秘纹被装备着",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111204": {
+    "Id": 111204,
+    "Title": "ErrOutfitBeLocked",
+    "HasTitle": true,
+    "Template": "秘纹被锁定着",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111205": {
+    "Id": 111205,
+    "Title": "ErrOutfitPhaseMax",
+    "HasTitle": true,
+    "Template": "秘纹已达到最大品阶",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111206": {
+    "Id": 111206,
+    "Title": "ErrOutfitStarMax",
+    "HasTitle": true,
+    "Template": "秘纹已达到最大星数",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111207": {
+    "Id": 111207,
+    "Title": "ErrOutfitLevelNotReached",
+    "HasTitle": true,
+    "Template": "秘纹未达到所需等级",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111301": {
+    "Id": 111301,
+    "Title": "ErrGiftPackageInvalid",
+    "HasTitle": true,
+    "Template": "礼包无效",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111302": {
+    "Id": 111302,
+    "Title": "ErrGiftPackageExpired",
+    "HasTitle": true,
+    "Template": "礼包已经过期",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111303": {
+    "Id": 111303,
+    "Title": "ErrGiftPackError",
+    "HasTitle": true,
+    "Template": "礼包错误",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111304": {
+    "Id": 111304,
+    "Title": "ErrRedeemCodeReachedLimit",
+    "HasTitle": true,
+    "Template": "兑换码已达上限",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111305": {
+    "Id": 111305,
+    "Title": "ErrUserExchangeCountReachedLimit",
+    "HasTitle": true,
+    "Template": "用户兑换次数已达上限",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111306": {
+    "Id": 111306,
+    "Title": "ErrGiftPackageAlreadyExists",
+    "HasTitle": true,
+    "Template": "礼包已经存在",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111307": {
+    "Id": 111307,
+    "Title": "ErrGiftPackageInfoInvalid",
+    "HasTitle": true,
+    "Template": "礼包信息无效",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111308": {
+    "Id": 111308,
+    "Title": "ErrRedeemCodeItemListEmpty",
+    "HasTitle": true,
+    "Template": "道具列表为空",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111309": {
+    "Id": 111309,
+    "Title": "ErrRedeemCodeCodeItemInvalid",
+    "HasTitle": true,
+    "Template": "兑换码道具错误",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111310": {
+    "Id": 111310,
+    "Title": "ErrGiftPackageStartTimeError",
+    "HasTitle": true,
+    "Template": "礼包开始时间错误",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111311": {
+    "Id": 111311,
+    "Title": "ErrGiftPackageEndTimeError",
+    "HasTitle": true,
+    "Template": "礼包结束时间错误",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111312": {
+    "Id": 111312,
+    "Title": "ErrGiftPackageRedeemCodeQuantityExceedsLimit",
+    "HasTitle": true,
+    "Template": "礼包兑换码数量超过上限",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111313": {
+    "Id": 111313,
+    "Title": "ErrFixedRedeemCodeAlreadyExists",
+    "HasTitle": true,
+    "Template": "固定兑换码已经存在",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111314": {
+    "Id": 111314,
+    "Title": "ErrFixedRedeemCodeCannotBeEmpty",
+    "HasTitle": true,
+    "Template": "固定兑换码不能为空",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111315": {
+    "Id": 111315,
+    "Title": "ErrRedeemCodeQuantityCannotBeZero",
+    "HasTitle": true,
+    "Template": "兑换码数量不能为0",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111316": {
+    "Id": 111316,
+    "Title": "ErrFixedRedeemCodeUserUsageQuantityRequired",
+    "HasTitle": true,
+    "Template": "固定兑换码用户使用数量必须为1",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111317": {
+    "Id": 111317,
+    "Title": "ErrRedeemCodeInvalid",
+    "HasTitle": true,
+    "Template": "无效兑换码",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111318": {
+    "Id": 111318,
+    "Title": "ErrRedeemCodeFailed",
+    "HasTitle": true,
+    "Template": "兑换码兑换失败",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111319": {
+    "Id": 111319,
+    "Title": "ErrRedeemCodeAlreadyUsed",
+    "HasTitle": true,
+    "Template": "兑换码已经使用",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111320": {
+    "Id": 111320,
+    "Title": "ErrRedeemFailed",
+    "HasTitle": true,
+    "Template": "兑换错误",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111401": {
+    "Id": 111401,
+    "Title": "ErrInviteNotFound",
+    "HasTitle": true,
+    "Template": "申请不存在",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111402": {
+    "Id": 111402,
+    "Title": "ErrUserInviteCountLimit",
+    "HasTitle": true,
+    "Template": "对方申请列表已满",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111403": {
+    "Id": 111403,
+    "Title": "ErrUserFriendCountLimit",
+    "HasTitle": true,
+    "Template": "对方好友列表已满",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111404": {
+    "Id": 111404,
+    "Title": "ErrAlreadyExistFriend",
+    "HasTitle": true,
+    "Template": "好友已存在",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "110681": {
+    "Id": 110681,
+    "Title": "ErrFriendEnergyReceiveMax",
+    "HasTitle": true,
+    "Template": "领取好友赠送干劲到达上限",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111501": {
+    "Id": 111501,
+    "Title": "ErrMallPackageNotListed",
+    "HasTitle": true,
+    "Template": "产品尚未上架",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111502": {
+    "Id": 111502,
+    "Title": "ErrMallPackageDelisted",
+    "HasTitle": true,
+    "Template": "产品已下架",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111503": {
+    "Id": 111503,
+    "Title": "ErrMallPackageStockLimit",
+    "HasTitle": true,
+    "Template": "产品库存不足",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111504": {
+    "Id": 111504,
+    "Title": "ErrMallPackageOrderLimit",
+    "HasTitle": true,
+    "Template": "产品尚未满足购买条件",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111505": {
+    "Id": 111505,
+    "Title": "ErrOrderCantRemove",
+    "HasTitle": true,
+    "Template": "取消订单失败",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111601": {
+    "Id": 111601,
+    "Title": "ErrHeartStoneMax",
+    "HasTitle": true,
+    "Template": "心相石达到最大等级",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111602": {
+    "Id": 111602,
+    "Title": "ErrWeaponMaxAdvance",
+    "HasTitle": true,
+    "Template": "武器达到最大升级阶段",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111603": {
+    "Id": 111603,
+    "Title": "ErrWeaponCondNoMet",
+    "HasTitle": true,
+    "Template": "武器进阶条件不满足",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111604": {
+    "Id": 111604,
+    "Title": "ErrCharMaxLevel",
+    "HasTitle": true,
+    "Template": "角色达到最大等级",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111605": {
+    "Id": 111605,
+    "Title": "ErrCharCondMaxAdvance",
+    "HasTitle": true,
+    "Template": "角色升阶条件不满足",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111606": {
+    "Id": 111606,
+    "Title": "ErrCharMaxAdvance",
+    "HasTitle": true,
+    "Template": "角色达到最大升级阶段",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111607": {
+    "Id": 111607,
+    "Title": "ErrCharSkillMaxLevel",
+    "HasTitle": true,
+    "Template": "角色能力达到最大等级",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111608": {
+    "Id": 111608,
+    "Title": "ErrCharSkillCondNotMet",
+    "HasTitle": true,
+    "Template": "角色能力升级条件不满足",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111609": {
+    "Id": 111609,
+    "Title": "ErrPresentsNoData",
+    "HasTitle": true,
+    "Template": "纹章不存在",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111610": {
+    "Id": 111610,
+    "Title": "ErrPresentsUpgradeMax",
+    "HasTitle": true,
+    "Template": "纹章已升至最大等级",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111611": {
+    "Id": 111611,
+    "Title": "ErrPresentsBeEquipped",
+    "HasTitle": true,
+    "Template": "纹章被装备着",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111612": {
+    "Id": 111612,
+    "Title": "ErrPresentsBeLocked",
+    "HasTitle": true,
+    "Template": "纹章被锁定着",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111613": {
+    "Id": 111613,
+    "Title": "ErrNotAllowedRecruit",
+    "HasTitle": true,
+    "Template": "不允许招募",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111614": {
+    "Id": 111614,
+    "Title": "ErrAffinityMaxLevel",
+    "HasTitle": true,
+    "Template": "默契度已到最大等级",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111615": {
+    "Id": 111615,
+    "Title": "ErrAffinityGiftSendCountLimit",
+    "HasTitle": true,
+    "Template": "礼物赠送次数达到上限",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111616": {
+    "Id": 111616,
+    "Title": "ErrDatingCountLimit",
+    "HasTitle": true,
+    "Template": "邀约次数达到上限",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111617": {
+    "Id": 111617,
+    "Title": "ErrDatingSendCountLimit",
+    "HasTitle": true,
+    "Template": "邀约赠礼数量超过上限",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111618": {
+    "Id": 111618,
+    "Title": "ErrCharWorldClassCondNotMet",
+    "HasTitle": true,
+    "Template": "权限等级不足",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111619": {
+    "Id": 111619,
+    "Title": "ErrDatingCharLimit",
+    "HasTitle": true,
+    "Template": "邀约角色次数达到上限",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111620": {
+    "Id": 111620,
+    "Title": "ErrCharArchiveRewardReceived",
+    "HasTitle": true,
+    "Template": "角色档案奖励已领取",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111621": {
+    "Id": 111621,
+    "Title": "ErrReceiveEnergyFriendNotData",
+    "HasTitle": true,
+    "Template": "好友状态已更新，领取失败",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111701": {
+    "Id": 111701,
+    "Title": "ErrBattlePassVersionMismatch",
+    "HasTitle": true,
+    "Template": "创业基金已更新",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111801": {
+    "Id": 111801,
+    "Title": "ErrTravelerDuelSeasonEnd",
+    "HasTitle": true,
+    "Template": "当前赛季结束",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "111901": {
+    "Id": 111901,
+    "Title": "ErrProductionFormulaUnactivated",
+    "HasTitle": true,
+    "Template": "配方未开启",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112001": {
+    "Id": 112001,
+    "Title": "ErrTalentAlreayActiveated",
+    "HasTitle": true,
+    "Template": "天赋已经激活",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112002": {
+    "Id": 112002,
+    "Title": "ErrTalentGroupNotYetOpen",
+    "HasTitle": true,
+    "Template": "天赋组尚未开放",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112003": {
+    "Id": 112003,
+    "Title": "ErrTalentKeyNodesInsufficientQuantity",
+    "HasTitle": true,
+    "Template": "天赋关键节点数量不足",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112004": {
+    "Id": 112004,
+    "Title": "ErrTalentOrdinaryNodesInsufficientQuantity",
+    "HasTitle": true,
+    "Template": "天赋普通节点数量不足",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112005": {
+    "Id": 112005,
+    "Title": "ErrTalentListEmpty",
+    "HasTitle": true,
+    "Template": "天赋列表为空",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112006": {
+    "Id": 112006,
+    "Title": "ErrTalentResetFrequently",
+    "HasTitle": true,
+    "Template": "天赋重置太频繁，请稍后再试",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112007": {
+    "Id": 112007,
+    "Title": "ErrTalentActivationLimit",
+    "HasTitle": true,
+    "Template": "天赋已达激活节点上限",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112008": {
+    "Id": 112008,
+    "Title": "ErrTalentNotYetActivated",
+    "HasTitle": true,
+    "Template": "天赋尚未激活",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112101": {
+    "Id": 112101,
+    "Title": "ErrEquipmentNoData",
+    "HasTitle": true,
+    "Template": "装备不存在",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112102": {
+    "Id": 112102,
+    "Title": "ErrEquipmentUpgradeMax",
+    "HasTitle": true,
+    "Template": "装备已升至最大等级",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112103": {
+    "Id": 112103,
+    "Title": "ErrEquipmentBeEquipped",
+    "HasTitle": true,
+    "Template": "装备被装备着",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112104": {
+    "Id": 112104,
+    "Title": "ErrEquipmentBeLocked",
+    "HasTitle": true,
+    "Template": "装备被锁定着",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112201": {
+    "Id": 112201,
+    "Title": "ErrDiscNoData",
+    "HasTitle": true,
+    "Template": "秘纹不存在",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112202": {
+    "Id": 112202,
+    "Title": "ErrDiscLevelNotReached",
+    "HasTitle": true,
+    "Template": "秘纹未达到所需等级",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112203": {
+    "Id": 112203,
+    "Title": "ErrDiscStrengthenMax",
+    "HasTitle": true,
+    "Template": "秘纹已强化至最大等级",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112204": {
+    "Id": 112204,
+    "Title": "ErrDiscPhaseMax",
+    "HasTitle": true,
+    "Template": "秘纹已达到最大品阶",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112205": {
+    "Id": 112205,
+    "Title": "ErrDiscStarMax",
+    "HasTitle": true,
+    "Template": "秘纹已达到最大星数",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112301": {
+    "Id": 112301,
+    "Title": "ErrStarTowerRankSeasonNoData",
+    "HasTitle": true,
+    "Template": "赛季不存在",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112302": {
+    "Id": 112302,
+    "Title": "ErrStarTowerRankSeasonNotYetOpen",
+    "HasTitle": true,
+    "Template": "赛季尚未开始",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112303": {
+    "Id": 112303,
+    "Title": "ErrStarTowerRankSeasonEnd",
+    "HasTitle": true,
+    "Template": "赛季已经结束",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112401": {
+    "Id": 112401,
+    "Title": "ErrAgentNoData",
+    "HasTitle": true,
+    "Template": "委托不存在",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112402": {
+    "Id": 112402,
+    "Title": "ErrAgentInProcess",
+    "HasTitle": true,
+    "Template": "委托正在进行中",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112403": {
+    "Id": 112403,
+    "Title": "ErrAgentCond",
+    "HasTitle": true,
+    "Template": "委托条件不满足",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112404": {
+    "Id": 112404,
+    "Title": "ErrAgentCharOccupied",
+    "HasTitle": true,
+    "Template": "委托角色禁用",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112405": {
+    "Id": 112405,
+    "Title": "ErrAgentBuildOccupied",
+    "HasTitle": true,
+    "Template": "委托构筑禁用",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112406": {
+    "Id": 112406,
+    "Title": "ErrAgentBuildScoreLow",
+    "HasTitle": true,
+    "Template": "委托评分不满足",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112407": {
+    "Id": 112407,
+    "Title": "ErrAgentCountLimit",
+    "HasTitle": true,
+    "Template": "委托数量达到上限",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112408": {
+    "Id": 112408,
+    "Title": "ErrAgentDailyLimit",
+    "HasTitle": true,
+    "Template": "委托派遣每日数量达到上限",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112409": {
+    "Id": 112409,
+    "Title": "ErrAgentWeeklyLimit",
+    "HasTitle": true,
+    "Template": "委托派遣每周数量达到上限",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112410": {
+    "Id": 112410,
+    "Title": "ErrAgentNotCompleted",
+    "HasTitle": true,
+    "Template": "委托未完成",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112501": {
+    "Id": 112501,
+    "Title": "ErrVampireSurvivorBuildNum",
+    "HasTitle": true,
+    "Template": "灾变防线：纪录数量错误",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112502": {
+    "Id": 112502,
+    "Title": "ErrVampireSurvivorBuildCharRepetition",
+    "HasTitle": true,
+    "Template": "灾变防线：纪录角色重复",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112601": {
+    "Id": 112601,
+    "Title": "ErrTowerGrowthGroupActivated",
+    "HasTitle": true,
+    "Template": "星塔研究:节点组已经激活",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112701": {
+    "Id": 112701,
+    "Title": "ErrJointDrillNotExist",
+    "HasTitle": true,
+    "Template": "挑战不存在",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112702": {
+    "Id": 112702,
+    "Title": "ErrJointDrillInProgress",
+    "HasTitle": true,
+    "Template": "挑战正在进行中",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112703": {
+    "Id": 112703,
+    "Title": "ErrJointDrillNotYetOpen",
+    "HasTitle": true,
+    "Template": "终焉绝响暂未开始",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112704": {
+    "Id": 112704,
+    "Title": "ErrJointDrillAlreadyClosed",
+    "HasTitle": true,
+    "Template": "挑战已结束",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "112801": {
+    "Id": 112801,
+    "Title": "ErrScoreBossNotOpen",
+    "HasTitle": true,
+    "Template": "联合讨伐当前未开启",
+    "HasTemplate": true,
+    "ShowType": 2
+  },
+  "112901": {
+    "Id": 112901,
+    "Title": "ErrNickNameResetLimit",
+    "HasTitle": true,
+    "Template": "昵称冷却中，请稍后再试。",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "119901": {
+    "Id": 119901,
+    "Title": "ErrCapOverflow",
+    "HasTitle": true,
+    "Template": "仓库容量不足",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "119902": {
+    "Id": 119902,
+    "Title": "ErrConfig",
+    "HasTitle": true,
+    "Template": "配置错误：%s",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "119903": {
+    "Id": 119903,
+    "Title": "ErrCondCheck",
+    "HasTitle": true,
+    "Template": "资源不足",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "119904": {
+    "Id": 119904,
+    "Title": "ErrNotYetOpen",
+    "HasTitle": true,
+    "Template": "尚未开放",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "119905": {
+    "Id": 119905,
+    "Title": "ErrAlreadyClosed",
+    "HasTitle": true,
+    "Template": "内容已关闭，请退出并刷新相关页面",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "119906": {
+    "Id": 119906,
+    "Title": "ErrCondNotMet",
+    "HasTitle": true,
+    "Template": "条件不满足",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "119907": {
+    "Id": 119907,
+    "Title": "ErrInsufficientWorldClass",
+    "HasTitle": true,
+    "Template": "权限等级不足",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "119908": {
+    "Id": 119908,
+    "Title": "ErrNoRewardsToReceive",
+    "HasTitle": true,
+    "Template": "无奖励可领",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "119909": {
+    "Id": 119909,
+    "Title": "ErrAlreayExists",
+    "HasTitle": true,
+    "Template": "已经存在",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "119910": {
+    "Id": 119910,
+    "Title": "ErrExchangeNotSupported",
+    "HasTitle": true,
+    "Template": "不支持兑换",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "119911": {
+    "Id": 119911,
+    "Title": "ErrRequestTooFrequent",
+    "HasTitle": true,
+    "Template": "请求太频繁，请稍后再试",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "119912": {
+    "Id": 119912,
+    "Title": "ErrAlreaydReceive",
+    "HasTitle": true,
+    "Template": "已经领取",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "119913": {
+    "Id": 119913,
+    "Title": "ErrLimit",
+    "HasTitle": true,
+    "Template": "已达上限",
+    "HasTemplate": true,
+    "ShowType": 1
+  },
+  "119914": {
+    "Id": 119914,
+    "Title": "ErrDataUpdated",
+    "HasTitle": true,
+    "Template": "数据已更新，请稍后重试",
+    "HasTemplate": true,
+    "ShowType": 3
+  }
+}

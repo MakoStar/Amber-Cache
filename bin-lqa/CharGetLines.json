@@ -1,0 +1,1372 @@
+{
+  "10301": {
+    "Id": 10301,
+    "Character": 103,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_103_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "我，琥珀。\n……鸢尾替我写了一份自我介绍，我稍后发邮件给你。",
+    "HasLines": true
+  },
+  "10302": {
+    "Id": 10302,
+    "Character": 103,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_103_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "我们已经这么熟了，所以……不用再自我介绍了吧？",
+    "HasLines": true
+  },
+  "10303": {
+    "Id": 10303,
+    "Character": 103,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_103_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "魔王，我有成长吗？",
+    "HasLines": true
+  },
+  "10304": {
+    "Id": 10304,
+    "Character": 103,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_103_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "来抱抱……啊，我说的是这只猫。",
+    "HasLines": true
+  },
+  "10305": {
+    "Id": 10305,
+    "Character": 103,
+    "Type": 5,
+    "SkinId": 10303,
+    "VoResource": "",
+    "HasVoResource": false,
+    "Lines": "锦绣织就流火，金饰点缀祥云。不怒自威、顾盼神飞。\n嘎呜——",
+    "HasLines": true
+  },
+  "10701": {
+    "Id": 10701,
+    "Character": 107,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_107_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "报告！我是代表正义的骑士侍从缇莉娅。来成为我的伙伴一起伸张正义吧！",
+    "HasLines": true
+  },
+  "10702": {
+    "Id": 10702,
+    "Character": 107,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_107_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "又见面啦，正义的伙伴！",
+    "HasLines": true
+  },
+  "10703": {
+    "Id": 10703,
+    "Character": 107,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_107_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "咦……骏鹰号的声音怎么有点不对劲……哇哇哇——！",
+    "HasLines": true
+  },
+  "10704": {
+    "Id": 10704,
+    "Character": 107,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_107_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "谢谢你，来见证我踏上英雄之路。",
+    "HasLines": true
+  },
+  "10705": {
+    "Id": 10705,
+    "Character": 107,
+    "Type": 5,
+    "SkinId": 10703,
+    "VoResource": "",
+    "HasVoResource": false,
+    "Lines": "系紧腰带，利落变身，斗志如烈阳般炽热！\u000b披上正义的战衣，以骑士之姿守护每一条街道——\u000b此即吾之正义！",
+    "HasLines": true
+  },
+  "10801": {
+    "Id": 10801,
+    "Character": 108,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_108_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "白猫剧团第三小队队长，卡西米拉。这是我们的合作协议，请在上面签名吧。",
+    "HasLines": true
+  },
+  "10802": {
+    "Id": 10802,
+    "Character": 108,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_108_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "你是个不错的雇主。能继续与你合作……我很高兴。",
+    "HasLines": true
+  },
+  "10803": {
+    "Id": 10803,
+    "Character": 108,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_108_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "这是补充协议，请。",
+    "HasLines": true
+  },
+  "10804": {
+    "Id": 10804,
+    "Character": 108,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_108_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "我终于意识到，原来你才是我最灵验的幸运护符。",
+    "HasLines": true
+  },
+  "11001": {
+    "Id": 11001,
+    "Character": 110,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_110_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "翡冷翠，你的盟友。我会向你展现我的价值，也请你不要令我失望。",
+    "HasLines": true
+  },
+  "11002": {
+    "Id": 11002,
+    "Character": 110,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_110_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "聪明人之间，就不必重复客套话了——说出你特地找我的理由吧，我都会奉陪。",
+    "HasLines": true
+  },
+  "11003": {
+    "Id": 11003,
+    "Character": 110,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_110_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "……是时候签个新契约了，让我们的合作……更进一步吧……！",
+    "HasLines": true
+  },
+  "11004": {
+    "Id": 11004,
+    "Character": 110,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_110_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "既然选择了与我一起……就意味着，你已经逃不出我的掌心了喔……",
+    "HasLines": true
+  },
+  "11101": {
+    "Id": 11101,
+    "Character": 111,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_111_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "我叫鸢尾，那个……有什么做的不好的地方，请多多指教。",
+    "HasLines": true
+  },
+  "11102": {
+    "Id": 11102,
+    "Character": 111,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_111_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "我回来了，==PLAYER_NAME==。这是打工的收入，请帮我存起来，作为旅团的风险准备金吧。",
+    "HasLines": true
+  },
+  "11103": {
+    "Id": 11103,
+    "Character": 111,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_111_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "我的手提包可是很沉的，别小看知识的重量！",
+    "HasLines": true
+  },
+  "11104": {
+    "Id": 11104,
+    "Character": 111,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_111_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "谢谢你给我买的曲奇，很好吃……真是的，要是之后再也吃不到这么好吃的曲奇，我一定会难过的。你要负起责任来啊，约好了。",
+    "HasLines": true
+  },
+  "11105": {
+    "Id": 11105,
+    "Character": 111,
+    "Type": 5,
+    "SkinId": 11103,
+    "VoResource": "",
+    "HasVoResource": false,
+    "Lines": "冬日清冷阳光下的你，捧着热饮呼出白气的你，自诩平凡普通的你，却构成了这个日子全部的意义。",
+    "HasLines": true
+  },
+  "11201": {
+    "Id": 11201,
+    "Character": 112,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_112_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "我们走吧，魔王大人，有很多很多星塔在等着我们！",
+    "HasLines": true
+  },
+  "11202": {
+    "Id": 11202,
+    "Character": 112,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_112_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "对旅人来说，相逢即是有缘，再遇便是命运……不像我说的话吗？",
+    "HasLines": true
+  },
+  "11203": {
+    "Id": 11203,
+    "Character": 112,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_112_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "接下来的旅程，大家还要继续在一起！",
+    "HasLines": true
+  },
+  "11204": {
+    "Id": 11204,
+    "Character": 112,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_112_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "等小绿修好之后，我可以带魔王大人去个很适合观赏星塔的地方哦。\n就我们两个人。",
+    "HasLines": true
+  },
+  "11205": {
+    "Id": 11205,
+    "Character": 112,
+    "Type": 5,
+    "SkinId": 11203,
+    "VoResource": "",
+    "HasVoResource": false,
+    "Lines": "来到大海，来到沙滩，当然得换上泳衣。\u000b怀抱热情的太阳，享受海浪的轻拍——与夏天的亲密接触，得务必注意防晒！",
+    "HasLines": true
+  },
+  "11301": {
+    "Id": 11301,
+    "Character": 113,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_113_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "我是白泽公署的师渺，今后由我来接手与贵旅团的相关合作事宜，还望合作愉快。",
+    "HasLines": true
+  },
+  "11302": {
+    "Id": 11302,
+    "Character": 113,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_113_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "又见面了魔王。有个紧急委托需要你的帮助，具体内容我会在路上告知。",
+    "HasLines": true
+  },
+  "11303": {
+    "Id": 11303,
+    "Character": 113,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_113_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "水，以不变呈万态。",
+    "HasLines": true
+  },
+  "11304": {
+    "Id": 11304,
+    "Character": 113,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_113_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "又、又是火锅吗？！没有不满，我只是想纠正一下大家对龙裔喜欢吃火锅的刻板印象。",
+    "HasLines": true
+  },
+  "11401": {
+    "Id": 11401,
+    "Character": 114,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_114_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "???",
+    "HasLines": true
+  },
+  "11402": {
+    "Id": 11402,
+    "Character": 114,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_114_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "???",
+    "HasLines": true
+  },
+  "11403": {
+    "Id": 11403,
+    "Character": 114,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_114_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "???",
+    "HasLines": true
+  },
+  "11404": {
+    "Id": 11404,
+    "Character": 114,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_114_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "???",
+    "HasLines": true
+  },
+  "11501": {
+    "Id": 11501,
+    "Character": 115,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_115_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "???",
+    "HasLines": true
+  },
+  "11502": {
+    "Id": 11502,
+    "Character": 115,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_115_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "???",
+    "HasLines": true
+  },
+  "11503": {
+    "Id": 11503,
+    "Character": 115,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_115_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "???",
+    "HasLines": true
+  },
+  "11504": {
+    "Id": 11504,
+    "Character": 115,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_115_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "???",
+    "HasLines": true
+  },
+  "11601": {
+    "Id": 11601,
+    "Character": 116,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_116_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "我是联合种业的温室管理员岭川，初次见面，请、请多指教……",
+    "HasLines": true
+  },
+  "11602": {
+    "Id": 11602,
+    "Character": 116,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_116_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "这次……我给你带了一点礼物！是我种的蔬菜，刚从地里摘的，很新鲜很好吃哦。",
+    "HasLines": true
+  },
+  "11603": {
+    "Id": 11603,
+    "Character": 116,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_116_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "总有一天，我会拥有属于自己的超大田地，想种什么种什么。",
+    "HasLines": true
+  },
+  "11604": {
+    "Id": 11604,
+    "Character": 116,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_116_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "呜呜……怎么会变成这样……魔王，快帮帮我……我一个人没办法……！",
+    "HasLines": true
+  },
+  "11701": {
+    "Id": 11701,
+    "Character": 117,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_117_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "魔王好！我是怀璟食府的璟麟，今后请多多照顾我们家的生意呀！",
+    "HasLines": true
+  },
+  "11702": {
+    "Id": 11702,
+    "Character": 117,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_117_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "我让后厨给魔王开个小灶吧。嘿嘿，不麻烦不麻烦，你可是我们家的熟客呀！",
+    "HasLines": true
+  },
+  "11703": {
+    "Id": 11703,
+    "Character": 117,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_117_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "璟麟，威风凛凛！\n——拍好了吗？脚、脚有点酸了……",
+    "HasLines": true
+  },
+  "11704": {
+    "Id": 11704,
+    "Character": 117,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_117_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "科学麻雀牌才是唯一出路！魔王，你也认同这一点吧？唔唔，不愧是我的牌搭子！",
+    "HasLines": true
+  },
+  "11801": {
+    "Id": 11801,
+    "Character": 118,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_118_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "你就是魔王大人吗？久仰大名，请务必让我替你做个“全身检查”。",
+    "HasLines": true
+  },
+  "11802": {
+    "Id": 11802,
+    "Character": 118,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_118_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "看来我们还挺有缘的，要不来我诊所坐坐？",
+    "HasLines": true
+  },
+  "11803": {
+    "Id": 11803,
+    "Character": 118,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_118_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "镰刀在低吟，它也很喜欢这份力量。",
+    "HasLines": true
+  },
+  "11804": {
+    "Id": 11804,
+    "Character": 118,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_118_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "摸一摸它，我烦躁的内心就能平静下来……",
+    "HasLines": true
+  },
+  "11901": {
+    "Id": 11901,
+    "Character": 119,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_119_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "谷风家政，满足您日常生活的一切需求。初次见面，我是女仆花原，请多关照。",
+    "HasLines": true
+  },
+  "11902": {
+    "Id": 11902,
+    "Character": 119,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_119_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "很高兴又和您见面，这次需要哪些服务？",
+    "HasLines": true
+  },
+  "11903": {
+    "Id": 11903,
+    "Character": 119,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_119_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "如真似幻，如影随形。",
+    "HasLines": true
+  },
+  "11904": {
+    "Id": 11904,
+    "Character": 119,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_119_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "这份特别的礼物……我会好好珍藏。",
+    "HasLines": true
+  },
+  "11905": {
+    "Id": 11905,
+    "Character": 119,
+    "Type": 5,
+    "SkinId": 11903,
+    "VoResource": "",
+    "HasVoResource": false,
+    "Lines": "风摇云影间，曦光舞沙尘。与君共度时，唯有花窥见。",
+    "HasLines": true
+  },
+  "12001": {
+    "Id": 12001,
+    "Character": 120,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_120_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "初次见面，我是星辉附属大学的老师，叫我卡娜丝就好，你就是传说中的魔王啊……呵呵，很期待与你接下来的合作。",
+    "HasLines": true
+  },
+  "12002": {
+    "Id": 12002,
+    "Character": 120,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_120_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "又见面了！如何，旅途中有没有新的发现？",
+    "HasLines": true
+  },
+  "12003": {
+    "Id": 12003,
+    "Character": 120,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_120_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "看来我得拿出真正的实力来回应你了。",
+    "HasLines": true
+  },
+  "12004": {
+    "Id": 12004,
+    "Character": 120,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_120_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "和你在一起能学到不少东西，当了老师之后，这样的感觉还是头一次。",
+    "HasLines": true
+  },
+  "12301": {
+    "Id": 12301,
+    "Character": 123,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_123_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "魔魔王~杏子终于见到你啦，诶嘿，能带杏子一起去冒险吗~",
+    "HasLines": true
+  },
+  "12302": {
+    "Id": 12302,
+    "Character": 123,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_123_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "哇~魔魔王又找到杏子啦~那下次轮到杏子来找你啦~",
+    "HasLines": true
+  },
+  "12303": {
+    "Id": 12303,
+    "Character": 123,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_123_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "杏子和可可泡泡都变得更厉害啦~魔魔王快跟上，我们要去打坏人啦！",
+    "HasLines": true
+  },
+  "12304": {
+    "Id": 12304,
+    "Character": 123,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_123_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "呼……杏子，要和大家一起，永远都不要分开……",
+    "HasLines": true
+  },
+  "12501": {
+    "Id": 12501,
+    "Character": 125,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_125_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "很荣幸与您同行，请多指教。",
+    "HasLines": true
+  },
+  "12502": {
+    "Id": 12502,
+    "Character": 125,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_125_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "人们都说“重逢令人欣喜”……魔王，您是怎么看的呢？",
+    "HasLines": true
+  },
+  "12503": {
+    "Id": 12503,
+    "Character": 125,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_125_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "我将铲除妨碍您的一切。",
+    "HasLines": true
+  },
+  "12504": {
+    "Id": 12504,
+    "Character": 125,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_125_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "我好像……开始喜欢下雨天了。",
+    "HasLines": true
+  },
+  "12505": {
+    "Id": 12505,
+    "Character": 125,
+    "Type": 5,
+    "SkinId": 12503,
+    "VoResource": "",
+    "HasVoResource": false,
+    "Lines": "她所期盼的雪愿节，是一炉温暖的火焰，一杯香甜的果酿，亲密好友的笑语，以及一份来自你的、独一无二的礼物。",
+    "HasLines": true
+  },
+  "12601": {
+    "Id": 12601,
+    "Character": 126,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_126_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "初次见面，我是魔术师紫槿，也许你曾听过有关我的各种传闻……呵呵，很在意？但对于魔术来说，是真是假，又有什么关系呢？",
+    "HasLines": true
+  },
+  "12602": {
+    "Id": 12602,
+    "Character": 126,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_126_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "同样的手法我不会演示两遍，这一次，请仔细看清楚了~",
+    "HasLines": true
+  },
+  "12603": {
+    "Id": 12603,
+    "Character": 126,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_126_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "盛大的演出就要开始了，将这份奇迹牢记于心吧！",
+    "HasLines": true
+  },
+  "12604": {
+    "Id": 12604,
+    "Character": 126,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_126_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "看入迷了？好啦，快点来帮忙吧，演出就要开始了。",
+    "HasLines": true
+  },
+  "12701": {
+    "Id": 12701,
+    "Character": 127,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_127_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "喔~又发现一条新航道！\n哼哼~我是万送屋的特丽莎，想寄信时，您和我说一声就行。",
+    "HasLines": true
+  },
+  "12702": {
+    "Id": 12702,
+    "Character": 127,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_127_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "又见面了，魔王，万送屋的服务您还满意吗？",
+    "HasLines": true
+  },
+  "12703": {
+    "Id": 12703,
+    "Character": 127,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_127_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "现在的我，说不定连传说中的龙也能打倒呢！",
+    "HasLines": true
+  },
+  "12704": {
+    "Id": 12704,
+    "Character": 127,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_127_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "真是的……好像什么都瞒不住你呢……",
+    "HasLines": true
+  },
+  "13001": {
+    "Id": 13001,
+    "Character": 130,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_130_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "???",
+    "HasLines": true
+  },
+  "13002": {
+    "Id": 13002,
+    "Character": 130,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_130_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "???",
+    "HasLines": true
+  },
+  "13003": {
+    "Id": 13003,
+    "Character": 130,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_130_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "???",
+    "HasLines": true
+  },
+  "13004": {
+    "Id": 13004,
+    "Character": 130,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_130_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "???",
+    "HasLines": true
+  },
+  "13201": {
+    "Id": 13201,
+    "Character": 132,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_132_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "魔王，第一次正式合作，灰风不会辜负你的期望。",
+    "HasLines": true
+  },
+  "13202": {
+    "Id": 13202,
+    "Character": 132,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_132_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "魔王，又见面了，我们的默契又多了一些。",
+    "HasLines": true
+  },
+  "13203": {
+    "Id": 13203,
+    "Character": 132,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_132_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "只要和伙伴在一起就没什么好怕的。魔王，我们一起前进吧。",
+    "HasLines": true
+  },
+  "13204": {
+    "Id": 13204,
+    "Character": 132,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_132_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "别光看我啊……你也坐过来挑本漫画看吧。会很开心的。",
+    "HasLines": true
+  },
+  "13205": {
+    "Id": 13205,
+    "Character": 132,
+    "Type": 5,
+    "SkinId": 13203,
+    "VoResource": "",
+    "HasVoResource": false,
+    "Lines": "手臂传来课桌板的清凉，后背感知洒落阳光的温暖。\u000b书本的芬芳令人陶醉——这是一场微醺的白日梦。",
+    "HasLines": true
+  },
+  "13301": {
+    "Id": 13301,
+    "Character": 133,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_133_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "你好，我是夏花。希望我能在未来的旅程中帮上你的忙，也希望你能给予我信赖，以后请多指教。",
+    "HasLines": true
+  },
+  "13302": {
+    "Id": 13302,
+    "Character": 133,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_133_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "又见面了，感觉如何？\n……呵呵，我还挺开心的。",
+    "HasLines": true
+  },
+  "13303": {
+    "Id": 13303,
+    "Character": 133,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_133_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "风与我同在。",
+    "HasLines": true
+  },
+  "13304": {
+    "Id": 13304,
+    "Character": 133,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_133_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "下次有机会的话，我们再一起去哪里逛逛吧？",
+    "HasLines": true
+  },
+  "13401": {
+    "Id": 13401,
+    "Character": 134,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_134_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "师父您好！我……我我、我是冬香！\n……呜呜，怎么会这样，明明私下里练习了那么久，却还是咬到舌头了……",
+    "HasLines": true
+  },
+  "13402": {
+    "Id": 13402,
+    "Character": 134,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_134_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "又、又见面了，如果您还需要我和花令旅团的力量，那就太好了……",
+    "HasLines": true
+  },
+  "13403": {
+    "Id": 13403,
+    "Character": 134,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_134_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "为了回报您的信任，我一定会加倍努力！",
+    "HasLines": true
+  },
+  "13404": {
+    "Id": 13404,
+    "Character": 134,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_134_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "呜，请、请不要盯着我看……",
+    "HasLines": true
+  },
+  "13405": {
+    "Id": 13405,
+    "Character": 134,
+    "Type": 5,
+    "SkinId": 13403,
+    "VoResource": "",
+    "HasVoResource": false,
+    "Lines": "按时打卡不迟到，材料认真准备好。勤勤恳恳，战战兢兢。哎呦喂——扑通，怎么还是搞砸了？",
+    "HasLines": true
+  },
+  "13501": {
+    "Id": 13501,
+    "Character": 135,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_135_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "找到你了！最近很火的那位魔王大人!\n我叫雾语……既是天才的魔女也是敏锐的记者！接受我的采访吧！",
+    "HasLines": true
+  },
+  "13502": {
+    "Id": 13502,
+    "Character": 135,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_135_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "茄子！我又来拜访了！\n诶~这是啥表情？让我多收集收集！",
+    "HasLines": true
+  },
+  "13503": {
+    "Id": 13503,
+    "Character": 135,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_135_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "和魔女一起，窥探世界的秘密吧！",
+    "HasLines": true
+  },
+  "13504": {
+    "Id": 13504,
+    "Character": 135,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_135_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "我的秘密，你已经尽收眼底了！你的秘密，也快点呈上来吧！",
+    "HasLines": true
+  },
+  "13505": {
+    "Id": 13505,
+    "Character": 135,
+    "Type": 5,
+    "SkinId": 13503,
+    "VoResource": "",
+    "HasVoResource": false,
+    "Lines": "CharGetLines.13505.1",
+    "HasLines": true
+  },
+  "14101": {
+    "Id": 14101,
+    "Character": 141,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_141_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "我乃赤霞，云笈道场的正统玄师。初来乍到，愿以玄之法理……呃，这开场白好难背。总之，要给你画几张符吗？绝对灵验，不灵包售后。",
+    "HasLines": true
+  },
+  "14102": {
+    "Id": 14102,
+    "Character": 141,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_141_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "又见面啦，看你气色不错，甚好甚好~怎么样，上次给你的符效果不错吧，要回购些不？",
+    "HasLines": true
+  },
+  "14103": {
+    "Id": 14103,
+    "Character": 141,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_141_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "炎符天降，火德显彰。火符闪耀，赤焰昭昭。邪魅消散，万祸不殃。",
+    "HasLines": true
+  },
+  "14104": {
+    "Id": 14104,
+    "Character": 141,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_141_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "那、那你现在就发誓，说你哪儿都不去，就呆在我旁边……动一下也不行！",
+    "HasLines": true
+  },
+  "14201": {
+    "Id": 14201,
+    "Character": 142,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_142_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "我是珂赛特，永夜的清道夫。你……欸？魔王？不好，竟然这么轻易就在魔王面前暴露长相了……",
+    "HasLines": true
+  },
+  "14202": {
+    "Id": 14202,
+    "Character": 142,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_142_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "啊哈哈……又、又见面啦？我明明藏得很好啊……",
+    "HasLines": true
+  },
+  "14203": {
+    "Id": 14203,
+    "Character": 142,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_142_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "再怎么说，我也是永夜的清道夫，可不要小瞧我啊！",
+    "HasLines": true
+  },
+  "14204": {
+    "Id": 14204,
+    "Character": 142,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_142_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "饮料好像卡住了，拿不出来，怎么办？摇一摇有用吗？",
+    "HasLines": true
+  },
+  "14401": {
+    "Id": 14401,
+    "Character": 144,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_144_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "妾身乃风息岛上精心锻造的利刃，名为千都世。为守护主公，妾身必将以至诚之心，竭力侍奉。",
+    "HasLines": true
+  },
+  "14402": {
+    "Id": 14402,
+    "Character": 144,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_144_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "“纵然梦里常幽会，怎比真如见一回。”主公，又见到您真是太好了。",
+    "HasLines": true
+  },
+  "14403": {
+    "Id": 14403,
+    "Character": 144,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_144_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "此刃此心，已不再迟疑。",
+    "HasLines": true
+  },
+  "14404": {
+    "Id": 14404,
+    "Character": 144,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_144_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "主公，让我一直为您所用，好吗？",
+    "HasLines": true
+  },
+  "14701": {
+    "Id": 14701,
+    "Character": 147,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_147_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "自由贝斯手——焦糖！是名用琴弦连接星塔之音的乐手∼",
+    "HasLines": true
+  },
+  "14702": {
+    "Id": 14702,
+    "Character": 147,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_147_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "您又来听我演奏啦~难道说……制作人喜欢上我的贝斯了？！这次想听什么曲子呢？",
+    "HasLines": true
+  },
+  "14703": {
+    "Id": 14703,
+    "Character": 147,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_147_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "我，即是那迫近的风暴！",
+    "HasLines": true
+  },
+  "14704": {
+    "Id": 14704,
+    "Character": 147,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_147_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "我的心声，有成功传达给你吗，制作人？",
+    "HasLines": true
+  },
+  "14901": {
+    "Id": 14901,
+    "Character": 149,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_149_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "我是恩赐意志的格芮，只要你能满足我心底的渴望，我就会为你展示更多“特别”的东西……呵呵，请不要让我等得太久哦。",
+    "HasLines": true
+  },
+  "14902": {
+    "Id": 14902,
+    "Character": 149,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_149_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "魔王大人，只有您才能让我感受到满足……请给予我更多吧，我会把渴望与沉沦……全部奉献给您！",
+    "HasLines": true
+  },
+  "14903": {
+    "Id": 14903,
+    "Character": 149,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_149_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "你不打算牵住我的项圈吗？可是……我的灵魂已经忍耐不住震颤了……不要欺负人嘛……",
+    "HasLines": true
+  },
+  "14904": {
+    "Id": 14904,
+    "Character": 149,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_149_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "呵呵~握住别人的灵魂，感觉如何？",
+    "HasLines": true
+  },
+  "15001": {
+    "Id": 15001,
+    "Character": 150,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_150_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "感到荣幸吧！在你面前的可是恩赐意志的精英——菈露大人！等会……我先接个电话。\n啊~老大！您讲，我在听。我……我现在正在出差，是是，那件事今天一定搞定，哪怕熬夜也会搞定。",
+    "HasLines": true
+  },
+  "15002": {
+    "Id": 15002,
+    "Character": 150,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_150_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "哦，又见面了。有什么需求？先说说看吧。",
+    "HasLines": true
+  },
+  "15003": {
+    "Id": 15003,
+    "Character": 150,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_150_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "休息得差不多了，下面就让你见识见识我的真本事吧。",
+    "HasLines": true
+  },
+  "15004": {
+    "Id": 15004,
+    "Character": 150,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_150_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "对不起嘛~下次绝不会再犯了，我保证~\n——学会了吗？菈露大人的职场求生技。",
+    "HasLines": true
+  },
+  "15501": {
+    "Id": 15501,
+    "Character": 155,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_155_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "正式自我介绍一下，我是希娅。你的身上，有着可以信任的气味呢。",
+    "HasLines": true
+  },
+  "15502": {
+    "Id": 15502,
+    "Character": 155,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_155_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "又见面了~看来我们之间的缘分，比帆船的缆绳还要坚固呢。",
+    "HasLines": true
+  },
+  "15503": {
+    "Id": 15503,
+    "Character": 155,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_155_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "一起来感受冲浪的魅力吧！",
+    "HasLines": true
+  },
+  "15504": {
+    "Id": 15504,
+    "Character": 155,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_155_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "那一晚的月光与海浪，想必你也无法忘怀吧。",
+    "HasLines": true
+  },
+  "15601": {
+    "Id": 15601,
+    "Character": 156,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_156_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "我是花令旅团的小禾。说实话，我不太擅长努力啦……但是跟你在一起的话，稍稍努力一下也不是不行……",
+    "HasLines": true
+  },
+  "15602": {
+    "Id": 15602,
+    "Character": 156,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_156_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "又见面啦……\n你先忙着，不用在意我。\n我们都放松一点就好啦。",
+    "HasLines": true
+  },
+  "15603": {
+    "Id": 15603,
+    "Character": 156,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_156_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "咻咻咻！超绝厉害版小禾登场！",
+    "HasLines": true
+  },
+  "15604": {
+    "Id": 15604,
+    "Character": 156,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_156_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "哇！嘿嘿，被吓到了吧~",
+    "HasLines": true
+  },
+  "15801": {
+    "Id": 15801,
+    "Character": 158,
+    "Type": 1,
+    "SkinId": 0,
+    "VoResource": "vo_158_ui_gachaNew_001",
+    "HasVoResource": true,
+    "Lines": "感到荣幸吧！在你面前的可是恩赐意志的精英——菈露大人！\n ……你那是什么表情？这只是恩赐意志发的雪愿节制服！",
+    "HasLines": true
+  },
+  "15802": {
+    "Id": 15802,
+    "Character": 158,
+    "Type": 2,
+    "SkinId": 0,
+    "VoResource": "vo_158_ui_gacha_001",
+    "HasVoResource": true,
+    "Lines": "又见面啦，要跟我一起去发礼物吗？",
+    "HasLines": true
+  },
+  "15803": {
+    "Id": 15803,
+    "Character": 158,
+    "Type": 3,
+    "SkinId": 0,
+    "VoResource": "vo_158_ui_unlockLook_001",
+    "HasVoResource": true,
+    "Lines": "礼物从天而降，这还不算惊喜吗？",
+    "HasLines": true
+  },
+  "15804": {
+    "Id": 15804,
+    "Character": 158,
+    "Type": 4,
+    "SkinId": 0,
+    "VoResource": "vo_158_ui_unlockCG_001",
+    "HasVoResource": true,
+    "Lines": "唔……我怎么睡着了？",
+    "HasLines": true
+  }
+}

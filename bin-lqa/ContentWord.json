@@ -1,0 +1,79 @@
+{
+  "1000": {
+    "Id": 1000,
+    "PresetColor": "#0000ffff",
+    "HasPresetColor": true,
+    "Word": "诺瓦帝国",
+    "HasWord": true
+  },
+  "1001": {
+    "Id": 1001,
+    "PresetColor": "#a52a2aff",
+    "HasPresetColor": true,
+    "Word": "恩赐意志",
+    "HasWord": true
+  },
+  "1002": {
+    "Id": 1002,
+    "PresetColor": "",
+    "HasPresetColor": false,
+    "Word": "绯曈传讯",
+    "HasWord": true
+  },
+  "1003": {
+    "Id": 1003,
+    "PresetColor": "",
+    "HasPresetColor": false,
+    "Word": "万送屋",
+    "HasWord": true
+  },
+  "1004": {
+    "Id": 1004,
+    "PresetColor": "",
+    "HasPresetColor": false,
+    "Word": "联合种业",
+    "HasWord": true
+  },
+  "1005": {
+    "Id": 1005,
+    "PresetColor": "",
+    "HasPresetColor": false,
+    "Word": "柔光会社",
+    "HasWord": true
+  },
+  "1006": {
+    "Id": 1006,
+    "PresetColor": "",
+    "HasPresetColor": false,
+    "Word": "谷风家政",
+    "HasWord": true
+  },
+  "1007": {
+    "Id": 1007,
+    "PresetColor": "",
+    "HasPresetColor": false,
+    "Word": "凤凰炒蛋",
+    "HasWord": true
+  },
+  "1008": {
+    "Id": 1008,
+    "PresetColor": "",
+    "HasPresetColor": false,
+    "Word": "雏菊之家",
+    "HasWord": true
+  },
+  "1009": {
+    "Id": 1009,
+    "PresetColor": "",
+    "HasPresetColor": false,
+    "Word": "余烬",
+    "HasWord": true
+  },
+  "1010": {
+    "Id": 1010,
+    "PresetColor": "",
+    "HasPresetColor": false,
+    "Word": "诺瓦盾",
+    "HasWord": true
+  }
+}

@@ -1,0 +1,2059 @@
+{
+  "perk": {
+    "Id": "perk",
+    "HasId": true,
+    "Probability": 50,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 3,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "subPerk": {
+    "Id": "subPerk",
+    "HasId": true,
+    "Probability": 50,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "chat": {
+    "Id": "chat",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 3,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "chatLvUp": {
+    "Id": "chatLvUp",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 3,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "chatNext": {
+    "Id": "chatNext",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 3,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 3,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "shopRoom": {
+    "Id": "shopRoom",
+    "HasId": true,
+    "Probability": 50,
+    "ResType": 3,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "restRoom": {
+    "Id": "restRoom",
+    "HasId": true,
+    "Probability": 50,
+    "ResType": 3,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "eventRoom": {
+    "Id": "eventRoom",
+    "HasId": true,
+    "Probability": 50,
+    "ResType": 3,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "battleClear": {
+    "Id": "battleClear",
+    "HasId": true,
+    "Probability": 50,
+    "ResType": 3,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "music": {
+    "Id": "music",
+    "HasId": true,
+    "Probability": 0,
+    "ResType": 3,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "uniMusic": {
+    "Id": "uniMusic",
+    "HasId": true,
+    "Probability": 0,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "swap": {
+    "Id": "swap",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "buildPick": {
+    "Id": "buildPick",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 3,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "win": {
+    "Id": "win",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 3,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "lose": {
+    "Id": "lose",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 3,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "gachaNew": {
+    "Id": "gachaNew",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "gacha": {
+    "Id": "gacha",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "charUp": {
+    "Id": "charUp",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 5.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "exCharUp": {
+    "Id": "exCharUp",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 5.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "unlockLook": {
+    "Id": "unlockLook",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "unlockCG": {
+    "Id": "unlockCG",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "thankSmall": {
+    "Id": "thankSmall",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 5.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "thank": {
+    "Id": "thank",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 5.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "thankEx": {
+    "Id": "thankEx",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 5.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "afflv1": {
+    "Id": "afflv1",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "afflv2": {
+    "Id": "afflv2",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "afflv3": {
+    "Id": "afflv3",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "afflv4": {
+    "Id": "afflv4",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "greet": {
+    "Id": "greet",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 10.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "greetmorn": {
+    "Id": "greetmorn",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 2.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "greetnoon": {
+    "Id": "greetnoon",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 2.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "greetnight": {
+    "Id": "greetnight",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 2.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "standee": {
+    "Id": "standee",
+    "HasId": true,
+    "Probability": 50,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 2.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "fullscreen": {
+    "Id": "fullscreen",
+    "HasId": true,
+    "Probability": 50,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 2.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "posterchat": {
+    "Id": "posterchat",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 2.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "affchat1": {
+    "Id": "affchat1",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 2.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "affchat2": {
+    "Id": "affchat2",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 2.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "affchat3": {
+    "Id": "affchat3",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 2.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "affchat4": {
+    "Id": "affchat4",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 2.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "affchat5": {
+    "Id": "affchat5",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 2.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "hfc": {
+    "Id": "hfc",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 15.0,
+    "VoPlayer": 3,
+    "Priority": 3,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "hang": {
+    "Id": "hang",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 2.0,
+    "VoPlayer": 3,
+    "Priority": 3,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "exhang": {
+    "Id": "exhang",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 2.0,
+    "VoPlayer": 3,
+    "Priority": 3,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "yostar": {
+    "Id": "yostar",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "confirm": {
+    "Id": "confirm",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "deny": {
+    "Id": "deny",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "question": {
+    "Id": "question",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "confuse": {
+    "Id": "confuse",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "sad": {
+    "Id": "sad",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "excit": {
+    "Id": "excit",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "angry": {
+    "Id": "angry",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "happy": {
+    "Id": "happy",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "sigh": {
+    "Id": "sigh",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "catchphrase": {
+    "Id": "catchphrase",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "ultskill": {
+    "Id": "ultskill",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "dead": {
+    "Id": "dead",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": false,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "valentine": {
+    "Id": "valentine",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": true,
+    "Date": "2.14",
+    "HasDate": true
+  },
+  "xmas": {
+    "Id": "xmas",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": true,
+    "Date": "12.25",
+    "HasDate": true
+  },
+  "newyear": {
+    "Id": "newyear",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": true,
+    "Date": "1.1",
+    "HasDate": true
+  },
+  "birth": {
+    "Id": "birth",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "yourbirth": {
+    "Id": "yourbirth",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 1,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "Tower_typeA": {
+    "Id": "Tower_typeA",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "Tower_typeB": {
+    "Id": "Tower_typeB",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "Tower_typeC": {
+    "Id": "Tower_typeC",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "final": {
+    "Id": "final",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "leave": {
+    "Id": "leave",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "chat_lv1": {
+    "Id": "chat_lv1",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "chat_lv2": {
+    "Id": "chat_lv2",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "chat_lv3": {
+    "Id": "chat_lv3",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "event_lv1": {
+    "Id": "event_lv1",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "event_lv2": {
+    "Id": "event_lv2",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "event_lv3": {
+    "Id": "event_lv3",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "greet_npc": {
+    "Id": "greet_npc",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "greetmorn_npc": {
+    "Id": "greetmorn_npc",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "greetnoon_npc": {
+    "Id": "greetnoon_npc",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "greetnight_npc": {
+    "Id": "greetnight_npc",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "posterchat_npc": {
+    "Id": "posterchat_npc",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "hfc_npc": {
+    "Id": "hfc_npc",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 3,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "hang_npc": {
+    "Id": "hang_npc",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 10.0,
+    "VoPlayer": 3,
+    "Priority": 3,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "exhang_npc": {
+    "Id": "exhang_npc",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 10.0,
+    "VoPlayer": 3,
+    "Priority": 3,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "thank_npc": {
+    "Id": "thank_npc",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "thanksp": {
+    "Id": "thanksp",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "thankLvup": {
+    "Id": "thankLvup",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "onsale": {
+    "Id": "onsale",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "limited": {
+    "Id": "limited",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "Tab": {
+    "Id": "Tab",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "clear": {
+    "Id": "clear",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 3,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "Lvup": {
+    "Id": "Lvup",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "enterTourGuild": {
+    "Id": "enterTourGuild",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "enterWorldClass": {
+    "Id": "enterWorldClass",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "enterDailyQuest": {
+    "Id": "enterDailyQuest",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "questCompelete": {
+    "Id": "questCompelete",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "twin_greet": {
+    "Id": "twin_greet",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "twin_effect": {
+    "Id": "twin_effect",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "heal": {
+    "Id": "heal",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "login_npc_day01": {
+    "Id": "login_npc_day01",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "login_npc_day02": {
+    "Id": "login_npc_day02",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "login_npc_day03": {
+    "Id": "login_npc_day03",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "login_npc_day04": {
+    "Id": "login_npc_day04",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "login_npc_day05": {
+    "Id": "login_npc_day05",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "login_npc_day06": {
+    "Id": "login_npc_day06",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "login_npc_day07": {
+    "Id": "login_npc_day07",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "login_npc_day08": {
+    "Id": "login_npc_day08",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "login_npc_day09": {
+    "Id": "login_npc_day09",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "login_npc_day10": {
+    "Id": "login_npc_day10",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "TrekkerVersus_victory": {
+    "Id": "TrekkerVersus_victory",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "TrekkerVersus_fail": {
+    "Id": "TrekkerVersus_fail",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "TrekkerVersus_difficulty1": {
+    "Id": "TrekkerVersus_difficulty1",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 10.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "TrekkerVersus_difficulty2": {
+    "Id": "TrekkerVersus_difficulty2",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 10.0,
+    "VoPlayer": 3,
+    "Priority": 3,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "TrekkerVersus_difficulty3": {
+    "Id": "TrekkerVersus_difficulty3",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 10.0,
+    "VoPlayer": 3,
+    "Priority": 4,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "TrekkerVersus_difficulty4": {
+    "Id": "TrekkerVersus_difficulty4",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 10.0,
+    "VoPlayer": 3,
+    "Priority": 5,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "TrekkerVersus_difficulty5": {
+    "Id": "TrekkerVersus_difficulty5",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 10.0,
+    "VoPlayer": 3,
+    "Priority": 6,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "TrekkerVersus_clear1": {
+    "Id": "TrekkerVersus_clear1",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "TrekkerVersus_clear2": {
+    "Id": "TrekkerVersus_clear2",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "TrekkerVersus_clear3": {
+    "Id": "TrekkerVersus_clear3",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "TrekkerVersus_clear4": {
+    "Id": "TrekkerVersus_clear4",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "TrekkerVersus_clear5": {
+    "Id": "TrekkerVersus_clear5",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "TrekkerVersus_smallG": {
+    "Id": "TrekkerVersus_smallG",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "TrekkerVersus_normalG": {
+    "Id": "TrekkerVersus_normalG",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "TrekkerVersus_largeG": {
+    "Id": "TrekkerVersus_largeG",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  },
+  "TrekkerVersus_defeat": {
+    "Id": "TrekkerVersus_defeat",
+    "HasId": true,
+    "Probability": 100,
+    "ResType": 4,
+    "CombatOnly": false,
+    "WorldLevelTypes": [
+      11
+    ],
+    "Bubble": true,
+    "Cd": 0.0,
+    "VoPlayer": 3,
+    "Priority": 2,
+    "DateTrigger": false,
+    "Date": "",
+    "HasDate": false
+  }
+}

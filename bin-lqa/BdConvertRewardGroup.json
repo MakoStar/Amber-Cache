@@ -1,0 +1,314 @@
+{
+  "101": {
+    "Id": 101,
+    "GroupId": 1,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      200
+    ],
+    "Rewards": "{\"503\":1}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计200攻略积分",
+    "HasDes": true
+  },
+  "102": {
+    "Id": 102,
+    "GroupId": 1,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      400
+    ],
+    "Rewards": "{\"30004\":50}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计400攻略积分",
+    "HasDes": true
+  },
+  "103": {
+    "Id": 103,
+    "GroupId": 1,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      600
+    ],
+    "Rewards": "{\"50004\":50}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计600攻略积分",
+    "HasDes": true
+  },
+  "104": {
+    "Id": 104,
+    "GroupId": 1,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      800
+    ],
+    "Rewards": "{\"503\":1}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计800攻略积分",
+    "HasDes": true
+  },
+  "105": {
+    "Id": 105,
+    "GroupId": 1,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      1000
+    ],
+    "Rewards": "{\"82001\":60}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计1000攻略积分",
+    "HasDes": true
+  },
+  "106": {
+    "Id": 106,
+    "GroupId": 1,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      1200
+    ],
+    "Rewards": "{\"82004\":60}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计1200攻略积分",
+    "HasDes": true
+  },
+  "107": {
+    "Id": 107,
+    "GroupId": 1,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      1400
+    ],
+    "Rewards": "{\"503\":1}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计1400攻略积分",
+    "HasDes": true
+  },
+  "108": {
+    "Id": 108,
+    "GroupId": 1,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      1600
+    ],
+    "Rewards": "{\"82001\":60}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计1600攻略积分",
+    "HasDes": true
+  },
+  "109": {
+    "Id": 109,
+    "GroupId": 1,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      1800
+    ],
+    "Rewards": "{\"82004\":60}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计1800攻略积分",
+    "HasDes": true
+  },
+  "110": {
+    "Id": 110,
+    "GroupId": 1,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      2000
+    ],
+    "Rewards": "{\"503\":2}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计2000攻略积分",
+    "HasDes": true
+  },
+  "111": {
+    "Id": 111,
+    "GroupId": 1,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      2200
+    ],
+    "Rewards": "{\"71006\":1}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计2200攻略积分",
+    "HasDes": true
+  },
+  "112": {
+    "Id": 112,
+    "GroupId": 1,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      2400
+    ],
+    "Rewards": "{\"72006\":1}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计2400攻略积分",
+    "HasDes": true
+  },
+  "201": {
+    "Id": 201,
+    "GroupId": 2,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      200
+    ],
+    "Rewards": "{\"1\":600000}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计200攻略积分",
+    "HasDes": true
+  },
+  "202": {
+    "Id": 202,
+    "GroupId": 2,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      400
+    ],
+    "Rewards": "{\"30004\":50}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计400攻略积分",
+    "HasDes": true
+  },
+  "203": {
+    "Id": 203,
+    "GroupId": 2,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      600
+    ],
+    "Rewards": "{\"50004\":50}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计600攻略积分",
+    "HasDes": true
+  },
+  "204": {
+    "Id": 204,
+    "GroupId": 2,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      800
+    ],
+    "Rewards": "{\"1\":600000}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计800攻略积分",
+    "HasDes": true
+  },
+  "205": {
+    "Id": 205,
+    "GroupId": 2,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      1000
+    ],
+    "Rewards": "{\"82001\":60}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计1000攻略积分",
+    "HasDes": true
+  },
+  "206": {
+    "Id": 206,
+    "GroupId": 2,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      1200
+    ],
+    "Rewards": "{\"82004\":90}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计1200攻略积分",
+    "HasDes": true
+  },
+  "207": {
+    "Id": 207,
+    "GroupId": 2,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      1400
+    ],
+    "Rewards": "{\"503\":2}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计1400攻略积分",
+    "HasDes": true
+  },
+  "208": {
+    "Id": 208,
+    "GroupId": 2,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      1600
+    ],
+    "Rewards": "{\"82001\":60}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计1600攻略积分",
+    "HasDes": true
+  },
+  "209": {
+    "Id": 209,
+    "GroupId": 2,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      1800
+    ],
+    "Rewards": "{\"82004\":90}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计1800攻略积分",
+    "HasDes": true
+  },
+  "210": {
+    "Id": 210,
+    "GroupId": 2,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      2000
+    ],
+    "Rewards": "{\"503\":2}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计2000攻略积分",
+    "HasDes": true
+  },
+  "211": {
+    "Id": 211,
+    "GroupId": 2,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      2200
+    ],
+    "Rewards": "{\"71010\":1}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计2200攻略积分",
+    "HasDes": true
+  },
+  "212": {
+    "Id": 212,
+    "GroupId": 2,
+    "CompleteCond": 48,
+    "CompleteCondParams": [
+      73201,
+      2400
+    ],
+    "Rewards": "{\"72010\":1}",
+    "HasRewards": true,
+    "Des": "在「攻略纪录大征集」中累计2400攻略积分",
+    "HasDes": true
+  }
+}

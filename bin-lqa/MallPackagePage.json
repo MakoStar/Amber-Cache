@@ -1,0 +1,37 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "新人赠礼",
+    "HasName": true,
+    "Type": 1,
+    "Sort": 2
+  },
+  "2": {
+    "Id": 2,
+    "Name": "活动卖场",
+    "HasName": true,
+    "Type": 1,
+    "Sort": 1
+  },
+  "3": {
+    "Id": 3,
+    "Name": "星之货架",
+    "HasName": true,
+    "Type": 1,
+    "Sort": 3
+  },
+  "4": {
+    "Id": 4,
+    "Name": "旅行伴侣",
+    "HasName": true,
+    "Type": 1,
+    "Sort": 4
+  },
+  "11": {
+    "Id": 11,
+    "Name": "时令新品",
+    "HasName": true,
+    "Type": 2,
+    "Sort": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "1": {
+    "Id": 1,
+    "ActivityId": 102001,
+    "GroupName": "初来乍到",
+    "HasGroupName": true
+  },
+  "2": {
+    "Id": 2,
+    "ActivityId": 102001,
+    "GroupName": "熟能生巧",
+    "HasGroupName": true
+  },
+  "3": {
+    "Id": 3,
+    "ActivityId": 102001,
+    "GroupName": "游棋高手",
+    "HasGroupName": true
+  },
+  "4": {
+    "Id": 4,
+    "ActivityId": 102001,
+    "GroupName": "游棋大师",
+    "HasGroupName": true
+  },
+  "5": {
+    "Id": 5,
+    "ActivityId": 102002,
+    "GroupName": "初来乍到",
+    "HasGroupName": true
+  },
+  "6": {
+    "Id": 6,
+    "ActivityId": 102002,
+    "GroupName": "熟能生巧",
+    "HasGroupName": true
+  },
+  "7": {
+    "Id": 7,
+    "ActivityId": 102002,
+    "GroupName": "游棋高手",
+    "HasGroupName": true
+  },
+  "8": {
+    "Id": 8,
+    "ActivityId": 102002,
+    "GroupName": "游棋大师",
+    "HasGroupName": true
+  }
+}

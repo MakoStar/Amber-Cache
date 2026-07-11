@@ -1,0 +1,911 @@
+{
+  "10301": {
+    "Id": 10301,
+    "CharId": [
+      103
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "10301",
+    "HasAVGGroupId": true
+  },
+  "10302": {
+    "Id": 10302,
+    "CharId": [
+      103
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "10302",
+    "HasAVGGroupId": true
+  },
+  "10701": {
+    "Id": 10701,
+    "CharId": [
+      107
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "10701",
+    "HasAVGGroupId": true
+  },
+  "10702": {
+    "Id": 10702,
+    "CharId": [
+      107
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "10702",
+    "HasAVGGroupId": true
+  },
+  "10801": {
+    "Id": 10801,
+    "CharId": [
+      108
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "10801",
+    "HasAVGGroupId": true
+  },
+  "10802": {
+    "Id": 10802,
+    "CharId": [
+      108
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "10802",
+    "HasAVGGroupId": true
+  },
+  "11101": {
+    "Id": 11101,
+    "CharId": [
+      111
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "11101",
+    "HasAVGGroupId": true
+  },
+  "11102": {
+    "Id": 11102,
+    "CharId": [
+      111
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "11102",
+    "HasAVGGroupId": true
+  },
+  "11201": {
+    "Id": 11201,
+    "CharId": [
+      112
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "11201",
+    "HasAVGGroupId": true
+  },
+  "11202": {
+    "Id": 11202,
+    "CharId": [
+      112
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "11202",
+    "HasAVGGroupId": true
+  },
+  "11301": {
+    "Id": 11301,
+    "CharId": [
+      113
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "11301",
+    "HasAVGGroupId": true
+  },
+  "11302": {
+    "Id": 11302,
+    "CharId": [
+      113
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "11302",
+    "HasAVGGroupId": true
+  },
+  "11601": {
+    "Id": 11601,
+    "CharId": [
+      116
+    ],
+    "Weight": 50,
+    "Avg": "DP_single02",
+    "HasAvg": true,
+    "AVGGroupId": "11601",
+    "HasAVGGroupId": true
+  },
+  "11602": {
+    "Id": 11602,
+    "CharId": [
+      116
+    ],
+    "Weight": 50,
+    "Avg": "DP_single02",
+    "HasAvg": true,
+    "AVGGroupId": "11602",
+    "HasAVGGroupId": true
+  },
+  "11701": {
+    "Id": 11701,
+    "CharId": [
+      117
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "11701",
+    "HasAVGGroupId": true
+  },
+  "11702": {
+    "Id": 11702,
+    "CharId": [
+      117
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "11702",
+    "HasAVGGroupId": true
+  },
+  "11801": {
+    "Id": 11801,
+    "CharId": [
+      118
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "11801",
+    "HasAVGGroupId": true
+  },
+  "11802": {
+    "Id": 11802,
+    "CharId": [
+      118
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "11802",
+    "HasAVGGroupId": true
+  },
+  "11901": {
+    "Id": 11901,
+    "CharId": [
+      119
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "11901",
+    "HasAVGGroupId": true
+  },
+  "11902": {
+    "Id": 11902,
+    "CharId": [
+      119
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "11902",
+    "HasAVGGroupId": true
+  },
+  "12001": {
+    "Id": 12001,
+    "CharId": [
+      120
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "12001",
+    "HasAVGGroupId": true
+  },
+  "12002": {
+    "Id": 12002,
+    "CharId": [
+      120
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "12002",
+    "HasAVGGroupId": true
+  },
+  "12301": {
+    "Id": 12301,
+    "CharId": [
+      123
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "12301",
+    "HasAVGGroupId": true
+  },
+  "12302": {
+    "Id": 12302,
+    "CharId": [
+      123
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "12302",
+    "HasAVGGroupId": true
+  },
+  "12501": {
+    "Id": 12501,
+    "CharId": [
+      125
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "12501",
+    "HasAVGGroupId": true
+  },
+  "12502": {
+    "Id": 12502,
+    "CharId": [
+      125
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "12502",
+    "HasAVGGroupId": true
+  },
+  "12601": {
+    "Id": 12601,
+    "CharId": [
+      126
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "12601",
+    "HasAVGGroupId": true
+  },
+  "12602": {
+    "Id": 12602,
+    "CharId": [
+      126
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "12602",
+    "HasAVGGroupId": true
+  },
+  "12701": {
+    "Id": 12701,
+    "CharId": [
+      127
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "12701",
+    "HasAVGGroupId": true
+  },
+  "12702": {
+    "Id": 12702,
+    "CharId": [
+      127
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "12702",
+    "HasAVGGroupId": true
+  },
+  "13201": {
+    "Id": 13201,
+    "CharId": [
+      132
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "13201",
+    "HasAVGGroupId": true
+  },
+  "13202": {
+    "Id": 13202,
+    "CharId": [
+      132
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "13202",
+    "HasAVGGroupId": true
+  },
+  "13301": {
+    "Id": 13301,
+    "CharId": [
+      133
+    ],
+    "Weight": 50,
+    "Avg": "DP_single03",
+    "HasAvg": true,
+    "AVGGroupId": "13301",
+    "HasAVGGroupId": true
+  },
+  "13302": {
+    "Id": 13302,
+    "CharId": [
+      133
+    ],
+    "Weight": 50,
+    "Avg": "DP_single03",
+    "HasAvg": true,
+    "AVGGroupId": "13302",
+    "HasAVGGroupId": true
+  },
+  "13401": {
+    "Id": 13401,
+    "CharId": [
+      134
+    ],
+    "Weight": 50,
+    "Avg": "DP_single03",
+    "HasAvg": true,
+    "AVGGroupId": "13401",
+    "HasAVGGroupId": true
+  },
+  "13402": {
+    "Id": 13402,
+    "CharId": [
+      134
+    ],
+    "Weight": 50,
+    "Avg": "DP_single03",
+    "HasAvg": true,
+    "AVGGroupId": "13402",
+    "HasAVGGroupId": true
+  },
+  "13501": {
+    "Id": 13501,
+    "CharId": [
+      135
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "13501",
+    "HasAVGGroupId": true
+  },
+  "13502": {
+    "Id": 13502,
+    "CharId": [
+      135
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "13502",
+    "HasAVGGroupId": true
+  },
+  "14101": {
+    "Id": 14101,
+    "CharId": [
+      141
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "14101",
+    "HasAVGGroupId": true
+  },
+  "14102": {
+    "Id": 14102,
+    "CharId": [
+      141
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "14102",
+    "HasAVGGroupId": true
+  },
+  "14201": {
+    "Id": 14201,
+    "CharId": [
+      142
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "14201",
+    "HasAVGGroupId": true
+  },
+  "14202": {
+    "Id": 14202,
+    "CharId": [
+      142
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "14202",
+    "HasAVGGroupId": true
+  },
+  "14401": {
+    "Id": 14401,
+    "CharId": [
+      144
+    ],
+    "Weight": 50,
+    "Avg": "DP_single02",
+    "HasAvg": true,
+    "AVGGroupId": "14401",
+    "HasAVGGroupId": true
+  },
+  "14402": {
+    "Id": 14402,
+    "CharId": [
+      144
+    ],
+    "Weight": 50,
+    "Avg": "DP_single02",
+    "HasAvg": true,
+    "AVGGroupId": "14402",
+    "HasAVGGroupId": true
+  },
+  "14701": {
+    "Id": 14701,
+    "CharId": [
+      147
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "14701",
+    "HasAVGGroupId": true
+  },
+  "14702": {
+    "Id": 14702,
+    "CharId": [
+      147
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "14702",
+    "HasAVGGroupId": true
+  },
+  "14901": {
+    "Id": 14901,
+    "CharId": [
+      149
+    ],
+    "Weight": 50,
+    "Avg": "DP_single02",
+    "HasAvg": true,
+    "AVGGroupId": "14901",
+    "HasAVGGroupId": true
+  },
+  "14902": {
+    "Id": 14902,
+    "CharId": [
+      149
+    ],
+    "Weight": 50,
+    "Avg": "DP_single02",
+    "HasAvg": true,
+    "AVGGroupId": "14902",
+    "HasAVGGroupId": true
+  },
+  "15001": {
+    "Id": 15001,
+    "CharId": [
+      150
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "15001",
+    "HasAVGGroupId": true
+  },
+  "15002": {
+    "Id": 15002,
+    "CharId": [
+      150
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "15002",
+    "HasAVGGroupId": true
+  },
+  "15501": {
+    "Id": 15501,
+    "CharId": [
+      155
+    ],
+    "Weight": 50,
+    "Avg": "DP_single02",
+    "HasAvg": true,
+    "AVGGroupId": "15501",
+    "HasAVGGroupId": true
+  },
+  "15502": {
+    "Id": 15502,
+    "CharId": [
+      155
+    ],
+    "Weight": 50,
+    "Avg": "DP_single02",
+    "HasAvg": true,
+    "AVGGroupId": "15502",
+    "HasAVGGroupId": true
+  },
+  "15601": {
+    "Id": 15601,
+    "CharId": [
+      156
+    ],
+    "Weight": 50,
+    "Avg": "DP_single02",
+    "HasAvg": true,
+    "AVGGroupId": "15601",
+    "HasAVGGroupId": true
+  },
+  "15602": {
+    "Id": 15602,
+    "CharId": [
+      156
+    ],
+    "Weight": 50,
+    "Avg": "DP_single02",
+    "HasAvg": true,
+    "AVGGroupId": "15602",
+    "HasAVGGroupId": true
+  },
+  "15801": {
+    "Id": 15801,
+    "CharId": [
+      158
+    ],
+    "Weight": 50,
+    "Avg": "DP_single04",
+    "HasAvg": true,
+    "AVGGroupId": "15801",
+    "HasAVGGroupId": true
+  },
+  "15802": {
+    "Id": 15802,
+    "CharId": [
+      158
+    ],
+    "Weight": 50,
+    "Avg": "DP_single04",
+    "HasAvg": true,
+    "AVGGroupId": "15802",
+    "HasAVGGroupId": true
+  },
+  "11001": {
+    "Id": 11001,
+    "CharId": [
+      110
+    ],
+    "Weight": 50,
+    "Avg": "DP_single04",
+    "HasAvg": true,
+    "AVGGroupId": "11001",
+    "HasAVGGroupId": true
+  },
+  "11002": {
+    "Id": 11002,
+    "CharId": [
+      110
+    ],
+    "Weight": 50,
+    "Avg": "DP_single04",
+    "HasAvg": true,
+    "AVGGroupId": "11002",
+    "HasAVGGroupId": true
+  },
+  "11401": {
+    "Id": 11401,
+    "CharId": [
+      114
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "11401",
+    "HasAVGGroupId": true
+  },
+  "11402": {
+    "Id": 11402,
+    "CharId": [
+      114
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "11402",
+    "HasAVGGroupId": true
+  },
+  "11501": {
+    "Id": 11501,
+    "CharId": [
+      115
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "11501",
+    "HasAVGGroupId": true
+  },
+  "11502": {
+    "Id": 11502,
+    "CharId": [
+      115
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "11502",
+    "HasAVGGroupId": true
+  },
+  "13001": {
+    "Id": 13001,
+    "CharId": [
+      130
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "13001",
+    "HasAVGGroupId": true
+  },
+  "13002": {
+    "Id": 13002,
+    "CharId": [
+      130
+    ],
+    "Weight": 50,
+    "Avg": "DP_single01",
+    "HasAvg": true,
+    "AVGGroupId": "13002",
+    "HasAVGGroupId": true
+  },
+  "90101": {
+    "Id": 90101,
+    "CharId": [
+      103,
+      111
+    ],
+    "Weight": 150,
+    "Avg": "DP_multi01",
+    "HasAvg": true,
+    "AVGGroupId": "1",
+    "HasAVGGroupId": true
+  },
+  "90102": {
+    "Id": 90102,
+    "CharId": [
+      103,
+      112
+    ],
+    "Weight": 150,
+    "Avg": "DP_multi01",
+    "HasAvg": true,
+    "AVGGroupId": "2",
+    "HasAVGGroupId": true
+  },
+  "90103": {
+    "Id": 90103,
+    "CharId": [
+      111,
+      112
+    ],
+    "Weight": 150,
+    "Avg": "DP_multi01",
+    "HasAvg": true,
+    "AVGGroupId": "3",
+    "HasAVGGroupId": true
+  },
+  "90104": {
+    "Id": 90104,
+    "CharId": [
+      103,
+      112,
+      111
+    ],
+    "Weight": 300,
+    "Avg": "DP_multi01",
+    "HasAvg": true,
+    "AVGGroupId": "4",
+    "HasAVGGroupId": true
+  },
+  "90105": {
+    "Id": 90105,
+    "CharId": [
+      103,
+      108
+    ],
+    "Weight": 150,
+    "Avg": "DP_multi01",
+    "HasAvg": true,
+    "AVGGroupId": "5",
+    "HasAVGGroupId": true
+  },
+  "90106": {
+    "Id": 90106,
+    "CharId": [
+      125,
+      127
+    ],
+    "Weight": 150,
+    "Avg": "DP_multi01",
+    "HasAvg": true,
+    "AVGGroupId": "6",
+    "HasAVGGroupId": true
+  },
+  "90107": {
+    "Id": 90107,
+    "CharId": [
+      113,
+      117
+    ],
+    "Weight": 150,
+    "Avg": "DP_multi01",
+    "HasAvg": true,
+    "AVGGroupId": "7",
+    "HasAVGGroupId": true
+  },
+  "90108": {
+    "Id": 90108,
+    "CharId": [
+      107,
+      113
+    ],
+    "Weight": 150,
+    "Avg": "DP_multi01",
+    "HasAvg": true,
+    "AVGGroupId": "8",
+    "HasAVGGroupId": true
+  },
+  "90109": {
+    "Id": 90109,
+    "CharId": [
+      113,
+      126
+    ],
+    "Weight": 150,
+    "Avg": "DP_multi01",
+    "HasAvg": true,
+    "AVGGroupId": "9",
+    "HasAVGGroupId": true
+  },
+  "90110": {
+    "Id": 90110,
+    "CharId": [
+      107,
+      132
+    ],
+    "Weight": 150,
+    "Avg": "DP_multi01",
+    "HasAvg": true,
+    "AVGGroupId": "10",
+    "HasAVGGroupId": true
+  },
+  "90111": {
+    "Id": 90111,
+    "CharId": [
+      132,
+      142
+    ],
+    "Weight": 150,
+    "Avg": "DP_multi01",
+    "HasAvg": true,
+    "AVGGroupId": "11",
+    "HasAVGGroupId": true
+  },
+  "90112": {
+    "Id": 90112,
+    "CharId": [
+      142,
+      119
+    ],
+    "Weight": 150,
+    "Avg": "DP_multi01",
+    "HasAvg": true,
+    "AVGGroupId": "12",
+    "HasAVGGroupId": true
+  },
+  "90113": {
+    "Id": 90113,
+    "CharId": [
+      123,
+      126
+    ],
+    "Weight": 150,
+    "Avg": "DP_multi01",
+    "HasAvg": true,
+    "AVGGroupId": "13",
+    "HasAVGGroupId": true
+  },
+  "90114": {
+    "Id": 90114,
+    "CharId": [
+      135,
+      126
+    ],
+    "Weight": 150,
+    "Avg": "DP_multi01",
+    "HasAvg": true,
+    "AVGGroupId": "14",
+    "HasAVGGroupId": true
+  },
+  "90115": {
+    "Id": 90115,
+    "CharId": [
+      135,
+      103
+    ],
+    "Weight": 150,
+    "Avg": "DP_multi01",
+    "HasAvg": true,
+    "AVGGroupId": "15",
+    "HasAVGGroupId": true
+  },
+  "90116": {
+    "Id": 90116,
+    "CharId": [
+      135,
+      111
+    ],
+    "Weight": 150,
+    "Avg": "DP_multi01",
+    "HasAvg": true,
+    "AVGGroupId": "16",
+    "HasAVGGroupId": true
+  },
+  "90117": {
+    "Id": 90117,
+    "CharId": [
+      135,
+      112
+    ],
+    "Weight": 150,
+    "Avg": "DP_multi01",
+    "HasAvg": true,
+    "AVGGroupId": "17",
+    "HasAVGGroupId": true
+  }
+}

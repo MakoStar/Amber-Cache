@@ -1,0 +1,80 @@
+{
+  "1": {
+    "Id": 1,
+    "CharId": 11201,
+    "Name": "尘沙",
+    "HasName": true,
+    "UnlockCond": 117,
+    "UnlockParams": [
+      1,
+      1
+    ],
+    "Model": "Actor/Character/11201/11201_Actor",
+    "HasModel": true,
+    "ModelScale": 12500,
+    "Faction": 1,
+    "FCAIAction": "",
+    "HasFCAIAction": false,
+    "FCComboGroup": "",
+    "HasFCComboGroup": false,
+    "SkillId": 8211201,
+    "MP": 100,
+    "SkillCD": 20,
+    "Icon": "",
+    "HasIcon": false,
+    "Attribute": 99782112,
+    "Level": 1
+  },
+  "2": {
+    "Id": 2,
+    "CharId": 10301,
+    "Name": "琥珀",
+    "HasName": true,
+    "UnlockCond": 117,
+    "UnlockParams": [
+      1,
+      1
+    ],
+    "Model": "Actor/Character/10301/10301_Actor",
+    "HasModel": true,
+    "ModelScale": 12500,
+    "Faction": 1,
+    "FCAIAction": "",
+    "HasFCAIAction": false,
+    "FCComboGroup": "",
+    "HasFCComboGroup": false,
+    "SkillId": 8210301,
+    "MP": 100,
+    "SkillCD": 20,
+    "Icon": "",
+    "HasIcon": false,
+    "Attribute": 99782103,
+    "Level": 1
+  },
+  "3": {
+    "Id": 3,
+    "CharId": 11101,
+    "Name": "鸢尾",
+    "HasName": true,
+    "UnlockCond": 117,
+    "UnlockParams": [
+      1,
+      1
+    ],
+    "Model": "Actor/Character/11101/11101_Actor",
+    "HasModel": true,
+    "ModelScale": 12500,
+    "Faction": 1,
+    "FCAIAction": "",
+    "HasFCAIAction": false,
+    "FCComboGroup": "",
+    "HasFCComboGroup": false,
+    "SkillId": 8211101,
+    "MP": 100,
+    "SkillCD": 20,
+    "Icon": "",
+    "HasIcon": false,
+    "Attribute": 99782111,
+    "Level": 1
+  }
+}

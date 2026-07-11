@@ -1,0 +1,2997 @@
+{
+  "1000101": {
+    "Id": 1000101,
+    "ActivityId": 1010001,
+    "DayOpen": 0,
+    "Name": "夏日激斗 I",
+    "HasName": true,
+    "IconRes": "Icon/MapChallenge/zs_survivor_entrancepic_101",
+    "HasIconRes": true,
+    "Type": 1,
+    "Difficulty": 1,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 0,
+    "PreLevelStar": 0,
+    "PreActivityStory": [],
+    "FloorId": 300101,
+    "PreviewMonsterGroupId": 300101,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 5,
+    "SuggestedPower": 10,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "在海岛上遭遇了同样在寻宝的旅人团体！\n留意通道处的体力恢复道具，顶着阳光一决高下吧！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,50,1],[73101,300,1],[1,500000,1],[73101,400,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1000102": {
+    "Id": 1000102,
+    "ActivityId": 1010001,
+    "DayOpen": 1,
+    "Name": "夏日激斗 II",
+    "HasName": true,
+    "IconRes": "Icon/MapChallenge/zs_survivor_entrancepic_102",
+    "HasIconRes": true,
+    "Type": 1,
+    "Difficulty": 2,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1000101,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300102,
+    "PreviewMonsterGroupId": 300102,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 6,
+    "SuggestedPower": 10,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "在海岛上遭遇了同样在寻宝的旅人团体！\n留意区域内的体力恢复道具，注意防晒！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,50,1],[73101,350,1],[32000,100,1],[73101,400,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1000103": {
+    "Id": 1000103,
+    "ActivityId": 1010001,
+    "DayOpen": 2,
+    "Name": "夏日激斗 III",
+    "HasName": true,
+    "IconRes": "Icon/MapChallenge/zs_survivor_entrancepic_104",
+    "HasIconRes": true,
+    "Type": 1,
+    "Difficulty": 3,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1000102,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300103,
+    "PreviewMonsterGroupId": 300103,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 7,
+    "SuggestedPower": 15,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "在海岛上遭遇了同样在寻宝的旅人团体！\n留意通道处的体力恢复道具，小心精英级别的对手！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,50,1],[73101,400,1],[1,1000000,1],[73101,400,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1000104": {
+    "Id": 1000104,
+    "ActivityId": 1010001,
+    "DayOpen": 3,
+    "Name": "夏日激斗 IV",
+    "HasName": true,
+    "IconRes": "Icon/MapChallenge/zs_survivor_entrancepic_103",
+    "HasIconRes": true,
+    "Type": 1,
+    "Difficulty": 4,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1000103,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300104,
+    "PreviewMonsterGroupId": 300104,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 8,
+    "SuggestedPower": 15,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "在海岛上遭遇了同样在寻宝的强大旅人团体！\n精英敌人众多，请小心应对并留意掉落的回复物品！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,50,1],[73101,450,1],[32000,200,1],[73101,400,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1000105": {
+    "Id": 1000105,
+    "ActivityId": 1010001,
+    "DayOpen": 4,
+    "Name": "夏日激斗 V",
+    "HasName": true,
+    "IconRes": "Icon/MapChallenge/zs_survivor_entrancepic_101",
+    "HasIconRes": true,
+    "Type": 1,
+    "Difficulty": 5,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1000104,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300105,
+    "PreviewMonsterGroupId": 300105,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 9,
+    "SuggestedPower": 20,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "在海岛上遭遇了同样在寻宝的强大旅人团体！\n精英敌人众多，请小心应对并留意通道处的体力恢复道具！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,50,1],[73101,500,1],[1,1500000,1],[73101,400,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1000106": {
+    "Id": 1000106,
+    "ActivityId": 1010001,
+    "DayOpen": 5,
+    "Name": "夏日激斗 VI",
+    "HasName": true,
+    "IconRes": "Icon/MapChallenge/zs_survivor_entrancepic_102",
+    "HasIconRes": true,
+    "Type": 1,
+    "Difficulty": 6,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1000105,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300106,
+    "PreviewMonsterGroupId": 300106,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 10,
+    "SuggestedPower": 20,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "在海岛上遭遇了同样在寻宝的强大旅人团体！\n精英敌人众多，请小心应对并留意通道处的体力恢复道具！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,50,1],[73101,550,1],[32000,300,1],[73101,400,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1000107": {
+    "Id": 1000107,
+    "ActivityId": 1010001,
+    "DayOpen": 6,
+    "Name": "夏日激斗 VII",
+    "HasName": true,
+    "IconRes": "Icon/MapChallenge/zs_survivor_entrancepic_104",
+    "HasIconRes": true,
+    "Type": 1,
+    "Difficulty": 7,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1000106,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300107,
+    "PreviewMonsterGroupId": 300107,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 11,
+    "SuggestedPower": 25,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "在海岛上遭遇了同样在寻宝的强大旅人团体！\n精英敌人众多，请小心应对并留意通道处的体力恢复道具！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,50,1],[73101,600,1],[1,2200000,1],[73101,400,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1000108": {
+    "Id": 1000108,
+    "ActivityId": 1010001,
+    "DayOpen": 7,
+    "Name": "决战六角鲸 ~ 普通",
+    "HasName": true,
+    "IconRes": "Icon/MapChallenge/zs_survivor_entrancepic_104",
+    "HasIconRes": true,
+    "Type": 1,
+    "Difficulty": 8,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1000107,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300108,
+    "PreviewMonsterGroupId": 300108,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 12,
+    "SuggestedPower": 30,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      150
+    ],
+    "TwoStarCondition": [
+      120
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "150秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于30秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于60秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "“它”就是传说里“幽灵船”的真相吗？\n与咕噜六角鲸一决胜负吧！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73101,650,1],[32000,500,1],[73101,400,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1000201": {
+    "Id": 1000201,
+    "ActivityId": 1010001,
+    "DayOpen": 7,
+    "Name": "夺宝奇兵 I",
+    "HasName": true,
+    "IconRes": "Icon/MapChallenge/zs_survivor_entrancepic_103",
+    "HasIconRes": true,
+    "Type": 2,
+    "Difficulty": 1,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 1000108,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300109,
+    "PreviewMonsterGroupId": 300109,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 12,
+    "SuggestedPower": 35,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "与寻宝的旅人团体在海岛上激烈战斗！\n务必小心，这次他们可是动真格了！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,80,1],[73101,600,1],[32000,100,1],[1,500000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "1000202": {
+    "Id": 1000202,
+    "ActivityId": 1010001,
+    "DayOpen": 8,
+    "Name": "夺宝奇兵 II",
+    "HasName": true,
+    "IconRes": "Icon/MapChallenge/zs_survivor_entrancepic_101",
+    "HasIconRes": true,
+    "Type": 2,
+    "Difficulty": 2,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 1000201,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300110,
+    "PreviewMonsterGroupId": 300110,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 13,
+    "SuggestedPower": 40,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "与寻宝的旅人团体在海岛上激烈战斗！\n务必小心，这次他们可是动真格了！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,80,1],[73101,800,1],[32000,200,1],[1,1000000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "1000203": {
+    "Id": 1000203,
+    "ActivityId": 1010001,
+    "DayOpen": 9,
+    "Name": "夺宝奇兵 III",
+    "HasName": true,
+    "IconRes": "Icon/MapChallenge/zs_survivor_entrancepic_102",
+    "HasIconRes": true,
+    "Type": 2,
+    "Difficulty": 3,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 1000202,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300111,
+    "PreviewMonsterGroupId": 300111,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 14,
+    "SuggestedPower": 45,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "与寻宝的旅人团体在海岛上激烈战斗！\n务必小心，这次他们可是动真格了！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,80,1],[73101,1000,1],[32000,400,1],[1,1600000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "1000204": {
+    "Id": 1000204,
+    "ActivityId": 1010001,
+    "DayOpen": 10,
+    "Name": "决战六角鲸 ~ 挑战",
+    "HasName": true,
+    "IconRes": "Icon/MapChallenge/zs_survivor_entrancepic_104",
+    "HasIconRes": true,
+    "Type": 2,
+    "Difficulty": 4,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 1000203,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300112,
+    "PreviewMonsterGroupId": 300112,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 15,
+    "SuggestedPower": 50,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      150
+    ],
+    "TwoStarCondition": [
+      120
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "150秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于30秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于60秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "寻宝活动打破了这座小小海岛的安宁，咕噜六角鲸非常生气！\n请小心谨慎做好准备，排山倒海的攻击即将来袭！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,120,1],[73101,1200,1],[32000,600,1],[1,2400000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "1010101": {
+    "Id": 1010101,
+    "ActivityId": 1010101,
+    "DayOpen": 0,
+    "Name": "森林剿灭战 I",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 1,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 0,
+    "PreLevelStar": 0,
+    "PreActivityStory": [],
+    "FloorId": 300201,
+    "PreviewMonsterGroupId": 300201,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 5,
+    "SuggestedPower": 10,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "联合种业农机大暴走！为了保护森林，清剿它们吧！\n留意战斗后掉落的能量补给，小心凶恶的机器“猛兽”！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73102,500,1],[1,500000,1],[73102,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1010102": {
+    "Id": 1010102,
+    "ActivityId": 1010101,
+    "DayOpen": 0,
+    "Name": "森林剿灭战 II",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 2,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1010101,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300202,
+    "PreviewMonsterGroupId": 300202,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 6,
+    "SuggestedPower": 10,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "联合种业农机大暴走！为了保护森林，清剿它们吧！\n留意战斗后掉落的能量补给，小心凶恶的机器“猛兽”！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73102,500,1],[32000,50,1],[73102,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1010103": {
+    "Id": 1010103,
+    "ActivityId": 1010101,
+    "DayOpen": 0,
+    "Name": "森林剿灭战 III",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 3,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1010102,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300203,
+    "PreviewMonsterGroupId": 300203,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 7,
+    "SuggestedPower": 15,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "联合种业农机大暴走！为了保护森林，清剿它们吧！\n留意战斗后掉落的能量补给，小心凶恶的机器“猛兽”！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73102,500,1],[1,1000000,1],[73102,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1010104": {
+    "Id": 1010104,
+    "ActivityId": 1010101,
+    "DayOpen": 0,
+    "Name": "森林剿灭战 IV",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 4,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1010103,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300204,
+    "PreviewMonsterGroupId": 300204,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 8,
+    "SuggestedPower": 15,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "联合种业农机大暴走！为了保护森林，清剿它们吧！\n留意战斗后掉落的能量补给，小心凶恶的机器“猛兽”！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73102,500,1],[32000,100,1],[73102,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1010105": {
+    "Id": 1010105,
+    "ActivityId": 1010101,
+    "DayOpen": 1,
+    "Name": "森林剿灭战 V",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 5,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1010104,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300205,
+    "PreviewMonsterGroupId": 300205,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 9,
+    "SuggestedPower": 20,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "联合种业农机大暴走！为了保护森林，清剿它们吧！\n留意战斗后掉落的能量补给，小心凶恶的机器“猛兽”！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73102,500,1],[1,1200000,1],[73102,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1010106": {
+    "Id": 1010106,
+    "ActivityId": 1010101,
+    "DayOpen": 1,
+    "Name": "森林剿灭战 VI",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 6,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1010105,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300206,
+    "PreviewMonsterGroupId": 300206,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 10,
+    "SuggestedPower": 20,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "联合种业农机大暴走！为了保护森林，清剿它们吧！\n留意战斗后掉落的能量补给，小心凶恶的机器“猛兽”！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73102,500,1],[32000,100,1],[73102,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1010107": {
+    "Id": 1010107,
+    "ActivityId": 1010101,
+    "DayOpen": 1,
+    "Name": "森林剿灭战 VII",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 7,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1010106,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300207,
+    "PreviewMonsterGroupId": 300207,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 11,
+    "SuggestedPower": 25,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "联合种业农机大暴走！为了保护森林，清剿它们吧！\n留意战斗后掉落的能量补给，小心凶恶的机器“猛兽”！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73102,500,1],[1,2000000,1],[73102,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1010108": {
+    "Id": 1010108,
+    "ActivityId": 1010101,
+    "DayOpen": 1,
+    "Name": "伐木蟹来袭~普通",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 8,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1010107,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300208,
+    "PreviewMonsterGroupId": 300208,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 12,
+    "SuggestedPower": 30,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      150
+    ],
+    "TwoStarCondition": [
+      120
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "150秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于30秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于60秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "联合种业农机大暴走！为了保护森林，清剿它们吧！\n留意战斗后掉落的能量补给，小心凶恶的机器“猛兽”！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,200,1],[73102,800,1],[32000,200,1],[73102,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1010201": {
+    "Id": 1010201,
+    "ActivityId": 1010101,
+    "DayOpen": 6,
+    "Name": "机魂失控 I",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 2,
+    "Difficulty": 1,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 1010108,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300209,
+    "PreviewMonsterGroupId": 300209,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 14,
+    "SuggestedPower": 45,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "联合种业农机的暴走不曾停止！\n它们来势汹汹，但旅人们无所畏惧！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,180,1],[73102,800,1],[32000,100,1],[1,500000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "1010202": {
+    "Id": 1010202,
+    "ActivityId": 1010101,
+    "DayOpen": 6,
+    "Name": "机魂失控 II",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 2,
+    "Difficulty": 2,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 1010201,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300210,
+    "PreviewMonsterGroupId": 300210,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 16,
+    "SuggestedPower": 50,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "联合种业农机的暴走不曾停止！\n它们来势汹汹，但旅人们无所畏惧！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,180,1],[73102,800,1],[32000,100,1],[1,1000000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "1010203": {
+    "Id": 1010203,
+    "ActivityId": 1010101,
+    "DayOpen": 6,
+    "Name": "机魂失控 III",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 2,
+    "Difficulty": 3,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 1010202,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300211,
+    "PreviewMonsterGroupId": 300211,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 18,
+    "SuggestedPower": 55,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "联合种业农机的暴走不曾停止！\n它们来势汹汹，但旅人们无所畏惧！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,180,1],[73102,800,1],[32000,100,1],[1,1500000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "1010204": {
+    "Id": 1010204,
+    "ActivityId": 1010101,
+    "DayOpen": 6,
+    "Name": "伐木蟹来袭~挑战",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 2,
+    "Difficulty": 4,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 1010203,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300212,
+    "PreviewMonsterGroupId": 300212,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 20,
+    "SuggestedPower": 60,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      150
+    ],
+    "TwoStarCondition": [
+      120
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "150秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于30秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于60秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "暴走机器们的头目以更凶恶的姿态登场！\n这是最后的战斗了，请打起精神，小心应对!",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,320,1],[73102,1000,1],[32000,300,1],[1,2000000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "1020101": {
+    "Id": 1020101,
+    "ActivityId": 1010201,
+    "DayOpen": 0,
+    "Name": "密林围猎Ⅰ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 1,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 0,
+    "PreLevelStar": 0,
+    "PreActivityStory": [],
+    "FloorId": 300301,
+    "PreviewMonsterGroupId": 300301,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 5,
+    "SuggestedPower": 10,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "在被侵蚀的森林中，魔物军团大规模来袭！\n注意怪物间的配合，当心一路上的陷阱！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73103,500,1],[1,500000,1],[73103,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1020102": {
+    "Id": 1020102,
+    "ActivityId": 1010201,
+    "DayOpen": 0,
+    "Name": "密林围猎Ⅱ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 2,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1020101,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300302,
+    "PreviewMonsterGroupId": 300302,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 6,
+    "SuggestedPower": 10,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "在被侵蚀的森林中，魔物军团大规模来袭！\n注意怪物间的配合，当心一路上的陷阱！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73103,500,1],[32000,100,1],[73103,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1020103": {
+    "Id": 1020103,
+    "ActivityId": 1010201,
+    "DayOpen": 0,
+    "Name": "密林围猎Ⅲ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 3,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1020102,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300303,
+    "PreviewMonsterGroupId": 300303,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 7,
+    "SuggestedPower": 15,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "在被侵蚀的森林中，魔物军团大规模来袭！\n注意怪物间的配合，当心一路上的陷阱！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73103,500,1],[1,1000000,1],[73103,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1020104": {
+    "Id": 1020104,
+    "ActivityId": 1010201,
+    "DayOpen": 0,
+    "Name": "密林围猎Ⅳ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 4,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1020103,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300304,
+    "PreviewMonsterGroupId": 300304,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 8,
+    "SuggestedPower": 15,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "被侵蚀森林的深处，似乎有一处专为决斗而立的舞台……\n留意来袭的怪物，努力存活吧！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73103,500,1],[32000,100,1],[73103,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1020105": {
+    "Id": 1020105,
+    "ActivityId": 1010201,
+    "DayOpen": 1,
+    "Name": "密林围猎Ⅴ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 5,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1020104,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300305,
+    "PreviewMonsterGroupId": 300305,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 9,
+    "SuggestedPower": 20,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "氛围愈发险恶的森林中，魔物军团正在大肆暴动！\n陷阱数量开始增多，请务必小心！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73103,500,1],[1,1200000,1],[73103,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1020106": {
+    "Id": 1020106,
+    "ActivityId": 1010201,
+    "DayOpen": 1,
+    "Name": "密林围猎Ⅵ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 6,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1020105,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300306,
+    "PreviewMonsterGroupId": 300306,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 10,
+    "SuggestedPower": 20,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "氛围愈发险恶的森林中，魔物军团正在大肆暴动！\n陷阱数量开始增多，请务必小心！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73103,500,1],[32000,100,1],[73103,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1020107": {
+    "Id": 1020107,
+    "ActivityId": 1010201,
+    "DayOpen": 1,
+    "Name": "密林围猎Ⅶ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 7,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1020106,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300307,
+    "PreviewMonsterGroupId": 300307,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 11,
+    "SuggestedPower": 25,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "氛围愈发险恶的森林中，魔物军团正在大肆暴动！\n陷阱数量开始增多，请务必小心！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73103,500,1],[1,2000000,1],[73103,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1020108": {
+    "Id": 1020108,
+    "ActivityId": 1010201,
+    "DayOpen": 1,
+    "Name": "毛绒戒律骑士来袭 ～ 普通",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 8,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1020107,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300308,
+    "PreviewMonsterGroupId": 300308,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 12,
+    "SuggestedPower": 30,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      150
+    ],
+    "TwoStarCondition": [
+      120
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "150秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于30秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于60秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "充满威严的毛绒戒律骑士悄然登场！\n在被侵蚀森林的深处，与这位首领展开决斗吧！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,200,1],[73103,800,1],[32000,200,1],[73103,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1020201": {
+    "Id": 1020201,
+    "ActivityId": 1010201,
+    "DayOpen": 6,
+    "Name": "阴暗之森Ⅰ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 2,
+    "Difficulty": 1,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 1020108,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300309,
+    "PreviewMonsterGroupId": 300309,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 14,
+    "SuggestedPower": 45,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "在阴暗的森林深处，怪物们的阴影蠢蠢欲动……\n留心道路上的陷阱，小心向前吧！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,180,1],[73103,800,1],[32000,100,1],[1,500000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "1020202": {
+    "Id": 1020202,
+    "ActivityId": 1010201,
+    "DayOpen": 6,
+    "Name": "阴暗之森Ⅱ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 2,
+    "Difficulty": 2,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 1020201,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300310,
+    "PreviewMonsterGroupId": 300310,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 16,
+    "SuggestedPower": 50,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "在阴暗的森林深处，怪物们的阴影蠢蠢欲动……\n留心道路上的陷阱，小心向前吧！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,180,1],[73103,800,1],[32000,100,1],[1,1000000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "1020203": {
+    "Id": 1020203,
+    "ActivityId": 1010201,
+    "DayOpen": 6,
+    "Name": "阴暗之森Ⅲ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 2,
+    "Difficulty": 3,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 1020202,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300311,
+    "PreviewMonsterGroupId": 300311,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 18,
+    "SuggestedPower": 55,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "在阴暗的森林深处，怪物们的阴影蠢蠢欲动……\n留心道路上的陷阱，小心向前吧！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,180,1],[73103,800,1],[32000,100,1],[1,1500000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "1020204": {
+    "Id": 1020204,
+    "ActivityId": 1010201,
+    "DayOpen": 6,
+    "Name": "毛绒戒律骑士来袭 ～ 挑战",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 2,
+    "Difficulty": 4,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 1020203,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300312,
+    "PreviewMonsterGroupId": 300312,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 20,
+    "SuggestedPower": 60,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      150
+    ],
+    "TwoStarCondition": [
+      120
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "150秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于30秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于60秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "灵活狡诈，变化多端……来自密林深处的最后挑战！\n与毛绒戒律骑士放手一搏的决斗！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,320,1],[73103,1000,1],[32000,300,1],[1,2000000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "2010101": {
+    "Id": 2010101,
+    "ActivityId": 2010101,
+    "DayOpen": 0,
+    "Name": "雪愿夜的奇境冒险Ⅰ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 1,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 0,
+    "PreLevelStar": 0,
+    "PreActivityStory": [],
+    "FloorId": 300401,
+    "PreviewMonsterGroupId": 300401,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 5,
+    "SuggestedPower": 10,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "这难道是雪愿树精灵的考验？那就来大闹一场吧！\n消灭所有怪物，选择你所喜欢的礼物！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73104,500,1],[1,500000,1],[73104,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "2010102": {
+    "Id": 2010102,
+    "ActivityId": 2010101,
+    "DayOpen": 0,
+    "Name": "雪愿夜的奇境冒险Ⅱ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 2,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 2010101,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300402,
+    "PreviewMonsterGroupId": 300402,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 6,
+    "SuggestedPower": 10,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "这难道是雪愿树精灵的考验？那就来大闹一场吧！\n消灭所有怪物，选择你所喜欢的礼物！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73104,500,1],[32000,100,1],[73104,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "2010103": {
+    "Id": 2010103,
+    "ActivityId": 2010101,
+    "DayOpen": 0,
+    "Name": "雪愿夜的奇境冒险Ⅲ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 3,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 2010102,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300403,
+    "PreviewMonsterGroupId": 300403,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 7,
+    "SuggestedPower": 15,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "这难道是雪愿树精灵的考验？那就来大闹一场吧！\n消灭所有怪物，选择你所喜欢的礼物！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73104,500,1],[1,1000000,1],[73104,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "2010104": {
+    "Id": 2010104,
+    "ActivityId": 2010101,
+    "DayOpen": 0,
+    "Name": "出逃的礼物车Ⅰ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 4,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 2010103,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300404,
+    "PreviewMonsterGroupId": 300404,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 8,
+    "SuggestedPower": 15,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "潜逃的夏洛克偷走了不少礼物！\n抓住它！或许就能知道礼物的下落了！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73104,500,1],[32000,100,1],[73104,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "2010105": {
+    "Id": 2010105,
+    "ActivityId": 2010101,
+    "DayOpen": 1,
+    "Name": "雪愿夜的奇境冒险Ⅳ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 5,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 2010104,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300405,
+    "PreviewMonsterGroupId": 300405,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 9,
+    "SuggestedPower": 20,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "节日的钟声已经敲响，派对升级，更强的舞伴纷纷登场！\n可别在玩闹中忘记正事，寻找那些失散的礼物吧！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73104,500,1],[1,1200000,1],[73104,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "2010106": {
+    "Id": 2010106,
+    "ActivityId": 2010101,
+    "DayOpen": 1,
+    "Name": "雪愿夜的奇境冒险Ⅴ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 6,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 2010105,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300406,
+    "PreviewMonsterGroupId": 300406,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 10,
+    "SuggestedPower": 20,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "节日的钟声已经敲响，派对升级，更强的舞伴纷纷登场！\n可别在玩闹中忘记正事，寻找那些失散的礼物吧！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73104,500,1],[32000,100,1],[73104,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "2010107": {
+    "Id": 2010107,
+    "ActivityId": 2010101,
+    "DayOpen": 1,
+    "Name": "雪愿夜的奇境冒险Ⅵ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 7,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 2010106,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300407,
+    "PreviewMonsterGroupId": 300407,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 11,
+    "SuggestedPower": 25,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "节日的钟声已经敲响，派对升级，更强的舞伴纷纷登场！\n可别在玩闹中忘记正事，寻找那些失散的礼物吧！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73104,500,1],[1,2000000,1],[73104,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "2010108": {
+    "Id": 2010108,
+    "ActivityId": 2010101,
+    "DayOpen": 1,
+    "Name": "雪夜颂歌与怪诞暖炉Ⅰ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 8,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 2010107,
+    "PreLevelStar": 1,
+    "PreActivityStory": [
+      2010102,
+      201010213
+    ],
+    "FloorId": 300408,
+    "PreviewMonsterGroupId": 300408,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 12,
+    "SuggestedPower": 30,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      150
+    ],
+    "TwoStarCondition": [
+      120
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "150秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于30秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于60秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "魔法唤醒了器物，取暖的火炉也想要你手里的礼物。\n直面它的挑战，守护你所得到的礼物吧！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,200,1],[73104,800,1],[32000,200,1],[73104,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "2010201": {
+    "Id": 2010201,
+    "ActivityId": 2010101,
+    "DayOpen": 6,
+    "Name": "狂欢前奏曲Ⅰ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 2,
+    "Difficulty": 1,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 2010108,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300409,
+    "PreviewMonsterGroupId": 300409,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 14,
+    "SuggestedPower": 45,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "礼物已经就位，餐点也摆放上桌！\n但在派对开始之前，还有一些扰人的家伙需要处理！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,180,1],[73104,800,1],[32000,100,1],[1,500000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "2010202": {
+    "Id": 2010202,
+    "ActivityId": 2010101,
+    "DayOpen": 6,
+    "Name": "出逃的礼物车Ⅱ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 2,
+    "Difficulty": 2,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 2010201,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300410,
+    "PreviewMonsterGroupId": 300410,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 16,
+    "SuggestedPower": 50,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "礼物车偏离了派送礼物的轨迹，这是否有些异常？\n发现了！又是偷礼物的夏洛克！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,180,1],[73104,800,1],[32000,100,1],[1,1000000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "2010203": {
+    "Id": 2010203,
+    "ActivityId": 2010101,
+    "DayOpen": 6,
+    "Name": "狂欢前奏曲Ⅱ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 2,
+    "Difficulty": 3,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 2010202,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300411,
+    "PreviewMonsterGroupId": 300411,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 18,
+    "SuggestedPower": 55,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "礼物已经就位，餐点也摆放上桌！\n但在派对开始之前，还有一些扰人的家伙需要处理！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,180,1],[73104,800,1],[32000,100,1],[1,1500000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "2010204": {
+    "Id": 2010204,
+    "ActivityId": 2010101,
+    "DayOpen": 6,
+    "Name": "雪夜颂歌与怪诞暖炉Ⅱ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 2,
+    "Difficulty": 4,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 2010203,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300412,
+    "PreviewMonsterGroupId": 300412,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 20,
+    "SuggestedPower": 60,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      150
+    ],
+    "TwoStarCondition": [
+      120
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "150秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于30秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于60秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "得不到礼物的器物被魔法侵蚀，它不会放过阻拦它的人！\n它已经变成星骸了，击败它是你的使命！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,320,1],[73104,1000,1],[32000,300,1],[1,2000000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "2010301": {
+    "Id": 2010301,
+    "ActivityId": 2010101,
+    "DayOpen": 7,
+    "Name": "不歇派对Ⅰ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 4,
+    "Difficulty": 1,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 2010204,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300413,
+    "PreviewMonsterGroupId": 300413,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 28,
+    "SuggestedPower": 90,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "是幻境还是现实？！或许只有等派对结束才能知晓。\n在这场奇境冒险的最末，击败这些星骸，等候零点钟声带来的答案！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73104,500,1],[1,500000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "2010302": {
+    "Id": 2010302,
+    "ActivityId": 2010101,
+    "DayOpen": 7,
+    "Name": "不歇派对Ⅱ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 4,
+    "Difficulty": 2,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 2010301,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300414,
+    "PreviewMonsterGroupId": 300414,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 28,
+    "SuggestedPower": 90,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "是幻境还是现实？！或许只有等派对结束才能知晓。\n在这场奇境冒险的最末，击败这些星骸，等候零点钟声带来的答案！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73104,500,1],[1,500000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "2010303": {
+    "Id": 2010303,
+    "ActivityId": 2010101,
+    "DayOpen": 7,
+    "Name": "出逃的礼物车Ⅲ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 4,
+    "Difficulty": 3,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 2010302,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300415,
+    "PreviewMonsterGroupId": 300415,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 28,
+    "SuggestedPower": 90,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "屡教不改的夏洛克又在偷礼物！\n破坏它的计划，夺回小推车上的礼物！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73104,500,1],[1,500000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "2010304": {
+    "Id": 2010304,
+    "ActivityId": 2010101,
+    "DayOpen": 7,
+    "Name": "雪夜颂歌与怪诞暖炉Ⅲ",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 4,
+    "Difficulty": 4,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 2010303,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300416,
+    "PreviewMonsterGroupId": 300416,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 28,
+    "SuggestedPower": 90,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      150
+    ],
+    "TwoStarCondition": [
+      120
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "150秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于30秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于60秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "怪诞暖炉紧盯着你手里的礼物，它绝不会放弃，它将让你看到它的决心！\n注意安全，不要小看星骸的执念！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73104,500,1],[1,500000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "1030101": {
+    "Id": 1030101,
+    "ActivityId": 1010301,
+    "DayOpen": 0,
+    "Name": "深入温室的调查I",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 1,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 0,
+    "PreLevelStar": 0,
+    "PreActivityStory": [],
+    "FloorId": 300501,
+    "PreviewMonsterGroupId": 300501,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 5,
+    "SuggestedPower": 10,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "温室中隐藏着不为人知的秘密。\n前往探查一番吧。",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73105,500,1],[1,500000,1],[73105,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1030102": {
+    "Id": 1030102,
+    "ActivityId": 1010301,
+    "DayOpen": 0,
+    "Name": "深入温室的调查II",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 2,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1030101,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300502,
+    "PreviewMonsterGroupId": 300502,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 6,
+    "SuggestedPower": 10,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "温室中隐藏着不为人知的秘密。\n前往探查一番吧。",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73105,500,1],[32000,100,1],[73105,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1030103": {
+    "Id": 1030103,
+    "ActivityId": 1010301,
+    "DayOpen": 0,
+    "Name": "深入温室的调查III",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 3,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1030102,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300503,
+    "PreviewMonsterGroupId": 300503,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 7,
+    "SuggestedPower": 15,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "温室中隐藏着不为人知的秘密。\n前往探查一番吧。",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73105,500,1],[1,1000000,1],[73105,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1030104": {
+    "Id": 1030104,
+    "ActivityId": 1010301,
+    "DayOpen": 0,
+    "Name": "秘密的果实I",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 4,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1030103,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300504,
+    "PreviewMonsterGroupId": 300504,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 8,
+    "SuggestedPower": 15,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "实验室里培育的智慧植物的用途是……？\n总之，先消除这些威胁吧。",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73105,500,1],[32000,100,1],[73105,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1030105": {
+    "Id": 1030105,
+    "ActivityId": 1010301,
+    "DayOpen": 1,
+    "Name": "秘密的果实II",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 5,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1030104,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300505,
+    "PreviewMonsterGroupId": 300505,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 9,
+    "SuggestedPower": 20,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "实验室里培育的智慧植物的用途是……？\n总之，先消除这些威胁吧。",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73105,500,1],[1,1200000,1],[73105,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1030106": {
+    "Id": 1030106,
+    "ActivityId": 1010301,
+    "DayOpen": 1,
+    "Name": "秘密的果实III",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 6,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1030105,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300506,
+    "PreviewMonsterGroupId": 300506,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 10,
+    "SuggestedPower": 20,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "实验室里培育的智慧植物的用途是……？\n总之，先消除这些威胁吧。",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73105,500,1],[32000,100,1],[73105,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1030107": {
+    "Id": 1030107,
+    "ActivityId": 1010301,
+    "DayOpen": 1,
+    "Name": "秘密的果实IV",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 7,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1030106,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300507,
+    "PreviewMonsterGroupId": 300507,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 11,
+    "SuggestedPower": 25,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "实验室里培育的智慧植物的用途是……？\n总之，先消除这些威胁吧。",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73105,500,1],[1,2000000,1],[73105,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1030108": {
+    "Id": 1030108,
+    "ActivityId": 1010301,
+    "DayOpen": 1,
+    "Name": "致命魔术I",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 1,
+    "Difficulty": 8,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": true,
+    "PreLevelId": 1030107,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300508,
+    "PreviewMonsterGroupId": 300508,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 12,
+    "SuggestedPower": 30,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      150
+    ],
+    "TwoStarCondition": [
+      120
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "150秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于30秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于60秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "这是在进行……空间行者的传送魔法实验吗？\n星骸极度危险，在事故发生前尽早处置吧！",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,200,1],[73105,800,1],[32000,200,1],[73105,500,0]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": true
+  },
+  "1030201": {
+    "Id": 1030201,
+    "ActivityId": 1010301,
+    "DayOpen": 6,
+    "Name": "危险荆棘I",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 2,
+    "Difficulty": 1,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 1030108,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300509,
+    "PreviewMonsterGroupId": 300509,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 14,
+    "SuggestedPower": 45,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "实验室里正在进行危险的生物作战实验。\n在事态扩大前解决这些危机。",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,180,1],[73105,800,1],[32000,100,1],[1,500000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "1030202": {
+    "Id": 1030202,
+    "ActivityId": 1010301,
+    "DayOpen": 6,
+    "Name": "危险荆棘II",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 2,
+    "Difficulty": 2,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 1030201,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300510,
+    "PreviewMonsterGroupId": 300510,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 16,
+    "SuggestedPower": 50,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "实验室里正在进行危险的生物作战实验。\n在事态扩大前解决这些危机。",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,180,1],[73105,800,1],[32000,100,1],[1,1000000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "1030203": {
+    "Id": 1030203,
+    "ActivityId": 1010301,
+    "DayOpen": 6,
+    "Name": "危险荆棘III",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 2,
+    "Difficulty": 3,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 1030202,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300511,
+    "PreviewMonsterGroupId": 300511,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 18,
+    "SuggestedPower": 55,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "实验室里正在进行危险的生物作战实验。\n在事态扩大前解决这些危机。",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,180,1],[73105,800,1],[32000,100,1],[1,1500000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "1030204": {
+    "Id": 1030204,
+    "ActivityId": 1010301,
+    "DayOpen": 6,
+    "Name": "致命魔术II",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 2,
+    "Difficulty": 4,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 1030203,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300512,
+    "PreviewMonsterGroupId": 300512,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 20,
+    "SuggestedPower": 60,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      150
+    ],
+    "TwoStarCondition": [
+      120
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "150秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于30秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于60秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "滥用传送魔法可能导致溃塌或其他灾难性后果，\n阻止这项危险的研究。",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,320,1],[73105,1000,1],[32000,300,1],[1,2000000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "1030301": {
+    "Id": 1030301,
+    "ActivityId": 1010301,
+    "DayOpen": 7,
+    "Name": "真相的金丝笼I",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 4,
+    "Difficulty": 1,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 1030204,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300513,
+    "PreviewMonsterGroupId": 300513,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 28,
+    "SuggestedPower": 90,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "培育兵器化植物的研究，将会引发一场不可控的公司战争。在擦枪走火前，先从内部打破这个阴谋吧。",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73105,500,1],[1,500000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "1030302": {
+    "Id": 1030302,
+    "ActivityId": 1010301,
+    "DayOpen": 7,
+    "Name": "真相的金丝笼II",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 4,
+    "Difficulty": 2,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 1030301,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300514,
+    "PreviewMonsterGroupId": 300514,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 28,
+    "SuggestedPower": 90,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "培育兵器化植物的研究，将会引发一场不可控的公司战争。在擦枪走火前，先从内部打破这个阴谋吧。",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73105,500,1],[1,500000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "1030303": {
+    "Id": 1030303,
+    "ActivityId": 1010301,
+    "DayOpen": 7,
+    "Name": "真相的金丝笼III",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 4,
+    "Difficulty": 3,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 1030302,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300515,
+    "PreviewMonsterGroupId": 300515,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 28,
+    "SuggestedPower": 90,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      120
+    ],
+    "TwoStarCondition": [
+      100
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "120秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于20秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于30秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "培育兵器化植物的研究，将会引发一场不可控的公司战争。在擦枪走火前，先从内部打破这个阴谋吧。",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73105,500,1],[1,500000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  },
+  "1030304": {
+    "Id": 1030304,
+    "ActivityId": 1010301,
+    "DayOpen": 7,
+    "Name": "致命魔术III",
+    "HasName": true,
+    "IconRes": "",
+    "HasIconRes": false,
+    "Type": 4,
+    "Difficulty": 4,
+    "EnergyConsume": 30,
+    "EnergyConsumeOnRetry": false,
+    "PreLevelId": 1030303,
+    "PreLevelStar": 1,
+    "PreActivityStory": [],
+    "FloorId": 300516,
+    "PreviewMonsterGroupId": 300516,
+    "EET": [
+      7
+    ],
+    "RecommendBuildRank": 28,
+    "SuggestedPower": 90,
+    "StarConditionType": 3,
+    "OneStarCondition": [
+      150
+    ],
+    "TwoStarCondition": [
+      120
+    ],
+    "ThreeStarCondition": [
+      90
+    ],
+    "OneStarDesc": "150秒内成功通关",
+    "HasOneStarDesc": true,
+    "TwoStarDesc": "剩余时间大于30秒通关",
+    "HasTwoStarDesc": true,
+    "ThreeStarDesc": "剩余时间大于60秒通关",
+    "HasThreeStarDesc": true,
+    "Desc": "空间行者似乎被激怒了，它即将进入不受控的状态。\n保护好自己，不要跌入空间的深渊。",
+    "HasDesc": true,
+    "CompleteRewardPreview": "[[2,100,1],[73105,500,1],[1,500000,1]]",
+    "HasCompleteRewardPreview": true,
+    "ThreeStarSweep": false
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "400001": {
+    "Id": 400001,
+    "UIAssets": "CookieAct",
+    "HasUIAssets": true,
+    "CtrlName": "CookieActCtrl",
+    "HasCtrlName": true,
+    "RewardsShow": "[2,214039,116001,502,503,20053,35000,32013,20083,21083,30004,50004,29,33032,33042,33062,1]",
+    "HasRewardsShow": true,
+    "DesText": "",
+    "HasDesText": false,
+    "NotifyMailDaysBeforeClose": 0,
+    "BGM": "",
+    "HasBGM": false
+  },
+  "400004": {
+    "Id": 400004,
+    "UIAssets": "CookieAct",
+    "HasUIAssets": true,
+    "CtrlName": "CookieActCtrl",
+    "HasCtrlName": true,
+    "RewardsShow": "[2,214039,116001,502,503,20053,35000,32013,20083,21083,30004,50004,29,33032,33042,33062,1]",
+    "HasRewardsShow": true,
+    "DesText": "",
+    "HasDesText": false,
+    "NotifyMailDaysBeforeClose": 0,
+    "BGM": "",
+    "HasBGM": false
+  }
+}

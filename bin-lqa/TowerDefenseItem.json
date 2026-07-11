@@ -1,0 +1,32 @@
+{
+  "1001": {
+    "Id": 1001,
+    "Name": "酷脆刨冰",
+    "HasName": true,
+    "Des": "转动刨冰杯，降下一大片冰冻雪阵！",
+    "HasDes": true,
+    "Amount": 0,
+    "Cd": 15,
+    "Script": "AIScript.TowerDefenseItem_AreaEffect_IceArea",
+    "HasScript": true,
+    "CardIcon": "UI/Play_TowerDefence/SpriteAtlas/Item/icon_tower_defense_Item_1",
+    "HasCardIcon": true,
+    "Head": "Icon/Item/item_tf_1",
+    "HasHead": true
+  },
+  "1011": {
+    "Id": 1011,
+    "Name": "大瓶装能量沛沛",
+    "HasName": true,
+    "Des": "一大口能量沛沛，活力更是超级加倍充沛！",
+    "HasDes": true,
+    "Amount": 8,
+    "Cd": 8,
+    "Script": "AIScript.TowerDefenseItem_EnergyCapsule",
+    "HasScript": true,
+    "CardIcon": "UI/Play_TowerDefence/SpriteAtlas/Item/icon_tower_defense_Item_2",
+    "HasCardIcon": true,
+    "Head": "Icon/Item/item_tf_2",
+    "HasHead": true
+  }
+}
