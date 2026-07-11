@@ -1,0 +1,32 @@
+{
+  "1001": {
+    "Id": 1001,
+    "Name": "酷脆刨冰",
+    "Des": "转动刨冰杯，降下一大片冰冻雪阵！",
+    "Amount": 0,
+    "Cd": 15,
+    "Script": "AIScript.TowerDefenseItem_AreaEffect_IceArea",
+    "CardIcon": "UI/Play_TowerDefence/SpriteAtlas/Item/icon_tower_defense_Item_1",
+    "Head": "Icon/Item/item_tf_1"
+  },
+  "1011": {
+    "Id": 1011,
+    "Name": "大瓶装能量沛沛",
+    "Des": "一大口能量沛沛，活力更是超级加倍充沛！",
+    "Amount": 8,
+    "Cd": 8,
+    "Script": "AIScript.TowerDefenseItem_EnergyCapsule",
+    "CardIcon": "UI/Play_TowerDefence/SpriteAtlas/Item/icon_tower_defense_Item_2",
+    "Head": "Icon/Item/item_tf_2"
+  },
+  "1021": {
+    "Id": 1021,
+    "Name": "杂草抑制剂",
+    "Des": "消除一片区域内的草丛！",
+    "Amount": 0,
+    "Cd": 6,
+    "Script": "AIScript.TowerDefenseItem_Herbicide",
+    "CardIcon": "UI/Play_TowerDefence/SpriteAtlas/Item/icon_tower_defense_Item_3",
+    "Head": "Icon/Item/item_tf_3"
+  }
+}

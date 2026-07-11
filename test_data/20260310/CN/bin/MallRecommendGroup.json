@@ -1,0 +1,51 @@
+{
+  "1001": {
+    "Id": "1001",
+    "Sort": 1,
+    "PackageList": [
+      "pack.first",
+      "pack.sr"
+    ],
+    "Name": "MallRecommendGroup.1001.1"
+  },
+  "1002": {
+    "Id": "1002",
+    "Sort": 2,
+    "PackageList": [
+      "pack.08_role",
+      "pack.08_role_s",
+      "pack.08_role_l",
+      "pack.08_gift",
+      "pack.08_res"
+    ],
+    "Name": "MallRecommendGroup.1002.1"
+  },
+  "1003": {
+    "Id": "1003",
+    "Sort": 3,
+    "PackageList": [
+      "pack.08_disc",
+      "pack.08_disc_s",
+      "pack.08_disc_l"
+    ],
+    "Name": "MallRecommendGroup.1003.1"
+  },
+  "1004": {
+    "Id": "1004",
+    "Sort": 5,
+    "PackageList": [
+      "pack.01_role_m",
+      "pack.01_role_w"
+    ],
+    "Name": "MallRecommendGroup.1004.1"
+  },
+  "1005": {
+    "Id": "1005",
+    "Sort": 4,
+    "PackageList": [
+      "pack.01_disc_m",
+      "pack.01_disc_w"
+    ],
+    "Name": "MallRecommendGroup.1005.1"
+  }
+}

@@ -1,0 +1,2132 @@
+{
+  "103": {
+    "Id": 103,
+    "Name": "TrialCharacter.103.1",
+    "CharId": 103,
+    "CharacterSkin": 10302,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "106": {
+    "Id": 106,
+    "Name": "TrialCharacter.106.1",
+    "CharId": 106,
+    "CharacterSkin": 10602,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "107": {
+    "Id": 107,
+    "Name": "TrialCharacter.107.1",
+    "CharId": 107,
+    "CharacterSkin": 10702,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "108": {
+    "Id": 108,
+    "Name": "TrialCharacter.108.1",
+    "CharId": 108,
+    "CharacterSkin": 10802,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "109": {
+    "Id": 109,
+    "Name": "TrialCharacter.109.1",
+    "CharId": 109,
+    "CharacterSkin": 10902,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "110": {
+    "Id": 110,
+    "Name": "TrialCharacter.110.1",
+    "CharId": 110,
+    "CharacterSkin": 11002,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "111": {
+    "Id": 111,
+    "Name": "TrialCharacter.111.1",
+    "CharId": 111,
+    "CharacterSkin": 11102,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "112": {
+    "Id": 112,
+    "Name": "TrialCharacter.112.1",
+    "CharId": 112,
+    "CharacterSkin": 11202,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "113": {
+    "Id": 113,
+    "Name": "TrialCharacter.113.1",
+    "CharId": 113,
+    "CharacterSkin": 11302,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "114": {
+    "Id": 114,
+    "Name": "TrialCharacter.114.1",
+    "CharId": 114,
+    "CharacterSkin": 11402,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "115": {
+    "Id": 115,
+    "Name": "TrialCharacter.115.1",
+    "CharId": 115,
+    "CharacterSkin": 11502,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "116": {
+    "Id": 116,
+    "Name": "TrialCharacter.116.1",
+    "CharId": 116,
+    "CharacterSkin": 11602,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "117": {
+    "Id": 117,
+    "Name": "TrialCharacter.117.1",
+    "CharId": 117,
+    "CharacterSkin": 11702,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "118": {
+    "Id": 118,
+    "Name": "TrialCharacter.118.1",
+    "CharId": 118,
+    "CharacterSkin": 11802,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "119": {
+    "Id": 119,
+    "Name": "TrialCharacter.119.1",
+    "CharId": 119,
+    "CharacterSkin": 11902,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "120": {
+    "Id": 120,
+    "Name": "TrialCharacter.120.1",
+    "CharId": 120,
+    "CharacterSkin": 12002,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "123": {
+    "Id": 123,
+    "Name": "TrialCharacter.123.1",
+    "CharId": 123,
+    "CharacterSkin": 12302,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "125": {
+    "Id": 125,
+    "Name": "TrialCharacter.125.1",
+    "CharId": 125,
+    "CharacterSkin": 12502,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "126": {
+    "Id": 126,
+    "Name": "TrialCharacter.126.1",
+    "CharId": 126,
+    "CharacterSkin": 12602,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "127": {
+    "Id": 127,
+    "Name": "TrialCharacter.127.1",
+    "CharId": 127,
+    "CharacterSkin": 12702,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "129": {
+    "Id": 129,
+    "Name": "TrialCharacter.129.1",
+    "CharId": 129,
+    "CharacterSkin": 12902,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "130": {
+    "Id": 130,
+    "Name": "TrialCharacter.130.1",
+    "CharId": 130,
+    "CharacterSkin": 13002,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "132": {
+    "Id": 132,
+    "Name": "TrialCharacter.132.1",
+    "CharId": 132,
+    "CharacterSkin": 13202,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "133": {
+    "Id": 133,
+    "Name": "TrialCharacter.133.1",
+    "CharId": 133,
+    "CharacterSkin": 13302,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "134": {
+    "Id": 134,
+    "Name": "TrialCharacter.134.1",
+    "CharId": 134,
+    "CharacterSkin": 13402,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "135": {
+    "Id": 135,
+    "Name": "TrialCharacter.135.1",
+    "CharId": 135,
+    "CharacterSkin": 13502,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "136": {
+    "Id": 136,
+    "Name": "TrialCharacter.136.1",
+    "CharId": 136,
+    "CharacterSkin": 13602,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "141": {
+    "Id": 141,
+    "Name": "TrialCharacter.141.1",
+    "CharId": 141,
+    "CharacterSkin": 14102,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "142": {
+    "Id": 142,
+    "Name": "TrialCharacter.142.1",
+    "CharId": 142,
+    "CharacterSkin": 14202,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "143": {
+    "Id": 143,
+    "Name": "TrialCharacter.143.1",
+    "CharId": 143,
+    "CharacterSkin": 14302,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "144": {
+    "Id": 144,
+    "Name": "TrialCharacter.144.1",
+    "CharId": 144,
+    "CharacterSkin": 14402,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "145": {
+    "Id": 145,
+    "Name": "TrialCharacter.145.1",
+    "CharId": 145,
+    "CharacterSkin": 14502,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "147": {
+    "Id": 147,
+    "Name": "TrialCharacter.147.1",
+    "CharId": 147,
+    "CharacterSkin": 14702,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "149": {
+    "Id": 149,
+    "Name": "TrialCharacter.149.1",
+    "CharId": 149,
+    "CharacterSkin": 14902,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "150": {
+    "Id": 150,
+    "Name": "TrialCharacter.150.1",
+    "CharId": 150,
+    "CharacterSkin": 15002,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "155": {
+    "Id": 155,
+    "Name": "TrialCharacter.155.1",
+    "CharId": 155,
+    "CharacterSkin": 15502,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "156": {
+    "Id": 156,
+    "Name": "TrialCharacter.156.1",
+    "CharId": 156,
+    "CharacterSkin": 15602,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "158": {
+    "Id": 158,
+    "Name": "TrialCharacter.158.1",
+    "CharId": 158,
+    "CharacterSkin": 15802,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "159": {
+    "Id": 159,
+    "Name": "TrialCharacter.159.1",
+    "CharId": 159,
+    "CharacterSkin": 15902,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "31601": {
+    "Id": 31601,
+    "Name": "TrialCharacter.31601.1",
+    "CharId": 134,
+    "CharacterSkin": 13401,
+    "Break": 0,
+    "Level": 10,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "31602": {
+    "Id": 31602,
+    "Name": "TrialCharacter.31602.1",
+    "CharId": 103,
+    "CharacterSkin": 10301,
+    "Break": 0,
+    "Level": 10,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "31603": {
+    "Id": 31603,
+    "Name": "TrialCharacter.31603.1",
+    "CharId": 112,
+    "CharacterSkin": 11201,
+    "Break": 0,
+    "Level": 10,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "31901": {
+    "Id": 31901,
+    "Name": "TrialCharacter.31901.1",
+    "CharId": 134,
+    "CharacterSkin": 13401,
+    "Break": 0,
+    "Level": 10,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "31902": {
+    "Id": 31902,
+    "Name": "TrialCharacter.31902.1",
+    "CharId": 103,
+    "CharacterSkin": 10301,
+    "Break": 0,
+    "Level": 10,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "31903": {
+    "Id": 31903,
+    "Name": "TrialCharacter.31903.1",
+    "CharId": 112,
+    "CharacterSkin": 11201,
+    "Break": 0,
+    "Level": 10,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "10101": {
+    "Id": 10101,
+    "Name": "TrialCharacter.10101.1",
+    "CharId": 112,
+    "CharacterSkin": 11201,
+    "Break": 0,
+    "Level": 1,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "10102": {
+    "Id": 10102,
+    "Name": "TrialCharacter.10102.1",
+    "CharId": 111,
+    "CharacterSkin": 11101,
+    "Break": 0,
+    "Level": 1,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "10103": {
+    "Id": 10103,
+    "Name": "TrialCharacter.10103.1",
+    "CharId": 103,
+    "CharacterSkin": 10301,
+    "Break": 0,
+    "Level": 1,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "20101": {
+    "Id": 20101,
+    "Name": "TrialCharacter.20101.1",
+    "CharId": 112,
+    "CharacterSkin": 11201,
+    "Break": 0,
+    "Level": 10,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "20102": {
+    "Id": 20102,
+    "Name": "TrialCharacter.20102.1",
+    "CharId": 111,
+    "CharacterSkin": 11101,
+    "Break": 0,
+    "Level": 10,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "20103": {
+    "Id": 20103,
+    "Name": "TrialCharacter.20103.1",
+    "CharId": 103,
+    "CharacterSkin": 10301,
+    "Break": 0,
+    "Level": 10,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "20201": {
+    "Id": 20201,
+    "Name": "TrialCharacter.20201.1",
+    "CharId": 144,
+    "CharacterSkin": 14401,
+    "Break": 0,
+    "Level": 10,
+    "SkillLevel": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "Talent": []
+  },
+  "20202": {
+    "Id": 20202,
+    "Name": "TrialCharacter.20202.1",
+    "CharId": 111,
+    "CharacterSkin": 11101,
+    "Break": 0,
+    "Level": 10,
+    "SkillLevel": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "Talent": []
+  },
+  "20203": {
+    "Id": 20203,
+    "Name": "TrialCharacter.20203.1",
+    "CharId": 112,
+    "CharacterSkin": 11201,
+    "Break": 0,
+    "Level": 10,
+    "SkillLevel": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "Talent": []
+  },
+  "20301": {
+    "Id": 20301,
+    "Name": "TrialCharacter.20301.1",
+    "CharId": 132,
+    "CharacterSkin": 13201,
+    "Break": 1,
+    "Level": 20,
+    "SkillLevel": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "Talent": []
+  },
+  "20302": {
+    "Id": 20302,
+    "Name": "TrialCharacter.20302.1",
+    "CharId": 111,
+    "CharacterSkin": 11101,
+    "Break": 1,
+    "Level": 20,
+    "SkillLevel": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "Talent": []
+  },
+  "20303": {
+    "Id": 20303,
+    "Name": "TrialCharacter.20303.1",
+    "CharId": 103,
+    "CharacterSkin": 10301,
+    "Break": 1,
+    "Level": 20,
+    "SkillLevel": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "Talent": []
+  },
+  "30101": {
+    "Id": 30101,
+    "Name": "TrialCharacter.30101.1",
+    "CharId": 134,
+    "CharacterSkin": 13401,
+    "Break": 0,
+    "Level": 1,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "30201": {
+    "Id": 30201,
+    "Name": "TrialCharacter.30201.1",
+    "CharId": 134,
+    "CharacterSkin": 13401,
+    "Break": 0,
+    "Level": 1,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "30202": {
+    "Id": 30202,
+    "Name": "TrialCharacter.30202.1",
+    "CharId": 133,
+    "CharacterSkin": 13301,
+    "Break": 0,
+    "Level": 1,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "30203": {
+    "Id": 30203,
+    "Name": "TrialCharacter.30203.1",
+    "CharId": 156,
+    "CharacterSkin": 15601,
+    "Break": 0,
+    "Level": 1,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "40101": {
+    "Id": 40101,
+    "Name": "TrialCharacter.40101.1",
+    "CharId": 133,
+    "CharacterSkin": 13301,
+    "Break": 0,
+    "Level": 1,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "40102": {
+    "Id": 40102,
+    "Name": "TrialCharacter.40102.1",
+    "CharId": 156,
+    "CharacterSkin": 15601,
+    "Break": 0,
+    "Level": 1,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "40103": {
+    "Id": 40103,
+    "Name": "TrialCharacter.40103.1",
+    "CharId": 134,
+    "CharacterSkin": 13401,
+    "Break": 0,
+    "Level": 1,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "40201": {
+    "Id": 40201,
+    "Name": "TrialCharacter.40201.1",
+    "CharId": 133,
+    "CharacterSkin": 13301,
+    "Break": 0,
+    "Level": 1,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "40202": {
+    "Id": 40202,
+    "Name": "TrialCharacter.40202.1",
+    "CharId": 156,
+    "CharacterSkin": 15601,
+    "Break": 0,
+    "Level": 1,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "40203": {
+    "Id": 40203,
+    "Name": "TrialCharacter.40203.1",
+    "CharId": 134,
+    "CharacterSkin": 13401,
+    "Break": 0,
+    "Level": 1,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "50101": {
+    "Id": 50101,
+    "Name": "TrialCharacter.50101.1",
+    "CharId": 134,
+    "CharacterSkin": 13401,
+    "Break": 1,
+    "Level": 20,
+    "SkillLevel": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "Talent": []
+  },
+  "50102": {
+    "Id": 50102,
+    "Name": "TrialCharacter.50102.1",
+    "CharId": 112,
+    "CharacterSkin": 11201,
+    "Break": 1,
+    "Level": 20,
+    "SkillLevel": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "Talent": []
+  },
+  "50201": {
+    "Id": 50201,
+    "Name": "TrialCharacter.50201.1",
+    "CharId": 134,
+    "CharacterSkin": 13401,
+    "Break": 1,
+    "Level": 20,
+    "SkillLevel": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "Talent": []
+  },
+  "50202": {
+    "Id": 50202,
+    "Name": "TrialCharacter.50202.1",
+    "CharId": 135,
+    "CharacterSkin": 13501,
+    "Break": 1,
+    "Level": 20,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "50203": {
+    "Id": 50203,
+    "Name": "TrialCharacter.50203.1",
+    "CharId": 111,
+    "CharacterSkin": 11101,
+    "Break": 1,
+    "Level": 20,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "50301": {
+    "Id": 50301,
+    "Name": "TrialCharacter.50301.1",
+    "CharId": 135,
+    "CharacterSkin": 13501,
+    "Break": 1,
+    "Level": 20,
+    "SkillLevel": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "Talent": []
+  },
+  "60101": {
+    "Id": 60101,
+    "Name": "TrialCharacter.60101.1",
+    "CharId": 134,
+    "CharacterSkin": 13403,
+    "Break": 2,
+    "Level": 30,
+    "SkillLevel": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Talent": []
+  },
+  "60102": {
+    "Id": 60102,
+    "Name": "TrialCharacter.60102.1",
+    "CharId": 103,
+    "CharacterSkin": 10301,
+    "Break": 2,
+    "Level": 30,
+    "SkillLevel": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Talent": []
+  },
+  "60103": {
+    "Id": 60103,
+    "Name": "TrialCharacter.60103.1",
+    "CharId": 111,
+    "CharacterSkin": 11101,
+    "Break": 2,
+    "Level": 30,
+    "SkillLevel": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Talent": []
+  },
+  "60201": {
+    "Id": 60201,
+    "Name": "TrialCharacter.60201.1",
+    "CharId": 110,
+    "CharacterSkin": 11001,
+    "Break": 2,
+    "Level": 30,
+    "SkillLevel": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Talent": []
+  },
+  "60202": {
+    "Id": 60202,
+    "Name": "TrialCharacter.60202.1",
+    "CharId": 133,
+    "CharacterSkin": 13301,
+    "Break": 2,
+    "Level": 30,
+    "SkillLevel": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Talent": []
+  },
+  "60203": {
+    "Id": 60203,
+    "Name": "TrialCharacter.60203.1",
+    "CharId": 156,
+    "CharacterSkin": 15601,
+    "Break": 2,
+    "Level": 30,
+    "SkillLevel": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Talent": []
+  },
+  "60301": {
+    "Id": 60301,
+    "Name": "TrialCharacter.60301.1",
+    "CharId": 110,
+    "CharacterSkin": 11001,
+    "Break": 2,
+    "Level": 30,
+    "SkillLevel": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Talent": []
+  },
+  "10301": {
+    "Id": 10301,
+    "Name": "TrialCharacter.10301.1",
+    "CharId": 103,
+    "CharacterSkin": 10301,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "10601": {
+    "Id": 10601,
+    "Name": "TrialCharacter.10601.1",
+    "CharId": 106,
+    "CharacterSkin": 10601,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "10701": {
+    "Id": 10701,
+    "Name": "TrialCharacter.10701.1",
+    "CharId": 107,
+    "CharacterSkin": 10701,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "10801": {
+    "Id": 10801,
+    "Name": "TrialCharacter.10801.1",
+    "CharId": 108,
+    "CharacterSkin": 10801,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "10901": {
+    "Id": 10901,
+    "Name": "TrialCharacter.10901.1",
+    "CharId": 109,
+    "CharacterSkin": 10901,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "11001": {
+    "Id": 11001,
+    "Name": "TrialCharacter.11001.1",
+    "CharId": 110,
+    "CharacterSkin": 11001,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "11101": {
+    "Id": 11101,
+    "Name": "TrialCharacter.11101.1",
+    "CharId": 111,
+    "CharacterSkin": 11101,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "11201": {
+    "Id": 11201,
+    "Name": "TrialCharacter.11201.1",
+    "CharId": 112,
+    "CharacterSkin": 11201,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "11301": {
+    "Id": 11301,
+    "Name": "TrialCharacter.11301.1",
+    "CharId": 113,
+    "CharacterSkin": 11301,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "11401": {
+    "Id": 11401,
+    "Name": "TrialCharacter.11401.1",
+    "CharId": 114,
+    "CharacterSkin": 11401,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "11501": {
+    "Id": 11501,
+    "Name": "TrialCharacter.11501.1",
+    "CharId": 115,
+    "CharacterSkin": 11501,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "11601": {
+    "Id": 11601,
+    "Name": "TrialCharacter.11601.1",
+    "CharId": 116,
+    "CharacterSkin": 11601,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "11701": {
+    "Id": 11701,
+    "Name": "TrialCharacter.11701.1",
+    "CharId": 117,
+    "CharacterSkin": 11701,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "11801": {
+    "Id": 11801,
+    "Name": "TrialCharacter.11801.1",
+    "CharId": 118,
+    "CharacterSkin": 11801,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "11901": {
+    "Id": 11901,
+    "Name": "TrialCharacter.11901.1",
+    "CharId": 119,
+    "CharacterSkin": 11901,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "12001": {
+    "Id": 12001,
+    "Name": "TrialCharacter.12001.1",
+    "CharId": 120,
+    "CharacterSkin": 12001,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "12301": {
+    "Id": 12301,
+    "Name": "TrialCharacter.12301.1",
+    "CharId": 123,
+    "CharacterSkin": 12301,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "12501": {
+    "Id": 12501,
+    "Name": "TrialCharacter.12501.1",
+    "CharId": 125,
+    "CharacterSkin": 12501,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "12601": {
+    "Id": 12601,
+    "Name": "TrialCharacter.12601.1",
+    "CharId": 126,
+    "CharacterSkin": 12601,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "12701": {
+    "Id": 12701,
+    "Name": "TrialCharacter.12701.1",
+    "CharId": 127,
+    "CharacterSkin": 12701,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "12901": {
+    "Id": 12901,
+    "Name": "TrialCharacter.12901.1",
+    "CharId": 129,
+    "CharacterSkin": 12901,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "13001": {
+    "Id": 13001,
+    "Name": "TrialCharacter.13001.1",
+    "CharId": 130,
+    "CharacterSkin": 13001,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "13201": {
+    "Id": 13201,
+    "Name": "TrialCharacter.13201.1",
+    "CharId": 132,
+    "CharacterSkin": 13201,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "13301": {
+    "Id": 13301,
+    "Name": "TrialCharacter.13301.1",
+    "CharId": 133,
+    "CharacterSkin": 13301,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "13401": {
+    "Id": 13401,
+    "Name": "TrialCharacter.13401.1",
+    "CharId": 134,
+    "CharacterSkin": 13401,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "13501": {
+    "Id": 13501,
+    "Name": "TrialCharacter.13501.1",
+    "CharId": 135,
+    "CharacterSkin": 13501,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "13601": {
+    "Id": 13601,
+    "Name": "TrialCharacter.13601.1",
+    "CharId": 136,
+    "CharacterSkin": 13601,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "14001": {
+    "Id": 14001,
+    "Name": "TrialCharacter.14001.1",
+    "CharId": 140,
+    "CharacterSkin": 14001,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "14101": {
+    "Id": 14101,
+    "Name": "TrialCharacter.14101.1",
+    "CharId": 141,
+    "CharacterSkin": 14101,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "14201": {
+    "Id": 14201,
+    "Name": "TrialCharacter.14201.1",
+    "CharId": 142,
+    "CharacterSkin": 14201,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "14301": {
+    "Id": 14301,
+    "Name": "TrialCharacter.14301.1",
+    "CharId": 143,
+    "CharacterSkin": 14301,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "14401": {
+    "Id": 14401,
+    "Name": "TrialCharacter.14401.1",
+    "CharId": 144,
+    "CharacterSkin": 14401,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "14501": {
+    "Id": 14501,
+    "Name": "TrialCharacter.14501.1",
+    "CharId": 145,
+    "CharacterSkin": 14501,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "14701": {
+    "Id": 14701,
+    "Name": "TrialCharacter.14701.1",
+    "CharId": 147,
+    "CharacterSkin": 14701,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "14901": {
+    "Id": 14901,
+    "Name": "TrialCharacter.14901.1",
+    "CharId": 149,
+    "CharacterSkin": 14901,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "15001": {
+    "Id": 15001,
+    "Name": "TrialCharacter.15001.1",
+    "CharId": 150,
+    "CharacterSkin": 15001,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "15501": {
+    "Id": 15501,
+    "Name": "TrialCharacter.15501.1",
+    "CharId": 155,
+    "CharacterSkin": 15501,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "15601": {
+    "Id": 15601,
+    "Name": "TrialCharacter.15601.1",
+    "CharId": 156,
+    "CharacterSkin": 15601,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "15801": {
+    "Id": 15801,
+    "Name": "TrialCharacter.15801.1",
+    "CharId": 158,
+    "CharacterSkin": 15801,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "15901": {
+    "Id": 15901,
+    "Name": "TrialCharacter.15901.1",
+    "CharId": 159,
+    "CharacterSkin": 15901,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "121011": {
+    "Id": 121011,
+    "Name": "TrialCharacter.121011.1",
+    "CharId": 103,
+    "CharacterSkin": 10301,
+    "Break": 0,
+    "Level": 1,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "121031": {
+    "Id": 121031,
+    "Name": "TrialCharacter.121031.1",
+    "CharId": 112,
+    "CharacterSkin": 11201,
+    "Break": 0,
+    "Level": 1,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "121032": {
+    "Id": 121032,
+    "Name": "TrialCharacter.121032.1",
+    "CharId": 111,
+    "CharacterSkin": 11101,
+    "Break": 0,
+    "Level": 1,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "121041": {
+    "Id": 121041,
+    "Name": "TrialCharacter.121041.1",
+    "CharId": 103,
+    "CharacterSkin": 10301,
+    "Break": 0,
+    "Level": 1,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "121042": {
+    "Id": 121042,
+    "Name": "TrialCharacter.121042.1",
+    "CharId": 108,
+    "CharacterSkin": 10801,
+    "Break": 0,
+    "Level": 1,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "121043": {
+    "Id": 121043,
+    "Name": "TrialCharacter.121043.1",
+    "CharId": 126,
+    "CharacterSkin": 12601,
+    "Break": 0,
+    "Level": 1,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "200011": {
+    "Id": 200011,
+    "Name": "TrialCharacter.200011.1",
+    "CharId": 158,
+    "CharacterSkin": 15801,
+    "Break": 1,
+    "Level": 20,
+    "SkillLevel": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "Talent": []
+  },
+  "200021": {
+    "Id": 200021,
+    "Name": "TrialCharacter.200021.1",
+    "CharId": 159,
+    "CharacterSkin": 15901,
+    "Break": 2,
+    "Level": 30,
+    "SkillLevel": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "Talent": []
+  },
+  "200022": {
+    "Id": 200022,
+    "Name": "TrialCharacter.200022.1",
+    "CharId": 141,
+    "CharacterSkin": 14101,
+    "Break": 2,
+    "Level": 30,
+    "SkillLevel": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "Talent": []
+  },
+  "200023": {
+    "Id": 200023,
+    "Name": "TrialCharacter.200023.1",
+    "CharId": 113,
+    "CharacterSkin": 11301,
+    "Break": 2,
+    "Level": 30,
+    "SkillLevel": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "Talent": []
+  },
+  "200031": {
+    "Id": 200031,
+    "Name": "TrialCharacter.200031.1",
+    "CharId": 159,
+    "CharacterSkin": 15901,
+    "Break": 3,
+    "Level": 40,
+    "SkillLevel": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Talent": []
+  },
+  "200032": {
+    "Id": 200032,
+    "Name": "TrialCharacter.200032.1",
+    "CharId": 141,
+    "CharacterSkin": 14101,
+    "Break": 2,
+    "Level": 30,
+    "SkillLevel": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Talent": []
+  },
+  "200033": {
+    "Id": 200033,
+    "Name": "TrialCharacter.200033.1",
+    "CharId": 113,
+    "CharacterSkin": 11301,
+    "Break": 2,
+    "Level": 30,
+    "SkillLevel": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "Talent": []
+  },
+  "200041": {
+    "Id": 200041,
+    "Name": "TrialCharacter.200041.1",
+    "CharId": 143,
+    "CharacterSkin": 14301,
+    "Break": 3,
+    "Level": 40,
+    "SkillLevel": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Talent": []
+  },
+  "200051": {
+    "Id": 200051,
+    "Name": "TrialCharacter.200051.1",
+    "CharId": 143,
+    "CharacterSkin": 14301,
+    "Break": 3,
+    "Level": 40,
+    "SkillLevel": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Talent": []
+  },
+  "200061": {
+    "Id": 200061,
+    "Name": "TrialCharacter.200061.1",
+    "CharId": 143,
+    "CharacterSkin": 14301,
+    "Break": 3,
+    "Level": 40,
+    "SkillLevel": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Talent": []
+  },
+  "200071": {
+    "Id": 200071,
+    "Name": "TrialCharacter.200071.1",
+    "CharId": 125,
+    "CharacterSkin": 12501,
+    "Break": 3,
+    "Level": 40,
+    "SkillLevel": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Talent": []
+  },
+  "200072": {
+    "Id": 200072,
+    "Name": "TrialCharacter.200072.1",
+    "CharId": 127,
+    "CharacterSkin": 12701,
+    "Break": 3,
+    "Level": 40,
+    "SkillLevel": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Talent": []
+  },
+  "200073": {
+    "Id": 200073,
+    "Name": "TrialCharacter.200073.1",
+    "CharId": 112,
+    "CharacterSkin": 11201,
+    "Break": 3,
+    "Level": 40,
+    "SkillLevel": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Talent": []
+  },
+  "200081": {
+    "Id": 200081,
+    "Name": "TrialCharacter.200081.1",
+    "CharId": 130,
+    "CharacterSkin": 13001,
+    "Break": 3,
+    "Level": 40,
+    "SkillLevel": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Talent": []
+  },
+  "200082": {
+    "Id": 200082,
+    "Name": "TrialCharacter.200082.1",
+    "CharId": 127,
+    "CharacterSkin": 12701,
+    "Break": 3,
+    "Level": 40,
+    "SkillLevel": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Talent": []
+  },
+  "200083": {
+    "Id": 200083,
+    "Name": "TrialCharacter.200083.1",
+    "CharId": 125,
+    "CharacterSkin": 12501,
+    "Break": 3,
+    "Level": 40,
+    "SkillLevel": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Talent": []
+  }
+}

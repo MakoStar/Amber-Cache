@@ -1,0 +1,17 @@
+{
+  "1": {
+    "Id": 1,
+    "Proportion": 1000,
+    "Effect": 0
+  },
+  "2": {
+    "Id": 2,
+    "Proportion": 10000,
+    "Effect": 5000
+  },
+  "3": {
+    "Id": 3,
+    "Proportion": 10000,
+    "Effect": 10000
+  }
+}

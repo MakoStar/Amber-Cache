@@ -1,0 +1,12 @@
+{
+  "101": {
+    "Id": 101,
+    "ActivityId": 800001,
+    "GroupName": "牌局挑战"
+  },
+  "102": {
+    "Id": 102,
+    "ActivityId": 800001,
+    "GroupName": "积分挑战"
+  }
+}

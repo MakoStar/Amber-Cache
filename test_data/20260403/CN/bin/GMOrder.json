@@ -1,0 +1,335 @@
+{
+  "1": {
+    "Order": "addAllChars",
+    "Desc": "",
+    "ParamCount": 0,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "2": {
+    "Order": "addItems",
+    "Desc": "",
+    "ParamCount": 2,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "3": {
+    "Order": "addPerks",
+    "Desc": "",
+    "ParamCount": 2,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "4": {
+    "Order": "charUp",
+    "Desc": "",
+    "ParamCount": 2,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "5": {
+    "Order": "changeItems",
+    "Desc": "",
+    "ParamCount": 2,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "6": {
+    "Order": "changeWorldClass",
+    "Desc": "",
+    "ParamCount": 1,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "7": {
+    "Order": "cleanItems",
+    "Desc": "",
+    "ParamCount": 1,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "8": {
+    "Order": "drop",
+    "Desc": "",
+    "ParamCount": 2,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "9": {
+    "Order": "questComplete",
+    "Desc": "",
+    "ParamCount": 2,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "10": {
+    "Order": "resetChar",
+    "Desc": "",
+    "ParamCount": 1,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "11": {
+    "Order": "setRegionBossLevelStar",
+    "Desc": "",
+    "ParamCount": 2,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "12": {
+    "Order": "unlockRegionBossLevelPrev",
+    "Desc": "",
+    "ParamCount": 1,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "13": {
+    "Order": "addmail",
+    "Desc": "",
+    "ParamCount": 1,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "14": {
+    "Order": "subPerks",
+    "Desc": "",
+    "ParamCount": 2,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "15": {
+    "Order": "addCharAffinity",
+    "Desc": "",
+    "ParamCount": 2,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "16": {
+    "Order": "infinityTowerSkipFloor",
+    "Desc": "",
+    "ParamCount": 2,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "17": {
+    "Order": "resetInfinityTower",
+    "Desc": "",
+    "ParamCount": 0,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "18": {
+    "Order": "addEquipment",
+    "Desc": "",
+    "ParamCount": 3,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "19": {
+    "Order": "resetDailyAgent",
+    "Desc": "",
+    "ParamCount": 0,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "20": {
+    "Order": "resetWeeklyAgent",
+    "Desc": "",
+    "ParamCount": 0,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "21": {
+    "Order": "towerGrowthResetNode",
+    "Desc": "",
+    "ParamCount": 1,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "22": {
+    "Order": "towerGrowthUnlockGroup",
+    "Desc": "",
+    "ParamCount": 1,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "23": {
+    "Order": "towerGrowthUnlockNode",
+    "Desc": "",
+    "ParamCount": 1,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "24": {
+    "Order": "towerGrowthResetGroup",
+    "Desc": "",
+    "ParamCount": 1,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "25": {
+    "Order": "characterReadPlot",
+    "Desc": "",
+    "ParamCount": 1,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "26": {
+    "Order": "setDisc",
+    "Desc": "",
+    "ParamCount": 4,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "27": {
+    "Order": "setWorldClassLv",
+    "Desc": "",
+    "ParamCount": 1,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "28": {
+    "Order": "worldClassCompleteQuest",
+    "Desc": "",
+    "ParamCount": 0,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "29": {
+    "Order": "stSubNoteSkillInfo",
+    "Desc": "",
+    "ParamCount": 0,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "30": {
+    "Order": "refreshAgent",
+    "Desc": "",
+    "ParamCount": 0,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "31": {
+    "Order": "clearAllSkillInstance",
+    "Desc": "",
+    "ParamCount": 0,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "32": {
+    "Order": "chatDisplay",
+    "Desc": "",
+    "ParamCount": 1,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "33": {
+    "Order": "periodicActivityOpenStatusSet",
+    "Desc": "",
+    "ParamCount": 2,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "34": {
+    "Order": "periodicQuestComplete",
+    "Desc": "",
+    "ParamCount": 2,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "35": {
+    "Order": "skipPrologue",
+    "Desc": "",
+    "ParamCount": 0,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "36": {
+    "Order": "addFriend",
+    "Desc": "",
+    "ParamCount": 0,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "37": {
+    "Order": "clearAllActivityBreakoutLevels",
+    "Desc": "",
+    "ParamCount": 0,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  }
+}

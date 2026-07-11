@@ -1,0 +1,46 @@
+{
+  "400000": {
+    "Id": 400000,
+    "UseType": 1,
+    "UIAssets": "ActivityMining_1",
+    "CtrlName": "ActivityMiningCtrl",
+    "DigConsumeItemId": 120001,
+    "ConfigMaxLayer": 20,
+    "ShopId": 0,
+    "BgPrefab": "",
+    "GridListPrefab": "Cell1"
+  },
+  "400002": {
+    "Id": 400002,
+    "UseType": 1,
+    "UIAssets": "ActivityMining_1",
+    "CtrlName": "ActivityMiningCtrl",
+    "DigConsumeItemId": 120002,
+    "ConfigMaxLayer": 20,
+    "ShopId": 0,
+    "BgPrefab": "",
+    "GridListPrefab": "Cell1"
+  },
+  "400003": {
+    "Id": 400003,
+    "UseType": 1,
+    "UIAssets": "ActivityMining_1",
+    "CtrlName": "ActivityMiningCtrl",
+    "DigConsumeItemId": 120003,
+    "ConfigMaxLayer": 20,
+    "ShopId": 0,
+    "BgPrefab": "",
+    "GridListPrefab": "Cell1"
+  },
+  "400007": {
+    "Id": 400007,
+    "UseType": 1,
+    "UIAssets": "ActivityMining_1",
+    "CtrlName": "ActivityMiningCtrl",
+    "DigConsumeItemId": 120004,
+    "ConfigMaxLayer": 20,
+    "ShopId": 0,
+    "BgPrefab": "",
+    "GridListPrefab": "Cell1"
+  }
+}

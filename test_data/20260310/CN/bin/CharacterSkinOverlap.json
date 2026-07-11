@@ -1,0 +1,17 @@
+{
+  "11201": {
+    "Id": 11201,
+    "BreakOutModelShowScale": 10000,
+    "BreakOutModelShow": "Actor/Character/11201/Timeline/11201_ReadyLoop"
+  },
+  "10301": {
+    "Id": 10301,
+    "BreakOutModelShowScale": 11900,
+    "BreakOutModelShow": "Actor/Character/10301/Timeline/10301_ReadyLoop"
+  },
+  "11101": {
+    "Id": 11101,
+    "BreakOutModelShowScale": 10000,
+    "BreakOutModelShow": "Actor/Character/11101/Timeline/11101_ReadyLoop"
+  }
+}

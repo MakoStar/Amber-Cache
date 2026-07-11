@@ -1,0 +1,335 @@
+{
+  "1": {
+    "Order": "addAllChars",
+    "Desc": "添加所有角色",
+    "ParamCount": 0,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "2": {
+    "Order": "addItems",
+    "Desc": "增加道具（角色/星盘/神器）",
+    "ParamCount": 2,
+    "ParamName1": "道具id",
+    "ParamName2": "数量",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "3": {
+    "Order": "addPerks",
+    "Desc": "遗迹背包添加信条",
+    "ParamCount": 2,
+    "ParamName1": "信条id",
+    "ParamName2": "数量",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "4": {
+    "Order": "charUp",
+    "Desc": "更改角色等级经验",
+    "ParamCount": 2,
+    "ParamName1": "角色id",
+    "ParamName2": "等级",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "5": {
+    "Order": "changeItems",
+    "Desc": "改变道具数量（资源 /道具/体力/遗迹钥匙，可以正负）",
+    "ParamCount": 2,
+    "ParamName1": "道具id",
+    "ParamName2": "数量",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "6": {
+    "Order": "changeWorldClass",
+    "Desc": "更改世界等级经验（可以正负）",
+    "ParamCount": 1,
+    "ParamName1": "exp",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "7": {
+    "Order": "cleanItems",
+    "Desc": "清空背包道具（1资源/2道具/8礼装/9礼物）",
+    "ParamCount": 1,
+    "ParamName1": "类型id",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "8": {
+    "Order": "drop",
+    "Desc": "获得掉落包",
+    "ParamCount": 2,
+    "ParamName1": "掉落id",
+    "ParamName2": "数量",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "9": {
+    "Order": "questComplete",
+    "Desc": "完成任务/任务链",
+    "ParamCount": 2,
+    "ParamName1": "类型",
+    "ParamName2": "任务id",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "10": {
+    "Order": "resetChar",
+    "Desc": "初始化角色",
+    "ParamCount": 1,
+    "ParamName1": "角色id",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "11": {
+    "Order": "setRegionBossLevelStar",
+    "Desc": "设置已通关地区boss关卡星数",
+    "ParamCount": 2,
+    "ParamName1": "地区boss关卡ID",
+    "ParamName2": "星数",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "12": {
+    "Order": "unlockRegionBossLevelPrev",
+    "Desc": "解锁设置地区boss关卡的全部前置关卡为三星，并领取通关/普通/首三星奖励（需手动解锁前置主线及设置所需世界等级）",
+    "ParamCount": 1,
+    "ParamName1": "地区boss关卡ID",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "13": {
+    "Order": "addmail",
+    "Desc": "添加邮件",
+    "ParamCount": 1,
+    "ParamName1": "模板邮件ID",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "14": {
+    "Order": "subPerks",
+    "Desc": "遗迹背包删除信条",
+    "ParamCount": 2,
+    "ParamName1": "信条Id",
+    "ParamName2": "数量",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "15": {
+    "Order": "addCharAffinity",
+    "Desc": "增加角色好感度",
+    "ParamCount": 2,
+    "ParamName1": "角色ID",
+    "ParamName2": "好感度值",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "16": {
+    "Order": "infinityTowerSkipFloor",
+    "Desc": "无尽塔自动过层",
+    "ParamCount": 2,
+    "ParamName1": "塔ID",
+    "ParamName2": "层ID（不能为0）",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "17": {
+    "Order": "resetInfinityTower",
+    "Desc": "重置无尽塔",
+    "ParamCount": 0,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "18": {
+    "Order": "addEquipment",
+    "Desc": "添加指定数量指定等级装备",
+    "ParamCount": 3,
+    "ParamName1": "装备ID",
+    "ParamName2": "数量",
+    "ParamName3": "总经验值",
+    "ParamName4": ""
+  },
+  "19": {
+    "Order": "resetDailyAgent",
+    "Desc": "重置每日委托(包含正在进行中的)",
+    "ParamCount": 0,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "20": {
+    "Order": "resetWeeklyAgent",
+    "Desc": "重置每周委托(包含正在进行中的)",
+    "ParamCount": 0,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "21": {
+    "Order": "towerGrowthResetNode",
+    "Desc": "重置星塔养成节点",
+    "ParamCount": 1,
+    "ParamName1": "节点ID",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "22": {
+    "Order": "towerGrowthUnlockGroup",
+    "Desc": "激活星塔养成节点组",
+    "ParamCount": 1,
+    "ParamName1": "节点组ID",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "23": {
+    "Order": "towerGrowthUnlockNode",
+    "Desc": "激活特定星塔养成节点",
+    "ParamCount": 1,
+    "ParamName1": "节点ID",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "24": {
+    "Order": "towerGrowthResetGroup",
+    "Desc": "重置星塔养成节点组",
+    "ParamCount": 1,
+    "ParamName1": "节点组ID",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "25": {
+    "Order": "characterReadPlot",
+    "Desc": "解锁当前角色所有剧情",
+    "ParamCount": 1,
+    "ParamName1": "角色ID",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "26": {
+    "Order": "setDisc",
+    "Desc": "设置星盘",
+    "ParamCount": 4,
+    "ParamName1": "星盘Id",
+    "ParamName2": "星盘品阶",
+    "ParamName3": "星盘等级",
+    "ParamName4": "星盘星级"
+  },
+  "27": {
+    "Order": "setWorldClassLv",
+    "Desc": "设置世界等级",
+    "ParamCount": 1,
+    "ParamName1": "等级",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "28": {
+    "Order": "worldClassCompleteQuest",
+    "Desc": "完成当前阶段的世界等级任务（该指令仅在突破阶段生效）",
+    "ParamCount": 0,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "29": {
+    "Order": "stSubNoteSkillInfo",
+    "Desc": "查询星塔内音符掉落情况",
+    "ParamCount": 0,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "30": {
+    "Order": "refreshAgent",
+    "Desc": "刷新正在派遣中的委托",
+    "ParamCount": 0,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "31": {
+    "Order": "clearAllSkillInstance",
+    "Desc": "通关所有技能素材本",
+    "ParamCount": 0,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "32": {
+    "Order": "chatDisplay",
+    "Desc": "聊天展示",
+    "ParamCount": 1,
+    "ParamName1": "聊天ID",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "33": {
+    "Order": "periodicActivityOpenStatusSet",
+    "Desc": "周期活动开启状态设置(临时生效)(正加负减，最多支持127天)",
+    "ParamCount": 2,
+    "ParamName1": "活动ID",
+    "ParamName2": "开启天数",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "34": {
+    "Order": "periodicQuestComplete",
+    "Desc": "七日活动任务解锁",
+    "ParamCount": 2,
+    "ParamName1": "活动ID",
+    "ParamName2": "任务ID",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "35": {
+    "Order": "skipPrologue",
+    "Desc": "跳过序章",
+    "ParamCount": 0,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "36": {
+    "Order": "addFriend",
+    "Desc": "一键添加好友(单向)",
+    "ParamCount": 0,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  },
+  "37": {
+    "Order": "clearAllActivityBreakoutLevels",
+    "Desc": "解锁打砖块所有关卡",
+    "ParamCount": 0,
+    "ParamName1": "",
+    "ParamName2": "",
+    "ParamName3": "",
+    "ParamName4": ""
+  }
+}

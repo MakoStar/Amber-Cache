@@ -1,0 +1,86 @@
+{
+  "10001": {
+    "Id": 10001,
+    "Name": "交响曲·叹息",
+    "Desc": "首领敌人拥有「回响魔典」，「回响魔典」在受到一定次数的伤害后消散。「回响魔典」会在首领敌人施放特定技能时施放相似的技能",
+    "Icon": "Icon/MonsterSkill/JointDrill/Icon_JointDrill_JuYuanMeiYing_001"
+  },
+  "10002": {
+    "Id": 10002,
+    "Name": "交响曲·复诵",
+    "Desc": "首领敌人拥有「记录魔典」，「记录魔典」在受到一定次数的伤害后消散，并在一定时间后复活。「记录魔典」会在首领敌人施放特定技能时记录相似的技能，并随后施放已经记录的技能",
+    "Icon": "Icon/MonsterSkill/JointDrill/Icon_JointDrill_JuYuanMeiYing_002"
+  },
+  "10003": {
+    "Id": 10003,
+    "Name": "魔典护佑",
+    "Desc": "首领敌人初始拥有高额伤害减免，己方每清除1个「回响魔典」或「记录魔典」，可以降低首领敌人的伤害减免",
+    "Icon": "Icon/MonsterSkill/JointDrill/Icon_JointDrill_JuYuanMeiYing_003"
+  },
+  "10004": {
+    "Id": 10004,
+    "Name": "交响曲·恐惧共振",
+    "Desc": "己方每次对首领敌人造成伤害时，会使首领敌人在短时间内受到的伤害增加",
+    "Icon": "Icon/MonsterSkill/JointDrill/Icon_JointDrill_JuYuanMeiYing_004"
+  },
+  "10005": {
+    "Id": 10005,
+    "Name": "安魂咏动",
+    "Desc": "首领敌人召唤多个「回响魔典」持续引导能量，引导结束时「回响魔典」数量越少，首领敌人形成的攻击越弱",
+    "Icon": "Icon/MonsterSkill/JointDrill/Icon_JointDrill_JuYuanMeiYing_005"
+  },
+  "10006": {
+    "Id": 10006,
+    "Name": "梦魇终幕",
+    "Desc": "首领敌人召集场地内的「记录魔典」并吸收，吸收的「记录魔典」越多，首领敌人形成的攻击越强",
+    "Icon": "Icon/MonsterSkill/JointDrill/Icon_JointDrill_JuYuanMeiYing_006"
+  },
+  "10007": {
+    "Id": 10007,
+    "Name": "圆舞曲·跟唱",
+    "Desc": "首领敌人拥有「回响魔典」，「回响魔典」受到的普攻伤害大幅降低。「回响魔典」会在首领敌人施放特定技能时施放相似的技能",
+    "Icon": "Icon/MonsterSkill/JointDrill/Icon_JointDrill_JuYuanMeiYing_007"
+  },
+  "10008": {
+    "Id": 10008,
+    "Name": "圆舞曲·回音",
+    "Desc": "首领敌人拥有「记录魔典」，「记录魔典」受到的普攻伤害大幅降低，并在一定时间后复活。「记录魔典」会在首领敌人施放特定技能时记录相似的技能，并随后施放已经记录的技能",
+    "Icon": "Icon/MonsterSkill/JointDrill/Icon_JointDrill_JuYuanMeiYing_008"
+  },
+  "10009": {
+    "Id": 10009,
+    "Name": "圆舞曲·恶念覆身",
+    "Desc": "己方对首领敌人造成一定次数的伤害后，会使首领敌人在短时间内受到的伤害增加",
+    "Icon": "Icon/MonsterSkill/JointDrill/Icon_JointDrill_JuYuanMeiYing_010"
+  },
+  "10010": {
+    "Id": 10010,
+    "Name": "领主法则·同化衰减",
+    "Desc": "己方单位处于红/绿色棋盘格内时，该单位对颜色相同的首领伤害大幅降低",
+    "Icon": "Icon/MonsterSkill/JointDrill/Icon_JointDrill_ShuangZiQi_001"
+  },
+  "10011": {
+    "Id": 10011,
+    "Name": "领主法则·异构增幅",
+    "Desc": "己方单位处于红/绿色棋盘格内时，该单位对颜色不同的首领伤害大幅提升",
+    "Icon": "Icon/MonsterSkill/JointDrill/Icon_JointDrill_ShuangZiQi_002"
+  },
+  "10012": {
+    "Id": 10012,
+    "Name": "权柄",
+    "Desc": "首领的部分技能会改变棋盘内指定格子的颜色",
+    "Icon": "Icon/MonsterSkill/JointDrill/Icon_JointDrill_ShuangZiQi_003"
+  },
+  "10013": {
+    "Id": 10013,
+    "Name": "终末黄昏",
+    "Desc": "任意一名首领被消灭后，战斗将永久进入第二阶段，玩家将在新的棋盘上单独面临另一名首领",
+    "Icon": "Icon/MonsterSkill/JointDrill/Icon_JointDrill_ShuangZiQi_004"
+  },
+  "10014": {
+    "Id": 10014,
+    "Name": "破灭预兆",
+    "Desc": "在第二阶段，请积极处理「燃灯」，它们会在爆炸后大范围染色",
+    "Icon": "Icon/MonsterSkill/JointDrill/Icon_JointDrill_ShuangZiQi_005"
+  }
+}
