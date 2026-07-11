@@ -2,7 +2,6 @@
   "1": {
     "Id": 1,
     "Name": "命运馈赠",
-    "HasName": true,
     "DescTag": 94,
     "Param": 0,
     "Prev": [],
@@ -10,16 +9,13 @@
     "IsClient": false,
     "Effect": 1,
     "Params": "",
-    "HasParams": false,
     "Point": 10,
     "Icon": "Icon/Talent/keytalent_107_5",
-    "HasIcon": true,
     "EffectId": 0
   },
   "2": {
     "Id": 2,
     "Name": "生命回复·一",
-    "HasName": true,
     "DescTag": 96,
     "Param": -1,
     "Prev": [
@@ -29,16 +25,13 @@
     "IsClient": true,
     "Effect": 7,
     "Params": "[5,50,50,5]",
-    "HasParams": true,
     "Point": 10,
     "Icon": "Icon/Potential/15601_Potential_23_A",
-    "HasIcon": true,
     "EffectId": 0
   },
   "3": {
     "Id": 3,
     "Name": "能量回复·一",
-    "HasName": true,
     "DescTag": 97,
     "Param": -1,
     "Prev": [
@@ -48,16 +41,13 @@
     "IsClient": true,
     "Effect": 7,
     "Params": "[6,50,50,8]",
-    "HasParams": true,
     "Point": 10,
     "Icon": "Icon/Potential/Common_Potential_22_A",
-    "HasIcon": true,
     "EffectId": 0
   },
   "4": {
     "Id": 4,
     "Name": "神秘宝藏",
-    "HasName": true,
     "DescTag": 95,
     "Param": 0,
     "Prev": [
@@ -68,16 +58,13 @@
     "IsClient": false,
     "Effect": 4,
     "Params": "",
-    "HasParams": false,
     "Point": 10,
     "Icon": "Icon/Skill/13201_Ultra",
-    "HasIcon": true,
     "EffectId": 0
   },
   "5": {
     "Id": 5,
     "Name": "攻击强化·一",
-    "HasName": true,
     "DescTag": 1,
     "Param": 3,
     "Prev": [
@@ -87,16 +74,13 @@
     "IsClient": true,
     "Effect": 0,
     "Params": "",
-    "HasParams": false,
     "Point": 10,
     "Icon": "Icon/Potential/Common_Potential_01_A",
-    "HasIcon": true,
     "EffectId": 2003
   },
   "6": {
     "Id": 6,
     "Name": "生命强化·一",
-    "HasName": true,
     "DescTag": 3,
     "Param": 3,
     "Prev": [
@@ -106,16 +90,13 @@
     "IsClient": true,
     "Effect": 0,
     "Params": "",
-    "HasParams": false,
     "Point": 10,
     "Icon": "Icon/Potential/Common_Potential_7_A",
-    "HasIcon": true,
     "EffectId": 2103
   },
   "7": {
     "Id": 7,
     "Name": "冷却降低·一",
-    "HasName": true,
     "DescTag": 98,
     "Param": -1,
     "Prev": [
@@ -125,16 +106,13 @@
     "IsClient": true,
     "Effect": 7,
     "Params": "[7,50,50,5]",
-    "HasParams": true,
     "Point": 10,
     "Icon": "Icon/Potential/Common_Potential_14_A",
-    "HasIcon": true,
     "EffectId": 0
   },
   "8": {
     "Id": 8,
     "Name": "幸运之星·一",
-    "HasName": true,
     "DescTag": 92,
     "Param": 3,
     "Prev": [
@@ -144,16 +122,13 @@
     "IsClient": false,
     "Effect": 5,
     "Params": "[3]",
-    "HasParams": true,
     "Point": 10,
     "Icon": "Icon/Skill/12001_Normal",
-    "HasIcon": true,
     "EffectId": 0
   },
   "9": {
     "Id": 9,
     "Name": "命运之手·一",
-    "HasName": true,
     "DescTag": 93,
     "Param": 1,
     "Prev": [
@@ -164,16 +139,13 @@
     "IsClient": false,
     "Effect": 3,
     "Params": "[1]",
-    "HasParams": true,
     "Point": 20,
     "Icon": "Icon/Potential/Common_Potential_5_A",
-    "HasIcon": true,
     "EffectId": 0
   },
   "10": {
     "Id": 10,
     "Name": "生命回复·二",
-    "HasName": true,
     "DescTag": 96,
     "Param": -2,
     "Prev": [
@@ -183,16 +155,13 @@
     "IsClient": true,
     "Effect": 8,
     "Params": "[5,100,100,5]",
-    "HasParams": true,
     "Point": 10,
     "Icon": "Icon/Potential/15601_Potential_23_A",
-    "HasIcon": true,
     "EffectId": 0
   },
   "11": {
     "Id": 11,
     "Name": "攻击强化·二",
-    "HasName": true,
     "DescTag": 1,
     "Param": 5,
     "Prev": [
@@ -202,16 +171,13 @@
     "IsClient": true,
     "Effect": 0,
     "Params": "",
-    "HasParams": false,
     "Point": 10,
     "Icon": "Icon/Potential/Common_Potential_01_A",
-    "HasIcon": true,
     "EffectId": 2005
   },
   "12": {
     "Id": 12,
     "Name": "暴击强化·一",
-    "HasName": true,
     "DescTag": 4,
     "Param": 3,
     "Prev": [
@@ -221,16 +187,13 @@
     "IsClient": true,
     "Effect": 0,
     "Params": "",
-    "HasParams": false,
     "Point": 10,
     "Icon": "Icon/Potential/Common_Potential_8_A",
-    "HasIcon": true,
     "EffectId": 2203
   },
   "13": {
     "Id": 13,
     "Name": "命运之手·二",
-    "HasName": true,
     "DescTag": 93,
     "Param": 2,
     "Prev": [
@@ -242,16 +205,13 @@
     "IsClient": false,
     "Effect": 3,
     "Params": "[2]",
-    "HasParams": true,
     "Point": 20,
     "Icon": "Icon/Potential/Common_Potential_5_A",
-    "HasIcon": true,
     "EffectId": 0
   },
   "14": {
     "Id": 14,
     "Name": "经验丰富·一",
-    "HasName": true,
     "DescTag": 91,
     "Param": 5,
     "Prev": [
@@ -261,16 +221,13 @@
     "IsClient": false,
     "Effect": 6,
     "Params": "[5]",
-    "HasParams": true,
     "Point": 10,
     "Icon": "Icon/Potential/Common_Potential_11_A",
-    "HasIcon": true,
     "EffectId": 0
   },
   "15": {
     "Id": 15,
     "Name": "生命强化·二",
-    "HasName": true,
     "DescTag": 3,
     "Param": 5,
     "Prev": [
@@ -280,16 +237,13 @@
     "IsClient": true,
     "Effect": 0,
     "Params": "",
-    "HasParams": false,
     "Point": 10,
     "Icon": "Icon/Potential/Common_Potential_7_A",
-    "HasIcon": true,
     "EffectId": 2105
   },
   "16": {
     "Id": 16,
     "Name": "经验丰富·二",
-    "HasName": true,
     "DescTag": 91,
     "Param": 5,
     "Prev": [
@@ -299,16 +253,13 @@
     "IsClient": false,
     "Effect": 6,
     "Params": "[5]",
-    "HasParams": true,
     "Point": 10,
     "Icon": "Icon/Potential/Common_Potential_11_A",
-    "HasIcon": true,
     "EffectId": 0
   },
   "17": {
     "Id": 17,
     "Name": "幸运之星·二",
-    "HasName": true,
     "DescTag": 92,
     "Param": 3,
     "Prev": [
@@ -318,16 +269,13 @@
     "IsClient": false,
     "Effect": 5,
     "Params": "[3]",
-    "HasParams": true,
     "Point": 10,
     "Icon": "Icon/Skill/12001_Normal",
-    "HasIcon": true,
     "EffectId": 0
   },
   "18": {
     "Id": 18,
     "Name": "命运之手·三",
-    "HasName": true,
     "DescTag": 93,
     "Param": 2,
     "Prev": [
@@ -338,16 +286,13 @@
     "IsClient": false,
     "Effect": 3,
     "Params": "[2]",
-    "HasParams": true,
     "Point": 30,
     "Icon": "Icon/Potential/Common_Potential_5_A",
-    "HasIcon": true,
     "EffectId": 0
   },
   "19": {
     "Id": 19,
     "Name": "生命回复·三",
-    "HasName": true,
     "DescTag": 96,
     "Param": -3,
     "Prev": [
@@ -357,16 +302,13 @@
     "IsClient": true,
     "Effect": 8,
     "Params": "[5,200,200,5]",
-    "HasParams": true,
     "Point": 20,
     "Icon": "Icon/Potential/15601_Potential_23_A",
-    "HasIcon": true,
     "EffectId": 0
   },
   "20": {
     "Id": 20,
     "Name": "能量回复·二",
-    "HasName": true,
     "DescTag": 97,
     "Param": -2,
     "Prev": [
@@ -376,16 +318,13 @@
     "IsClient": true,
     "Effect": 8,
     "Params": "[6,100,100,8]",
-    "HasParams": true,
     "Point": 20,
     "Icon": "Icon/Potential/Common_Potential_22_A",
-    "HasIcon": true,
     "EffectId": 0
   },
   "21": {
     "Id": 21,
     "Name": "攻击强化·三",
-    "HasName": true,
     "DescTag": 1,
     "Param": 3,
     "Prev": [
@@ -395,16 +334,13 @@
     "IsClient": true,
     "Effect": 0,
     "Params": "",
-    "HasParams": false,
     "Point": 20,
     "Icon": "Icon/Potential/Common_Potential_01_A",
-    "HasIcon": true,
     "EffectId": 2003
   },
   "22": {
     "Id": 22,
     "Name": "生命强化·三",
-    "HasName": true,
     "DescTag": 3,
     "Param": 3,
     "Prev": [
@@ -414,16 +350,13 @@
     "IsClient": true,
     "Effect": 0,
     "Params": "",
-    "HasParams": false,
     "Point": 20,
     "Icon": "Icon/Potential/Common_Potential_7_A",
-    "HasIcon": true,
     "EffectId": 2103
   },
   "23": {
     "Id": 23,
     "Name": "经验磁铁",
-    "HasName": true,
     "DescTag": 99,
     "Param": -1,
     "Prev": [
@@ -434,16 +367,13 @@
     "IsClient": true,
     "Effect": 7,
     "Params": "[4,50,50,3]",
-    "HasParams": true,
     "Point": 30,
     "Icon": "Icon/Potential/Common_Potential_18_A",
-    "HasIcon": true,
     "EffectId": 0
   },
   "24": {
     "Id": 24,
     "Name": "冷却降低·二",
-    "HasName": true,
     "DescTag": 98,
     "Param": -2,
     "Prev": [
@@ -453,16 +383,13 @@
     "IsClient": true,
     "Effect": 8,
     "Params": "[7,100,100,5]",
-    "HasParams": true,
     "Point": 20,
     "Icon": "Icon/Potential/Common_Potential_14_A",
-    "HasIcon": true,
     "EffectId": 0
   },
   "25": {
     "Id": 25,
     "Name": "暴击强化·二",
-    "HasName": true,
     "DescTag": 4,
     "Param": 3,
     "Prev": [
@@ -472,16 +399,13 @@
     "IsClient": true,
     "Effect": 0,
     "Params": "",
-    "HasParams": false,
     "Point": 20,
     "Icon": "Icon/Potential/Common_Potential_8_A",
-    "HasIcon": true,
     "EffectId": 2203
   },
   "26": {
     "Id": 26,
     "Name": "攻击强化·四",
-    "HasName": true,
     "DescTag": 1,
     "Param": 4,
     "Prev": [
@@ -491,16 +415,13 @@
     "IsClient": true,
     "Effect": 0,
     "Params": "",
-    "HasParams": false,
     "Point": 20,
     "Icon": "Icon/Potential/Common_Potential_01_A",
-    "HasIcon": true,
     "EffectId": 2004
   },
   "27": {
     "Id": 27,
     "Name": "生命强化·四",
-    "HasName": true,
     "DescTag": 3,
     "Param": 4,
     "Prev": [
@@ -510,16 +431,13 @@
     "IsClient": true,
     "Effect": 0,
     "Params": "",
-    "HasParams": false,
     "Point": 20,
     "Icon": "Icon/Potential/Common_Potential_7_A",
-    "HasIcon": true,
     "EffectId": 2104
   },
   "28": {
     "Id": 28,
     "Name": "弱者炸弹",
-    "HasName": true,
     "DescTag": 100,
     "Param": -1,
     "Prev": [
@@ -530,16 +448,13 @@
     "IsClient": true,
     "Effect": 7,
     "Params": "[3,50,50,3]",
-    "HasParams": true,
     "Point": 30,
     "Icon": "Icon/Potential/Common_Potential_23_A",
-    "HasIcon": true,
     "EffectId": 0
   },
   "29": {
     "Id": 29,
     "Name": "暴击强化·三",
-    "HasName": true,
     "DescTag": 4,
     "Param": 4,
     "Prev": [
@@ -549,16 +464,13 @@
     "IsClient": true,
     "Effect": 0,
     "Params": "",
-    "HasParams": false,
     "Point": 20,
     "Icon": "Icon/Potential/Common_Potential_8_A",
-    "HasIcon": true,
     "EffectId": 2204
   },
   "30": {
     "Id": 30,
     "Name": "经验丰富·三",
-    "HasName": true,
     "DescTag": 91,
     "Param": 5,
     "Prev": [
@@ -568,16 +480,13 @@
     "IsClient": false,
     "Effect": 6,
     "Params": "[5]",
-    "HasParams": true,
     "Point": 20,
     "Icon": "Icon/Potential/Common_Potential_11_A",
-    "HasIcon": true,
     "EffectId": 0
   },
   "31": {
     "Id": 31,
     "Name": "能量回复·三",
-    "HasName": true,
     "DescTag": 97,
     "Param": -3,
     "Prev": [
@@ -587,16 +496,13 @@
     "IsClient": true,
     "Effect": 8,
     "Params": "[6,200,200,8]",
-    "HasParams": true,
     "Point": 20,
     "Icon": "Icon/Potential/Common_Potential_22_A",
-    "HasIcon": true,
     "EffectId": 0
   },
   "32": {
     "Id": 32,
     "Name": "冷却降低·三",
-    "HasName": true,
     "DescTag": 98,
     "Param": -3,
     "Prev": [
@@ -606,10 +512,8 @@
     "IsClient": true,
     "Effect": 8,
     "Params": "[7,200,200,5]",
-    "HasParams": true,
     "Point": 20,
     "Icon": "Icon/Potential/Common_Potential_14_A",
-    "HasIcon": true,
     "EffectId": 0
   }
 }

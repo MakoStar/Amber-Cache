@@ -2,34 +2,22 @@
   "1": {
     "Id": 1,
     "Name": "直觉",
-    "HasName": true,
     "Db": "Icon/AvgChoice/db_avg_character_1",
-    "HasDb": true,
     "Icon": "Icon/AvgChoice/AvgPersonality_1",
-    "HasIcon": true,
-    "Color": "#FFB85D",
-    "HasColor": true
+    "Color": "#FFB85D"
   },
   "2": {
     "Id": 2,
     "Name": "分析",
-    "HasName": true,
     "Db": "Icon/AvgChoice/db_avg_character_2",
-    "HasDb": true,
     "Icon": "Icon/AvgChoice/AvgPersonality_2",
-    "HasIcon": true,
-    "Color": "#7CB3FF",
-    "HasColor": true
+    "Color": "#7CB3FF"
   },
   "3": {
     "Id": 3,
     "Name": "混沌",
-    "HasName": true,
     "Db": "Icon/AvgChoice/db_avg_character_3",
-    "HasDb": true,
     "Icon": "Icon/AvgChoice/AvgPersonality_3",
-    "HasIcon": true,
-    "Color": "#BA88FF",
-    "HasColor": true
+    "Color": "#BA88FF"
   }
 }

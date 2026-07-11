@@ -5,8 +5,7 @@
     "CurrencyItemQty": 30,
     "EnergyValue": 60,
     "PriceGroup": 1,
-    "GroupName": "特级优惠",
-    "HasGroupName": true
+    "GroupName": "特级优惠"
   },
   "2": {
     "Id": 2,
@@ -14,8 +13,7 @@
     "CurrencyItemQty": 30,
     "EnergyValue": 60,
     "PriceGroup": 1,
-    "GroupName": "特级优惠",
-    "HasGroupName": true
+    "GroupName": "特级优惠"
   },
   "3": {
     "Id": 3,
@@ -23,8 +21,7 @@
     "CurrencyItemQty": 30,
     "EnergyValue": 60,
     "PriceGroup": 1,
-    "GroupName": "特级优惠",
-    "HasGroupName": true
+    "GroupName": "特级优惠"
   },
   "4": {
     "Id": 4,
@@ -32,8 +29,7 @@
     "CurrencyItemQty": 90,
     "EnergyValue": 60,
     "PriceGroup": 2,
-    "GroupName": "常规优惠",
-    "HasGroupName": true
+    "GroupName": "常规优惠"
   },
   "5": {
     "Id": 5,
@@ -41,8 +37,7 @@
     "CurrencyItemQty": 90,
     "EnergyValue": 60,
     "PriceGroup": 2,
-    "GroupName": "常规优惠",
-    "HasGroupName": true
+    "GroupName": "常规优惠"
   },
   "6": {
     "Id": 6,
@@ -50,7 +45,6 @@
     "CurrencyItemQty": 90,
     "EnergyValue": 60,
     "PriceGroup": 2,
-    "GroupName": "常规优惠",
-    "HasGroupName": true
+    "GroupName": "常规优惠"
   }
 }

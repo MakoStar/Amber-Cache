@@ -4,7 +4,20 @@
     "ActivityId": 2010102,
     "PersonalityId": 0,
     "ActivityGroupType": 2,
-    "IconRes": "",
-    "HasIconRes": false
+    "IconRes": ""
+  },
+  "10104": {
+    "Id": 10104,
+    "ActivityId": 1010402,
+    "PersonalityId": 0,
+    "ActivityGroupType": 1,
+    "IconRes": ""
+  },
+  "10105": {
+    "Id": 10105,
+    "ActivityId": 1010502,
+    "PersonalityId": 0,
+    "ActivityGroupType": 1,
+    "IconRes": ""
   }
 }

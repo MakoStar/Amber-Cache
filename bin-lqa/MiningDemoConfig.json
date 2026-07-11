@@ -47,10 +47,8 @@
       4
     ],
     "GridCoords": "",
-    "HasGridCoords": false,
     "TreasureGroupIndex": 0,
-    "Check": "",
-    "HasCheck": false
+    "Check": ""
   },
   "10001": {
     "Id": 10001,
@@ -103,10 +101,8 @@
       6
     ],
     "GridCoords": "",
-    "HasGridCoords": false,
     "TreasureGroupIndex": 0,
-    "Check": "",
-    "HasCheck": false
+    "Check": ""
   },
   "10002": {
     "Id": 10002,
@@ -159,10 +155,8 @@
       2
     ],
     "GridCoords": "",
-    "HasGridCoords": false,
     "TreasureGroupIndex": 0,
-    "Check": "",
-    "HasCheck": false
+    "Check": ""
   },
   "10003": {
     "Id": 10003,
@@ -214,10 +208,8 @@
       6
     ],
     "GridCoords": "",
-    "HasGridCoords": false,
     "TreasureGroupIndex": 0,
-    "Check": "",
-    "HasCheck": false
+    "Check": ""
   },
   "10004": {
     "Id": 10004,
@@ -266,10 +258,8 @@
       5
     ],
     "GridCoords": "",
-    "HasGridCoords": false,
     "TreasureGroupIndex": 0,
-    "Check": "",
-    "HasCheck": false
+    "Check": ""
   },
   "10005": {
     "Id": 10005,
@@ -321,10 +311,8 @@
       6
     ],
     "GridCoords": "",
-    "HasGridCoords": false,
     "TreasureGroupIndex": 0,
-    "Check": "",
-    "HasCheck": false
+    "Check": ""
   },
   "10006": {
     "Id": 10006,
@@ -377,10 +365,8 @@
       3
     ],
     "GridCoords": "",
-    "HasGridCoords": false,
     "TreasureGroupIndex": 0,
-    "Check": "",
-    "HasCheck": false
+    "Check": ""
   },
   "10007": {
     "Id": 10007,
@@ -430,10 +416,8 @@
       4
     ],
     "GridCoords": "",
-    "HasGridCoords": false,
     "TreasureGroupIndex": 0,
-    "Check": "",
-    "HasCheck": false
+    "Check": ""
   },
   "10008": {
     "Id": 10008,
@@ -485,10 +469,8 @@
       6
     ],
     "GridCoords": "",
-    "HasGridCoords": false,
     "TreasureGroupIndex": 0,
-    "Check": "",
-    "HasCheck": false
+    "Check": ""
   },
   "10009": {
     "Id": 10009,
@@ -539,10 +521,8 @@
       5
     ],
     "GridCoords": "",
-    "HasGridCoords": false,
     "TreasureGroupIndex": 0,
-    "Check": "",
-    "HasCheck": false
+    "Check": ""
   },
   "10010": {
     "Id": 10010,
@@ -593,10 +573,8 @@
       5
     ],
     "GridCoords": "",
-    "HasGridCoords": false,
     "TreasureGroupIndex": 0,
-    "Check": "",
-    "HasCheck": false
+    "Check": ""
   },
   "10011": {
     "Id": 10011,
@@ -647,9 +625,7 @@
       4
     ],
     "GridCoords": "",
-    "HasGridCoords": false,
     "TreasureGroupIndex": 0,
-    "Check": "",
-    "HasCheck": false
+    "Check": ""
   }
 }

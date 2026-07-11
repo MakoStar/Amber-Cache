@@ -2,7 +2,6 @@
   "501619910": {
     "Id": 501619910,
     "Name": "变速刺客小Boss护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 1,
@@ -16,7 +15,6 @@
   "507042210": {
     "Id": 507042210,
     "Name": "气球精灵难度3护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 1,
@@ -30,7 +28,6 @@
   "710010001": {
     "Id": 710010001,
     "Name": "无尽塔精英层护盾50%",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 1,
@@ -44,7 +41,6 @@
   "710010002": {
     "Id": 710010002,
     "Name": "无尽塔精英层护盾100%",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 1,
@@ -58,7 +54,6 @@
   "710010003": {
     "Id": 710010003,
     "Name": "无尽塔精英层护盾150%",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 1,
@@ -72,7 +67,6 @@
   "710013001": {
     "Id": 710013001,
     "Name": "无尽塔击杀护盾5%",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 1,
@@ -86,7 +80,6 @@
   "710013002": {
     "Id": 710013002,
     "Name": "无尽塔击杀护盾10%",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 1,
@@ -100,7 +93,6 @@
   "710013003": {
     "Id": 710013003,
     "Name": "无尽塔击杀护盾15%",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 1,
@@ -114,7 +106,6 @@
   "501110000": {
     "Id": 501110000,
     "Name": "BUFF精灵_餐叉猪召唤_护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 1,
@@ -128,7 +119,6 @@
   "4009020": {
     "Id": 4009020,
     "Name": "风系旅人对决护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
@@ -142,7 +132,6 @@
   "4010020": {
     "Id": 4010020,
     "Name": "光系旅人对决护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
@@ -156,7 +145,6 @@
   "4011020": {
     "Id": 4011020,
     "Name": "水系旅人对决护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
@@ -170,7 +158,6 @@
   "4012020": {
     "Id": 4012020,
     "Name": "暗系旅人对决护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
@@ -184,7 +171,6 @@
   "4013020": {
     "Id": 4013020,
     "Name": "火系旅人对决护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
@@ -198,7 +184,6 @@
   "4014020": {
     "Id": 4014020,
     "Name": "地系旅人对决护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
@@ -211,8 +196,7 @@
   },
   "400801": {
     "Id": 400801,
-    "Name": "???专属星盘护盾1",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
@@ -225,8 +209,7 @@
   },
   "400802": {
     "Id": 400802,
-    "Name": "???专属星盘护盾2",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
@@ -239,8 +222,7 @@
   },
   "400803": {
     "Id": 400803,
-    "Name": "???专属星盘护盾3",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
@@ -254,7 +236,6 @@
   "981041": {
     "Id": 981041,
     "Name": "【命运卡981041】10%最大生命盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
@@ -268,7 +249,6 @@
   "981231": {
     "Id": 981231,
     "Name": "【命运卡981231】10%最大生命盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
@@ -282,7 +262,6 @@
   "987631": {
     "Id": 987631,
     "Name": "【命运卡987631】10%最大生命盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
@@ -296,7 +275,6 @@
   "988571": {
     "Id": 988571,
     "Name": "【命运卡988571】10%最大生命盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
@@ -310,7 +288,6 @@
   "29020301": {
     "Id": 29020301,
     "Name": "旅人对决词条用护盾10%",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 1,
@@ -324,7 +301,6 @@
   "29020302": {
     "Id": 29020302,
     "Name": "旅人对决词条用护盾20%",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 1,
@@ -338,7 +314,6 @@
   "29020303": {
     "Id": 29020303,
     "Name": "旅人对决词条用护盾30%",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 1,
@@ -352,7 +327,6 @@
   "10742011": {
     "Id": 10742011,
     "Name": "缇莉娅 必杀信条42 命中目标给主控护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -366,7 +340,6 @@
   "10742021": {
     "Id": 10742021,
     "Name": "缇莉娅 必杀信条42 命中目标给主控护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -380,7 +353,6 @@
   "10742031": {
     "Id": 10742031,
     "Name": "缇莉娅 必杀信条42 命中目标给主控护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -394,7 +366,6 @@
   "10742041": {
     "Id": 10742041,
     "Name": "缇莉娅 必杀信条42 命中目标给主控护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -408,7 +379,6 @@
   "10742051": {
     "Id": 10742051,
     "Name": "缇莉娅 必杀信条42 命中目标给主控护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -422,7 +392,6 @@
   "10742061": {
     "Id": 10742061,
     "Name": "缇莉娅 必杀信条42 命中目标给主控护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -436,7 +405,6 @@
   "10742071": {
     "Id": 10742071,
     "Name": "缇莉娅 必杀信条42 命中目标给主控护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -450,7 +418,6 @@
   "10742081": {
     "Id": 10742081,
     "Name": "缇莉娅 必杀信条42 命中目标给主控护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -464,7 +431,6 @@
   "10742091": {
     "Id": 10742091,
     "Name": "缇莉娅 必杀信条42 命中目标给主控护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -478,7 +444,6 @@
   "12750011": {
     "Id": 12750011,
     "Name": "特丽莎主控技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -492,7 +457,6 @@
   "12750021": {
     "Id": 12750021,
     "Name": "特丽莎主控技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -506,7 +470,6 @@
   "12750031": {
     "Id": 12750031,
     "Name": "特丽莎主控技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -520,7 +483,6 @@
   "12750041": {
     "Id": 12750041,
     "Name": "特丽莎主控技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -534,7 +496,6 @@
   "12750051": {
     "Id": 12750051,
     "Name": "特丽莎主控技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -548,7 +509,6 @@
   "12750061": {
     "Id": 12750061,
     "Name": "特丽莎主控技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -562,7 +522,6 @@
   "12750071": {
     "Id": 12750071,
     "Name": "特丽莎主控技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -576,7 +535,6 @@
   "12750081": {
     "Id": 12750081,
     "Name": "特丽莎主控技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -590,7 +548,6 @@
   "12750091": {
     "Id": 12750091,
     "Name": "特丽莎主控技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -604,7 +561,6 @@
   "12750101": {
     "Id": 12750101,
     "Name": "特丽莎主控技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -618,7 +574,6 @@
   "12750111": {
     "Id": 12750111,
     "Name": "特丽莎主控技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -632,7 +587,6 @@
   "12750121": {
     "Id": 12750121,
     "Name": "特丽莎主控技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -646,7 +600,6 @@
   "12750131": {
     "Id": 12750131,
     "Name": "特丽莎主控技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -660,7 +613,6 @@
   "12751011": {
     "Id": 12751011,
     "Name": "特丽莎支援_信条10护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -674,7 +626,6 @@
   "12751021": {
     "Id": 12751021,
     "Name": "特丽莎支援_信条10护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -688,7 +639,6 @@
   "12751031": {
     "Id": 12751031,
     "Name": "特丽莎支援_信条10护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -702,7 +652,6 @@
   "12751041": {
     "Id": 12751041,
     "Name": "特丽莎支援_信条10护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -716,7 +665,6 @@
   "12751051": {
     "Id": 12751051,
     "Name": "特丽莎支援_信条10护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -730,7 +678,6 @@
   "12751061": {
     "Id": 12751061,
     "Name": "特丽莎支援_信条10护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -744,7 +691,6 @@
   "12751071": {
     "Id": 12751071,
     "Name": "特丽莎支援_信条10护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -758,7 +704,6 @@
   "12751081": {
     "Id": 12751081,
     "Name": "特丽莎支援_信条10护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -772,7 +717,6 @@
   "12751091": {
     "Id": 12751091,
     "Name": "特丽莎支援_信条10护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -786,7 +730,6 @@
   "12750012": {
     "Id": 12750012,
     "Name": "特丽莎支援技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -800,7 +743,6 @@
   "12750022": {
     "Id": 12750022,
     "Name": "特丽莎支援技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -814,7 +756,6 @@
   "12750032": {
     "Id": 12750032,
     "Name": "特丽莎支援技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -828,7 +769,6 @@
   "12750042": {
     "Id": 12750042,
     "Name": "特丽莎支援技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -842,7 +782,6 @@
   "12750052": {
     "Id": 12750052,
     "Name": "特丽莎支援技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -856,7 +795,6 @@
   "12750062": {
     "Id": 12750062,
     "Name": "特丽莎支援技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -870,7 +808,6 @@
   "12750072": {
     "Id": 12750072,
     "Name": "特丽莎支援技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -884,7 +821,6 @@
   "12750082": {
     "Id": 12750082,
     "Name": "特丽莎支援技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -898,7 +834,6 @@
   "12750092": {
     "Id": 12750092,
     "Name": "特丽莎支援技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -912,7 +847,6 @@
   "12750102": {
     "Id": 12750102,
     "Name": "特丽莎支援技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -926,7 +860,6 @@
   "12750112": {
     "Id": 12750112,
     "Name": "特丽莎支援技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -940,7 +873,6 @@
   "12750122": {
     "Id": 12750122,
     "Name": "特丽莎支援技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -954,7 +886,6 @@
   "12750132": {
     "Id": 12750132,
     "Name": "特丽莎支援技能基础护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -968,7 +899,6 @@
   "12752711": {
     "Id": 12752711,
     "Name": "特丽莎支援_信条27额外护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -982,7 +912,6 @@
   "12752721": {
     "Id": 12752721,
     "Name": "特丽莎支援_信条27额外护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -996,7 +925,6 @@
   "12752731": {
     "Id": 12752731,
     "Name": "特丽莎支援_信条27额外护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -1010,7 +938,6 @@
   "12752741": {
     "Id": 12752741,
     "Name": "特丽莎支援_信条27额外护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -1024,7 +951,6 @@
   "12752751": {
     "Id": 12752751,
     "Name": "特丽莎支援_信条27额外护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -1038,7 +964,6 @@
   "12752761": {
     "Id": 12752761,
     "Name": "特丽莎支援_信条27额外护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -1052,7 +977,6 @@
   "12752771": {
     "Id": 12752771,
     "Name": "特丽莎支援_信条27额外护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -1066,7 +990,6 @@
   "12752781": {
     "Id": 12752781,
     "Name": "特丽莎支援_信条27额外护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -1080,7 +1003,6 @@
   "12752791": {
     "Id": 12752791,
     "Name": "特丽莎支援_信条27额外护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 3,
@@ -1094,7 +1016,6 @@
   "13550611": {
     "Id": 13550611,
     "Name": "雾雨信条6幽灵死亡添加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1108,7 +1029,6 @@
   "13550621": {
     "Id": 13550621,
     "Name": "雾雨信条6幽灵死亡添加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1122,7 +1042,6 @@
   "13550631": {
     "Id": 13550631,
     "Name": "雾雨信条6幽灵死亡添加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1136,7 +1055,6 @@
   "13550641": {
     "Id": 13550641,
     "Name": "雾雨信条6幽灵死亡添加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1150,7 +1068,6 @@
   "13550651": {
     "Id": 13550651,
     "Name": "雾雨信条6幽灵死亡添加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1164,7 +1081,6 @@
   "13550661": {
     "Id": 13550661,
     "Name": "雾雨信条6幽灵死亡添加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1178,7 +1094,6 @@
   "13550671": {
     "Id": 13550671,
     "Name": "雾雨信条6幽灵死亡添加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1192,7 +1107,6 @@
   "13550681": {
     "Id": 13550681,
     "Name": "雾雨信条6幽灵死亡添加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1206,7 +1120,6 @@
   "13550691": {
     "Id": 13550691,
     "Name": "雾雨信条6幽灵死亡添加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1220,7 +1133,6 @@
   "13553111": {
     "Id": 13553111,
     "Name": "雾雨信条31幽灵之门生成添加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1234,7 +1146,6 @@
   "13553121": {
     "Id": 13553121,
     "Name": "雾雨信条31幽灵之门生成添加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1248,7 +1159,6 @@
   "13553131": {
     "Id": 13553131,
     "Name": "雾雨信条31幽灵之门生成添加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1262,7 +1172,6 @@
   "13553141": {
     "Id": 13553141,
     "Name": "雾雨信条31幽灵之门生成添加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1276,7 +1185,6 @@
   "13553151": {
     "Id": 13553151,
     "Name": "雾雨信条31幽灵之门生成添加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1290,7 +1198,6 @@
   "13553161": {
     "Id": 13553161,
     "Name": "雾雨信条31幽灵之门生成添加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1304,7 +1211,6 @@
   "13553171": {
     "Id": 13553171,
     "Name": "雾雨信条31幽灵之门生成添加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1318,7 +1224,6 @@
   "13553181": {
     "Id": 13553181,
     "Name": "雾雨信条31幽灵之门生成添加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1332,7 +1237,6 @@
   "13553191": {
     "Id": 13553191,
     "Name": "雾雨信条31幽灵之门生成添加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1346,7 +1250,6 @@
   "12322001": {
     "Id": 12322001,
     "Name": "杏子信条22穿过风墙加盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1360,7 +1263,6 @@
   "12354111": {
     "Id": 12354111,
     "Name": "杏子信条41大招吼叫加盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1374,7 +1276,6 @@
   "12354121": {
     "Id": 12354121,
     "Name": "杏子信条41大招吼叫加盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1388,7 +1289,6 @@
   "12354131": {
     "Id": 12354131,
     "Name": "杏子信条41大招吼叫加盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1402,7 +1302,6 @@
   "12354141": {
     "Id": 12354141,
     "Name": "杏子信条41大招吼叫加盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1416,7 +1315,6 @@
   "12354151": {
     "Id": 12354151,
     "Name": "杏子信条41大招吼叫加盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1430,7 +1328,6 @@
   "12354161": {
     "Id": 12354161,
     "Name": "杏子信条41大招吼叫加盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1444,7 +1341,6 @@
   "12354171": {
     "Id": 12354171,
     "Name": "杏子信条41大招吼叫加盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1458,7 +1354,6 @@
   "12354181": {
     "Id": 12354181,
     "Name": "杏子信条41大招吼叫加盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1472,7 +1367,6 @@
   "12354191": {
     "Id": 12354191,
     "Name": "杏子信条41大招吼叫加盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1486,7 +1380,6 @@
   "13223011": {
     "Id": 13223011,
     "Name": "密涅瓦 支援信条23 给主控护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1500,7 +1393,6 @@
   "14210011": {
     "Id": 14210011,
     "Name": "珂赛特潜能10/普攻命中为自身附加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1514,7 +1406,6 @@
   "14210021": {
     "Id": 14210021,
     "Name": "珂赛特潜能10/普攻命中为自身附加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1528,7 +1419,6 @@
   "14210031": {
     "Id": 14210031,
     "Name": "珂赛特潜能10/普攻命中为自身附加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1542,7 +1432,6 @@
   "14210041": {
     "Id": 14210041,
     "Name": "珂赛特潜能10/普攻命中为自身附加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1556,7 +1445,6 @@
   "14210051": {
     "Id": 14210051,
     "Name": "珂赛特潜能10/普攻命中为自身附加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1570,7 +1458,6 @@
   "14210061": {
     "Id": 14210061,
     "Name": "珂赛特潜能10/普攻命中为自身附加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1584,7 +1471,6 @@
   "14210071": {
     "Id": 14210071,
     "Name": "珂赛特潜能10/普攻命中为自身附加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1598,7 +1484,6 @@
   "14210081": {
     "Id": 14210081,
     "Name": "珂赛特潜能10/普攻命中为自身附加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1612,7 +1497,6 @@
   "14210091": {
     "Id": 14210091,
     "Name": "珂赛特潜能10/普攻命中为自身附加护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1626,7 +1510,6 @@
   "14741011": {
     "Id": 14741011,
     "Name": "焦糖潜能41/绝招释放时自身获得护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1640,7 +1523,6 @@
   "14741021": {
     "Id": 14741021,
     "Name": "焦糖潜能41/绝招释放时自身获得护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1654,7 +1536,6 @@
   "14741031": {
     "Id": 14741031,
     "Name": "焦糖潜能41/绝招释放时自身获得护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1668,7 +1549,6 @@
   "14741041": {
     "Id": 14741041,
     "Name": "焦糖潜能41/绝招释放时自身获得护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1682,7 +1562,6 @@
   "14741051": {
     "Id": 14741051,
     "Name": "焦糖潜能41/绝招释放时自身获得护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1696,7 +1575,6 @@
   "14741061": {
     "Id": 14741061,
     "Name": "焦糖潜能41/绝招释放时自身获得护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1710,7 +1588,6 @@
   "14741071": {
     "Id": 14741071,
     "Name": "焦糖潜能41/绝招释放时自身获得护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1724,7 +1601,6 @@
   "14741081": {
     "Id": 14741081,
     "Name": "焦糖潜能41/绝招释放时自身获得护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1738,7 +1614,6 @@
   "14741091": {
     "Id": 14741091,
     "Name": "焦糖潜能41/绝招释放时自身获得护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1752,7 +1627,6 @@
   "14110011": {
     "Id": 14110011,
     "Name": "赤霞潜能10/当技能持续释放到最大时间，自身获得护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1766,7 +1640,6 @@
   "14110021": {
     "Id": 14110021,
     "Name": "赤霞潜能10/当技能持续释放到最大时间，自身获得护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1780,7 +1653,6 @@
   "14110031": {
     "Id": 14110031,
     "Name": "赤霞潜能10/当技能持续释放到最大时间，自身获得护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1794,7 +1666,6 @@
   "14110041": {
     "Id": 14110041,
     "Name": "赤霞潜能10/当技能持续释放到最大时间，自身获得护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1808,7 +1679,6 @@
   "14110051": {
     "Id": 14110051,
     "Name": "赤霞潜能10/当技能持续释放到最大时间，自身获得护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1822,7 +1692,6 @@
   "14110061": {
     "Id": 14110061,
     "Name": "赤霞潜能10/当技能持续释放到最大时间，自身获得护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1836,7 +1705,6 @@
   "14110071": {
     "Id": 14110071,
     "Name": "赤霞潜能10/当技能持续释放到最大时间，自身获得护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1850,7 +1718,6 @@
   "14110081": {
     "Id": 14110081,
     "Name": "赤霞潜能10/当技能持续释放到最大时间，自身获得护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1864,7 +1731,6 @@
   "14110091": {
     "Id": 14110091,
     "Name": "赤霞潜能10/当技能持续释放到最大时间，自身获得护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1878,7 +1744,6 @@
   "15624011": {
     "Id": 15624011,
     "Name": "小禾潜能24/爱心箭护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1892,7 +1757,6 @@
   "15624021": {
     "Id": 15624021,
     "Name": "小禾潜能24/爱心箭护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1906,7 +1770,6 @@
   "15624031": {
     "Id": 15624031,
     "Name": "小禾潜能24/爱心箭护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1920,7 +1783,6 @@
   "15624041": {
     "Id": 15624041,
     "Name": "小禾潜能24/爱心箭护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1934,7 +1796,6 @@
   "15624051": {
     "Id": 15624051,
     "Name": "小禾潜能24/爱心箭护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1948,7 +1809,6 @@
   "15624061": {
     "Id": 15624061,
     "Name": "小禾潜能24/爱心箭护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1962,7 +1822,6 @@
   "15624071": {
     "Id": 15624071,
     "Name": "小禾潜能24/爱心箭护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1976,7 +1835,6 @@
   "15624081": {
     "Id": 15624081,
     "Name": "小禾潜能24/爱心箭护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -1990,7 +1848,6 @@
   "15624091": {
     "Id": 15624091,
     "Name": "小禾潜能24/爱心箭护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -2004,7 +1861,6 @@
   "15624101": {
     "Id": 15624101,
     "Name": "小禾潜能24/爱心箭护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -2018,7 +1874,6 @@
   "15624111": {
     "Id": 15624111,
     "Name": "小禾潜能24/爱心箭护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -2032,7 +1887,6 @@
   "15624121": {
     "Id": 15624121,
     "Name": "小禾潜能24/爱心箭护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -2046,7 +1900,6 @@
   "15624131": {
     "Id": 15624131,
     "Name": "小禾潜能24/爱心箭护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -2059,8 +1912,7 @@
   },
   "13010011": {
     "Id": 13010011,
-    "Name": "???潜能10宠物护盾",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
@@ -2073,8 +1925,7 @@
   },
   "13010021": {
     "Id": 13010021,
-    "Name": "???潜能10宠物护盾",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
@@ -2087,8 +1938,7 @@
   },
   "13010031": {
     "Id": 13010031,
-    "Name": "???潜能10宠物护盾",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
@@ -2101,8 +1951,7 @@
   },
   "13010041": {
     "Id": 13010041,
-    "Name": "???潜能10宠物护盾",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
@@ -2115,8 +1964,7 @@
   },
   "13010051": {
     "Id": 13010051,
-    "Name": "???潜能10宠物护盾",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
@@ -2129,8 +1977,7 @@
   },
   "13010061": {
     "Id": 13010061,
-    "Name": "???潜能10宠物护盾",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
@@ -2143,8 +1990,7 @@
   },
   "13010071": {
     "Id": 13010071,
-    "Name": "???潜能10宠物护盾",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
@@ -2157,8 +2003,7 @@
   },
   "13010081": {
     "Id": 13010081,
-    "Name": "???潜能10宠物护盾",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
@@ -2171,8 +2016,7 @@
   },
   "13010091": {
     "Id": 13010091,
-    "Name": "???潜能10宠物护盾",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 2,
     "ReferenceAttrib": 4,
@@ -2185,8 +2029,7 @@
   },
   "14502011": {
     "Id": 14502011,
-    "Name": "???潜能2护盾",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -2199,8 +2042,7 @@
   },
   "14502021": {
     "Id": 14502021,
-    "Name": "???潜能2护盾",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -2213,8 +2055,7 @@
   },
   "14502031": {
     "Id": 14502031,
-    "Name": "???潜能2护盾",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -2227,8 +2068,7 @@
   },
   "14502041": {
     "Id": 14502041,
-    "Name": "???潜能2护盾",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -2241,8 +2081,7 @@
   },
   "14502051": {
     "Id": 14502051,
-    "Name": "???潜能2护盾",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -2255,8 +2094,7 @@
   },
   "14502061": {
     "Id": 14502061,
-    "Name": "???潜能2护盾",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -2269,8 +2107,7 @@
   },
   "14502071": {
     "Id": 14502071,
-    "Name": "???潜能2护盾",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -2283,8 +2120,7 @@
   },
   "14502081": {
     "Id": 14502081,
-    "Name": "???潜能2护盾",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -2297,8 +2133,7 @@
   },
   "14502091": {
     "Id": 14502091,
-    "Name": "???潜能2护盾",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -2311,8 +2146,7 @@
   },
   "14502101": {
     "Id": 14502101,
-    "Name": "???潜能2护盾",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -2325,8 +2159,7 @@
   },
   "14502111": {
     "Id": 14502111,
-    "Name": "???潜能2护盾",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -2339,8 +2172,7 @@
   },
   "14502121": {
     "Id": 14502121,
-    "Name": "???潜能2护盾",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -2353,8 +2185,7 @@
   },
   "14502131": {
     "Id": 14502131,
-    "Name": "???潜能2护盾",
-    "HasName": true,
+    "Name": "???",
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,
@@ -2368,7 +2199,6 @@
   "15840011": {
     "Id": 15840011,
     "Name": "圣诞菈露绝招护盾",
-    "HasName": true,
     "AbsorptionBase": 0,
     "ReferenceTarget": 1,
     "ReferenceAttrib": 4,

@@ -2,7 +2,6 @@
   "103": {
     "Id": 103,
     "Name": "琥珀",
-    "HasName": true,
     "CharId": 103,
     "CharacterSkin": 10302,
     "Break": 8,
@@ -18,7 +17,6 @@
   "106": {
     "Id": 106,
     "Name": "???",
-    "HasName": true,
     "CharId": 106,
     "CharacterSkin": 10602,
     "Break": 8,
@@ -34,7 +32,6 @@
   "107": {
     "Id": 107,
     "Name": "缇莉娅",
-    "HasName": true,
     "CharId": 107,
     "CharacterSkin": 10702,
     "Break": 8,
@@ -50,7 +47,6 @@
   "108": {
     "Id": 108,
     "Name": "卡西米拉",
-    "HasName": true,
     "CharId": 108,
     "CharacterSkin": 10802,
     "Break": 8,
@@ -66,7 +62,6 @@
   "109": {
     "Id": 109,
     "Name": "???",
-    "HasName": true,
     "CharId": 109,
     "CharacterSkin": 10902,
     "Break": 8,
@@ -82,7 +77,6 @@
   "110": {
     "Id": 110,
     "Name": "翡冷翠",
-    "HasName": true,
     "CharId": 110,
     "CharacterSkin": 11002,
     "Break": 8,
@@ -98,7 +92,6 @@
   "111": {
     "Id": 111,
     "Name": "鸢尾",
-    "HasName": true,
     "CharId": 111,
     "CharacterSkin": 11102,
     "Break": 8,
@@ -114,7 +107,6 @@
   "112": {
     "Id": 112,
     "Name": "尘沙",
-    "HasName": true,
     "CharId": 112,
     "CharacterSkin": 11202,
     "Break": 8,
@@ -130,7 +122,6 @@
   "113": {
     "Id": 113,
     "Name": "师渺",
-    "HasName": true,
     "CharId": 113,
     "CharacterSkin": 11302,
     "Break": 8,
@@ -146,7 +137,6 @@
   "114": {
     "Id": 114,
     "Name": "???",
-    "HasName": true,
     "CharId": 114,
     "CharacterSkin": 11402,
     "Break": 8,
@@ -162,7 +152,6 @@
   "115": {
     "Id": 115,
     "Name": "???",
-    "HasName": true,
     "CharId": 115,
     "CharacterSkin": 11502,
     "Break": 8,
@@ -178,7 +167,6 @@
   "116": {
     "Id": 116,
     "Name": "岭川",
-    "HasName": true,
     "CharId": 116,
     "CharacterSkin": 11602,
     "Break": 8,
@@ -194,7 +182,6 @@
   "117": {
     "Id": 117,
     "Name": "璟麟",
-    "HasName": true,
     "CharId": 117,
     "CharacterSkin": 11702,
     "Break": 8,
@@ -210,7 +197,6 @@
   "118": {
     "Id": 118,
     "Name": "科洛妮丝",
-    "HasName": true,
     "CharId": 118,
     "CharacterSkin": 11802,
     "Break": 8,
@@ -226,7 +212,6 @@
   "119": {
     "Id": 119,
     "Name": "花原",
-    "HasName": true,
     "CharId": 119,
     "CharacterSkin": 11902,
     "Break": 8,
@@ -242,7 +227,6 @@
   "120": {
     "Id": 120,
     "Name": "卡娜丝",
-    "HasName": true,
     "CharId": 120,
     "CharacterSkin": 12002,
     "Break": 8,
@@ -258,7 +242,6 @@
   "123": {
     "Id": 123,
     "Name": "杏子",
-    "HasName": true,
     "CharId": 123,
     "CharacterSkin": 12302,
     "Break": 8,
@@ -274,7 +257,6 @@
   "125": {
     "Id": 125,
     "Name": "苍兰",
-    "HasName": true,
     "CharId": 125,
     "CharacterSkin": 12502,
     "Break": 8,
@@ -290,7 +272,6 @@
   "126": {
     "Id": 126,
     "Name": "紫槿",
-    "HasName": true,
     "CharId": 126,
     "CharacterSkin": 12602,
     "Break": 8,
@@ -306,7 +287,6 @@
   "127": {
     "Id": 127,
     "Name": "特丽莎",
-    "HasName": true,
     "CharId": 127,
     "CharacterSkin": 12702,
     "Break": 8,
@@ -322,7 +302,6 @@
   "129": {
     "Id": 129,
     "Name": "???",
-    "HasName": true,
     "CharId": 129,
     "CharacterSkin": 12902,
     "Break": 8,
@@ -338,7 +317,6 @@
   "130": {
     "Id": 130,
     "Name": "???",
-    "HasName": true,
     "CharId": 130,
     "CharacterSkin": 13002,
     "Break": 8,
@@ -354,7 +332,6 @@
   "132": {
     "Id": 132,
     "Name": "密涅瓦",
-    "HasName": true,
     "CharId": 132,
     "CharacterSkin": 13202,
     "Break": 8,
@@ -370,7 +347,6 @@
   "133": {
     "Id": 133,
     "Name": "夏花",
-    "HasName": true,
     "CharId": 133,
     "CharacterSkin": 13302,
     "Break": 8,
@@ -386,7 +362,6 @@
   "134": {
     "Id": 134,
     "Name": "冬香",
-    "HasName": true,
     "CharId": 134,
     "CharacterSkin": 13402,
     "Break": 8,
@@ -402,7 +377,6 @@
   "135": {
     "Id": 135,
     "Name": "雾语",
-    "HasName": true,
     "CharId": 135,
     "CharacterSkin": 13502,
     "Break": 8,
@@ -418,7 +392,6 @@
   "136": {
     "Id": 136,
     "Name": "???",
-    "HasName": true,
     "CharId": 136,
     "CharacterSkin": 13602,
     "Break": 8,
@@ -434,7 +407,6 @@
   "141": {
     "Id": 141,
     "Name": "赤霞",
-    "HasName": true,
     "CharId": 141,
     "CharacterSkin": 14102,
     "Break": 8,
@@ -450,7 +422,6 @@
   "142": {
     "Id": 142,
     "Name": "珂赛特",
-    "HasName": true,
     "CharId": 142,
     "CharacterSkin": 14202,
     "Break": 8,
@@ -465,8 +436,7 @@
   },
   "143": {
     "Id": 143,
-    "Name": "???",
-    "HasName": true,
+    "Name": "风影",
     "CharId": 143,
     "CharacterSkin": 14302,
     "Break": 8,
@@ -482,7 +452,6 @@
   "144": {
     "Id": 144,
     "Name": "千都世",
-    "HasName": true,
     "CharId": 144,
     "CharacterSkin": 14402,
     "Break": 8,
@@ -498,7 +467,6 @@
   "145": {
     "Id": 145,
     "Name": "???",
-    "HasName": true,
     "CharId": 145,
     "CharacterSkin": 14502,
     "Break": 8,
@@ -514,7 +482,6 @@
   "147": {
     "Id": 147,
     "Name": "焦糖",
-    "HasName": true,
     "CharId": 147,
     "CharacterSkin": 14702,
     "Break": 8,
@@ -530,7 +497,6 @@
   "149": {
     "Id": 149,
     "Name": "格芮",
-    "HasName": true,
     "CharId": 149,
     "CharacterSkin": 14902,
     "Break": 8,
@@ -546,7 +512,6 @@
   "150": {
     "Id": 150,
     "Name": "菈露",
-    "HasName": true,
     "CharId": 150,
     "CharacterSkin": 15002,
     "Break": 8,
@@ -562,7 +527,6 @@
   "155": {
     "Id": 155,
     "Name": "希娅",
-    "HasName": true,
     "CharId": 155,
     "CharacterSkin": 15502,
     "Break": 8,
@@ -578,7 +542,6 @@
   "156": {
     "Id": 156,
     "Name": "小禾",
-    "HasName": true,
     "CharId": 156,
     "CharacterSkin": 15602,
     "Break": 8,
@@ -594,7 +557,6 @@
   "158": {
     "Id": 158,
     "Name": "菈露（圣夜）",
-    "HasName": true,
     "CharId": 158,
     "CharacterSkin": 15802,
     "Break": 8,
@@ -609,8 +571,7 @@
   },
   "159": {
     "Id": 159,
-    "Name": "???",
-    "HasName": true,
+    "Name": "科洛妮丝（新春）",
     "CharId": 159,
     "CharacterSkin": 15902,
     "Break": 8,
@@ -626,7 +587,6 @@
   "31601": {
     "Id": 31601,
     "Name": "冬香",
-    "HasName": true,
     "CharId": 134,
     "CharacterSkin": 13401,
     "Break": 0,
@@ -642,7 +602,6 @@
   "31602": {
     "Id": 31602,
     "Name": "琥珀",
-    "HasName": true,
     "CharId": 103,
     "CharacterSkin": 10301,
     "Break": 0,
@@ -658,7 +617,6 @@
   "31603": {
     "Id": 31603,
     "Name": "尘沙",
-    "HasName": true,
     "CharId": 112,
     "CharacterSkin": 11201,
     "Break": 0,
@@ -674,7 +632,6 @@
   "31901": {
     "Id": 31901,
     "Name": "冬香",
-    "HasName": true,
     "CharId": 134,
     "CharacterSkin": 13401,
     "Break": 0,
@@ -690,7 +647,6 @@
   "31902": {
     "Id": 31902,
     "Name": "琥珀",
-    "HasName": true,
     "CharId": 103,
     "CharacterSkin": 10301,
     "Break": 0,
@@ -706,7 +662,6 @@
   "31903": {
     "Id": 31903,
     "Name": "尘沙",
-    "HasName": true,
     "CharId": 112,
     "CharacterSkin": 11201,
     "Break": 0,
@@ -722,7 +677,6 @@
   "10101": {
     "Id": 10101,
     "Name": "尘沙",
-    "HasName": true,
     "CharId": 112,
     "CharacterSkin": 11201,
     "Break": 0,
@@ -738,7 +692,6 @@
   "10102": {
     "Id": 10102,
     "Name": "鸢尾",
-    "HasName": true,
     "CharId": 111,
     "CharacterSkin": 11101,
     "Break": 0,
@@ -754,7 +707,6 @@
   "10103": {
     "Id": 10103,
     "Name": "琥珀",
-    "HasName": true,
     "CharId": 103,
     "CharacterSkin": 10301,
     "Break": 0,
@@ -770,7 +722,6 @@
   "20101": {
     "Id": 20101,
     "Name": "尘沙",
-    "HasName": true,
     "CharId": 112,
     "CharacterSkin": 11201,
     "Break": 0,
@@ -786,7 +737,6 @@
   "20102": {
     "Id": 20102,
     "Name": "鸢尾",
-    "HasName": true,
     "CharId": 111,
     "CharacterSkin": 11101,
     "Break": 0,
@@ -802,7 +752,6 @@
   "20103": {
     "Id": 20103,
     "Name": "琥珀",
-    "HasName": true,
     "CharId": 103,
     "CharacterSkin": 10301,
     "Break": 0,
@@ -818,7 +767,6 @@
   "20201": {
     "Id": 20201,
     "Name": "千都世",
-    "HasName": true,
     "CharId": 144,
     "CharacterSkin": 14401,
     "Break": 0,
@@ -834,7 +782,6 @@
   "20202": {
     "Id": 20202,
     "Name": "鸢尾",
-    "HasName": true,
     "CharId": 111,
     "CharacterSkin": 11101,
     "Break": 0,
@@ -850,7 +797,6 @@
   "20203": {
     "Id": 20203,
     "Name": "尘沙",
-    "HasName": true,
     "CharId": 112,
     "CharacterSkin": 11201,
     "Break": 0,
@@ -866,7 +812,6 @@
   "20301": {
     "Id": 20301,
     "Name": "密涅瓦",
-    "HasName": true,
     "CharId": 132,
     "CharacterSkin": 13201,
     "Break": 1,
@@ -882,7 +827,6 @@
   "20302": {
     "Id": 20302,
     "Name": "鸢尾",
-    "HasName": true,
     "CharId": 111,
     "CharacterSkin": 11101,
     "Break": 1,
@@ -898,7 +842,6 @@
   "20303": {
     "Id": 20303,
     "Name": "琥珀",
-    "HasName": true,
     "CharId": 103,
     "CharacterSkin": 10301,
     "Break": 1,
@@ -914,7 +857,6 @@
   "30101": {
     "Id": 30101,
     "Name": "冬香",
-    "HasName": true,
     "CharId": 134,
     "CharacterSkin": 13401,
     "Break": 0,
@@ -930,7 +872,6 @@
   "30201": {
     "Id": 30201,
     "Name": "冬香",
-    "HasName": true,
     "CharId": 134,
     "CharacterSkin": 13401,
     "Break": 0,
@@ -946,7 +887,6 @@
   "30202": {
     "Id": 30202,
     "Name": "夏花",
-    "HasName": true,
     "CharId": 133,
     "CharacterSkin": 13301,
     "Break": 0,
@@ -962,7 +902,6 @@
   "30203": {
     "Id": 30203,
     "Name": "小禾",
-    "HasName": true,
     "CharId": 156,
     "CharacterSkin": 15601,
     "Break": 0,
@@ -978,7 +917,6 @@
   "40101": {
     "Id": 40101,
     "Name": "夏花",
-    "HasName": true,
     "CharId": 133,
     "CharacterSkin": 13301,
     "Break": 0,
@@ -994,7 +932,6 @@
   "40102": {
     "Id": 40102,
     "Name": "小禾",
-    "HasName": true,
     "CharId": 156,
     "CharacterSkin": 15601,
     "Break": 0,
@@ -1010,7 +947,6 @@
   "40103": {
     "Id": 40103,
     "Name": "冬香",
-    "HasName": true,
     "CharId": 134,
     "CharacterSkin": 13401,
     "Break": 0,
@@ -1026,7 +962,6 @@
   "40201": {
     "Id": 40201,
     "Name": "夏花",
-    "HasName": true,
     "CharId": 133,
     "CharacterSkin": 13301,
     "Break": 0,
@@ -1042,7 +977,6 @@
   "40202": {
     "Id": 40202,
     "Name": "小禾",
-    "HasName": true,
     "CharId": 156,
     "CharacterSkin": 15601,
     "Break": 0,
@@ -1058,7 +992,6 @@
   "40203": {
     "Id": 40203,
     "Name": "冬香",
-    "HasName": true,
     "CharId": 134,
     "CharacterSkin": 13401,
     "Break": 0,
@@ -1074,7 +1007,6 @@
   "50101": {
     "Id": 50101,
     "Name": "冬香",
-    "HasName": true,
     "CharId": 134,
     "CharacterSkin": 13401,
     "Break": 1,
@@ -1090,7 +1022,6 @@
   "50102": {
     "Id": 50102,
     "Name": "尘沙",
-    "HasName": true,
     "CharId": 112,
     "CharacterSkin": 11201,
     "Break": 1,
@@ -1106,7 +1037,6 @@
   "50201": {
     "Id": 50201,
     "Name": "冬香",
-    "HasName": true,
     "CharId": 134,
     "CharacterSkin": 13401,
     "Break": 1,
@@ -1122,7 +1052,6 @@
   "50202": {
     "Id": 50202,
     "Name": "雾语",
-    "HasName": true,
     "CharId": 135,
     "CharacterSkin": 13501,
     "Break": 1,
@@ -1138,7 +1067,6 @@
   "50203": {
     "Id": 50203,
     "Name": "鸢尾",
-    "HasName": true,
     "CharId": 111,
     "CharacterSkin": 11101,
     "Break": 1,
@@ -1154,7 +1082,6 @@
   "50301": {
     "Id": 50301,
     "Name": "雾语",
-    "HasName": true,
     "CharId": 135,
     "CharacterSkin": 13501,
     "Break": 1,
@@ -1170,7 +1097,6 @@
   "60101": {
     "Id": 60101,
     "Name": "冬香",
-    "HasName": true,
     "CharId": 134,
     "CharacterSkin": 13403,
     "Break": 2,
@@ -1186,7 +1112,6 @@
   "60102": {
     "Id": 60102,
     "Name": "琥珀",
-    "HasName": true,
     "CharId": 103,
     "CharacterSkin": 10301,
     "Break": 2,
@@ -1202,7 +1127,6 @@
   "60103": {
     "Id": 60103,
     "Name": "鸢尾",
-    "HasName": true,
     "CharId": 111,
     "CharacterSkin": 11101,
     "Break": 2,
@@ -1218,7 +1142,6 @@
   "60201": {
     "Id": 60201,
     "Name": "翡冷翠",
-    "HasName": true,
     "CharId": 110,
     "CharacterSkin": 11001,
     "Break": 2,
@@ -1234,7 +1157,6 @@
   "60202": {
     "Id": 60202,
     "Name": "夏花",
-    "HasName": true,
     "CharId": 133,
     "CharacterSkin": 13301,
     "Break": 2,
@@ -1250,7 +1172,6 @@
   "60203": {
     "Id": 60203,
     "Name": "小禾",
-    "HasName": true,
     "CharId": 156,
     "CharacterSkin": 15601,
     "Break": 2,
@@ -1266,7 +1187,6 @@
   "60301": {
     "Id": 60301,
     "Name": "翡冷翠",
-    "HasName": true,
     "CharId": 110,
     "CharacterSkin": 11001,
     "Break": 2,
@@ -1279,90 +1199,9 @@
     ],
     "Talent": []
   },
-  "11201": {
-    "Id": 11201,
-    "Name": "尘沙",
-    "HasName": true,
-    "CharId": 112,
-    "CharacterSkin": 11201,
-    "Break": 8,
-    "Level": 90,
-    "SkillLevel": [
-      10,
-      10,
-      10,
-      10
-    ],
-    "Talent": []
-  },
-  "14401": {
-    "Id": 14401,
-    "Name": "千都世",
-    "HasName": true,
-    "CharId": 144,
-    "CharacterSkin": 14401,
-    "Break": 8,
-    "Level": 90,
-    "SkillLevel": [
-      10,
-      10,
-      10,
-      10
-    ],
-    "Talent": []
-  },
-  "12701": {
-    "Id": 12701,
-    "Name": "特丽莎",
-    "HasName": true,
-    "CharId": 127,
-    "CharacterSkin": 12701,
-    "Break": 8,
-    "Level": 90,
-    "SkillLevel": [
-      10,
-      10,
-      10,
-      10
-    ],
-    "Talent": []
-  },
-  "11101": {
-    "Id": 11101,
-    "Name": "鸢尾",
-    "HasName": true,
-    "CharId": 111,
-    "CharacterSkin": 11101,
-    "Break": 8,
-    "Level": 90,
-    "SkillLevel": [
-      10,
-      10,
-      10,
-      10
-    ],
-    "Talent": []
-  },
-  "13401": {
-    "Id": 13401,
-    "Name": "冬香",
-    "HasName": true,
-    "CharId": 134,
-    "CharacterSkin": 13401,
-    "Break": 8,
-    "Level": 90,
-    "SkillLevel": [
-      10,
-      10,
-      10,
-      10
-    ],
-    "Talent": []
-  },
   "10301": {
     "Id": 10301,
     "Name": "琥珀",
-    "HasName": true,
     "CharId": 103,
     "CharacterSkin": 10301,
     "Break": 8,
@@ -1375,92 +1214,11 @@
     ],
     "Talent": []
   },
-  "10801": {
-    "Id": 10801,
-    "Name": "卡西米拉",
-    "HasName": true,
-    "CharId": 108,
-    "CharacterSkin": 10801,
-    "Break": 8,
-    "Level": 90,
-    "SkillLevel": [
-      10,
-      10,
-      10,
-      10
-    ],
-    "Talent": []
-  },
-  "12601": {
-    "Id": 12601,
-    "Name": "紫槿",
-    "HasName": true,
-    "CharId": 126,
-    "CharacterSkin": 12601,
-    "Break": 8,
-    "Level": 90,
-    "SkillLevel": [
-      10,
-      10,
-      10,
-      10
-    ],
-    "Talent": []
-  },
-  "11901": {
-    "Id": 11901,
-    "Name": "花原",
-    "HasName": true,
-    "CharId": 119,
-    "CharacterSkin": 11901,
-    "Break": 8,
-    "Level": 90,
-    "SkillLevel": [
-      10,
-      10,
-      10,
-      10
-    ],
-    "Talent": []
-  },
-  "12301": {
-    "Id": 12301,
-    "Name": "杏子",
-    "HasName": true,
-    "CharId": 123,
-    "CharacterSkin": 12301,
-    "Break": 8,
-    "Level": 90,
-    "SkillLevel": [
-      10,
-      10,
-      10,
-      10
-    ],
-    "Talent": []
-  },
-  "12001": {
-    "Id": 12001,
-    "Name": "卡娜丝",
-    "HasName": true,
-    "CharId": 120,
-    "CharacterSkin": 12001,
-    "Break": 8,
-    "Level": 90,
-    "SkillLevel": [
-      10,
-      10,
-      10,
-      10
-    ],
-    "Talent": []
-  },
-  "15501": {
-    "Id": 15501,
-    "Name": "希娅",
-    "HasName": true,
-    "CharId": 155,
-    "CharacterSkin": 15501,
+  "10601": {
+    "Id": 10601,
+    "Name": "???",
+    "CharId": 106,
+    "CharacterSkin": 10601,
     "Break": 8,
     "Level": 90,
     "SkillLevel": [
@@ -1474,7 +1232,6 @@
   "10701": {
     "Id": 10701,
     "Name": "缇莉娅",
-    "HasName": true,
     "CharId": 107,
     "CharacterSkin": 10701,
     "Break": 8,
@@ -1487,12 +1244,11 @@
     ],
     "Talent": []
   },
-  "11701": {
-    "Id": 11701,
-    "Name": "璟麟",
-    "HasName": true,
-    "CharId": 117,
-    "CharacterSkin": 11701,
+  "10801": {
+    "Id": 10801,
+    "Name": "卡西米拉",
+    "CharId": 108,
+    "CharacterSkin": 10801,
     "Break": 8,
     "Level": 90,
     "SkillLevel": [
@@ -1503,108 +1259,11 @@
     ],
     "Talent": []
   },
-  "14901": {
-    "Id": 14901,
-    "Name": "格芮",
-    "HasName": true,
-    "CharId": 149,
-    "CharacterSkin": 14901,
-    "Break": 8,
-    "Level": 90,
-    "SkillLevel": [
-      10,
-      10,
-      10,
-      10
-    ],
-    "Talent": []
-  },
-  "11601": {
-    "Id": 11601,
-    "Name": "岭川",
-    "HasName": true,
-    "CharId": 116,
-    "CharacterSkin": 11601,
-    "Break": 8,
-    "Level": 90,
-    "SkillLevel": [
-      10,
-      10,
-      10,
-      10
-    ],
-    "Talent": []
-  },
-  "15601": {
-    "Id": 15601,
-    "Name": "小禾",
-    "HasName": true,
-    "CharId": 156,
-    "CharacterSkin": 15601,
-    "Break": 8,
-    "Level": 90,
-    "SkillLevel": [
-      10,
-      10,
-      10,
-      10
-    ],
-    "Talent": []
-  },
-  "12501": {
-    "Id": 12501,
-    "Name": "苍兰",
-    "HasName": true,
-    "CharId": 125,
-    "CharacterSkin": 12501,
-    "Break": 8,
-    "Level": 90,
-    "SkillLevel": [
-      10,
-      10,
-      10,
-      10
-    ],
-    "Talent": []
-  },
-  "13301": {
-    "Id": 13301,
-    "Name": "夏花",
-    "HasName": true,
-    "CharId": 133,
-    "CharacterSkin": 13301,
-    "Break": 8,
-    "Level": 90,
-    "SkillLevel": [
-      10,
-      10,
-      10,
-      10
-    ],
-    "Talent": []
-  },
-  "15801": {
-    "Id": 15801,
-    "Name": "菈露（圣夜）",
-    "HasName": true,
-    "CharId": 158,
-    "CharacterSkin": 15801,
-    "Break": 8,
-    "Level": 90,
-    "SkillLevel": [
-      10,
-      10,
-      10,
-      10
-    ],
-    "Talent": []
-  },
-  "11301": {
-    "Id": 11301,
-    "Name": "师渺",
-    "HasName": true,
-    "CharId": 113,
-    "CharacterSkin": 11301,
+  "10901": {
+    "Id": 10901,
+    "Name": "???",
+    "CharId": 109,
+    "CharacterSkin": 10901,
     "Break": 8,
     "Level": 90,
     "SkillLevel": [
@@ -1618,7 +1277,6 @@
   "11001": {
     "Id": 11001,
     "Name": "翡冷翠",
-    "HasName": true,
     "CharId": 110,
     "CharacterSkin": 11001,
     "Break": 8,
@@ -1631,12 +1289,11 @@
     ],
     "Talent": []
   },
-  "13501": {
-    "Id": 13501,
-    "Name": "雾语",
-    "HasName": true,
-    "CharId": 135,
-    "CharacterSkin": 13501,
+  "11101": {
+    "Id": 11101,
+    "Name": "鸢尾",
+    "CharId": 111,
+    "CharacterSkin": 11101,
     "Break": 8,
     "Level": 90,
     "SkillLevel": [
@@ -1647,12 +1304,11 @@
     ],
     "Talent": []
   },
-  "15901": {
-    "Id": 15901,
-    "Name": "???",
-    "HasName": true,
-    "CharId": 159,
-    "CharacterSkin": 15901,
+  "11201": {
+    "Id": 11201,
+    "Name": "尘沙",
+    "CharId": 112,
+    "CharacterSkin": 11201,
     "Break": 8,
     "Level": 90,
     "SkillLevel": [
@@ -1663,108 +1319,11 @@
     ],
     "Talent": []
   },
-  "14101": {
-    "Id": 14101,
-    "Name": "赤霞",
-    "HasName": true,
-    "CharId": 141,
-    "CharacterSkin": 14101,
-    "Break": 8,
-    "Level": 90,
-    "SkillLevel": [
-      10,
-      10,
-      10,
-      10
-    ],
-    "Talent": []
-  },
-  "14301": {
-    "Id": 14301,
-    "Name": "???",
-    "HasName": true,
-    "CharId": 143,
-    "CharacterSkin": 14301,
-    "Break": 8,
-    "Level": 90,
-    "SkillLevel": [
-      10,
-      10,
-      10,
-      10
-    ],
-    "Talent": []
-  },
-  "13201": {
-    "Id": 13201,
-    "Name": "密涅瓦",
-    "HasName": true,
-    "CharId": 132,
-    "CharacterSkin": 13201,
-    "Break": 8,
-    "Level": 90,
-    "SkillLevel": [
-      10,
-      10,
-      10,
-      10
-    ],
-    "Talent": []
-  },
-  "13001": {
-    "Id": 13001,
-    "Name": "???",
-    "HasName": true,
-    "CharId": 130,
-    "CharacterSkin": 13001,
-    "Break": 8,
-    "Level": 90,
-    "SkillLevel": [
-      10,
-      10,
-      10,
-      10
-    ],
-    "Talent": []
-  },
-  "14501": {
-    "Id": 14501,
-    "Name": "???",
-    "HasName": true,
-    "CharId": 145,
-    "CharacterSkin": 14501,
-    "Break": 8,
-    "Level": 90,
-    "SkillLevel": [
-      10,
-      10,
-      10,
-      10
-    ],
-    "Talent": []
-  },
-  "11501": {
-    "Id": 11501,
-    "Name": "???",
-    "HasName": true,
-    "CharId": 115,
-    "CharacterSkin": 11501,
-    "Break": 8,
-    "Level": 90,
-    "SkillLevel": [
-      10,
-      10,
-      10,
-      10
-    ],
-    "Talent": []
-  },
-  "14001": {
-    "Id": 14001,
-    "Name": "???",
-    "HasName": true,
-    "CharId": 140,
-    "CharacterSkin": 14001,
+  "11301": {
+    "Id": 11301,
+    "Name": "师渺",
+    "CharId": 113,
+    "CharacterSkin": 11301,
     "Break": 8,
     "Level": 90,
     "SkillLevel": [
@@ -1778,9 +1337,53 @@
   "11401": {
     "Id": 11401,
     "Name": "???",
-    "HasName": true,
     "CharId": 114,
     "CharacterSkin": 11401,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "11501": {
+    "Id": 11501,
+    "Name": "???",
+    "CharId": 115,
+    "CharacterSkin": 11501,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "11601": {
+    "Id": 11601,
+    "Name": "岭川",
+    "CharId": 116,
+    "CharacterSkin": 11601,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "11701": {
+    "Id": 11701,
+    "Name": "璟麟",
+    "CharId": 117,
+    "CharacterSkin": 11701,
     "Break": 8,
     "Level": 90,
     "SkillLevel": [
@@ -1794,7 +1397,6 @@
   "11801": {
     "Id": 11801,
     "Name": "科洛妮丝",
-    "HasName": true,
     "CharId": 118,
     "CharacterSkin": 11801,
     "Break": 8,
@@ -1807,12 +1409,221 @@
     ],
     "Talent": []
   },
-  "14701": {
-    "Id": 14701,
-    "Name": "焦糖",
-    "HasName": true,
-    "CharId": 147,
-    "CharacterSkin": 14701,
+  "11901": {
+    "Id": 11901,
+    "Name": "花原",
+    "CharId": 119,
+    "CharacterSkin": 11901,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "12001": {
+    "Id": 12001,
+    "Name": "卡娜丝",
+    "CharId": 120,
+    "CharacterSkin": 12001,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "12301": {
+    "Id": 12301,
+    "Name": "杏子",
+    "CharId": 123,
+    "CharacterSkin": 12301,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "12501": {
+    "Id": 12501,
+    "Name": "苍兰",
+    "CharId": 125,
+    "CharacterSkin": 12501,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "12601": {
+    "Id": 12601,
+    "Name": "紫槿",
+    "CharId": 126,
+    "CharacterSkin": 12601,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "12701": {
+    "Id": 12701,
+    "Name": "特丽莎",
+    "CharId": 127,
+    "CharacterSkin": 12701,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "12901": {
+    "Id": 12901,
+    "Name": "???",
+    "CharId": 129,
+    "CharacterSkin": 12901,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "13001": {
+    "Id": 13001,
+    "Name": "???",
+    "CharId": 130,
+    "CharacterSkin": 13001,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "13201": {
+    "Id": 13201,
+    "Name": "密涅瓦",
+    "CharId": 132,
+    "CharacterSkin": 13201,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "13301": {
+    "Id": 13301,
+    "Name": "夏花",
+    "CharId": 133,
+    "CharacterSkin": 13301,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "13401": {
+    "Id": 13401,
+    "Name": "冬香",
+    "CharId": 134,
+    "CharacterSkin": 13401,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "13501": {
+    "Id": 13501,
+    "Name": "雾语",
+    "CharId": 135,
+    "CharacterSkin": 13501,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "13601": {
+    "Id": 13601,
+    "Name": "???",
+    "CharId": 136,
+    "CharacterSkin": 13601,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "14001": {
+    "Id": 14001,
+    "Name": "???",
+    "CharId": 140,
+    "CharacterSkin": 14001,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "14101": {
+    "Id": 14101,
+    "Name": "赤霞",
+    "CharId": 141,
+    "CharacterSkin": 14101,
     "Break": 8,
     "Level": 90,
     "SkillLevel": [
@@ -1826,9 +1637,158 @@
   "14201": {
     "Id": 14201,
     "Name": "珂赛特",
-    "HasName": true,
     "CharId": 142,
     "CharacterSkin": 14201,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "14301": {
+    "Id": 14301,
+    "Name": "风影",
+    "CharId": 143,
+    "CharacterSkin": 14301,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "14401": {
+    "Id": 14401,
+    "Name": "千都世",
+    "CharId": 144,
+    "CharacterSkin": 14401,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "14501": {
+    "Id": 14501,
+    "Name": "???",
+    "CharId": 145,
+    "CharacterSkin": 14501,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "14701": {
+    "Id": 14701,
+    "Name": "焦糖",
+    "CharId": 147,
+    "CharacterSkin": 14701,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "14901": {
+    "Id": 14901,
+    "Name": "格芮",
+    "CharId": 149,
+    "CharacterSkin": 14901,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "15001": {
+    "Id": 15001,
+    "Name": "菈露",
+    "CharId": 150,
+    "CharacterSkin": 15001,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "15501": {
+    "Id": 15501,
+    "Name": "希娅",
+    "CharId": 155,
+    "CharacterSkin": 15501,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "15601": {
+    "Id": 15601,
+    "Name": "小禾",
+    "CharId": 156,
+    "CharacterSkin": 15601,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "15801": {
+    "Id": 15801,
+    "Name": "菈露（圣夜）",
+    "CharId": 158,
+    "CharacterSkin": 15801,
+    "Break": 8,
+    "Level": 90,
+    "SkillLevel": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "Talent": []
+  },
+  "15901": {
+    "Id": 15901,
+    "Name": "科洛妮丝（新春）",
+    "CharId": 159,
+    "CharacterSkin": 15901,
     "Break": 8,
     "Level": 90,
     "SkillLevel": [
@@ -1842,7 +1802,6 @@
   "121011": {
     "Id": 121011,
     "Name": "琥珀",
-    "HasName": true,
     "CharId": 103,
     "CharacterSkin": 10301,
     "Break": 0,
@@ -1858,7 +1817,6 @@
   "121031": {
     "Id": 121031,
     "Name": "尘沙",
-    "HasName": true,
     "CharId": 112,
     "CharacterSkin": 11201,
     "Break": 0,
@@ -1874,7 +1832,6 @@
   "121032": {
     "Id": 121032,
     "Name": "鸢尾",
-    "HasName": true,
     "CharId": 111,
     "CharacterSkin": 11101,
     "Break": 0,
@@ -1890,7 +1847,6 @@
   "121041": {
     "Id": 121041,
     "Name": "琥珀",
-    "HasName": true,
     "CharId": 103,
     "CharacterSkin": 10301,
     "Break": 0,
@@ -1906,7 +1862,6 @@
   "121042": {
     "Id": 121042,
     "Name": "卡西米拉",
-    "HasName": true,
     "CharId": 108,
     "CharacterSkin": 10801,
     "Break": 0,
@@ -1922,7 +1877,6 @@
   "121043": {
     "Id": 121043,
     "Name": "紫槿",
-    "HasName": true,
     "CharId": 126,
     "CharacterSkin": 12601,
     "Break": 0,
@@ -1938,7 +1892,6 @@
   "200011": {
     "Id": 200011,
     "Name": "菈露（圣夜）",
-    "HasName": true,
     "CharId": 158,
     "CharacterSkin": 15801,
     "Break": 1,
@@ -1953,76 +1906,71 @@
   },
   "200021": {
     "Id": 200021,
-    "Name": "???",
-    "HasName": true,
+    "Name": "科洛妮丝（新春）",
     "CharId": 159,
     "CharacterSkin": 15901,
-    "Break": 0,
-    "Level": 1,
+    "Break": 2,
+    "Level": 30,
     "SkillLevel": [
-      1,
-      1,
-      1,
-      1
+      2,
+      2,
+      2,
+      2
     ],
     "Talent": []
   },
   "200022": {
     "Id": 200022,
     "Name": "赤霞",
-    "HasName": true,
     "CharId": 141,
     "CharacterSkin": 14101,
-    "Break": 0,
-    "Level": 1,
+    "Break": 2,
+    "Level": 30,
     "SkillLevel": [
-      1,
-      1,
-      1,
-      1
+      2,
+      2,
+      2,
+      2
     ],
     "Talent": []
   },
   "200023": {
     "Id": 200023,
     "Name": "师渺",
-    "HasName": true,
     "CharId": 113,
     "CharacterSkin": 11301,
-    "Break": 0,
-    "Level": 1,
+    "Break": 2,
+    "Level": 30,
     "SkillLevel": [
-      1,
-      1,
-      1,
-      1
+      2,
+      2,
+      2,
+      2
     ],
     "Talent": []
   },
   "200031": {
     "Id": 200031,
-    "Name": "???",
-    "HasName": true,
+    "Name": "科洛妮丝（新春）",
     "CharId": 159,
     "CharacterSkin": 15901,
-    "Break": 0,
-    "Level": 1,
+    "Break": 3,
+    "Level": 40,
     "SkillLevel": [
-      1,
-      1,
-      1,
-      1
+      3,
+      3,
+      3,
+      3
     ],
     "Talent": []
   },
   "200032": {
     "Id": 200032,
     "Name": "赤霞",
-    "HasName": true,
     "CharId": 141,
     "CharacterSkin": 14101,
-    "Break": 0,
-    "Level": 1,
+    "Break": 2,
+    "Level": 30,
     "SkillLevel": [
       1,
       1,
@@ -2034,16 +1982,60 @@
   "200033": {
     "Id": 200033,
     "Name": "师渺",
-    "HasName": true,
     "CharId": 113,
     "CharacterSkin": 11301,
-    "Break": 0,
-    "Level": 1,
+    "Break": 2,
+    "Level": 30,
     "SkillLevel": [
-      1,
-      1,
-      1,
-      1
+      2,
+      2,
+      2,
+      2
+    ],
+    "Talent": []
+  },
+  "200041": {
+    "Id": 200041,
+    "Name": "风影",
+    "CharId": 143,
+    "CharacterSkin": 14301,
+    "Break": 3,
+    "Level": 40,
+    "SkillLevel": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Talent": []
+  },
+  "200051": {
+    "Id": 200051,
+    "Name": "风影",
+    "CharId": 143,
+    "CharacterSkin": 14301,
+    "Break": 3,
+    "Level": 40,
+    "SkillLevel": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "Talent": []
+  },
+  "200061": {
+    "Id": 200061,
+    "Name": "风影",
+    "CharId": 143,
+    "CharacterSkin": 14301,
+    "Break": 3,
+    "Level": 40,
+    "SkillLevel": [
+      3,
+      3,
+      3,
+      3
     ],
     "Talent": []
   }

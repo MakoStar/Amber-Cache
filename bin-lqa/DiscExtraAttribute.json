@@ -1,7 +1,6 @@
 {
   "1011": {
     "Id": "1011",
-    "HasId": true,
     "GroupId": 101,
     "Break": 1,
     "Atk": 46,
@@ -84,7 +83,6 @@
   },
   "1012": {
     "Id": "1012",
-    "HasId": true,
     "GroupId": 101,
     "Break": 2,
     "Atk": 91,
@@ -167,7 +165,6 @@
   },
   "1013": {
     "Id": "1013",
-    "HasId": true,
     "GroupId": 101,
     "Break": 3,
     "Atk": 137,
@@ -250,7 +247,6 @@
   },
   "1014": {
     "Id": "1014",
-    "HasId": true,
     "GroupId": 101,
     "Break": 4,
     "Atk": 182,
@@ -333,7 +329,6 @@
   },
   "1015": {
     "Id": "1015",
-    "HasId": true,
     "GroupId": 101,
     "Break": 5,
     "Atk": 228,
@@ -416,7 +411,6 @@
   },
   "2011": {
     "Id": "2011",
-    "HasId": true,
     "GroupId": 201,
     "Break": 1,
     "Atk": 85,
@@ -499,7 +493,6 @@
   },
   "2012": {
     "Id": "2012",
-    "HasId": true,
     "GroupId": 201,
     "Break": 2,
     "Atk": 169,
@@ -582,7 +575,6 @@
   },
   "2013": {
     "Id": "2013",
-    "HasId": true,
     "GroupId": 201,
     "Break": 3,
     "Atk": 254,
@@ -665,7 +657,6 @@
   },
   "2014": {
     "Id": "2014",
-    "HasId": true,
     "GroupId": 201,
     "Break": 4,
     "Atk": 338,
@@ -748,7 +739,6 @@
   },
   "2015": {
     "Id": "2015",
-    "HasId": true,
     "GroupId": 201,
     "Break": 5,
     "Atk": 423,
@@ -831,7 +821,6 @@
   },
   "3011": {
     "Id": "3011",
-    "HasId": true,
     "GroupId": 301,
     "Break": 1,
     "Atk": 130,
@@ -914,7 +903,6 @@
   },
   "3012": {
     "Id": "3012",
-    "HasId": true,
     "GroupId": 301,
     "Break": 2,
     "Atk": 260,
@@ -997,7 +985,6 @@
   },
   "3013": {
     "Id": "3013",
-    "HasId": true,
     "GroupId": 301,
     "Break": 3,
     "Atk": 390,
@@ -1080,7 +1067,6 @@
   },
   "3014": {
     "Id": "3014",
-    "HasId": true,
     "GroupId": 301,
     "Break": 4,
     "Atk": 520,
@@ -1163,7 +1149,6 @@
   },
   "3015": {
     "Id": "3015",
-    "HasId": true,
     "GroupId": 301,
     "Break": 5,
     "Atk": 650,

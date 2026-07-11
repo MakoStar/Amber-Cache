@@ -1,1226 +1,862 @@
 {
+  "AffinityMaxEffectLevel": {
+    "Id": "AffinityMaxEffectLevel",
+    "Value": "50"
+  },
   "DamageConvertToScoreRatio": {
     "Id": "DamageConvertToScoreRatio",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "ScoreBossTimeLimit": {
     "Id": "ScoreBossTimeLimit",
-    "HasId": true,
-    "Value": "180",
-    "HasValue": true
+    "Value": "180"
   },
   "StarTowerReconnMaxCnt": {
     "Id": "StarTowerReconnMaxCnt",
-    "HasId": true,
-    "Value": "99999",
-    "HasValue": true
+    "Value": "99999"
   },
   "FateCardDropBasicProb": {
     "Id": "FateCardDropBasicProb",
-    "HasId": true,
-    "Value": "0",
-    "HasValue": true
+    "Value": "0"
   },
   "FateCardDropIncrementProb": {
     "Id": "FateCardDropIncrementProb",
-    "HasId": true,
-    "Value": "0",
-    "HasValue": true
+    "Value": "0"
   },
   "FateCardDropCountMax": {
     "Id": "FateCardDropCountMax",
-    "HasId": true,
-    "Value": "0",
-    "HasValue": true
+    "Value": "0"
   },
   "FateCardGiveUpCompensation": {
     "Id": "FateCardGiveUpCompensation",
-    "HasId": true,
-    "Value": "{\"11\":30}",
-    "HasValue": true
+    "Value": "{\"11\":30}"
   },
   "HighRiskRoomWeightList": {
     "Id": "HighRiskRoomWeightList",
-    "HasId": true,
-    "Value": "30,70",
-    "HasValue": true
+    "Value": "30,70"
   },
   "HighRiskRoomAppearMinFloor": {
     "Id": "HighRiskRoomAppearMinFloor",
-    "HasId": true,
-    "Value": "99",
-    "HasValue": true
+    "Value": "99"
   },
   "DefaultEventId": {
     "Id": "DefaultEventId",
-    "HasId": true,
-    "Value": "121",
-    "HasValue": true
+    "Value": "121"
   },
   "LimitedTimeChallengeRoomTypeList": {
     "Id": "LimitedTimeChallengeRoomTypeList",
-    "HasId": true,
-    "Value": "2,3,4,5",
-    "HasValue": true
+    "Value": "2,3,4,5"
   },
   "EndOfBossBattleRecoveryHPEffectId": {
     "Id": "EndOfBossBattleRecoveryHPEffectId",
-    "HasId": true,
-    "Value": "989970",
-    "HasValue": true
+    "Value": "989970"
   },
   "StrengthenMachineGoldConsume": {
     "Id": "StrengthenMachineGoldConsume",
-    "HasId": true,
-    "Value": "120,180,240,320,400,600,800",
-    "HasValue": true
+    "Value": "120,180,240,320,400,600,800"
   },
   "EndOfBossBattleRecoveryHPProb": {
     "Id": "EndOfBossBattleRecoveryHPProb",
-    "HasId": true,
-    "Value": "100",
-    "HasValue": true
+    "Value": "100"
   },
   "StarTowerBuildNumberMax": {
     "Id": "StarTowerBuildNumberMax",
-    "HasId": true,
-    "Value": "50",
-    "HasValue": true
+    "Value": "50"
   },
   "StarTowerBuildAutoLockScore": {
     "Id": "StarTowerBuildAutoLockScore",
-    "HasId": true,
-    "Value": "5800",
-    "HasValue": true
+    "Value": "5800"
   },
   "StarTowerBuildTransformParas": {
     "Id": "StarTowerBuildTransformParas",
-    "HasId": true,
-    "Value": "100,3,100",
-    "HasValue": true
+    "Value": "100,3,100"
   },
   "StarTowerFloorOfCreateBuild": {
     "Id": "StarTowerFloorOfCreateBuild",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "StarTowerHistoryMapLimit": {
     "Id": "StarTowerHistoryMapLimit",
-    "HasId": true,
-    "Value": "3",
-    "HasValue": true
+    "Value": "3"
   },
   "StarTowerPlayerVoiceDelay": {
     "Id": "StarTowerPlayerVoiceDelay",
-    "HasId": true,
-    "Value": "0.5",
-    "HasValue": true
+    "Value": "0.5"
   },
   "StarTowerBuildDeleteReturnItemId": {
     "Id": "StarTowerBuildDeleteReturnItemId",
-    "HasId": true,
-    "Value": "12",
-    "HasValue": true
+    "Value": "12"
   },
   "EliteBattleRoomAppearRecoveryHPProb": {
     "Id": "EliteBattleRoomAppearRecoveryHPProb",
-    "HasId": true,
-    "Value": "100",
-    "HasValue": true
+    "Value": "100"
   },
   "EndOfEliteBattleRecoveryHPEffectId": {
     "Id": "EndOfEliteBattleRecoveryHPEffectId",
-    "HasId": true,
-    "Value": "989970",
-    "HasValue": true
+    "Value": "989970"
   },
   "DangerRoomAppearRecoveryHPProb": {
     "Id": "DangerRoomAppearRecoveryHPProb",
-    "HasId": true,
-    "Value": "100",
-    "HasValue": true
+    "Value": "100"
   },
   "EndOfDangerBattleRecoveryHPEffectId": {
     "Id": "EndOfDangerBattleRecoveryHPEffectId",
-    "HasId": true,
-    "Value": "989970",
-    "HasValue": true
+    "Value": "989970"
   },
   "HorrorRoomAppearRecoveryHPProb": {
     "Id": "HorrorRoomAppearRecoveryHPProb",
-    "HasId": true,
-    "Value": "100",
-    "HasValue": true
+    "Value": "100"
   },
   "EndOfHorrorBattleRecoveryHPEffectId": {
     "Id": "EndOfHorrorBattleRecoveryHPEffectId",
-    "HasId": true,
-    "Value": "989970",
-    "HasValue": true
+    "Value": "989970"
   },
   "BuildPassiveSkillRarityScores": {
     "Id": "BuildPassiveSkillRarityScores",
-    "HasId": true,
-    "Value": "200,150,100,100,100",
-    "HasValue": true
+    "Value": "200,150,100,100,100"
   },
   "StarTowerInitialCornNumber": {
     "Id": "StarTowerInitialCornNumber",
-    "HasId": true,
-    "Value": "200",
-    "HasValue": true
+    "Value": "200"
   },
   "StarTowerDiscExtraSubSlotCount": {
     "Id": "StarTowerDiscExtraSubSlotCount",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "NPCAffinityNumberOfInteractions": {
     "Id": "NPCAffinityNumberOfInteractions",
-    "HasId": true,
-    "Value": "60",
-    "HasValue": true
+    "Value": "60"
   },
   "SubNoteSkillGroupNumber": {
     "Id": "SubNoteSkillGroupNumber",
-    "HasId": true,
-    "Value": "3",
-    "HasValue": true
+    "Value": "3"
   },
   "SubNotePrimaryDropProbe": {
     "Id": "SubNotePrimaryDropProbe",
-    "HasId": true,
-    "Value": "8000",
-    "HasValue": true
+    "Value": "8000"
   },
   "SubNotePrimaryWeightArea": {
     "Id": "SubNotePrimaryWeightArea",
-    "HasId": true,
-    "Value": "100,150",
-    "HasValue": true
+    "Value": "100,150"
   },
   "SubNoteSecondaryWeightArea": {
     "Id": "SubNoteSecondaryWeightArea",
-    "HasId": true,
-    "Value": "100,200",
-    "HasValue": true
+    "Value": "100,200"
   },
   "StarTowerGrowthItemIds": {
     "Id": "StarTowerGrowthItemIds",
-    "HasId": true,
-    "Value": "51",
-    "HasValue": true
+    "Value": "51"
   },
   "NewPlayerDefaultClearStory": {
     "Id": "NewPlayerDefaultClearStory",
-    "HasId": true,
-    "Value": "0",
-    "HasValue": true
+    "Value": "0"
   },
   "TimeUnlockStory": {
     "Id": "TimeUnlockStory",
-    "HasId": true,
-    "Value": "STm06_06",
-    "HasValue": true
+    "Value": "STm06_06"
   },
   "StoryUnlockTime": {
     "Id": "StoryUnlockTime",
-    "HasId": true,
-    "Value": "2026-01-20T12:00:00+08:00",
-    "HasValue": true
+    "Value": "2026-01-20T12:00:00+08:00"
   },
   "VampireTalentResetTimeInterval": {
     "Id": "VampireTalentResetTimeInterval",
-    "HasId": true,
-    "Value": "30",
-    "HasValue": true
+    "Value": "30"
   },
   "FateCardBookToVampireTalentPoint": {
     "Id": "FateCardBookToVampireTalentPoint",
-    "HasId": true,
-    "Value": "5",
-    "HasValue": true
+    "Value": "5"
   },
   "VampireDropExperienceMinInterval": {
     "Id": "VampireDropExperienceMinInterval",
-    "HasId": true,
-    "Value": "30",
-    "HasValue": true
+    "Value": "30"
   },
   "VampireDropExperienceMaxInterval": {
     "Id": "VampireDropExperienceMaxInterval",
-    "HasId": true,
-    "Value": "90",
-    "HasValue": true
+    "Value": "90"
   },
   "VampireMonsterMaxCount": {
     "Id": "VampireMonsterMaxCount",
-    "HasId": true,
-    "Value": "60",
-    "HasValue": true
+    "Value": "60"
   },
   "vampireExp": {
     "Id": "vampireExp",
-    "HasId": true,
-    "Value": "5",
-    "HasValue": true
+    "Value": "5"
   },
   "vampireTreasure": {
     "Id": "vampireTreasure",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "vampireHp": {
     "Id": "vampireHp",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "vampireMp": {
     "Id": "vampireMp",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "vampireAtk": {
     "Id": "vampireAtk",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "vampireGet": {
     "Id": "vampireGet",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "vampireClear": {
     "Id": "vampireClear",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "VampireChestDropNumberAndWeight": {
     "Id": "VampireChestDropNumberAndWeight",
-    "HasId": true,
-    "Value": "{\"1\":20,\"2\":25,\"3\":20}",
-    "HasValue": true
+    "Value": "{\"1\":20,\"2\":25,\"3\":20}"
   },
   "VampireBonusConfig": {
     "Id": "VampireBonusConfig",
-    "HasId": true,
-    "Value": "[[100,120],[200,150],[300,200]]",
-    "HasValue": true
+    "Value": "[[100,120],[200,150],[300,200]]"
   },
   "VampireBonusTime": {
     "Id": "VampireBonusTime",
-    "HasId": true,
-    "Value": "10",
-    "HasValue": true
+    "Value": "10"
   },
   "VampireBaseBundle": {
     "Id": "VampireBaseBundle",
-    "HasId": true,
-    "Value": "101,102",
-    "HasValue": true
+    "Value": "101,102"
   },
   "Activity_Banner_Interval_Time": {
     "Id": "Activity_Banner_Interval_Time",
-    "HasId": true,
-    "Value": "3",
-    "HasValue": true
+    "Value": "3"
   },
   "Cookie_ErrorTime": {
     "Id": "Cookie_ErrorTime",
-    "HasId": true,
-    "Value": "0.8",
-    "HasValue": true
+    "Value": "0.8"
   },
   "JointDrill_Challenge_Tickets_Id": {
     "Id": "JointDrill_Challenge_Tickets_Id",
-    "HasId": true,
-    "Value": "36",
-    "HasValue": true
+    "Value": "36"
   },
   "JointDrill_Challenge_Tickets_Max": {
     "Id": "JointDrill_Challenge_Tickets_Max",
-    "HasId": true,
-    "Value": "3",
-    "HasValue": true
+    "Value": "3"
   },
   "JointDrill_Challenge_Time_Max": {
     "Id": "JointDrill_Challenge_Time_Max",
-    "HasId": true,
-    "Value": "3600",
-    "HasValue": true
+    "Value": "3600"
   },
   "JointDrill_Challenge_Time_OverFlow": {
     "Id": "JointDrill_Challenge_Time_OverFlow",
-    "HasId": true,
-    "Value": "4200",
-    "HasValue": true
+    "Value": "4200"
   },
   "JointDrill_Failed_Reward_Mail_Id": {
     "Id": "JointDrill_Failed_Reward_Mail_Id",
-    "HasId": true,
-    "Value": "2092",
-    "HasValue": true
+    "Value": "2092"
+  },
+  "PenguinCardMaxRound": {
+    "Id": "PenguinCardMaxRound",
+    "Value": "5"
+  },
+  "PenguinCardMaxSlot": {
+    "Id": "PenguinCardMaxSlot",
+    "Value": "6"
+  },
+  "PenguinCardHandCardCount": {
+    "Id": "PenguinCardHandCardCount",
+    "Value": "5"
+  },
+  "PenguinCardMaxBuyLimit": {
+    "Id": "PenguinCardMaxBuyLimit",
+    "Value": "5"
+  },
+  "PenguinCardRoundUpgradeCost": {
+    "Id": "PenguinCardRoundUpgradeCost",
+    "Value": "0,300,3000,5000,30000"
+  },
+  "PenguinCardSlotUpgradeCost": {
+    "Id": "PenguinCardSlotUpgradeCost",
+    "Value": "0,0,0,2000,20000,50000"
+  },
+  "PenguinCardBuyLimitUpgradeCost": {
+    "Id": "PenguinCardBuyLimitUpgradeCost",
+    "Value": "0,100,800,2000,3000"
+  },
+  "PenguinCardFeverScore": {
+    "Id": "PenguinCardFeverScore",
+    "Value": "999"
   },
   "PhoneChatTimeInterval": {
     "Id": "PhoneChatTimeInterval",
-    "HasId": true,
-    "Value": "24",
-    "HasValue": true
+    "Value": "24"
   },
   "PhoneChatTriggerMax": {
     "Id": "PhoneChatTriggerMax",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "PhoneChatUnderwayMax": {
     "Id": "PhoneChatUnderwayMax",
-    "HasId": true,
-    "Value": "2",
-    "HasValue": true
+    "Value": "2"
   },
   "TalentResetTimeInterval": {
     "Id": "TalentResetTimeInterval",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "TalentResetItemId": {
     "Id": "TalentResetItemId",
-    "HasId": true,
-    "Value": "0",
-    "HasValue": true
+    "Value": "0"
   },
   "TalentResetItemQty": {
     "Id": "TalentResetItemQty",
-    "HasId": true,
-    "Value": "0",
-    "HasValue": true
+    "Value": "0"
   },
   "TalentGroupResetItemId": {
     "Id": "TalentGroupResetItemId",
-    "HasId": true,
-    "Value": "0",
-    "HasValue": true
+    "Value": "0"
   },
   "TalentGroupResetItemQty": {
     "Id": "TalentGroupResetItemQty",
-    "HasId": true,
-    "Value": "0",
-    "HasValue": true
+    "Value": "0"
   },
   "TalentSingleResetItemId": {
     "Id": "TalentSingleResetItemId",
-    "HasId": true,
-    "Value": "0",
-    "HasValue": true
+    "Value": "0"
   },
   "TalentSingleResetItemQty": {
     "Id": "TalentSingleResetItemQty",
-    "HasId": true,
-    "Value": "0",
-    "HasValue": true
+    "Value": "0"
   },
   "EquipmentDepotMax_Client": {
     "Id": "EquipmentDepotMax_Client",
-    "HasId": true,
-    "Value": "1000",
-    "HasValue": true
+    "Value": "1000"
   },
   "EquipmentDecomposeMax": {
     "Id": "EquipmentDecomposeMax",
-    "HasId": true,
-    "Value": "50",
-    "HasValue": true
+    "Value": "50"
   },
   "EquipmentGuaranteedRange": {
     "Id": "EquipmentGuaranteedRange",
-    "HasId": true,
-    "Value": "[35,45]",
-    "HasValue": true
+    "Value": "[35,45]"
   },
   "EquipmentTagMatchAddition": {
     "Id": "EquipmentTagMatchAddition",
-    "HasId": true,
-    "Value": "100",
-    "HasValue": true
+    "Value": "100"
   },
   "DiscStrengthenGoldFactor": {
     "Id": "DiscStrengthenGoldFactor",
-    "HasId": true,
-    "Value": "250,250,250,250,250",
-    "HasValue": true
+    "Value": "250,250,250,250,250"
   },
   "DiscRarityLimitBreakMax": {
     "Id": "DiscRarityLimitBreakMax",
-    "HasId": true,
-    "Value": "5,5,5,5,5",
-    "HasValue": true
+    "Value": "5,5,5,5,5"
   },
   "DiscStoryReadLimit": {
     "Id": "DiscStoryReadLimit",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "DiscSubNoteSkillMaxLevel": {
     "Id": "DiscSubNoteSkillMaxLevel",
-    "HasId": true,
-    "Value": "99",
-    "HasValue": true
+    "Value": "99"
   },
   "DiscL2dUnlock": {
     "Id": "DiscL2dUnlock",
-    "HasId": true,
-    "Value": "2",
-    "HasValue": true
+    "Value": "2"
   },
   "DiscAVGStoryReadLimit": {
     "Id": "DiscAVGStoryReadLimit",
-    "HasId": true,
-    "Value": "2",
-    "HasValue": true
+    "Value": "2"
   },
   "Dating_Gift_Favorability_Addition": {
     "Id": "Dating_Gift_Favorability_Addition",
-    "HasId": true,
-    "Value": "2",
-    "HasValue": true
+    "Value": "2"
   },
   "Dating_Max_Send_Gift_Count": {
     "Id": "Dating_Max_Send_Gift_Count",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "Dating_Single_Event_Time": {
     "Id": "Dating_Single_Event_Time",
-    "HasId": true,
-    "Value": "2",
-    "HasValue": true
+    "Value": "2"
   },
   "Dating_Event_Max_Count": {
     "Id": "Dating_Event_Max_Count",
-    "HasId": true,
-    "Value": "9",
-    "HasValue": true
+    "Value": "9"
   },
   "Dating_Return_Salute_Id": {
     "Id": "Dating_Return_Salute_Id",
-    "HasId": true,
-    "Value": "113",
-    "HasValue": true
+    "Value": "113"
   },
   "Dating_Max_Daily_Count": {
     "Id": "Dating_Max_Daily_Count",
-    "HasId": true,
-    "Value": "5",
-    "HasValue": true
+    "Value": "5"
   },
   "PhoneGiftJumpTo": {
     "Id": "PhoneGiftJumpTo",
-    "HasId": true,
-    "Value": "13",
-    "HasValue": true
+    "Value": "13"
   },
   "Dating_Event_Base_Affinity": {
     "Id": "Dating_Event_Base_Affinity",
-    "HasId": true,
-    "Value": "25",
-    "HasValue": true
+    "Value": "25"
   },
   "DailyShopSignReward": {
     "Id": "DailyShopSignReward",
-    "HasId": true,
-    "Value": "{\"33001\":10}",
-    "HasValue": true
+    "Value": "{\"33001\":10}"
   },
   "DailyShopCountRange": {
     "Id": "DailyShopCountRange",
-    "HasId": true,
-    "Value": "[5,8]",
-    "HasValue": true
+    "Value": "[5,8]"
   },
   "DailyShopRandomDrop": {
     "Id": "DailyShopRandomDrop",
-    "HasId": true,
-    "Value": "900000",
-    "HasValue": true
+    "Value": "900000"
+  },
+  "DailyMallRandomDrop": {
+    "Id": "DailyMallRandomDrop",
+    "Value": "900001"
   },
   "TimeZone": {
     "Id": "TimeZone",
-    "HasId": true,
-    "Value": "8",
-    "HasValue": true
+    "Value": "8"
   },
   "DailyRefreshOffsetHour": {
     "Id": "DailyRefreshOffsetHour",
-    "HasId": true,
-    "Value": "4",
-    "HasValue": true
+    "Value": "4"
   },
   "EnableExchange": {
     "Id": "EnableExchange",
-    "HasId": true,
-    "Value": "android_official,ios_official,pc_official,pc_taptap,android_bilibili,pc_bilibili,android_pre_bilibili,pc_pre_bilibili,android_exp,pc_exp,android_test_1,pc_test_1,android_none,pc_none",
-    "HasValue": true
+    "Value": "android_official,ios_official,pc_official,pc_taptap,android_bilibili,pc_bilibili,android_pre_bilibili,pc_pre_bilibili,android_exp,pc_exp,android_test_1,pc_test_1,android_none,pc_none"
   },
   "LampNoticeScrollSpeed": {
     "Id": "LampNoticeScrollSpeed",
-    "HasId": true,
-    "Value": "200",
-    "HasValue": true
+    "Value": "200"
   },
   "PotentialShowDetail": {
     "Id": "PotentialShowDetail",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "SkillShowDetail": {
     "Id": "SkillShowDetail",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "NewPlayerManHeadIcon": {
     "Id": "NewPlayerManHeadIcon",
-    "HasId": true,
-    "Value": "101001",
-    "HasValue": true
+    "Value": "101001"
   },
   "NewPlayerWoManHeadIcon": {
     "Id": "NewPlayerWoManHeadIcon",
-    "HasId": true,
-    "Value": "100101",
-    "HasValue": true
+    "Value": "100101"
   },
   "NewPlayerFriendSkin": {
     "Id": "NewPlayerFriendSkin",
-    "HasId": true,
-    "Value": "10301",
-    "HasValue": true
+    "Value": "10301"
   },
   "NewPlayerTitlePrefix": {
     "Id": "NewPlayerTitlePrefix",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "NewPlayerTitleSuffix": {
     "Id": "NewPlayerTitleSuffix",
-    "HasId": true,
-    "Value": "2",
-    "HasValue": true
+    "Value": "2"
   },
   "NewPlayerBoardCharacter": {
     "Id": "NewPlayerBoardCharacter",
-    "HasId": true,
-    "Value": "410301",
-    "HasValue": true
+    "Value": "410301"
   },
   "NewPlayerStarTowerTicket": {
     "Id": "NewPlayerStarTowerTicket",
-    "HasId": true,
-    "Value": "3",
-    "HasValue": true
+    "Value": "3"
   },
   "CharUpgradeGoldPerExp": {
     "Id": "CharUpgradeGoldPerExp",
-    "HasId": true,
-    "Value": "150",
-    "HasValue": true
+    "Value": "150"
   },
   "CharMaxPonLevel": {
     "Id": "CharMaxPonLevel",
-    "HasId": true,
-    "Value": "9",
-    "HasValue": true
+    "Value": "9"
   },
   "LevelSuccessDelay": {
     "Id": "LevelSuccessDelay",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "ZoomFreeze": {
     "Id": "ZoomFreeze",
-    "HasId": true,
-    "Value": "0.2",
-    "HasValue": true
+    "Value": "0.2"
   },
   "ZoomInDurationTime": {
     "Id": "ZoomInDurationTime",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "ZoomOutTime": {
     "Id": "ZoomOutTime",
-    "HasId": true,
-    "Value": "0.1",
-    "HasValue": true
+    "Value": "0.1"
   },
   "DungeonSettlementDelay": {
     "Id": "DungeonSettlementDelay",
-    "HasId": true,
-    "Value": "0.1",
-    "HasValue": true
+    "Value": "0.1"
   },
   "LevelDefeatDelay": {
     "Id": "LevelDefeatDelay",
-    "HasId": true,
-    "Value": "0",
-    "HasValue": true
+    "Value": "0"
   },
   "LevelTeleporterDelay": {
     "Id": "LevelTeleporterDelay",
-    "HasId": true,
-    "Value": "0",
-    "HasValue": true
+    "Value": "0"
   },
   "AutoFormationLevel": {
     "Id": "AutoFormationLevel",
-    "HasId": true,
-    "Value": "10",
-    "HasValue": true
+    "Value": "10"
   },
   "BaseSuppress": {
     "Id": "BaseSuppress",
-    "HasId": true,
-    "Value": "0.1",
-    "HasValue": true
+    "Value": "0.1"
   },
   "DynamicSuppress": {
     "Id": "DynamicSuppress",
-    "HasId": true,
-    "Value": "0.9",
-    "HasValue": true
+    "Value": "0.9"
   },
   "TutorialSettlementDelayTime": {
     "Id": "TutorialSettlementDelayTime",
-    "HasId": true,
-    "Value": "0",
-    "HasValue": true
+    "Value": "0"
   },
   "EnergyObtainLimit": {
     "Id": "EnergyObtainLimit",
-    "HasId": true,
-    "Value": "999",
-    "HasValue": true
+    "Value": "999"
   },
   "EnergyTrWorldClassExp": {
     "Id": "EnergyTrWorldClassExp",
-    "HasId": true,
-    "Value": "1000",
-    "HasValue": true
+    "Value": "1000"
   },
   "EnergyMaxLimit": {
     "Id": "EnergyMaxLimit",
-    "HasId": true,
-    "Value": "240",
-    "HasValue": true
+    "Value": "240"
   },
   "EnergyGain": {
     "Id": "EnergyGain",
-    "HasId": true,
-    "Value": "6",
-    "HasValue": true
+    "Value": "6"
   },
   "EnergyBatteryGain": {
     "Id": "EnergyBatteryGain",
-    "HasId": true,
-    "Value": "8",
-    "HasValue": true
+    "Value": "8"
   },
   "EnergyBatteryMax": {
     "Id": "EnergyBatteryMax",
-    "HasId": true,
-    "Value": "0",
-    "HasValue": true
+    "Value": "0"
   },
   "MailMax": {
     "Id": "MailMax",
-    "HasId": true,
-    "Value": "100",
-    "HasValue": true
+    "Value": "100"
   },
   "FriendMax": {
     "Id": "FriendMax",
-    "HasId": true,
-    "Value": "50",
-    "HasValue": true
+    "Value": "50"
   },
   "FriendApplyMax": {
     "Id": "FriendApplyMax",
-    "HasId": true,
-    "Value": "30",
-    "HasValue": true
+    "Value": "30"
   },
   "FriendSignatureMax": {
     "Id": "FriendSignatureMax",
-    "HasId": true,
-    "Value": "30",
-    "HasValue": true
+    "Value": "30"
   },
   "FriendReceiveEnergyMax": {
     "Id": "FriendReceiveEnergyMax",
-    "HasId": true,
-    "Value": "30",
-    "HasValue": true
+    "Value": "30"
   },
   "FriendReceiveEnergyCount": {
     "Id": "FriendReceiveEnergyCount",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "QuestDailyRefreshCount": {
     "Id": "QuestDailyRefreshCount",
-    "HasId": true,
-    "Value": "12",
-    "HasValue": true
+    "Value": "12"
   },
   "QuestWeeklyRefreshCount": {
     "Id": "QuestWeeklyRefreshCount",
-    "HasId": true,
-    "Value": "13",
-    "HasValue": true
+    "Value": "13"
   },
   "BattlePassWeeklyExpLimit": {
     "Id": "BattlePassWeeklyExpLimit",
-    "HasId": true,
-    "Value": "15000",
-    "HasValue": true
+    "Value": "15000"
   },
   "BloodSpecialEffectThresholdValue": {
     "Id": "BloodSpecialEffectThresholdValue",
-    "HasId": true,
-    "Value": "30",
-    "HasValue": true
+    "Value": "30"
   },
   "SelectRole_Main": {
     "Id": "SelectRole_Main",
-    "HasId": true,
-    "Value": "SelectRole_Main",
-    "HasValue": true
+    "Value": "SelectRole_Main"
   },
   "SelectRole_Rogue": {
     "Id": "SelectRole_Rogue",
-    "HasId": true,
-    "Value": "SelectRole_Roguelike",
-    "HasValue": true
+    "Value": "SelectRole_Roguelike"
   },
   "SelectRole_InfinityTower": {
     "Id": "SelectRole_InfinityTower",
-    "HasId": true,
-    "Value": "SelectRole_InfinityTower",
-    "HasValue": true
+    "Value": "SelectRole_InfinityTower"
   },
   "CharacterSkin_Scene": {
     "Id": "CharacterSkin_Scene",
-    "HasId": true,
-    "Value": "SelectRole_Main",
-    "HasValue": true
+    "Value": "SelectRole_Main"
   },
   "ServerOpenTime": {
     "Id": "ServerOpenTime",
-    "HasId": true,
-    "Value": "2023-10-17T05:00:00+08:00",
-    "HasValue": true
+    "Value": "2023-10-17T05:00:00+08:00"
   },
   "SeasonEndThreshold": {
     "Id": "SeasonEndThreshold",
-    "HasId": true,
-    "Value": "82800",
-    "HasValue": true
+    "Value": "82800"
   },
   "HFCtimer": {
     "Id": "HFCtimer",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "HFCcounter": {
     "Id": "HFCcounter",
-    "HasId": true,
-    "Value": "5",
-    "HasValue": true
+    "Value": "5"
   },
   "Hangtimer": {
     "Id": "Hangtimer",
-    "HasId": true,
-    "Value": "20",
-    "HasValue": true
+    "Value": "20"
   },
   "NpcHFCcounter": {
     "Id": "NpcHFCcounter",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "NpcHFCtimer": {
     "Id": "NpcHFCtimer",
-    "HasId": true,
-    "Value": "5",
-    "HasValue": true
+    "Value": "5"
   },
   "NpcHangtimer": {
     "Id": "NpcHangtimer",
-    "HasId": true,
-    "Value": "20",
-    "HasValue": true
+    "Value": "20"
   },
   "SkinZoomRange": {
     "Id": "SkinZoomRange",
-    "HasId": true,
-    "Value": "0.5,1.5",
-    "HasValue": true
+    "Value": "0.5,1.5"
   },
   "WeaponAdvanceSequence": {
     "Id": "WeaponAdvanceSequence",
-    "HasId": true,
-    "Value": "0,2,3,4",
-    "HasValue": true
+    "Value": "0,2,3,4"
   },
   "WeaponUpgradeGoldPerExp": {
     "Id": "WeaponUpgradeGoldPerExp",
-    "HasId": true,
-    "Value": "500",
-    "HasValue": true
+    "Value": "500"
   },
   "MaterialCraftingLimit": {
     "Id": "MaterialCraftingLimit",
-    "HasId": true,
-    "Value": "999",
-    "HasValue": true
+    "Value": "999"
   },
   "MaxHistoryPanel": {
     "Id": "MaxHistoryPanel",
-    "HasId": true,
-    "Value": "99",
-    "HasValue": true
+    "Value": "99"
   },
   "MainViewDragThreshold": {
     "Id": "MainViewDragThreshold",
-    "HasId": true,
-    "Value": "200",
-    "HasValue": true
+    "Value": "200"
   },
   "CharDragThreshold": {
     "Id": "CharDragThreshold",
-    "HasId": true,
-    "Value": "200",
-    "HasValue": true
+    "Value": "200"
   },
   "DiscDragThreshold": {
     "Id": "DiscDragThreshold",
-    "HasId": true,
-    "Value": "200",
-    "HasValue": true
+    "Value": "200"
   },
   "DelaySkipSpecialRewardTime": {
     "Id": "DelaySkipSpecialRewardTime",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "AffinityGiftPreferenceProp": {
     "Id": "AffinityGiftPreferenceProp",
-    "HasId": true,
-    "Value": "50,0,-20",
-    "HasValue": true
+    "Value": "50,0,-20"
   },
   "AffinityGiftSendCount": {
     "Id": "AffinityGiftSendCount",
-    "HasId": true,
-    "Value": "10",
-    "HasValue": true
+    "Value": "10"
   },
   "AffinityL2dPlayInterval": {
     "Id": "AffinityL2dPlayInterval",
-    "HasId": true,
-    "Value": "2",
-    "HasValue": true
+    "Value": "2"
   },
   "AgentMaximumQuantity": {
     "Id": "AgentMaximumQuantity",
-    "HasId": true,
-    "Value": "4",
-    "HasValue": true
+    "Value": "4"
   },
   "HighResistanceValueUpperLimit": {
     "Id": "HighResistanceValueUpperLimit",
-    "HasId": true,
-    "Value": "2000",
-    "HasValue": true
+    "Value": "2000"
   },
   "HighResistanceValueLowerLimit": {
     "Id": "HighResistanceValueLowerLimit",
-    "HasId": true,
-    "Value": "751",
-    "HasValue": true
+    "Value": "751"
   },
   "HighResistanceAmendUpperLimit": {
     "Id": "HighResistanceAmendUpperLimit",
-    "HasId": true,
-    "Value": "0.99",
-    "HasValue": true
+    "Value": "0.99"
   },
   "HighResistanceAmendLowerLimit": {
     "Id": "HighResistanceAmendLowerLimit",
-    "HasId": true,
-    "Value": "0.9",
-    "HasValue": true
+    "Value": "0.9"
   },
   "MiddleResistanceValueUpperLimit": {
     "Id": "MiddleResistanceValueUpperLimit",
-    "HasId": true,
-    "Value": "750",
-    "HasValue": true
+    "Value": "750"
   },
   "MiddleResistanceValueLowerLimit": {
     "Id": "MiddleResistanceValueLowerLimit",
-    "HasId": true,
-    "Value": "251",
-    "HasValue": true
+    "Value": "251"
   },
   "MiddleResistanceAmendUpperLimit": {
     "Id": "MiddleResistanceAmendUpperLimit",
-    "HasId": true,
-    "Value": "0.6",
-    "HasValue": true
+    "Value": "0.6"
   },
   "MiddleResistanceAmendLowerLimit": {
     "Id": "MiddleResistanceAmendLowerLimit",
-    "HasId": true,
-    "Value": "0.35",
-    "HasValue": true
+    "Value": "0.35"
   },
   "LowResistanceValueUpperLimit": {
     "Id": "LowResistanceValueUpperLimit",
-    "HasId": true,
-    "Value": "250",
-    "HasValue": true
+    "Value": "250"
   },
   "LowResistanceValueLowerLimit": {
     "Id": "LowResistanceValueLowerLimit",
-    "HasId": true,
-    "Value": "0",
-    "HasValue": true
+    "Value": "0"
   },
   "LowResistanceAmendUpperLimit": {
     "Id": "LowResistanceAmendUpperLimit",
-    "HasId": true,
-    "Value": "0.25",
-    "HasValue": true
+    "Value": "0.25"
   },
   "LowResistanceAmendLowerLimit": {
     "Id": "LowResistanceAmendLowerLimit",
-    "HasId": true,
-    "Value": "0",
-    "HasValue": true
+    "Value": "0"
   },
   "HudResistanceTipInterval": {
     "Id": "HudResistanceTipInterval",
-    "HasId": true,
-    "Value": "2",
-    "HasValue": true
+    "Value": "2"
   },
   "AgentSpecialRewardsProp": {
     "Id": "AgentSpecialRewardsProp",
-    "HasId": true,
-    "Value": "20",
-    "HasValue": true
+    "Value": "20"
   },
   "AgentMaximumSpecialRewards": {
     "Id": "AgentMaximumSpecialRewards",
-    "HasId": true,
-    "Value": "4",
-    "HasValue": true
+    "Value": "4"
   },
   "RegionBossChallengeTicker": {
     "Id": "RegionBossChallengeTicker",
-    "HasId": true,
-    "Value": "3",
-    "HasValue": true
+    "Value": "3"
   },
   "CharGiftFirstStageVoKey": {
     "Id": "CharGiftFirstStageVoKey",
-    "HasId": true,
-    "Value": "thankEx",
-    "HasValue": true
+    "Value": "thankEx"
   },
   "CharGiftSecondStageVoKey": {
     "Id": "CharGiftSecondStageVoKey",
-    "HasId": true,
-    "Value": "thank",
-    "HasValue": true
+    "Value": "thank"
   },
   "CharGiftThirdStageVoKey": {
     "Id": "CharGiftThirdStageVoKey",
-    "HasId": true,
-    "Value": "thankSmall",
-    "HasValue": true
+    "Value": "thankSmall"
   },
   "IsShowComBtn": {
     "Id": "IsShowComBtn",
-    "HasId": true,
-    "Value": "1",
-    "HasValue": true
+    "Value": "1"
   },
   "GuideMaxClickCount": {
     "Id": "GuideMaxClickCount",
-    "HasId": true,
-    "Value": "5",
-    "HasValue": true
+    "Value": "5"
   },
   "GuideMaxWaitTime": {
     "Id": "GuideMaxWaitTime",
-    "HasId": true,
-    "Value": "3",
-    "HasValue": true
+    "Value": "3"
   },
   "LevelMenu_Resource_IconGroup_1": {
     "Id": "LevelMenu_Resource_IconGroup_1",
-    "HasId": true,
-    "Value": "Icon/Item/item_32001,Icon/Item/item_32013,Icon/Item/item_32022,Icon/Item/item_35001",
-    "HasValue": true
+    "Value": "Icon/Item/item_32001,Icon/Item/item_32013,Icon/Item/item_32022,Icon/Item/item_35001"
   },
   "LevelMenu_Resource_IconGroup_2": {
     "Id": "LevelMenu_Resource_IconGroup_2",
-    "HasId": true,
-    "Value": "Icon/Item/item_20073,Icon/Item/item_20083,Icon/Item/item_20093,Icon/Item/item_35002",
-    "HasValue": true
+    "Value": "Icon/Item/item_20073,Icon/Item/item_20083,Icon/Item/item_20093,Icon/Item/item_35002"
   },
   "LevelMenu_Resource_IconGroup_3": {
     "Id": "LevelMenu_Resource_IconGroup_3",
-    "HasId": true,
-    "Value": "Icon/Item/item_1,Icon/Item/item_30003,Icon/Item/item_50004,Icon/Item/item_35003",
-    "HasValue": true
+    "Value": "Icon/Item/item_1,Icon/Item/item_30003,Icon/Item/item_50004,Icon/Item/item_35003"
   },
   "LevelMenu_Resource_IconGroup_4": {
     "Id": "LevelMenu_Resource_IconGroup_4",
-    "HasId": true,
-    "Value": "Icon/Item/item_1,Icon/Item/item_35001,Icon/Item/item_35003,Icon/Item/item_35002",
-    "HasValue": true
+    "Value": "Icon/Item/item_1,Icon/Item/item_35001,Icon/Item/item_35003,Icon/Item/item_35002"
   },
   "NewbieGachaRule": {
     "Id": "NewbieGachaRule",
-    "HasId": true,
-    "Value": "5,30,1",
-    "HasValue": true
+    "Value": "5,30,1"
   },
   "NetworkAutoRetryCount": {
     "Id": "NetworkAutoRetryCount",
-    "HasId": true,
-    "Value": "3",
-    "HasValue": true
+    "Value": "3"
   },
   "NetworkRetryTotalCount": {
     "Id": "NetworkRetryTotalCount",
-    "HasId": true,
-    "Value": "5",
-    "HasValue": true
+    "Value": "5"
   },
   "PhoneChatTopLimit": {
     "Id": "PhoneChatTopLimit",
-    "HasId": true,
-    "Value": "3",
-    "HasValue": true
+    "Value": "3"
   },
   "PhoneDatingAffinityLimit": {
     "Id": "PhoneDatingAffinityLimit",
-    "HasId": true,
-    "Value": "6",
-    "HasValue": true
+    "Value": "6"
   },
   "WeekBossTicketMax": {
     "Id": "WeekBossTicketMax",
-    "HasId": true,
-    "Value": "3",
-    "HasValue": true
+    "Value": "3"
   },
   "InfinityOpenDayActivityId": {
     "Id": "InfinityOpenDayActivityId",
-    "HasId": true,
-    "Value": "201002",
-    "HasValue": true
+    "Value": "201002"
   },
   "TouchEffect_Main": {
     "Id": "TouchEffect_Main",
-    "HasId": true,
-    "Value": "",
-    "HasValue": false
+    "Value": ""
   },
   "TouchEffect_Slide": {
     "Id": "TouchEffect_Slide",
-    "HasId": true,
-    "Value": "",
-    "HasValue": false
+    "Value": ""
   },
   "RedDot": {
     "Id": "RedDot",
-    "HasId": true,
-    "Value": "",
-    "HasValue": false
+    "Value": ""
   },
   "TravelerDuel_BottomBanner": {
     "Id": "TravelerDuel_BottomBanner",
-    "HasId": true,
-    "Value": "banner_l_7",
-    "HasValue": true
+    "Value": "banner_l_7"
   },
   "TravelerDuel_LeftMiddleBanner": {
     "Id": "TravelerDuel_LeftMiddleBanner",
-    "HasId": true,
-    "Value": "AssetBundles/UI/big_sprites/banner_m_2",
-    "HasValue": true
+    "Value": "AssetBundles/UI/big_sprites/banner_m_2"
   },
   "CBTBlock": {
     "Id": "CBTBlock",
-    "HasId": true,
-    "Value": "0",
-    "HasValue": true
+    "Value": "0"
   },
   "CharGemAttrNum": {
     "Id": "CharGemAttrNum",
-    "HasId": true,
-    "Value": "4",
-    "HasValue": true
+    "Value": "4"
   },
   "CharGemAlterGemNum": {
     "Id": "CharGemAlterGemNum",
-    "HasId": true,
-    "Value": "4",
-    "HasValue": true
+    "Value": "4"
   },
   "CharGemPresetNum": {
     "Id": "CharGemPresetNum",
-    "HasId": true,
-    "Value": "3",
-    "HasValue": true
+    "Value": "3"
   },
   "CharGemHighQualityNum": {
     "Id": "CharGemHighQualityNum",
-    "HasId": true,
-    "Value": "2",
-    "HasValue": true
+    "Value": "2"
   },
   "NickNameResetTimeLimit": {
     "Id": "NickNameResetTimeLimit",
-    "HasId": true,
-    "Value": "604800",
-    "HasValue": true
+    "Value": "604800"
+  },
+  "BreakOut_LevelClosed": {
+    "Id": "BreakOut_LevelClosed",
+    "Value": "2026-02-24T10:59:59+08:00"
   }
 }

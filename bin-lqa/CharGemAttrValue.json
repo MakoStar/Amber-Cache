@@ -6,10 +6,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 1,
     "Value": "680",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "102": {
     "Id": 102,
@@ -18,10 +18,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 1,
     "Value": "850",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "103": {
     "Id": 103,
@@ -30,10 +30,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 1,
     "Value": "1020",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "104": {
     "Id": 104,
@@ -42,10 +42,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 1,
     "Value": "2040",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "201": {
     "Id": 201,
@@ -54,10 +54,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "70",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "202": {
     "Id": 202,
@@ -66,10 +66,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "88",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "203": {
     "Id": 203,
@@ -78,10 +78,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "105",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "204": {
     "Id": 204,
@@ -90,10 +90,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "210",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "301": {
     "Id": 301,
@@ -102,10 +102,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "302": {
     "Id": 302,
@@ -114,10 +114,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 1,
     "Value": "44",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "303": {
     "Id": 303,
@@ -126,10 +126,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "304": {
     "Id": 304,
@@ -138,10 +138,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 1,
     "Value": "105",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "401": {
     "Id": 401,
@@ -150,10 +150,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 81011
+    "EffectId": 81011,
+    "Rare": false
   },
   "402": {
     "Id": 402,
@@ -162,10 +162,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 81012
+    "EffectId": 81012,
+    "Rare": false
   },
   "403": {
     "Id": 403,
@@ -174,10 +174,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 81013
+    "EffectId": 81013,
+    "Rare": false
   },
   "404": {
     "Id": 404,
@@ -186,10 +186,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 81014
+    "EffectId": 81014,
+    "Rare": false
   },
   "501": {
     "Id": 501,
@@ -198,10 +198,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 81021
+    "EffectId": 81021,
+    "Rare": false
   },
   "502": {
     "Id": 502,
@@ -210,10 +210,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 81022
+    "EffectId": 81022,
+    "Rare": false
   },
   "503": {
     "Id": 503,
@@ -222,10 +222,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 81023
+    "EffectId": 81023,
+    "Rare": false
   },
   "504": {
     "Id": 504,
@@ -234,10 +234,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 81024
+    "EffectId": 81024,
+    "Rare": false
   },
   "601": {
     "Id": 601,
@@ -246,10 +246,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 81031
+    "EffectId": 81031,
+    "Rare": false
   },
   "602": {
     "Id": 602,
@@ -258,10 +258,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.125",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 81032
+    "EffectId": 81032,
+    "Rare": false
   },
   "603": {
     "Id": 603,
@@ -270,10 +270,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 81033
+    "EffectId": 81033,
+    "Rare": false
   },
   "604": {
     "Id": 604,
@@ -282,10 +282,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 81034
+    "EffectId": 81034,
+    "Rare": false
   },
   "701": {
     "Id": 701,
@@ -294,10 +294,10 @@
     "AttrTypeFirstSubtype": 8,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "702": {
     "Id": 702,
@@ -306,10 +306,10 @@
     "AttrTypeFirstSubtype": 8,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "703": {
     "Id": 703,
@@ -318,10 +318,10 @@
     "AttrTypeFirstSubtype": 8,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "704": {
     "Id": 704,
@@ -330,10 +330,10 @@
     "AttrTypeFirstSubtype": 8,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.24",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "801": {
     "Id": 801,
@@ -342,10 +342,10 @@
     "AttrTypeFirstSubtype": 6,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "802": {
     "Id": 802,
@@ -354,10 +354,10 @@
     "AttrTypeFirstSubtype": 6,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "803": {
     "Id": 803,
@@ -366,10 +366,10 @@
     "AttrTypeFirstSubtype": 6,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "804": {
     "Id": 804,
@@ -378,10 +378,10 @@
     "AttrTypeFirstSubtype": 6,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "901": {
     "Id": 901,
@@ -390,10 +390,10 @@
     "AttrTypeFirstSubtype": 17,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "902": {
     "Id": 902,
@@ -402,10 +402,10 @@
     "AttrTypeFirstSubtype": 17,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "903": {
     "Id": 903,
@@ -414,10 +414,10 @@
     "AttrTypeFirstSubtype": 17,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "904": {
     "Id": 904,
@@ -426,10 +426,10 @@
     "AttrTypeFirstSubtype": 17,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1001": {
     "Id": 1001,
@@ -438,10 +438,10 @@
     "AttrTypeFirstSubtype": 18,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1002": {
     "Id": 1002,
@@ -450,10 +450,10 @@
     "AttrTypeFirstSubtype": 18,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1003": {
     "Id": 1003,
@@ -462,10 +462,10 @@
     "AttrTypeFirstSubtype": 18,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1004": {
     "Id": 1004,
@@ -474,10 +474,10 @@
     "AttrTypeFirstSubtype": 18,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1101": {
     "Id": 1101,
@@ -486,10 +486,10 @@
     "AttrTypeFirstSubtype": 19,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1102": {
     "Id": 1102,
@@ -498,10 +498,10 @@
     "AttrTypeFirstSubtype": 19,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1103": {
     "Id": 1103,
@@ -510,10 +510,10 @@
     "AttrTypeFirstSubtype": 19,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1104": {
     "Id": 1104,
@@ -522,10 +522,10 @@
     "AttrTypeFirstSubtype": 19,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1201": {
     "Id": 1201,
@@ -534,10 +534,10 @@
     "AttrTypeFirstSubtype": 20,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1202": {
     "Id": 1202,
@@ -546,10 +546,10 @@
     "AttrTypeFirstSubtype": 20,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1203": {
     "Id": 1203,
@@ -558,10 +558,10 @@
     "AttrTypeFirstSubtype": 20,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1204": {
     "Id": 1204,
@@ -570,10 +570,10 @@
     "AttrTypeFirstSubtype": 20,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1301": {
     "Id": 1301,
@@ -582,10 +582,10 @@
     "AttrTypeFirstSubtype": 21,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1302": {
     "Id": 1302,
@@ -594,10 +594,10 @@
     "AttrTypeFirstSubtype": 21,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1303": {
     "Id": 1303,
@@ -606,10 +606,10 @@
     "AttrTypeFirstSubtype": 21,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1304": {
     "Id": 1304,
@@ -618,10 +618,10 @@
     "AttrTypeFirstSubtype": 21,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1401": {
     "Id": 1401,
@@ -630,10 +630,10 @@
     "AttrTypeFirstSubtype": 22,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1402": {
     "Id": 1402,
@@ -642,10 +642,10 @@
     "AttrTypeFirstSubtype": 22,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1403": {
     "Id": 1403,
@@ -654,10 +654,10 @@
     "AttrTypeFirstSubtype": 22,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1404": {
     "Id": 1404,
@@ -666,10 +666,10 @@
     "AttrTypeFirstSubtype": 22,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1501": {
     "Id": 1501,
@@ -678,10 +678,10 @@
     "AttrTypeFirstSubtype": 23,
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1502": {
     "Id": 1502,
@@ -690,10 +690,10 @@
     "AttrTypeFirstSubtype": 23,
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1503": {
     "Id": 1503,
@@ -702,10 +702,10 @@
     "AttrTypeFirstSubtype": 23,
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1504": {
     "Id": 1504,
@@ -714,10 +714,10 @@
     "AttrTypeFirstSubtype": 23,
     "AttrTypeSecondSubtype": 1,
     "Value": "110",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "1601": {
     "Id": 1601,
@@ -726,10 +726,10 @@
     "AttrTypeFirstSubtype": 24,
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1602": {
     "Id": 1602,
@@ -738,10 +738,10 @@
     "AttrTypeFirstSubtype": 24,
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1603": {
     "Id": 1603,
@@ -750,10 +750,10 @@
     "AttrTypeFirstSubtype": 24,
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1604": {
     "Id": 1604,
@@ -762,10 +762,10 @@
     "AttrTypeFirstSubtype": 24,
     "AttrTypeSecondSubtype": 1,
     "Value": "110",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "1701": {
     "Id": 1701,
@@ -774,10 +774,10 @@
     "AttrTypeFirstSubtype": 25,
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1702": {
     "Id": 1702,
@@ -786,10 +786,10 @@
     "AttrTypeFirstSubtype": 25,
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1703": {
     "Id": 1703,
@@ -798,10 +798,10 @@
     "AttrTypeFirstSubtype": 25,
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1704": {
     "Id": 1704,
@@ -810,10 +810,10 @@
     "AttrTypeFirstSubtype": 25,
     "AttrTypeSecondSubtype": 1,
     "Value": "110",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "1801": {
     "Id": 1801,
@@ -822,10 +822,10 @@
     "AttrTypeFirstSubtype": 26,
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1802": {
     "Id": 1802,
@@ -834,10 +834,10 @@
     "AttrTypeFirstSubtype": 26,
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1803": {
     "Id": 1803,
@@ -846,10 +846,10 @@
     "AttrTypeFirstSubtype": 26,
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1804": {
     "Id": 1804,
@@ -858,10 +858,10 @@
     "AttrTypeFirstSubtype": 26,
     "AttrTypeSecondSubtype": 1,
     "Value": "110",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "1901": {
     "Id": 1901,
@@ -870,10 +870,10 @@
     "AttrTypeFirstSubtype": 27,
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1902": {
     "Id": 1902,
@@ -882,10 +882,10 @@
     "AttrTypeFirstSubtype": 27,
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1903": {
     "Id": 1903,
@@ -894,10 +894,10 @@
     "AttrTypeFirstSubtype": 27,
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "1904": {
     "Id": 1904,
@@ -906,10 +906,10 @@
     "AttrTypeFirstSubtype": 27,
     "AttrTypeSecondSubtype": 1,
     "Value": "110",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "2001": {
     "Id": 2001,
@@ -918,10 +918,10 @@
     "AttrTypeFirstSubtype": 28,
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2002": {
     "Id": 2002,
@@ -930,10 +930,10 @@
     "AttrTypeFirstSubtype": 28,
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2003": {
     "Id": 2003,
@@ -942,10 +942,10 @@
     "AttrTypeFirstSubtype": 28,
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2004": {
     "Id": 2004,
@@ -954,10 +954,10 @@
     "AttrTypeFirstSubtype": 28,
     "AttrTypeSecondSubtype": 1,
     "Value": "110",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "2101": {
     "Id": 2101,
@@ -966,10 +966,10 @@
     "AttrTypeFirstSubtype": 56,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2102": {
     "Id": 2102,
@@ -978,10 +978,10 @@
     "AttrTypeFirstSubtype": 56,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.125",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2103": {
     "Id": 2103,
@@ -990,10 +990,10 @@
     "AttrTypeFirstSubtype": 56,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2104": {
     "Id": 2104,
@@ -1002,10 +1002,10 @@
     "AttrTypeFirstSubtype": 56,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2201": {
     "Id": 2201,
@@ -1014,10 +1014,10 @@
     "AttrTypeFirstSubtype": 57,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.07",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2202": {
     "Id": 2202,
@@ -1026,10 +1026,10 @@
     "AttrTypeFirstSubtype": 57,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2203": {
     "Id": 2203,
@@ -1038,10 +1038,10 @@
     "AttrTypeFirstSubtype": 57,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2204": {
     "Id": 2204,
@@ -1050,10 +1050,10 @@
     "AttrTypeFirstSubtype": 57,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2301": {
     "Id": 2301,
@@ -1062,10 +1062,10 @@
     "AttrTypeFirstSubtype": 58,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2302": {
     "Id": 2302,
@@ -1074,10 +1074,10 @@
     "AttrTypeFirstSubtype": 58,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.13",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2303": {
     "Id": 2303,
@@ -1086,10 +1086,10 @@
     "AttrTypeFirstSubtype": 58,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2304": {
     "Id": 2304,
@@ -1098,10 +1098,10 @@
     "AttrTypeFirstSubtype": 58,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2401": {
     "Id": 2401,
@@ -1110,10 +1110,10 @@
     "AttrTypeFirstSubtype": 64,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.27",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2402": {
     "Id": 2402,
@@ -1122,10 +1122,10 @@
     "AttrTypeFirstSubtype": 64,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.33",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2403": {
     "Id": 2403,
@@ -1134,10 +1134,10 @@
     "AttrTypeFirstSubtype": 64,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.4",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2404": {
     "Id": 2404,
@@ -1146,10 +1146,10 @@
     "AttrTypeFirstSubtype": 64,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.8",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2501": {
     "Id": 2501,
@@ -1158,10 +1158,10 @@
     "AttrTypeFirstSubtype": 66,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.07",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2502": {
     "Id": 2502,
@@ -1170,10 +1170,10 @@
     "AttrTypeFirstSubtype": 66,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2503": {
     "Id": 2503,
@@ -1182,10 +1182,10 @@
     "AttrTypeFirstSubtype": 66,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2504": {
     "Id": 2504,
@@ -1194,10 +1194,10 @@
     "AttrTypeFirstSubtype": 66,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2601": {
     "Id": 2601,
@@ -1206,10 +1206,10 @@
     "AttrTypeFirstSubtype": 68,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.07",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2602": {
     "Id": 2602,
@@ -1218,10 +1218,10 @@
     "AttrTypeFirstSubtype": 68,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2603": {
     "Id": 2603,
@@ -1230,10 +1230,10 @@
     "AttrTypeFirstSubtype": 68,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2604": {
     "Id": 2604,
@@ -1242,10 +1242,10 @@
     "AttrTypeFirstSubtype": 68,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2701": {
     "Id": 2701,
@@ -1254,10 +1254,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2702": {
     "Id": 2702,
@@ -1266,10 +1266,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.125",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2703": {
     "Id": 2703,
@@ -1278,10 +1278,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2704": {
     "Id": 2704,
@@ -1290,10 +1290,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2801": {
     "Id": 2801,
@@ -1302,10 +1302,10 @@
     "AttrTypeFirstSubtype": 0,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.135",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2802": {
     "Id": 2802,
@@ -1314,10 +1314,10 @@
     "AttrTypeFirstSubtype": 0,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.17",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2803": {
     "Id": 2803,
@@ -1326,10 +1326,10 @@
     "AttrTypeFirstSubtype": 0,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.203",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2804": {
     "Id": 2804,
@@ -1338,10 +1338,10 @@
     "AttrTypeFirstSubtype": 0,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.4",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2901": {
     "Id": 2901,
@@ -1350,10 +1350,10 @@
     "AttrTypeFirstSubtype": 70,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2902": {
     "Id": 2902,
@@ -1362,10 +1362,10 @@
     "AttrTypeFirstSubtype": 70,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2903": {
     "Id": 2903,
@@ -1374,10 +1374,10 @@
     "AttrTypeFirstSubtype": 70,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "2904": {
     "Id": 2904,
@@ -1386,10 +1386,10 @@
     "AttrTypeFirstSubtype": 70,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3001": {
     "Id": 3001,
@@ -1398,10 +1398,10 @@
     "AttrTypeFirstSubtype": 71,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3002": {
     "Id": 3002,
@@ -1410,10 +1410,10 @@
     "AttrTypeFirstSubtype": 71,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3003": {
     "Id": 3003,
@@ -1422,10 +1422,10 @@
     "AttrTypeFirstSubtype": 71,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3004": {
     "Id": 3004,
@@ -1434,10 +1434,10 @@
     "AttrTypeFirstSubtype": 71,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3101": {
     "Id": 3101,
@@ -1446,10 +1446,10 @@
     "AttrTypeFirstSubtype": 72,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3102": {
     "Id": 3102,
@@ -1458,10 +1458,10 @@
     "AttrTypeFirstSubtype": 72,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3103": {
     "Id": 3103,
@@ -1470,10 +1470,10 @@
     "AttrTypeFirstSubtype": 72,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3104": {
     "Id": 3104,
@@ -1482,10 +1482,10 @@
     "AttrTypeFirstSubtype": 72,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3201": {
     "Id": 3201,
@@ -1494,10 +1494,10 @@
     "AttrTypeFirstSubtype": 73,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3202": {
     "Id": 3202,
@@ -1506,10 +1506,10 @@
     "AttrTypeFirstSubtype": 73,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3203": {
     "Id": 3203,
@@ -1518,10 +1518,10 @@
     "AttrTypeFirstSubtype": 73,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3204": {
     "Id": 3204,
@@ -1530,10 +1530,10 @@
     "AttrTypeFirstSubtype": 73,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3301": {
     "Id": 3301,
@@ -1542,10 +1542,10 @@
     "AttrTypeFirstSubtype": 74,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3302": {
     "Id": 3302,
@@ -1554,10 +1554,10 @@
     "AttrTypeFirstSubtype": 74,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3303": {
     "Id": 3303,
@@ -1566,10 +1566,10 @@
     "AttrTypeFirstSubtype": 74,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3304": {
     "Id": 3304,
@@ -1578,10 +1578,10 @@
     "AttrTypeFirstSubtype": 74,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3401": {
     "Id": 3401,
@@ -1590,10 +1590,10 @@
     "AttrTypeFirstSubtype": 75,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3402": {
     "Id": 3402,
@@ -1602,10 +1602,10 @@
     "AttrTypeFirstSubtype": 75,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3403": {
     "Id": 3403,
@@ -1614,10 +1614,10 @@
     "AttrTypeFirstSubtype": 75,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3404": {
     "Id": 3404,
@@ -1626,10 +1626,10 @@
     "AttrTypeFirstSubtype": 75,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3501": {
     "Id": 3501,
@@ -1638,10 +1638,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 2,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3502": {
     "Id": 3502,
@@ -1650,10 +1650,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 2,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3503": {
     "Id": 3503,
@@ -1662,10 +1662,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 2,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "3601": {
     "Id": 3601,
@@ -1674,10 +1674,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 2,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3602": {
     "Id": 3602,
@@ -1686,10 +1686,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 2,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3603": {
     "Id": 3603,
@@ -1698,10 +1698,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 2,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "3701": {
     "Id": 3701,
@@ -1710,10 +1710,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 2,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3702": {
     "Id": 3702,
@@ -1722,10 +1722,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 2,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3703": {
     "Id": 3703,
@@ -1734,10 +1734,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 2,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "3801": {
     "Id": 3801,
@@ -1746,10 +1746,10 @@
     "AttrTypeFirstSubtype": 4,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 2,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3802": {
     "Id": 3802,
@@ -1758,10 +1758,10 @@
     "AttrTypeFirstSubtype": 4,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 2,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3803": {
     "Id": 3803,
@@ -1770,10 +1770,10 @@
     "AttrTypeFirstSubtype": 4,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 2,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "3901": {
     "Id": 3901,
@@ -1782,10 +1782,10 @@
     "AttrTypeFirstSubtype": 5,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3902": {
     "Id": 3902,
@@ -1794,10 +1794,10 @@
     "AttrTypeFirstSubtype": 5,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "3903": {
     "Id": 3903,
@@ -1806,10 +1806,10 @@
     "AttrTypeFirstSubtype": 5,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "4001": {
     "Id": 4001,
@@ -1818,10 +1818,10 @@
     "AttrTypeFirstSubtype": 6,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "4002": {
     "Id": 4002,
@@ -1830,10 +1830,10 @@
     "AttrTypeFirstSubtype": 6,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "4003": {
     "Id": 4003,
@@ -1842,10 +1842,10 @@
     "AttrTypeFirstSubtype": 6,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "4101": {
     "Id": 4101,
@@ -1854,10 +1854,10 @@
     "AttrTypeFirstSubtype": 7,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "4102": {
     "Id": 4102,
@@ -1866,10 +1866,10 @@
     "AttrTypeFirstSubtype": 7,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "4103": {
     "Id": 4103,
@@ -1878,10 +1878,10 @@
     "AttrTypeFirstSubtype": 7,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "4201": {
     "Id": 4201,
@@ -1890,10 +1890,10 @@
     "AttrTypeFirstSubtype": 8,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "4202": {
     "Id": 4202,
@@ -1902,10 +1902,10 @@
     "AttrTypeFirstSubtype": 8,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "4203": {
     "Id": 4203,
@@ -1914,10 +1914,10 @@
     "AttrTypeFirstSubtype": 8,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "4301": {
     "Id": 4301,
@@ -1926,10 +1926,10 @@
     "AttrTypeFirstSubtype": 9,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "4302": {
     "Id": 4302,
@@ -1938,10 +1938,10 @@
     "AttrTypeFirstSubtype": 9,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "4303": {
     "Id": 4303,
@@ -1950,10 +1950,10 @@
     "AttrTypeFirstSubtype": 9,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "4401": {
     "Id": 4401,
@@ -1962,10 +1962,10 @@
     "AttrTypeFirstSubtype": 10,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "4402": {
     "Id": 4402,
@@ -1974,10 +1974,10 @@
     "AttrTypeFirstSubtype": 10,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "4403": {
     "Id": 4403,
@@ -1986,10 +1986,10 @@
     "AttrTypeFirstSubtype": 10,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "4501": {
     "Id": 4501,
@@ -1998,10 +1998,10 @@
     "AttrTypeFirstSubtype": 11,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "4502": {
     "Id": 4502,
@@ -2010,10 +2010,10 @@
     "AttrTypeFirstSubtype": 11,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "4503": {
     "Id": 4503,
@@ -2022,10 +2022,10 @@
     "AttrTypeFirstSubtype": 11,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "4601": {
     "Id": 4601,
@@ -2034,10 +2034,10 @@
     "AttrTypeFirstSubtype": 12,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "4602": {
     "Id": 4602,
@@ -2046,10 +2046,10 @@
     "AttrTypeFirstSubtype": 12,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "4603": {
     "Id": 4603,
@@ -2058,10 +2058,10 @@
     "AttrTypeFirstSubtype": 12,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "4701": {
     "Id": 4701,
@@ -2070,10 +2070,10 @@
     "AttrTypeFirstSubtype": 13,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "4702": {
     "Id": 4702,
@@ -2082,10 +2082,10 @@
     "AttrTypeFirstSubtype": 13,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "4703": {
     "Id": 4703,
@@ -2094,10 +2094,10 @@
     "AttrTypeFirstSubtype": 13,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 3,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "4801": {
     "Id": 4801,
@@ -2106,10 +2106,10 @@
     "AttrTypeFirstSubtype": 25,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "4802": {
     "Id": 4802,
@@ -2118,10 +2118,10 @@
     "AttrTypeFirstSubtype": 25,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "4803": {
     "Id": 4803,
@@ -2130,10 +2130,10 @@
     "AttrTypeFirstSubtype": 25,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "4901": {
     "Id": 4901,
@@ -2142,10 +2142,10 @@
     "AttrTypeFirstSubtype": 26,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "4902": {
     "Id": 4902,
@@ -2154,10 +2154,10 @@
     "AttrTypeFirstSubtype": 26,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "4903": {
     "Id": 4903,
@@ -2166,10 +2166,10 @@
     "AttrTypeFirstSubtype": 26,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "5001": {
     "Id": 5001,
@@ -2178,10 +2178,10 @@
     "AttrTypeFirstSubtype": 27,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "5002": {
     "Id": 5002,
@@ -2190,10 +2190,10 @@
     "AttrTypeFirstSubtype": 27,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "5003": {
     "Id": 5003,
@@ -2202,10 +2202,10 @@
     "AttrTypeFirstSubtype": 27,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "5101": {
     "Id": 5101,
@@ -2214,10 +2214,10 @@
     "AttrTypeFirstSubtype": 28,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "5102": {
     "Id": 5102,
@@ -2226,10 +2226,10 @@
     "AttrTypeFirstSubtype": 28,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "5103": {
     "Id": 5103,
@@ -2238,10 +2238,10 @@
     "AttrTypeFirstSubtype": 28,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "5201": {
     "Id": 5201,
@@ -2250,10 +2250,10 @@
     "AttrTypeFirstSubtype": 29,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "5202": {
     "Id": 5202,
@@ -2262,10 +2262,10 @@
     "AttrTypeFirstSubtype": 29,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "5203": {
     "Id": 5203,
@@ -2274,10 +2274,10 @@
     "AttrTypeFirstSubtype": 29,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "5301": {
     "Id": 5301,
@@ -2286,10 +2286,10 @@
     "AttrTypeFirstSubtype": 30,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "5302": {
     "Id": 5302,
@@ -2298,10 +2298,10 @@
     "AttrTypeFirstSubtype": 30,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "5303": {
     "Id": 5303,
@@ -2310,10 +2310,10 @@
     "AttrTypeFirstSubtype": 30,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "5401": {
     "Id": 5401,
@@ -2322,10 +2322,10 @@
     "AttrTypeFirstSubtype": 31,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "5402": {
     "Id": 5402,
@@ -2334,10 +2334,10 @@
     "AttrTypeFirstSubtype": 31,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "5403": {
     "Id": 5403,
@@ -2346,10 +2346,10 @@
     "AttrTypeFirstSubtype": 31,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "5501": {
     "Id": 5501,
@@ -2358,10 +2358,10 @@
     "AttrTypeFirstSubtype": 32,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "5502": {
     "Id": 5502,
@@ -2370,10 +2370,10 @@
     "AttrTypeFirstSubtype": 32,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "5503": {
     "Id": 5503,
@@ -2382,10 +2382,10 @@
     "AttrTypeFirstSubtype": 32,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "5601": {
     "Id": 5601,
@@ -2394,10 +2394,10 @@
     "AttrTypeFirstSubtype": 33,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "5602": {
     "Id": 5602,
@@ -2406,10 +2406,10 @@
     "AttrTypeFirstSubtype": 33,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "5603": {
     "Id": 5603,
@@ -2418,10 +2418,10 @@
     "AttrTypeFirstSubtype": 33,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 4,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "5701": {
     "Id": 5701,
@@ -2430,10 +2430,10 @@
     "AttrTypeFirstSubtype": 41,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 5,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "5702": {
     "Id": 5702,
@@ -2442,10 +2442,10 @@
     "AttrTypeFirstSubtype": 41,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 5,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "5703": {
     "Id": 5703,
@@ -2454,10 +2454,10 @@
     "AttrTypeFirstSubtype": 41,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 5,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "5801": {
     "Id": 5801,
@@ -2466,10 +2466,10 @@
     "AttrTypeFirstSubtype": 42,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 5,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "5802": {
     "Id": 5802,
@@ -2478,10 +2478,10 @@
     "AttrTypeFirstSubtype": 42,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 5,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "5803": {
     "Id": 5803,
@@ -2490,10 +2490,10 @@
     "AttrTypeFirstSubtype": 42,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 5,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "5901": {
     "Id": 5901,
@@ -2502,10 +2502,10 @@
     "AttrTypeFirstSubtype": 43,
     "AttrTypeSecondSubtype": 1,
     "Value": "1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 5,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "5902": {
     "Id": 5902,
@@ -2514,10 +2514,10 @@
     "AttrTypeFirstSubtype": 43,
     "AttrTypeSecondSubtype": 1,
     "Value": "2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 5,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "5903": {
     "Id": 5903,
@@ -2526,10 +2526,10 @@
     "AttrTypeFirstSubtype": 43,
     "AttrTypeSecondSubtype": 1,
     "Value": "3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 5,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "6001": {
     "Id": 6001,
@@ -2538,10 +2538,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 1,
     "Value": "680",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6002": {
     "Id": 6002,
@@ -2550,10 +2550,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 1,
     "Value": "850",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6003": {
     "Id": 6003,
@@ -2562,10 +2562,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 1,
     "Value": "1020",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6004": {
     "Id": 6004,
@@ -2574,10 +2574,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 1,
     "Value": "2040",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6101": {
     "Id": 6101,
@@ -2586,10 +2586,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "70",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6102": {
     "Id": 6102,
@@ -2598,10 +2598,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "88",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6103": {
     "Id": 6103,
@@ -2610,10 +2610,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "105",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6104": {
     "Id": 6104,
@@ -2622,10 +2622,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "210",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6201": {
     "Id": 6201,
@@ -2634,10 +2634,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6202": {
     "Id": 6202,
@@ -2646,10 +2646,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 1,
     "Value": "44",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6203": {
     "Id": 6203,
@@ -2658,10 +2658,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6204": {
     "Id": 6204,
@@ -2670,10 +2670,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 1,
     "Value": "105",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6301": {
     "Id": 6301,
@@ -2682,10 +2682,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 82011
+    "EffectId": 82011,
+    "Rare": false
   },
   "6302": {
     "Id": 6302,
@@ -2694,10 +2694,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 82012
+    "EffectId": 82012,
+    "Rare": false
   },
   "6303": {
     "Id": 6303,
@@ -2706,10 +2706,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 82013
+    "EffectId": 82013,
+    "Rare": false
   },
   "6304": {
     "Id": 6304,
@@ -2718,10 +2718,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 82014
+    "EffectId": 82014,
+    "Rare": false
   },
   "6401": {
     "Id": 6401,
@@ -2730,10 +2730,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 82021
+    "EffectId": 82021,
+    "Rare": false
   },
   "6402": {
     "Id": 6402,
@@ -2742,10 +2742,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 82022
+    "EffectId": 82022,
+    "Rare": false
   },
   "6403": {
     "Id": 6403,
@@ -2754,10 +2754,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 82023
+    "EffectId": 82023,
+    "Rare": false
   },
   "6404": {
     "Id": 6404,
@@ -2766,10 +2766,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 82024
+    "EffectId": 82024,
+    "Rare": false
   },
   "6501": {
     "Id": 6501,
@@ -2778,10 +2778,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 82031
+    "EffectId": 82031,
+    "Rare": false
   },
   "6502": {
     "Id": 6502,
@@ -2790,10 +2790,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.125",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 82032
+    "EffectId": 82032,
+    "Rare": false
   },
   "6503": {
     "Id": 6503,
@@ -2802,10 +2802,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 82033
+    "EffectId": 82033,
+    "Rare": false
   },
   "6504": {
     "Id": 6504,
@@ -2814,10 +2814,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 82034
+    "EffectId": 82034,
+    "Rare": false
   },
   "6601": {
     "Id": 6601,
@@ -2826,10 +2826,10 @@
     "AttrTypeFirstSubtype": 8,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6602": {
     "Id": 6602,
@@ -2838,10 +2838,10 @@
     "AttrTypeFirstSubtype": 8,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6603": {
     "Id": 6603,
@@ -2850,10 +2850,10 @@
     "AttrTypeFirstSubtype": 8,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6604": {
     "Id": 6604,
@@ -2862,10 +2862,10 @@
     "AttrTypeFirstSubtype": 8,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.24",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6701": {
     "Id": 6701,
@@ -2874,10 +2874,10 @@
     "AttrTypeFirstSubtype": 6,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6702": {
     "Id": 6702,
@@ -2886,10 +2886,10 @@
     "AttrTypeFirstSubtype": 6,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6703": {
     "Id": 6703,
@@ -2898,10 +2898,10 @@
     "AttrTypeFirstSubtype": 6,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6704": {
     "Id": 6704,
@@ -2910,10 +2910,10 @@
     "AttrTypeFirstSubtype": 6,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "6801": {
     "Id": 6801,
@@ -2922,10 +2922,10 @@
     "AttrTypeFirstSubtype": 17,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6802": {
     "Id": 6802,
@@ -2934,10 +2934,10 @@
     "AttrTypeFirstSubtype": 17,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6803": {
     "Id": 6803,
@@ -2946,10 +2946,10 @@
     "AttrTypeFirstSubtype": 17,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6804": {
     "Id": 6804,
@@ -2958,10 +2958,10 @@
     "AttrTypeFirstSubtype": 17,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6901": {
     "Id": 6901,
@@ -2970,10 +2970,10 @@
     "AttrTypeFirstSubtype": 18,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6902": {
     "Id": 6902,
@@ -2982,10 +2982,10 @@
     "AttrTypeFirstSubtype": 18,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6903": {
     "Id": 6903,
@@ -2994,10 +2994,10 @@
     "AttrTypeFirstSubtype": 18,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "6904": {
     "Id": 6904,
@@ -3006,10 +3006,10 @@
     "AttrTypeFirstSubtype": 18,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7001": {
     "Id": 7001,
@@ -3018,10 +3018,10 @@
     "AttrTypeFirstSubtype": 19,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7002": {
     "Id": 7002,
@@ -3030,10 +3030,10 @@
     "AttrTypeFirstSubtype": 19,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7003": {
     "Id": 7003,
@@ -3042,10 +3042,10 @@
     "AttrTypeFirstSubtype": 19,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7004": {
     "Id": 7004,
@@ -3054,10 +3054,10 @@
     "AttrTypeFirstSubtype": 19,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7101": {
     "Id": 7101,
@@ -3066,10 +3066,10 @@
     "AttrTypeFirstSubtype": 20,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7102": {
     "Id": 7102,
@@ -3078,10 +3078,10 @@
     "AttrTypeFirstSubtype": 20,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7103": {
     "Id": 7103,
@@ -3090,10 +3090,10 @@
     "AttrTypeFirstSubtype": 20,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7104": {
     "Id": 7104,
@@ -3102,10 +3102,10 @@
     "AttrTypeFirstSubtype": 20,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7201": {
     "Id": 7201,
@@ -3114,10 +3114,10 @@
     "AttrTypeFirstSubtype": 21,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7202": {
     "Id": 7202,
@@ -3126,10 +3126,10 @@
     "AttrTypeFirstSubtype": 21,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7203": {
     "Id": 7203,
@@ -3138,10 +3138,10 @@
     "AttrTypeFirstSubtype": 21,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7204": {
     "Id": 7204,
@@ -3150,10 +3150,10 @@
     "AttrTypeFirstSubtype": 21,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7301": {
     "Id": 7301,
@@ -3162,10 +3162,10 @@
     "AttrTypeFirstSubtype": 22,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7302": {
     "Id": 7302,
@@ -3174,10 +3174,10 @@
     "AttrTypeFirstSubtype": 22,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7303": {
     "Id": 7303,
@@ -3186,10 +3186,10 @@
     "AttrTypeFirstSubtype": 22,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7304": {
     "Id": 7304,
@@ -3198,10 +3198,10 @@
     "AttrTypeFirstSubtype": 22,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7401": {
     "Id": 7401,
@@ -3210,10 +3210,10 @@
     "AttrTypeFirstSubtype": 23,
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7402": {
     "Id": 7402,
@@ -3222,10 +3222,10 @@
     "AttrTypeFirstSubtype": 23,
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7403": {
     "Id": 7403,
@@ -3234,10 +3234,10 @@
     "AttrTypeFirstSubtype": 23,
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7404": {
     "Id": 7404,
@@ -3246,10 +3246,10 @@
     "AttrTypeFirstSubtype": 23,
     "AttrTypeSecondSubtype": 1,
     "Value": "110",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "7501": {
     "Id": 7501,
@@ -3258,10 +3258,10 @@
     "AttrTypeFirstSubtype": 24,
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7502": {
     "Id": 7502,
@@ -3270,10 +3270,10 @@
     "AttrTypeFirstSubtype": 24,
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7503": {
     "Id": 7503,
@@ -3282,10 +3282,10 @@
     "AttrTypeFirstSubtype": 24,
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7504": {
     "Id": 7504,
@@ -3294,10 +3294,10 @@
     "AttrTypeFirstSubtype": 24,
     "AttrTypeSecondSubtype": 1,
     "Value": "110",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "7601": {
     "Id": 7601,
@@ -3306,10 +3306,10 @@
     "AttrTypeFirstSubtype": 25,
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7602": {
     "Id": 7602,
@@ -3318,10 +3318,10 @@
     "AttrTypeFirstSubtype": 25,
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7603": {
     "Id": 7603,
@@ -3330,10 +3330,10 @@
     "AttrTypeFirstSubtype": 25,
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7604": {
     "Id": 7604,
@@ -3342,10 +3342,10 @@
     "AttrTypeFirstSubtype": 25,
     "AttrTypeSecondSubtype": 1,
     "Value": "110",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "7701": {
     "Id": 7701,
@@ -3354,10 +3354,10 @@
     "AttrTypeFirstSubtype": 26,
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7702": {
     "Id": 7702,
@@ -3366,10 +3366,10 @@
     "AttrTypeFirstSubtype": 26,
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7703": {
     "Id": 7703,
@@ -3378,10 +3378,10 @@
     "AttrTypeFirstSubtype": 26,
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7704": {
     "Id": 7704,
@@ -3390,10 +3390,10 @@
     "AttrTypeFirstSubtype": 26,
     "AttrTypeSecondSubtype": 1,
     "Value": "110",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "7801": {
     "Id": 7801,
@@ -3402,10 +3402,10 @@
     "AttrTypeFirstSubtype": 27,
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7802": {
     "Id": 7802,
@@ -3414,10 +3414,10 @@
     "AttrTypeFirstSubtype": 27,
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7803": {
     "Id": 7803,
@@ -3426,10 +3426,10 @@
     "AttrTypeFirstSubtype": 27,
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7804": {
     "Id": 7804,
@@ -3438,10 +3438,10 @@
     "AttrTypeFirstSubtype": 27,
     "AttrTypeSecondSubtype": 1,
     "Value": "110",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "7901": {
     "Id": 7901,
@@ -3450,10 +3450,10 @@
     "AttrTypeFirstSubtype": 28,
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7902": {
     "Id": 7902,
@@ -3462,10 +3462,10 @@
     "AttrTypeFirstSubtype": 28,
     "AttrTypeSecondSubtype": 1,
     "Value": "40",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7903": {
     "Id": 7903,
@@ -3474,10 +3474,10 @@
     "AttrTypeFirstSubtype": 28,
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "7904": {
     "Id": 7904,
@@ -3486,10 +3486,10 @@
     "AttrTypeFirstSubtype": 28,
     "AttrTypeSecondSubtype": 1,
     "Value": "110",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": true
   },
   "8001": {
     "Id": 8001,
@@ -3498,10 +3498,10 @@
     "AttrTypeFirstSubtype": 56,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8002": {
     "Id": 8002,
@@ -3510,10 +3510,10 @@
     "AttrTypeFirstSubtype": 56,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.125",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8003": {
     "Id": 8003,
@@ -3522,10 +3522,10 @@
     "AttrTypeFirstSubtype": 56,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8004": {
     "Id": 8004,
@@ -3534,10 +3534,10 @@
     "AttrTypeFirstSubtype": 56,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8101": {
     "Id": 8101,
@@ -3546,10 +3546,10 @@
     "AttrTypeFirstSubtype": 57,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.07",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8102": {
     "Id": 8102,
@@ -3558,10 +3558,10 @@
     "AttrTypeFirstSubtype": 57,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8103": {
     "Id": 8103,
@@ -3570,10 +3570,10 @@
     "AttrTypeFirstSubtype": 57,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8104": {
     "Id": 8104,
@@ -3582,10 +3582,10 @@
     "AttrTypeFirstSubtype": 57,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8201": {
     "Id": 8201,
@@ -3594,10 +3594,10 @@
     "AttrTypeFirstSubtype": 58,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8202": {
     "Id": 8202,
@@ -3606,10 +3606,10 @@
     "AttrTypeFirstSubtype": 58,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.13",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8203": {
     "Id": 8203,
@@ -3618,10 +3618,10 @@
     "AttrTypeFirstSubtype": 58,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8204": {
     "Id": 8204,
@@ -3630,10 +3630,10 @@
     "AttrTypeFirstSubtype": 58,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8301": {
     "Id": 8301,
@@ -3642,10 +3642,10 @@
     "AttrTypeFirstSubtype": 64,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.27",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8302": {
     "Id": 8302,
@@ -3654,10 +3654,10 @@
     "AttrTypeFirstSubtype": 64,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.33",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8303": {
     "Id": 8303,
@@ -3666,10 +3666,10 @@
     "AttrTypeFirstSubtype": 64,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.4",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8304": {
     "Id": 8304,
@@ -3678,10 +3678,10 @@
     "AttrTypeFirstSubtype": 64,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.8",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8401": {
     "Id": 8401,
@@ -3690,10 +3690,10 @@
     "AttrTypeFirstSubtype": 66,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.07",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8402": {
     "Id": 8402,
@@ -3702,10 +3702,10 @@
     "AttrTypeFirstSubtype": 66,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8403": {
     "Id": 8403,
@@ -3714,10 +3714,10 @@
     "AttrTypeFirstSubtype": 66,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8404": {
     "Id": 8404,
@@ -3726,10 +3726,10 @@
     "AttrTypeFirstSubtype": 66,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8501": {
     "Id": 8501,
@@ -3738,10 +3738,10 @@
     "AttrTypeFirstSubtype": 68,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.07",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8502": {
     "Id": 8502,
@@ -3750,10 +3750,10 @@
     "AttrTypeFirstSubtype": 68,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8503": {
     "Id": 8503,
@@ -3762,10 +3762,10 @@
     "AttrTypeFirstSubtype": 68,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8504": {
     "Id": 8504,
@@ -3774,10 +3774,10 @@
     "AttrTypeFirstSubtype": 68,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8601": {
     "Id": 8601,
@@ -3786,10 +3786,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8602": {
     "Id": 8602,
@@ -3798,10 +3798,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.125",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8603": {
     "Id": 8603,
@@ -3810,10 +3810,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8604": {
     "Id": 8604,
@@ -3822,10 +3822,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8701": {
     "Id": 8701,
@@ -3834,10 +3834,10 @@
     "AttrTypeFirstSubtype": 0,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.135",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8702": {
     "Id": 8702,
@@ -3846,10 +3846,10 @@
     "AttrTypeFirstSubtype": 0,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.17",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8703": {
     "Id": 8703,
@@ -3858,10 +3858,10 @@
     "AttrTypeFirstSubtype": 0,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.203",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8704": {
     "Id": 8704,
@@ -3870,10 +3870,10 @@
     "AttrTypeFirstSubtype": 0,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.4",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8801": {
     "Id": 8801,
@@ -3882,10 +3882,10 @@
     "AttrTypeFirstSubtype": 70,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8802": {
     "Id": 8802,
@@ -3894,10 +3894,10 @@
     "AttrTypeFirstSubtype": 70,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8803": {
     "Id": 8803,
@@ -3906,10 +3906,10 @@
     "AttrTypeFirstSubtype": 70,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8804": {
     "Id": 8804,
@@ -3918,10 +3918,10 @@
     "AttrTypeFirstSubtype": 70,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8901": {
     "Id": 8901,
@@ -3930,10 +3930,10 @@
     "AttrTypeFirstSubtype": 71,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8902": {
     "Id": 8902,
@@ -3942,10 +3942,10 @@
     "AttrTypeFirstSubtype": 71,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8903": {
     "Id": 8903,
@@ -3954,10 +3954,10 @@
     "AttrTypeFirstSubtype": 71,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "8904": {
     "Id": 8904,
@@ -3966,10 +3966,10 @@
     "AttrTypeFirstSubtype": 71,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9001": {
     "Id": 9001,
@@ -3978,10 +3978,10 @@
     "AttrTypeFirstSubtype": 72,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9002": {
     "Id": 9002,
@@ -3990,10 +3990,10 @@
     "AttrTypeFirstSubtype": 72,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9003": {
     "Id": 9003,
@@ -4002,10 +4002,10 @@
     "AttrTypeFirstSubtype": 72,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9004": {
     "Id": 9004,
@@ -4014,10 +4014,10 @@
     "AttrTypeFirstSubtype": 72,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9101": {
     "Id": 9101,
@@ -4026,10 +4026,10 @@
     "AttrTypeFirstSubtype": 73,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9102": {
     "Id": 9102,
@@ -4038,10 +4038,10 @@
     "AttrTypeFirstSubtype": 73,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9103": {
     "Id": 9103,
@@ -4050,10 +4050,10 @@
     "AttrTypeFirstSubtype": 73,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9104": {
     "Id": 9104,
@@ -4062,10 +4062,10 @@
     "AttrTypeFirstSubtype": 73,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9201": {
     "Id": 9201,
@@ -4074,10 +4074,10 @@
     "AttrTypeFirstSubtype": 74,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9202": {
     "Id": 9202,
@@ -4086,10 +4086,10 @@
     "AttrTypeFirstSubtype": 74,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9203": {
     "Id": 9203,
@@ -4098,10 +4098,10 @@
     "AttrTypeFirstSubtype": 74,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9204": {
     "Id": 9204,
@@ -4110,10 +4110,10 @@
     "AttrTypeFirstSubtype": 74,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9301": {
     "Id": 9301,
@@ -4122,10 +4122,10 @@
     "AttrTypeFirstSubtype": 75,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9302": {
     "Id": 9302,
@@ -4134,10 +4134,10 @@
     "AttrTypeFirstSubtype": 75,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.063",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9303": {
     "Id": 9303,
@@ -4146,10 +4146,10 @@
     "AttrTypeFirstSubtype": 75,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.075",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9304": {
     "Id": 9304,
@@ -4158,10 +4158,10 @@
     "AttrTypeFirstSubtype": 75,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9401": {
     "Id": 9401,
@@ -4170,10 +4170,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 1,
     "Value": "680",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9402": {
     "Id": 9402,
@@ -4182,10 +4182,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 1,
     "Value": "850",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9403": {
     "Id": 9403,
@@ -4194,10 +4194,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 1,
     "Value": "1020",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9404": {
     "Id": 9404,
@@ -4206,10 +4206,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 1,
     "Value": "2040",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9501": {
     "Id": 9501,
@@ -4218,10 +4218,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "70",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9502": {
     "Id": 9502,
@@ -4230,10 +4230,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "88",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9503": {
     "Id": 9503,
@@ -4242,10 +4242,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "105",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9504": {
     "Id": 9504,
@@ -4254,10 +4254,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 1,
     "Value": "210",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9601": {
     "Id": 9601,
@@ -4266,10 +4266,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 1,
     "Value": "35",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9602": {
     "Id": 9602,
@@ -4278,10 +4278,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 1,
     "Value": "44",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9603": {
     "Id": 9603,
@@ -4290,10 +4290,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 1,
     "Value": "53",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9604": {
     "Id": 9604,
@@ -4302,10 +4302,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 1,
     "Value": "105",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "9701": {
     "Id": 9701,
@@ -4314,10 +4314,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 83011
+    "EffectId": 83011,
+    "Rare": false
   },
   "9702": {
     "Id": 9702,
@@ -4326,10 +4326,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 83012
+    "EffectId": 83012,
+    "Rare": false
   },
   "9703": {
     "Id": 9703,
@@ -4338,10 +4338,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 83013
+    "EffectId": 83013,
+    "Rare": false
   },
   "9704": {
     "Id": 9704,
@@ -4350,10 +4350,10 @@
     "AttrTypeFirstSubtype": 3,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 83014
+    "EffectId": 83014,
+    "Rare": false
   },
   "9801": {
     "Id": 9801,
@@ -4362,10 +4362,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 83021
+    "EffectId": 83021,
+    "Rare": false
   },
   "9802": {
     "Id": 9802,
@@ -4374,10 +4374,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 83022
+    "EffectId": 83022,
+    "Rare": false
   },
   "9803": {
     "Id": 9803,
@@ -4386,10 +4386,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 83023
+    "EffectId": 83023,
+    "Rare": false
   },
   "9804": {
     "Id": 9804,
@@ -4398,10 +4398,10 @@
     "AttrTypeFirstSubtype": 1,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 83024
+    "EffectId": 83024,
+    "Rare": false
   },
   "9901": {
     "Id": 9901,
@@ -4410,10 +4410,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 83031
+    "EffectId": 83031,
+    "Rare": false
   },
   "9902": {
     "Id": 9902,
@@ -4422,10 +4422,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.125",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 83032
+    "EffectId": 83032,
+    "Rare": false
   },
   "9903": {
     "Id": 9903,
@@ -4434,10 +4434,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 83033
+    "EffectId": 83033,
+    "Rare": false
   },
   "9904": {
     "Id": 9904,
@@ -4446,10 +4446,10 @@
     "AttrTypeFirstSubtype": 2,
     "AttrTypeSecondSubtype": 2,
     "Value": "0.3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 83034
+    "EffectId": 83034,
+    "Rare": false
   },
   "10001": {
     "Id": 10001,
@@ -4458,10 +4458,10 @@
     "AttrTypeFirstSubtype": 8,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10002": {
     "Id": 10002,
@@ -4470,10 +4470,10 @@
     "AttrTypeFirstSubtype": 8,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10003": {
     "Id": 10003,
@@ -4482,10 +4482,10 @@
     "AttrTypeFirstSubtype": 8,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10004": {
     "Id": 10004,
@@ -4494,10 +4494,10 @@
     "AttrTypeFirstSubtype": 8,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.24",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10101": {
     "Id": 10101,
@@ -4506,10 +4506,10 @@
     "AttrTypeFirstSubtype": 17,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10102": {
     "Id": 10102,
@@ -4518,10 +4518,10 @@
     "AttrTypeFirstSubtype": 17,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10103": {
     "Id": 10103,
@@ -4530,10 +4530,10 @@
     "AttrTypeFirstSubtype": 17,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10104": {
     "Id": 10104,
@@ -4542,10 +4542,10 @@
     "AttrTypeFirstSubtype": 17,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10201": {
     "Id": 10201,
@@ -4554,10 +4554,10 @@
     "AttrTypeFirstSubtype": 18,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10202": {
     "Id": 10202,
@@ -4566,10 +4566,10 @@
     "AttrTypeFirstSubtype": 18,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10203": {
     "Id": 10203,
@@ -4578,10 +4578,10 @@
     "AttrTypeFirstSubtype": 18,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10204": {
     "Id": 10204,
@@ -4590,10 +4590,10 @@
     "AttrTypeFirstSubtype": 18,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10301": {
     "Id": 10301,
@@ -4602,10 +4602,10 @@
     "AttrTypeFirstSubtype": 19,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10302": {
     "Id": 10302,
@@ -4614,10 +4614,10 @@
     "AttrTypeFirstSubtype": 19,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10303": {
     "Id": 10303,
@@ -4626,10 +4626,10 @@
     "AttrTypeFirstSubtype": 19,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10304": {
     "Id": 10304,
@@ -4638,10 +4638,10 @@
     "AttrTypeFirstSubtype": 19,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10401": {
     "Id": 10401,
@@ -4650,10 +4650,10 @@
     "AttrTypeFirstSubtype": 20,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10402": {
     "Id": 10402,
@@ -4662,10 +4662,10 @@
     "AttrTypeFirstSubtype": 20,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10403": {
     "Id": 10403,
@@ -4674,10 +4674,10 @@
     "AttrTypeFirstSubtype": 20,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10404": {
     "Id": 10404,
@@ -4686,10 +4686,10 @@
     "AttrTypeFirstSubtype": 20,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10501": {
     "Id": 10501,
@@ -4698,10 +4698,10 @@
     "AttrTypeFirstSubtype": 21,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10502": {
     "Id": 10502,
@@ -4710,10 +4710,10 @@
     "AttrTypeFirstSubtype": 21,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10503": {
     "Id": 10503,
@@ -4722,10 +4722,10 @@
     "AttrTypeFirstSubtype": 21,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10504": {
     "Id": 10504,
@@ -4734,10 +4734,10 @@
     "AttrTypeFirstSubtype": 21,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10601": {
     "Id": 10601,
@@ -4746,10 +4746,10 @@
     "AttrTypeFirstSubtype": 22,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.04",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10602": {
     "Id": 10602,
@@ -4758,10 +4758,10 @@
     "AttrTypeFirstSubtype": 22,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.05",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10603": {
     "Id": 10603,
@@ -4770,10 +4770,10 @@
     "AttrTypeFirstSubtype": 22,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.06",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10604": {
     "Id": 10604,
@@ -4782,10 +4782,10 @@
     "AttrTypeFirstSubtype": 22,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.12",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10701": {
     "Id": 10701,
@@ -4794,10 +4794,10 @@
     "AttrTypeFirstSubtype": 56,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10702": {
     "Id": 10702,
@@ -4806,10 +4806,10 @@
     "AttrTypeFirstSubtype": 56,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.125",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10703": {
     "Id": 10703,
@@ -4818,10 +4818,10 @@
     "AttrTypeFirstSubtype": 56,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10704": {
     "Id": 10704,
@@ -4830,10 +4830,10 @@
     "AttrTypeFirstSubtype": 56,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10801": {
     "Id": 10801,
@@ -4842,10 +4842,10 @@
     "AttrTypeFirstSubtype": 57,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.07",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10802": {
     "Id": 10802,
@@ -4854,10 +4854,10 @@
     "AttrTypeFirstSubtype": 57,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10803": {
     "Id": 10803,
@@ -4866,10 +4866,10 @@
     "AttrTypeFirstSubtype": 57,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10804": {
     "Id": 10804,
@@ -4878,10 +4878,10 @@
     "AttrTypeFirstSubtype": 57,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10901": {
     "Id": 10901,
@@ -4890,10 +4890,10 @@
     "AttrTypeFirstSubtype": 58,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10902": {
     "Id": 10902,
@@ -4902,10 +4902,10 @@
     "AttrTypeFirstSubtype": 58,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.13",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10903": {
     "Id": 10903,
@@ -4914,10 +4914,10 @@
     "AttrTypeFirstSubtype": 58,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.15",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "10904": {
     "Id": 10904,
@@ -4926,10 +4926,10 @@
     "AttrTypeFirstSubtype": 58,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.3",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "11001": {
     "Id": 11001,
@@ -4938,10 +4938,10 @@
     "AttrTypeFirstSubtype": 64,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.27",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "11002": {
     "Id": 11002,
@@ -4950,10 +4950,10 @@
     "AttrTypeFirstSubtype": 64,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.33",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "11003": {
     "Id": 11003,
@@ -4962,10 +4962,10 @@
     "AttrTypeFirstSubtype": 64,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.4",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "11004": {
     "Id": 11004,
@@ -4974,10 +4974,10 @@
     "AttrTypeFirstSubtype": 64,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.8",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "11101": {
     "Id": 11101,
@@ -4986,10 +4986,10 @@
     "AttrTypeFirstSubtype": 66,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.07",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "11102": {
     "Id": 11102,
@@ -4998,10 +4998,10 @@
     "AttrTypeFirstSubtype": 66,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "11103": {
     "Id": 11103,
@@ -5010,10 +5010,10 @@
     "AttrTypeFirstSubtype": 66,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "11104": {
     "Id": 11104,
@@ -5022,10 +5022,10 @@
     "AttrTypeFirstSubtype": 66,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "11201": {
     "Id": 11201,
@@ -5034,10 +5034,10 @@
     "AttrTypeFirstSubtype": 68,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.07",
-    "HasValue": true,
     "Rarity": 4,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "11202": {
     "Id": 11202,
@@ -5046,10 +5046,10 @@
     "AttrTypeFirstSubtype": 68,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.08",
-    "HasValue": true,
     "Rarity": 3,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "11203": {
     "Id": 11203,
@@ -5058,10 +5058,10 @@
     "AttrTypeFirstSubtype": 68,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.1",
-    "HasValue": true,
     "Rarity": 2,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   },
   "11204": {
     "Id": 11204,
@@ -5070,9 +5070,9 @@
     "AttrTypeFirstSubtype": 68,
     "AttrTypeSecondSubtype": 1,
     "Value": "0.2",
-    "HasValue": true,
     "Rarity": 1,
     "Tag": 1,
-    "EffectId": 0
+    "EffectId": 0,
+    "Rare": false
   }
 }

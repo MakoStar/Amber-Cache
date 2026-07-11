@@ -2,12 +2,9 @@
   "102": {
     "Id": 102,
     "Name": "流水与暗影",
-    "HasName": true,
     "Desc": "遍布着阴影与水汽的星塔。堕入此处的情感，让人压抑而难以呼吸……\u000b掌控地或光属性的旅人，在此会获得优势。",
-    "HasDesc": true,
     "GroupId": 1,
     "PreConditions": "[[2,2]]",
-    "HasPreConditions": true,
     "PreviewMonsterGroupId": 101,
     "Difficulty": 1,
     "ValueDifficulty": 2,
@@ -24,7 +21,6 @@
     "TeamExpGroupId": 1,
     "SubNoteSkillDropGroupId": 2,
     "FirstAward": "{\"2\":100}",
-    "HasFirstAward": true,
     "EET": [
       5,
       3
@@ -34,12 +30,9 @@
       6
     ],
     "Episode": "Icon/MapEpisode/ep_roguelike_001",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/roguelike_001_01",
-    "HasImage": true,
     "NPCId": 0,
     "RewardPreview": "[[2,100,1],[12,1,0]]",
-    "HasRewardPreview": true,
     "ShopNpc": 3,
     "StandShopNpc": 9,
     "UpgradeNpc": 4,
@@ -53,12 +46,9 @@
   "103": {
     "Id": 103,
     "Name": "流水与暗影",
-    "HasName": true,
     "Desc": "遍布着阴影与水汽的星塔。堕入此处的情感，让人压抑而难以呼吸……\u000b掌控地或光属性的旅人，在此会获得优势。",
-    "HasDesc": true,
     "GroupId": 1,
     "PreConditions": "[[2,5],[4,2]]",
-    "HasPreConditions": true,
     "PreviewMonsterGroupId": 102,
     "Difficulty": 2,
     "ValueDifficulty": 3,
@@ -77,7 +67,6 @@
     "TeamExpGroupId": 1,
     "SubNoteSkillDropGroupId": 2,
     "FirstAward": "{\"2\":100}",
-    "HasFirstAward": true,
     "EET": [
       5,
       3
@@ -87,12 +76,9 @@
       6
     ],
     "Episode": "Icon/MapEpisode/ep_roguelike_001",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/roguelike_001_02",
-    "HasImage": true,
     "NPCId": 0,
     "RewardPreview": "[[2,100,1],[12,1,0]]",
-    "HasRewardPreview": true,
     "ShopNpc": 3,
     "StandShopNpc": 9,
     "UpgradeNpc": 4,
@@ -106,12 +92,9 @@
   "104": {
     "Id": 104,
     "Name": "流水与暗影",
-    "HasName": true,
     "Desc": "遍布着阴影与水汽的星塔。堕入此处的情感，让人压抑而难以呼吸……\u000b掌控地或光属性的旅人，在此会获得优势。",
-    "HasDesc": true,
     "GroupId": 1,
     "PreConditions": "[[2,8],[4,3]]",
-    "HasPreConditions": true,
     "PreviewMonsterGroupId": 103,
     "Difficulty": 3,
     "ValueDifficulty": 4,
@@ -130,7 +113,6 @@
     "TeamExpGroupId": 1,
     "SubNoteSkillDropGroupId": 2,
     "FirstAward": "{\"2\":100}",
-    "HasFirstAward": true,
     "EET": [
       5,
       3
@@ -140,12 +122,9 @@
       6
     ],
     "Episode": "Icon/MapEpisode/ep_roguelike_001",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/roguelike_001_02",
-    "HasImage": true,
     "NPCId": 0,
     "RewardPreview": "[[2,100,1],[12,1,0]]",
-    "HasRewardPreview": true,
     "ShopNpc": 3,
     "StandShopNpc": 9,
     "UpgradeNpc": 4,
@@ -159,12 +138,9 @@
   "105": {
     "Id": 105,
     "Name": "流水与暗影",
-    "HasName": true,
     "Desc": "遍布着阴影与水汽的星塔。堕入此处的情感，让人压抑而难以呼吸……\u000b掌控地或光属性的旅人，在此会获得优势。",
-    "HasDesc": true,
     "GroupId": 1,
     "PreConditions": "[[2,15],[4,4]]",
-    "HasPreConditions": true,
     "PreviewMonsterGroupId": 104,
     "Difficulty": 4,
     "ValueDifficulty": 5,
@@ -183,7 +159,6 @@
     "TeamExpGroupId": 1,
     "SubNoteSkillDropGroupId": 2,
     "FirstAward": "{\"2\":100}",
-    "HasFirstAward": true,
     "EET": [
       5,
       3
@@ -193,12 +168,9 @@
       6
     ],
     "Episode": "Icon/MapEpisode/ep_roguelike_001",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/roguelike_001_03",
-    "HasImage": true,
     "NPCId": 0,
     "RewardPreview": "[[2,100,1],[12,1,0]]",
-    "HasRewardPreview": true,
     "ShopNpc": 3,
     "StandShopNpc": 9,
     "UpgradeNpc": 4,
@@ -212,12 +184,9 @@
   "106": {
     "Id": 106,
     "Name": "流水与暗影",
-    "HasName": true,
     "Desc": "遍布着阴影与水汽的星塔。堕入此处的情感，让人压抑而难以呼吸……\u000b掌控地或光属性的旅人，在此会获得优势。",
-    "HasDesc": true,
     "GroupId": 1,
     "PreConditions": "[[2,20],[4,5]]",
-    "HasPreConditions": true,
     "PreviewMonsterGroupId": 105,
     "Difficulty": 5,
     "ValueDifficulty": 6,
@@ -236,7 +205,6 @@
     "TeamExpGroupId": 1,
     "SubNoteSkillDropGroupId": 2,
     "FirstAward": "{\"2\":100}",
-    "HasFirstAward": true,
     "EET": [
       5,
       3
@@ -246,12 +214,9 @@
       6
     ],
     "Episode": "Icon/MapEpisode/ep_roguelike_001",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/roguelike_001_03",
-    "HasImage": true,
     "NPCId": 0,
     "RewardPreview": "[[2,100,1],[12,1,0]]",
-    "HasRewardPreview": true,
     "ShopNpc": 3,
     "StandShopNpc": 9,
     "UpgradeNpc": 4,
@@ -265,12 +230,9 @@
   "107": {
     "Id": 107,
     "Name": "流水与暗影",
-    "HasName": true,
     "Desc": "遍布着阴影与水汽的星塔。堕入此处的情感，让人压抑而难以呼吸……\u000b掌控地或光属性的旅人，在此会获得优势。",
-    "HasDesc": true,
     "GroupId": 1,
     "PreConditions": "[[2,25],[4,6]]",
-    "HasPreConditions": true,
     "PreviewMonsterGroupId": 106,
     "Difficulty": 6,
     "ValueDifficulty": 7,
@@ -289,7 +251,6 @@
     "TeamExpGroupId": 1,
     "SubNoteSkillDropGroupId": 2,
     "FirstAward": "{\"2\":100}",
-    "HasFirstAward": true,
     "EET": [
       5,
       3
@@ -299,12 +260,9 @@
       6
     ],
     "Episode": "Icon/MapEpisode/ep_roguelike_001",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/roguelike_001_04",
-    "HasImage": true,
     "NPCId": 0,
     "RewardPreview": "[[2,100,1],[12,1,0]]",
-    "HasRewardPreview": true,
     "ShopNpc": 3,
     "StandShopNpc": 9,
     "UpgradeNpc": 4,
@@ -318,12 +276,9 @@
   "108": {
     "Id": 108,
     "Name": "流水与暗影",
-    "HasName": true,
     "Desc": "遍布着阴影与水汽的星塔。堕入此处的情感，让人压抑而难以呼吸……\u000b掌控地或光属性的旅人，在此会获得优势。",
-    "HasDesc": true,
     "GroupId": 1,
     "PreConditions": "[[2,30],[4,7]]",
-    "HasPreConditions": true,
     "PreviewMonsterGroupId": 107,
     "Difficulty": 7,
     "ValueDifficulty": 8,
@@ -342,7 +297,6 @@
     "TeamExpGroupId": 1,
     "SubNoteSkillDropGroupId": 2,
     "FirstAward": "{\"2\":100}",
-    "HasFirstAward": true,
     "EET": [
       5,
       3
@@ -352,12 +306,9 @@
       6
     ],
     "Episode": "Icon/MapEpisode/ep_roguelike_001",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/roguelike_001_04",
-    "HasImage": true,
     "NPCId": 0,
     "RewardPreview": "[[2,100,1],[12,1,0]]",
-    "HasRewardPreview": true,
     "ShopNpc": 3,
     "StandShopNpc": 9,
     "UpgradeNpc": 4,
@@ -371,12 +322,9 @@
   "202": {
     "Id": 202,
     "Name": "烈焰与尘埃",
-    "HasName": true,
     "Desc": "充斥着火焰与尘埃的星塔。聚集在此处的焦躁，只令人心神不宁……\u000b掌控水或风属性的旅人，在此会获得优势。",
-    "HasDesc": true,
     "GroupId": 2,
     "PreConditions": "[[2,2]]",
-    "HasPreConditions": true,
     "PreviewMonsterGroupId": 201,
     "Difficulty": 1,
     "ValueDifficulty": 2,
@@ -393,7 +341,6 @@
     "TeamExpGroupId": 1,
     "SubNoteSkillDropGroupId": 3,
     "FirstAward": "{\"2\":100}",
-    "HasFirstAward": true,
     "EET": [
       1,
       4
@@ -403,12 +350,9 @@
       2
     ],
     "Episode": "Icon/MapEpisode/ep_roguelike_002",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/roguelike_002_01",
-    "HasImage": true,
     "NPCId": 0,
     "RewardPreview": "[[2,100,1],[12,1,0]]",
-    "HasRewardPreview": true,
     "ShopNpc": 3,
     "StandShopNpc": 9,
     "UpgradeNpc": 4,
@@ -422,12 +366,9 @@
   "203": {
     "Id": 203,
     "Name": "烈焰与尘埃",
-    "HasName": true,
     "Desc": "充斥着火焰与尘埃的星塔。聚集在此处的焦躁，只令人心神不宁……\u000b掌控水或风属性的旅人，在此会获得优势。",
-    "HasDesc": true,
     "GroupId": 2,
     "PreConditions": "[[2,5],[4,2]]",
-    "HasPreConditions": true,
     "PreviewMonsterGroupId": 202,
     "Difficulty": 2,
     "ValueDifficulty": 3,
@@ -446,7 +387,6 @@
     "TeamExpGroupId": 1,
     "SubNoteSkillDropGroupId": 3,
     "FirstAward": "{\"2\":100}",
-    "HasFirstAward": true,
     "EET": [
       1,
       4
@@ -456,12 +396,9 @@
       2
     ],
     "Episode": "Icon/MapEpisode/ep_roguelike_002",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/roguelike_002_02",
-    "HasImage": true,
     "NPCId": 0,
     "RewardPreview": "[[2,100,1],[12,1,0]]",
-    "HasRewardPreview": true,
     "ShopNpc": 3,
     "StandShopNpc": 9,
     "UpgradeNpc": 4,
@@ -475,12 +412,9 @@
   "204": {
     "Id": 204,
     "Name": "烈焰与尘埃",
-    "HasName": true,
     "Desc": "充斥着火焰与尘埃的星塔。聚集在此处的焦躁，只令人心神不宁……\u000b掌控水或风属性的旅人，在此会获得优势。",
-    "HasDesc": true,
     "GroupId": 2,
     "PreConditions": "[[2,8],[4,3]]",
-    "HasPreConditions": true,
     "PreviewMonsterGroupId": 203,
     "Difficulty": 3,
     "ValueDifficulty": 4,
@@ -499,7 +433,6 @@
     "TeamExpGroupId": 1,
     "SubNoteSkillDropGroupId": 3,
     "FirstAward": "{\"2\":100}",
-    "HasFirstAward": true,
     "EET": [
       1,
       4
@@ -509,12 +442,9 @@
       2
     ],
     "Episode": "Icon/MapEpisode/ep_roguelike_002",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/roguelike_002_02",
-    "HasImage": true,
     "NPCId": 0,
     "RewardPreview": "[[2,100,1],[12,1,0]]",
-    "HasRewardPreview": true,
     "ShopNpc": 3,
     "StandShopNpc": 9,
     "UpgradeNpc": 4,
@@ -528,12 +458,9 @@
   "205": {
     "Id": 205,
     "Name": "烈焰与尘埃",
-    "HasName": true,
     "Desc": "充斥着火焰与尘埃的星塔。聚集在此处的焦躁，只令人心神不宁……\u000b掌控水或风属性的旅人，在此会获得优势。",
-    "HasDesc": true,
     "GroupId": 2,
     "PreConditions": "[[2,15],[4,4]]",
-    "HasPreConditions": true,
     "PreviewMonsterGroupId": 204,
     "Difficulty": 4,
     "ValueDifficulty": 5,
@@ -552,7 +479,6 @@
     "TeamExpGroupId": 1,
     "SubNoteSkillDropGroupId": 3,
     "FirstAward": "{\"2\":100}",
-    "HasFirstAward": true,
     "EET": [
       1,
       4
@@ -562,12 +488,9 @@
       2
     ],
     "Episode": "Icon/MapEpisode/ep_roguelike_002",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/roguelike_002_03",
-    "HasImage": true,
     "NPCId": 0,
     "RewardPreview": "[[2,100,1],[12,1,0]]",
-    "HasRewardPreview": true,
     "ShopNpc": 3,
     "StandShopNpc": 9,
     "UpgradeNpc": 4,
@@ -581,12 +504,9 @@
   "206": {
     "Id": 206,
     "Name": "烈焰与尘埃",
-    "HasName": true,
     "Desc": "充斥着火焰与尘埃的星塔。聚集在此处的焦躁，只令人心神不宁……\u000b掌控水或风属性的旅人，在此会获得优势。",
-    "HasDesc": true,
     "GroupId": 2,
     "PreConditions": "[[2,20],[4,5]]",
-    "HasPreConditions": true,
     "PreviewMonsterGroupId": 205,
     "Difficulty": 5,
     "ValueDifficulty": 6,
@@ -605,7 +525,6 @@
     "TeamExpGroupId": 1,
     "SubNoteSkillDropGroupId": 3,
     "FirstAward": "{\"2\":100}",
-    "HasFirstAward": true,
     "EET": [
       1,
       4
@@ -615,12 +534,9 @@
       2
     ],
     "Episode": "Icon/MapEpisode/ep_roguelike_002",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/roguelike_002_03",
-    "HasImage": true,
     "NPCId": 0,
     "RewardPreview": "[[2,100,1],[12,1,0]]",
-    "HasRewardPreview": true,
     "ShopNpc": 3,
     "StandShopNpc": 9,
     "UpgradeNpc": 4,
@@ -634,12 +550,9 @@
   "207": {
     "Id": 207,
     "Name": "烈焰与尘埃",
-    "HasName": true,
     "Desc": "充斥着火焰与尘埃的星塔。聚集在此处的焦躁，只令人心神不宁……\u000b掌控水或风属性的旅人，在此会获得优势。",
-    "HasDesc": true,
     "GroupId": 2,
     "PreConditions": "[[2,25],[4,6]]",
-    "HasPreConditions": true,
     "PreviewMonsterGroupId": 206,
     "Difficulty": 6,
     "ValueDifficulty": 7,
@@ -658,7 +571,6 @@
     "TeamExpGroupId": 1,
     "SubNoteSkillDropGroupId": 3,
     "FirstAward": "{\"2\":100}",
-    "HasFirstAward": true,
     "EET": [
       1,
       4
@@ -668,12 +580,9 @@
       2
     ],
     "Episode": "Icon/MapEpisode/ep_roguelike_002",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/roguelike_002_04",
-    "HasImage": true,
     "NPCId": 0,
     "RewardPreview": "[[2,100,1],[12,1,0]]",
-    "HasRewardPreview": true,
     "ShopNpc": 3,
     "StandShopNpc": 9,
     "UpgradeNpc": 4,
@@ -687,12 +596,9 @@
   "208": {
     "Id": 208,
     "Name": "烈焰与尘埃",
-    "HasName": true,
     "Desc": "充斥着火焰与尘埃的星塔。聚集在此处的焦躁，只令人心神不宁……\u000b掌控水或风属性的旅人，在此会获得优势。",
-    "HasDesc": true,
     "GroupId": 2,
     "PreConditions": "[[2,30],[4,7]]",
-    "HasPreConditions": true,
     "PreviewMonsterGroupId": 207,
     "Difficulty": 7,
     "ValueDifficulty": 8,
@@ -711,7 +617,6 @@
     "TeamExpGroupId": 1,
     "SubNoteSkillDropGroupId": 3,
     "FirstAward": "{\"2\":100}",
-    "HasFirstAward": true,
     "EET": [
       1,
       4
@@ -721,12 +626,9 @@
       2
     ],
     "Episode": "Icon/MapEpisode/ep_roguelike_002",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/roguelike_002_04",
-    "HasImage": true,
     "NPCId": 0,
     "RewardPreview": "[[2,100,1],[12,1,0]]",
-    "HasRewardPreview": true,
     "ShopNpc": 3,
     "StandShopNpc": 9,
     "UpgradeNpc": 4,
@@ -740,12 +642,9 @@
   "302": {
     "Id": 302,
     "Name": "风暴与闪电",
-    "HasName": true,
     "Desc": "肆虐着风暴与闪电的星塔。聚集在此处的狂乱，只令人胆颤……\u000b掌控火或暗属性的旅人，在此会获得优势。",
-    "HasDesc": true,
     "GroupId": 3,
     "PreConditions": "[[2,2]]",
-    "HasPreConditions": true,
     "PreviewMonsterGroupId": 301,
     "Difficulty": 1,
     "ValueDifficulty": 2,
@@ -762,7 +661,6 @@
     "TeamExpGroupId": 1,
     "SubNoteSkillDropGroupId": 4,
     "FirstAward": "{\"2\":100}",
-    "HasFirstAward": true,
     "EET": [
       2,
       6
@@ -772,12 +670,9 @@
       5
     ],
     "Episode": "Icon/MapEpisode/ep_roguelike_002",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/roguelike_003_01",
-    "HasImage": true,
     "NPCId": 0,
     "RewardPreview": "[[2,100,1],[12,1,0]]",
-    "HasRewardPreview": true,
     "ShopNpc": 3,
     "StandShopNpc": 9,
     "UpgradeNpc": 4,
@@ -791,12 +686,9 @@
   "303": {
     "Id": 303,
     "Name": "风暴与闪电",
-    "HasName": true,
     "Desc": "肆虐着风暴与闪电的星塔。聚集在此处的狂乱，只令人胆颤……\u000b掌控火或暗属性的旅人，在此会获得优势。",
-    "HasDesc": true,
     "GroupId": 3,
     "PreConditions": "[[2,5],[4,2]]",
-    "HasPreConditions": true,
     "PreviewMonsterGroupId": 302,
     "Difficulty": 2,
     "ValueDifficulty": 3,
@@ -815,7 +707,6 @@
     "TeamExpGroupId": 1,
     "SubNoteSkillDropGroupId": 4,
     "FirstAward": "{\"2\":100}",
-    "HasFirstAward": true,
     "EET": [
       2,
       6
@@ -825,12 +716,9 @@
       5
     ],
     "Episode": "Icon/MapEpisode/ep_roguelike_002",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/roguelike_003_02",
-    "HasImage": true,
     "NPCId": 0,
     "RewardPreview": "[[2,100,1],[12,1,0]]",
-    "HasRewardPreview": true,
     "ShopNpc": 3,
     "StandShopNpc": 9,
     "UpgradeNpc": 4,
@@ -844,12 +732,9 @@
   "304": {
     "Id": 304,
     "Name": "风暴与闪电",
-    "HasName": true,
     "Desc": "肆虐着风暴与闪电的星塔。聚集在此处的狂乱，只令人胆颤……\u000b掌控火或暗属性的旅人，在此会获得优势。",
-    "HasDesc": true,
     "GroupId": 3,
     "PreConditions": "[[2,8],[4,3]]",
-    "HasPreConditions": true,
     "PreviewMonsterGroupId": 303,
     "Difficulty": 3,
     "ValueDifficulty": 4,
@@ -868,7 +753,6 @@
     "TeamExpGroupId": 1,
     "SubNoteSkillDropGroupId": 4,
     "FirstAward": "{\"2\":100}",
-    "HasFirstAward": true,
     "EET": [
       2,
       6
@@ -878,12 +762,9 @@
       5
     ],
     "Episode": "Icon/MapEpisode/ep_roguelike_002",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/roguelike_003_02",
-    "HasImage": true,
     "NPCId": 0,
     "RewardPreview": "[[2,100,1],[12,1,0]]",
-    "HasRewardPreview": true,
     "ShopNpc": 3,
     "StandShopNpc": 9,
     "UpgradeNpc": 4,
@@ -897,12 +778,9 @@
   "305": {
     "Id": 305,
     "Name": "风暴与闪电",
-    "HasName": true,
     "Desc": "肆虐着风暴与闪电的星塔。聚集在此处的狂乱，只令人胆颤……\u000b掌控火或暗属性的旅人，在此会获得优势。",
-    "HasDesc": true,
     "GroupId": 3,
     "PreConditions": "[[2,15],[4,4]]",
-    "HasPreConditions": true,
     "PreviewMonsterGroupId": 304,
     "Difficulty": 4,
     "ValueDifficulty": 5,
@@ -921,7 +799,6 @@
     "TeamExpGroupId": 1,
     "SubNoteSkillDropGroupId": 4,
     "FirstAward": "{\"2\":100}",
-    "HasFirstAward": true,
     "EET": [
       2,
       6
@@ -931,12 +808,9 @@
       5
     ],
     "Episode": "Icon/MapEpisode/ep_roguelike_002",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/roguelike_003_03",
-    "HasImage": true,
     "NPCId": 0,
     "RewardPreview": "[[2,100,1],[12,1,0]]",
-    "HasRewardPreview": true,
     "ShopNpc": 3,
     "StandShopNpc": 9,
     "UpgradeNpc": 4,
@@ -950,12 +824,9 @@
   "306": {
     "Id": 306,
     "Name": "风暴与闪电",
-    "HasName": true,
     "Desc": "肆虐着风暴与闪电的星塔。聚集在此处的狂乱，只令人胆颤……\u000b掌控火或暗属性的旅人，在此会获得优势。",
-    "HasDesc": true,
     "GroupId": 3,
     "PreConditions": "[[2,20],[4,5]]",
-    "HasPreConditions": true,
     "PreviewMonsterGroupId": 305,
     "Difficulty": 5,
     "ValueDifficulty": 6,
@@ -974,7 +845,6 @@
     "TeamExpGroupId": 1,
     "SubNoteSkillDropGroupId": 4,
     "FirstAward": "{\"2\":100}",
-    "HasFirstAward": true,
     "EET": [
       2,
       6
@@ -984,12 +854,9 @@
       5
     ],
     "Episode": "Icon/MapEpisode/ep_roguelike_002",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/roguelike_003_03",
-    "HasImage": true,
     "NPCId": 0,
     "RewardPreview": "[[2,100,1],[12,1,0]]",
-    "HasRewardPreview": true,
     "ShopNpc": 3,
     "StandShopNpc": 9,
     "UpgradeNpc": 4,
@@ -1003,12 +870,9 @@
   "307": {
     "Id": 307,
     "Name": "风暴与闪电",
-    "HasName": true,
     "Desc": "肆虐着风暴与闪电的星塔。聚集在此处的狂乱，只令人胆颤……\u000b掌控火或暗属性的旅人，在此会获得优势。",
-    "HasDesc": true,
     "GroupId": 3,
     "PreConditions": "[[2,25],[4,6]]",
-    "HasPreConditions": true,
     "PreviewMonsterGroupId": 306,
     "Difficulty": 6,
     "ValueDifficulty": 7,
@@ -1027,7 +891,6 @@
     "TeamExpGroupId": 1,
     "SubNoteSkillDropGroupId": 4,
     "FirstAward": "{\"2\":100}",
-    "HasFirstAward": true,
     "EET": [
       2,
       6
@@ -1037,12 +900,9 @@
       5
     ],
     "Episode": "Icon/MapEpisode/ep_roguelike_002",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/roguelike_003_04",
-    "HasImage": true,
     "NPCId": 0,
     "RewardPreview": "[[2,100,1],[12,1,0]]",
-    "HasRewardPreview": true,
     "ShopNpc": 3,
     "StandShopNpc": 9,
     "UpgradeNpc": 4,
@@ -1056,12 +916,9 @@
   "308": {
     "Id": 308,
     "Name": "风暴与闪电",
-    "HasName": true,
     "Desc": "肆虐着风暴与闪电的星塔。聚集在此处的狂乱，只令人胆颤……\u000b掌控火或暗属性的旅人，在此会获得优势。",
-    "HasDesc": true,
     "GroupId": 3,
     "PreConditions": "[[2,30],[4,7]]",
-    "HasPreConditions": true,
     "PreviewMonsterGroupId": 307,
     "Difficulty": 7,
     "ValueDifficulty": 8,
@@ -1080,7 +937,6 @@
     "TeamExpGroupId": 1,
     "SubNoteSkillDropGroupId": 4,
     "FirstAward": "{\"2\":100}",
-    "HasFirstAward": true,
     "EET": [
       2,
       6
@@ -1090,12 +946,9 @@
       5
     ],
     "Episode": "Icon/MapEpisode/ep_roguelike_002",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/roguelike_003_04",
-    "HasImage": true,
     "NPCId": 0,
     "RewardPreview": "[[2,100,1],[12,1,0]]",
-    "HasRewardPreview": true,
     "ShopNpc": 3,
     "StandShopNpc": 9,
     "UpgradeNpc": 4,
@@ -1109,12 +962,9 @@
   "401": {
     "Id": 401,
     "Name": "原初的迷途",
-    "HasName": true,
     "Desc": "色彩黯淡，了无生气的星塔，在大陆上随处可见。\u000b任何元素属性都不会在此有优劣之分。",
-    "HasDesc": true,
     "GroupId": 4,
     "PreConditions": "",
-    "HasPreConditions": false,
     "PreviewMonsterGroupId": 11,
     "Difficulty": 1,
     "ValueDifficulty": 1,
@@ -1129,7 +979,6 @@
     "TeamExpGroupId": 1,
     "SubNoteSkillDropGroupId": 1,
     "FirstAward": "{\"2\":100}",
-    "HasFirstAward": true,
     "EET": [
       7
     ],
@@ -1137,12 +986,9 @@
       7
     ],
     "Episode": "Icon/MapEpisode/ep_roguelike_002",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/roguelike_004_01",
-    "HasImage": true,
     "NPCId": 0,
     "RewardPreview": "[[2,100,1],[12,1,0]]",
-    "HasRewardPreview": true,
     "ShopNpc": 3,
     "StandShopNpc": 9,
     "UpgradeNpc": 4,

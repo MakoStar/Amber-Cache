@@ -2,7 +2,6 @@
   "8010301": {
     "Id": 8010301,
     "Name": "琥珀",
-    "HasName": true,
     "SkinId": 8010301,
     "SearchTargetType": 1,
     "SearchRadius": 75000,
@@ -38,13 +37,11 @@
     "SkillCd": 80000,
     "CdStartTime": true,
     "Templete": 8010301,
-    "Icon": "Icon/Head/head_10301",
-    "HasIcon": true
+    "Icon": "Icon/Head/head_10301"
   },
   "8011101": {
     "Id": 8011101,
     "Name": "鸢尾",
-    "HasName": true,
     "SkinId": 8011101,
     "SearchTargetType": 1,
     "SearchRadius": 75000,
@@ -80,13 +77,11 @@
     "SkillCd": 150000,
     "CdStartTime": true,
     "Templete": 8011101,
-    "Icon": "Icon/Head/head_11101",
-    "HasIcon": true
+    "Icon": "Icon/Head/head_11101"
   },
   "8011201": {
     "Id": 8011201,
     "Name": "尘沙",
-    "HasName": true,
     "SkinId": 8011201,
     "SearchTargetType": 1,
     "SearchRadius": 45000,
@@ -122,13 +117,11 @@
     "SkillCd": 100000,
     "CdStartTime": true,
     "Templete": 8011201,
-    "Icon": "Icon/Head/head_11201",
-    "HasIcon": true
+    "Icon": "Icon/Head/head_11201"
   },
   "8012701": {
     "Id": 8012701,
     "Name": "特丽莎",
-    "HasName": true,
     "SkinId": 8012701,
     "SearchTargetType": 1,
     "SearchRadius": 45000,
@@ -164,13 +157,11 @@
     "SkillCd": 100000,
     "CdStartTime": false,
     "Templete": 8012701,
-    "Icon": "Icon/Head/head_12701",
-    "HasIcon": true
+    "Icon": "Icon/Head/head_12701"
   },
   "8013401": {
     "Id": 8013401,
     "Name": "冬香",
-    "HasName": true,
     "SkinId": 8013401,
     "SearchTargetType": 1,
     "SearchRadius": 45000,
@@ -206,13 +197,11 @@
     "SkillCd": 90000,
     "CdStartTime": true,
     "Templete": 8013401,
-    "Icon": "Icon/Head/head_13401",
-    "HasIcon": true
+    "Icon": "Icon/Head/head_13401"
   },
   "8015601": {
     "Id": 8015601,
     "Name": "小禾",
-    "HasName": true,
     "SkinId": 8015601,
     "SearchTargetType": 1,
     "SearchRadius": 75000,
@@ -248,13 +237,11 @@
     "SkillCd": 90000,
     "CdStartTime": true,
     "Templete": 8015601,
-    "Icon": "Icon/Head/head_15601",
-    "HasIcon": true
+    "Icon": "Icon/Head/head_15601"
   },
   "8013301": {
     "Id": 8013301,
     "Name": "夏花",
-    "HasName": true,
     "SkinId": 8013301,
     "SearchTargetType": 1,
     "SearchRadius": 75000,
@@ -290,13 +277,11 @@
     "SkillCd": 80000,
     "CdStartTime": false,
     "Templete": 8013301,
-    "Icon": "Icon/Head/head_13301",
-    "HasIcon": true
+    "Icon": "Icon/Head/head_13301"
   },
   "8011801": {
     "Id": 8011801,
     "Name": "科洛妮丝",
-    "HasName": true,
     "SkinId": 8011801,
     "SearchTargetType": 1,
     "SearchRadius": 45000,
@@ -332,13 +317,11 @@
     "SkillCd": 100000,
     "CdStartTime": true,
     "Templete": 8011801,
-    "Icon": "Icon/Head/head_11801",
-    "HasIcon": true
+    "Icon": "Icon/Head/head_11801"
   },
   "8011001": {
     "Id": 8011001,
     "Name": "翡冷翠",
-    "HasName": true,
     "SkinId": 8011001,
     "SearchTargetType": 1,
     "SearchRadius": 45000,
@@ -374,13 +357,11 @@
     "SkillCd": 120000,
     "CdStartTime": true,
     "Templete": 8011001,
-    "Icon": "Icon/Head/head_11001",
-    "HasIcon": true
+    "Icon": "Icon/Head/head_11001"
   },
   "8012301": {
     "Id": 8012301,
     "Name": "杏子",
-    "HasName": true,
     "SkinId": 8012301,
     "SearchTargetType": 1,
     "SearchRadius": 45000,
@@ -416,13 +397,11 @@
     "SkillCd": 150000,
     "CdStartTime": true,
     "Templete": 8012301,
-    "Icon": "Icon/Head/head_12301",
-    "HasIcon": true
+    "Icon": "Icon/Head/head_12301"
   },
   "8011899": {
     "Id": 8011899,
     "Name": "科洛妮丝",
-    "HasName": true,
     "SkinId": 8011801,
     "SearchTargetType": 1,
     "SearchRadius": 45000,
@@ -458,13 +437,11 @@
     "SkillCd": 50000,
     "CdStartTime": true,
     "Templete": 8011801,
-    "Icon": "Icon/Head/head_11801",
-    "HasIcon": true
+    "Icon": "Icon/Head/head_11801"
   },
   "8013399": {
     "Id": 8013399,
     "Name": "夏花",
-    "HasName": true,
     "SkinId": 8013301,
     "SearchTargetType": 1,
     "SearchRadius": 75000,
@@ -500,13 +477,11 @@
     "SkillCd": 30000,
     "CdStartTime": false,
     "Templete": 8013301,
-    "Icon": "Icon/Head/head_13301",
-    "HasIcon": true
+    "Icon": "Icon/Head/head_13301"
   },
   "8012399": {
     "Id": 8012399,
     "Name": "杏子",
-    "HasName": true,
     "SkinId": 8012301,
     "SearchTargetType": 1,
     "SearchRadius": 45000,
@@ -542,7 +517,6 @@
     "SkillCd": 40000,
     "CdStartTime": true,
     "Templete": 8012301,
-    "Icon": "Icon/Head/head_12301",
-    "HasIcon": true
+    "Icon": "Icon/Head/head_12301"
   }
 }

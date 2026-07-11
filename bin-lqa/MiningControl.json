@@ -3,45 +3,33 @@
     "Id": 400000,
     "UseType": 1,
     "UIAssets": "ActivityMining_1",
-    "HasUIAssets": true,
     "CtrlName": "ActivityMiningCtrl",
-    "HasCtrlName": true,
     "DigConsumeItemId": 120001,
     "ConfigMaxLayer": 20,
     "ShopId": 0,
     "BgPrefab": "",
-    "HasBgPrefab": false,
-    "GridListPrefab": "Cell1",
-    "HasGridListPrefab": true
+    "GridListPrefab": "Cell1"
   },
   "400002": {
     "Id": 400002,
     "UseType": 1,
     "UIAssets": "ActivityMining_1",
-    "HasUIAssets": true,
     "CtrlName": "ActivityMiningCtrl",
-    "HasCtrlName": true,
     "DigConsumeItemId": 120002,
     "ConfigMaxLayer": 20,
     "ShopId": 0,
     "BgPrefab": "",
-    "HasBgPrefab": false,
-    "GridListPrefab": "Cell1",
-    "HasGridListPrefab": true
+    "GridListPrefab": "Cell1"
   },
   "400003": {
     "Id": 400003,
     "UseType": 1,
     "UIAssets": "ActivityMining_1",
-    "HasUIAssets": true,
     "CtrlName": "ActivityMiningCtrl",
-    "HasCtrlName": true,
     "DigConsumeItemId": 120003,
     "ConfigMaxLayer": 20,
     "ShopId": 0,
     "BgPrefab": "",
-    "HasBgPrefab": false,
-    "GridListPrefab": "Cell1",
-    "HasGridListPrefab": true
+    "GridListPrefab": "Cell1"
   }
 }

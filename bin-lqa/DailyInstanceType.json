@@ -2,13 +2,10 @@
   "5": {
     "Id": 5,
     "Name": "赏金速略",
-    "HasName": true,
     "MainLineId": 0,
     "WorldClassLevel": 1,
     "Episode": "Icon/MapEpisode/ep_ResInstance_001",
-    "HasEpisode": true,
     "Image": "",
-    "HasImage": false,
     "Sort": 1,
     "HowReward": [
       55003

@@ -6,9 +6,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "10301",
-    "HasAVGGroupId": true
+    "AVGGroupId": "10301"
   },
   "10302": {
     "Id": 10302,
@@ -17,9 +15,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "10302",
-    "HasAVGGroupId": true
+    "AVGGroupId": "10302"
   },
   "10701": {
     "Id": 10701,
@@ -28,9 +24,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "10701",
-    "HasAVGGroupId": true
+    "AVGGroupId": "10701"
   },
   "10702": {
     "Id": 10702,
@@ -39,9 +33,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "10702",
-    "HasAVGGroupId": true
+    "AVGGroupId": "10702"
   },
   "10801": {
     "Id": 10801,
@@ -50,9 +42,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "10801",
-    "HasAVGGroupId": true
+    "AVGGroupId": "10801"
   },
   "10802": {
     "Id": 10802,
@@ -61,9 +51,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "10802",
-    "HasAVGGroupId": true
+    "AVGGroupId": "10802"
   },
   "11101": {
     "Id": 11101,
@@ -72,9 +60,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "11101",
-    "HasAVGGroupId": true
+    "AVGGroupId": "11101"
   },
   "11102": {
     "Id": 11102,
@@ -83,9 +69,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "11102",
-    "HasAVGGroupId": true
+    "AVGGroupId": "11102"
   },
   "11201": {
     "Id": 11201,
@@ -94,9 +78,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "11201",
-    "HasAVGGroupId": true
+    "AVGGroupId": "11201"
   },
   "11202": {
     "Id": 11202,
@@ -105,9 +87,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "11202",
-    "HasAVGGroupId": true
+    "AVGGroupId": "11202"
   },
   "11301": {
     "Id": 11301,
@@ -116,9 +96,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "11301",
-    "HasAVGGroupId": true
+    "AVGGroupId": "11301"
   },
   "11302": {
     "Id": 11302,
@@ -127,9 +105,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "11302",
-    "HasAVGGroupId": true
+    "AVGGroupId": "11302"
   },
   "11601": {
     "Id": 11601,
@@ -138,9 +114,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single02",
-    "HasAvg": true,
-    "AVGGroupId": "11601",
-    "HasAVGGroupId": true
+    "AVGGroupId": "11601"
   },
   "11602": {
     "Id": 11602,
@@ -149,9 +123,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single02",
-    "HasAvg": true,
-    "AVGGroupId": "11602",
-    "HasAVGGroupId": true
+    "AVGGroupId": "11602"
   },
   "11701": {
     "Id": 11701,
@@ -160,9 +132,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "11701",
-    "HasAVGGroupId": true
+    "AVGGroupId": "11701"
   },
   "11702": {
     "Id": 11702,
@@ -171,9 +141,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "11702",
-    "HasAVGGroupId": true
+    "AVGGroupId": "11702"
   },
   "11801": {
     "Id": 11801,
@@ -182,9 +150,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "11801",
-    "HasAVGGroupId": true
+    "AVGGroupId": "11801"
   },
   "11802": {
     "Id": 11802,
@@ -193,9 +159,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "11802",
-    "HasAVGGroupId": true
+    "AVGGroupId": "11802"
   },
   "11901": {
     "Id": 11901,
@@ -204,9 +168,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "11901",
-    "HasAVGGroupId": true
+    "AVGGroupId": "11901"
   },
   "11902": {
     "Id": 11902,
@@ -215,9 +177,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "11902",
-    "HasAVGGroupId": true
+    "AVGGroupId": "11902"
   },
   "12001": {
     "Id": 12001,
@@ -226,9 +186,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "12001",
-    "HasAVGGroupId": true
+    "AVGGroupId": "12001"
   },
   "12002": {
     "Id": 12002,
@@ -237,9 +195,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "12002",
-    "HasAVGGroupId": true
+    "AVGGroupId": "12002"
   },
   "12301": {
     "Id": 12301,
@@ -248,9 +204,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "12301",
-    "HasAVGGroupId": true
+    "AVGGroupId": "12301"
   },
   "12302": {
     "Id": 12302,
@@ -259,9 +213,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "12302",
-    "HasAVGGroupId": true
+    "AVGGroupId": "12302"
   },
   "12501": {
     "Id": 12501,
@@ -270,9 +222,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "12501",
-    "HasAVGGroupId": true
+    "AVGGroupId": "12501"
   },
   "12502": {
     "Id": 12502,
@@ -281,9 +231,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "12502",
-    "HasAVGGroupId": true
+    "AVGGroupId": "12502"
   },
   "12601": {
     "Id": 12601,
@@ -292,9 +240,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "12601",
-    "HasAVGGroupId": true
+    "AVGGroupId": "12601"
   },
   "12602": {
     "Id": 12602,
@@ -303,9 +249,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "12602",
-    "HasAVGGroupId": true
+    "AVGGroupId": "12602"
   },
   "12701": {
     "Id": 12701,
@@ -314,9 +258,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "12701",
-    "HasAVGGroupId": true
+    "AVGGroupId": "12701"
   },
   "12702": {
     "Id": 12702,
@@ -325,9 +267,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "12702",
-    "HasAVGGroupId": true
+    "AVGGroupId": "12702"
   },
   "13201": {
     "Id": 13201,
@@ -336,9 +276,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "13201",
-    "HasAVGGroupId": true
+    "AVGGroupId": "13201"
   },
   "13202": {
     "Id": 13202,
@@ -347,9 +285,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "13202",
-    "HasAVGGroupId": true
+    "AVGGroupId": "13202"
   },
   "13301": {
     "Id": 13301,
@@ -358,9 +294,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single03",
-    "HasAvg": true,
-    "AVGGroupId": "13301",
-    "HasAVGGroupId": true
+    "AVGGroupId": "13301"
   },
   "13302": {
     "Id": 13302,
@@ -369,9 +303,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single03",
-    "HasAvg": true,
-    "AVGGroupId": "13302",
-    "HasAVGGroupId": true
+    "AVGGroupId": "13302"
   },
   "13401": {
     "Id": 13401,
@@ -380,9 +312,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single03",
-    "HasAvg": true,
-    "AVGGroupId": "13401",
-    "HasAVGGroupId": true
+    "AVGGroupId": "13401"
   },
   "13402": {
     "Id": 13402,
@@ -391,9 +321,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single03",
-    "HasAvg": true,
-    "AVGGroupId": "13402",
-    "HasAVGGroupId": true
+    "AVGGroupId": "13402"
   },
   "13501": {
     "Id": 13501,
@@ -402,9 +330,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "13501",
-    "HasAVGGroupId": true
+    "AVGGroupId": "13501"
   },
   "13502": {
     "Id": 13502,
@@ -413,9 +339,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "13502",
-    "HasAVGGroupId": true
+    "AVGGroupId": "13502"
   },
   "14101": {
     "Id": 14101,
@@ -424,9 +348,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "14101",
-    "HasAVGGroupId": true
+    "AVGGroupId": "14101"
   },
   "14102": {
     "Id": 14102,
@@ -435,9 +357,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "14102",
-    "HasAVGGroupId": true
+    "AVGGroupId": "14102"
   },
   "14201": {
     "Id": 14201,
@@ -446,9 +366,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "14201",
-    "HasAVGGroupId": true
+    "AVGGroupId": "14201"
   },
   "14202": {
     "Id": 14202,
@@ -457,9 +375,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "14202",
-    "HasAVGGroupId": true
+    "AVGGroupId": "14202"
   },
   "14401": {
     "Id": 14401,
@@ -468,9 +384,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single02",
-    "HasAvg": true,
-    "AVGGroupId": "14401",
-    "HasAVGGroupId": true
+    "AVGGroupId": "14401"
   },
   "14402": {
     "Id": 14402,
@@ -479,9 +393,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single02",
-    "HasAvg": true,
-    "AVGGroupId": "14402",
-    "HasAVGGroupId": true
+    "AVGGroupId": "14402"
   },
   "14701": {
     "Id": 14701,
@@ -490,9 +402,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "14701",
-    "HasAVGGroupId": true
+    "AVGGroupId": "14701"
   },
   "14702": {
     "Id": 14702,
@@ -501,9 +411,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "14702",
-    "HasAVGGroupId": true
+    "AVGGroupId": "14702"
   },
   "14901": {
     "Id": 14901,
@@ -512,9 +420,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single02",
-    "HasAvg": true,
-    "AVGGroupId": "14901",
-    "HasAVGGroupId": true
+    "AVGGroupId": "14901"
   },
   "14902": {
     "Id": 14902,
@@ -523,9 +429,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single02",
-    "HasAvg": true,
-    "AVGGroupId": "14902",
-    "HasAVGGroupId": true
+    "AVGGroupId": "14902"
   },
   "15001": {
     "Id": 15001,
@@ -534,9 +438,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "15001",
-    "HasAVGGroupId": true
+    "AVGGroupId": "15001"
   },
   "15002": {
     "Id": 15002,
@@ -545,9 +447,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "15002",
-    "HasAVGGroupId": true
+    "AVGGroupId": "15002"
   },
   "15501": {
     "Id": 15501,
@@ -556,9 +456,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single02",
-    "HasAvg": true,
-    "AVGGroupId": "15501",
-    "HasAVGGroupId": true
+    "AVGGroupId": "15501"
   },
   "15502": {
     "Id": 15502,
@@ -567,9 +465,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single02",
-    "HasAvg": true,
-    "AVGGroupId": "15502",
-    "HasAVGGroupId": true
+    "AVGGroupId": "15502"
   },
   "15601": {
     "Id": 15601,
@@ -578,9 +474,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single02",
-    "HasAvg": true,
-    "AVGGroupId": "15601",
-    "HasAVGGroupId": true
+    "AVGGroupId": "15601"
   },
   "15602": {
     "Id": 15602,
@@ -589,9 +483,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single02",
-    "HasAvg": true,
-    "AVGGroupId": "15602",
-    "HasAVGGroupId": true
+    "AVGGroupId": "15602"
   },
   "15801": {
     "Id": 15801,
@@ -600,9 +492,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single04",
-    "HasAvg": true,
-    "AVGGroupId": "15801",
-    "HasAVGGroupId": true
+    "AVGGroupId": "15801"
   },
   "15802": {
     "Id": 15802,
@@ -611,9 +501,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single04",
-    "HasAvg": true,
-    "AVGGroupId": "15802",
-    "HasAVGGroupId": true
+    "AVGGroupId": "15802"
   },
   "11001": {
     "Id": 11001,
@@ -622,9 +510,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single04",
-    "HasAvg": true,
-    "AVGGroupId": "11001",
-    "HasAVGGroupId": true
+    "AVGGroupId": "11001"
   },
   "11002": {
     "Id": 11002,
@@ -633,9 +519,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single04",
-    "HasAvg": true,
-    "AVGGroupId": "11002",
-    "HasAVGGroupId": true
+    "AVGGroupId": "11002"
   },
   "11401": {
     "Id": 11401,
@@ -644,9 +528,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "11401",
-    "HasAVGGroupId": true
+    "AVGGroupId": "11401"
   },
   "11402": {
     "Id": 11402,
@@ -655,9 +537,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "11402",
-    "HasAVGGroupId": true
+    "AVGGroupId": "11402"
   },
   "11501": {
     "Id": 11501,
@@ -666,9 +546,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "11501",
-    "HasAVGGroupId": true
+    "AVGGroupId": "11501"
   },
   "11502": {
     "Id": 11502,
@@ -677,9 +555,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "11502",
-    "HasAVGGroupId": true
+    "AVGGroupId": "11502"
   },
   "13001": {
     "Id": 13001,
@@ -688,9 +564,7 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "13001",
-    "HasAVGGroupId": true
+    "AVGGroupId": "13001"
   },
   "13002": {
     "Id": 13002,
@@ -699,9 +573,43 @@
     ],
     "Weight": 50,
     "Avg": "DP_single01",
-    "HasAvg": true,
-    "AVGGroupId": "13002",
-    "HasAVGGroupId": true
+    "AVGGroupId": "13002"
+  },
+  "15901": {
+    "Id": 15901,
+    "CharId": [
+      159
+    ],
+    "Weight": 50,
+    "Avg": "DP_single05",
+    "AVGGroupId": "15901"
+  },
+  "15902": {
+    "Id": 15902,
+    "CharId": [
+      159
+    ],
+    "Weight": 50,
+    "Avg": "DP_single05",
+    "AVGGroupId": "15902"
+  },
+  "14301": {
+    "Id": 14301,
+    "CharId": [
+      143
+    ],
+    "Weight": 50,
+    "Avg": "DP_single05",
+    "AVGGroupId": "14301"
+  },
+  "14302": {
+    "Id": 14302,
+    "CharId": [
+      143
+    ],
+    "Weight": 50,
+    "Avg": "DP_single05",
+    "AVGGroupId": "14302"
   },
   "90101": {
     "Id": 90101,
@@ -711,9 +619,7 @@
     ],
     "Weight": 150,
     "Avg": "DP_multi01",
-    "HasAvg": true,
-    "AVGGroupId": "1",
-    "HasAVGGroupId": true
+    "AVGGroupId": "1"
   },
   "90102": {
     "Id": 90102,
@@ -723,9 +629,7 @@
     ],
     "Weight": 150,
     "Avg": "DP_multi01",
-    "HasAvg": true,
-    "AVGGroupId": "2",
-    "HasAVGGroupId": true
+    "AVGGroupId": "2"
   },
   "90103": {
     "Id": 90103,
@@ -735,9 +639,7 @@
     ],
     "Weight": 150,
     "Avg": "DP_multi01",
-    "HasAvg": true,
-    "AVGGroupId": "3",
-    "HasAVGGroupId": true
+    "AVGGroupId": "3"
   },
   "90104": {
     "Id": 90104,
@@ -748,9 +650,7 @@
     ],
     "Weight": 300,
     "Avg": "DP_multi01",
-    "HasAvg": true,
-    "AVGGroupId": "4",
-    "HasAVGGroupId": true
+    "AVGGroupId": "4"
   },
   "90105": {
     "Id": 90105,
@@ -760,9 +660,7 @@
     ],
     "Weight": 150,
     "Avg": "DP_multi01",
-    "HasAvg": true,
-    "AVGGroupId": "5",
-    "HasAVGGroupId": true
+    "AVGGroupId": "5"
   },
   "90106": {
     "Id": 90106,
@@ -772,9 +670,7 @@
     ],
     "Weight": 150,
     "Avg": "DP_multi01",
-    "HasAvg": true,
-    "AVGGroupId": "6",
-    "HasAVGGroupId": true
+    "AVGGroupId": "6"
   },
   "90107": {
     "Id": 90107,
@@ -784,9 +680,7 @@
     ],
     "Weight": 150,
     "Avg": "DP_multi01",
-    "HasAvg": true,
-    "AVGGroupId": "7",
-    "HasAVGGroupId": true
+    "AVGGroupId": "7"
   },
   "90108": {
     "Id": 90108,
@@ -796,9 +690,7 @@
     ],
     "Weight": 150,
     "Avg": "DP_multi01",
-    "HasAvg": true,
-    "AVGGroupId": "8",
-    "HasAVGGroupId": true
+    "AVGGroupId": "8"
   },
   "90109": {
     "Id": 90109,
@@ -808,9 +700,7 @@
     ],
     "Weight": 150,
     "Avg": "DP_multi01",
-    "HasAvg": true,
-    "AVGGroupId": "9",
-    "HasAVGGroupId": true
+    "AVGGroupId": "9"
   },
   "90110": {
     "Id": 90110,
@@ -820,9 +710,7 @@
     ],
     "Weight": 150,
     "Avg": "DP_multi01",
-    "HasAvg": true,
-    "AVGGroupId": "10",
-    "HasAVGGroupId": true
+    "AVGGroupId": "10"
   },
   "90111": {
     "Id": 90111,
@@ -832,9 +720,7 @@
     ],
     "Weight": 150,
     "Avg": "DP_multi01",
-    "HasAvg": true,
-    "AVGGroupId": "11",
-    "HasAVGGroupId": true
+    "AVGGroupId": "11"
   },
   "90112": {
     "Id": 90112,
@@ -844,9 +730,7 @@
     ],
     "Weight": 150,
     "Avg": "DP_multi01",
-    "HasAvg": true,
-    "AVGGroupId": "12",
-    "HasAVGGroupId": true
+    "AVGGroupId": "12"
   },
   "90113": {
     "Id": 90113,
@@ -856,9 +740,7 @@
     ],
     "Weight": 150,
     "Avg": "DP_multi01",
-    "HasAvg": true,
-    "AVGGroupId": "13",
-    "HasAVGGroupId": true
+    "AVGGroupId": "13"
   },
   "90114": {
     "Id": 90114,
@@ -868,9 +750,7 @@
     ],
     "Weight": 150,
     "Avg": "DP_multi01",
-    "HasAvg": true,
-    "AVGGroupId": "14",
-    "HasAVGGroupId": true
+    "AVGGroupId": "14"
   },
   "90115": {
     "Id": 90115,
@@ -880,9 +760,7 @@
     ],
     "Weight": 150,
     "Avg": "DP_multi01",
-    "HasAvg": true,
-    "AVGGroupId": "15",
-    "HasAVGGroupId": true
+    "AVGGroupId": "15"
   },
   "90116": {
     "Id": 90116,
@@ -892,9 +770,7 @@
     ],
     "Weight": 150,
     "Avg": "DP_multi01",
-    "HasAvg": true,
-    "AVGGroupId": "16",
-    "HasAVGGroupId": true
+    "AVGGroupId": "16"
   },
   "90117": {
     "Id": 90117,
@@ -904,8 +780,6 @@
     ],
     "Weight": 150,
     "Avg": "DP_multi01",
-    "HasAvg": true,
-    "AVGGroupId": "17",
-    "HasAVGGroupId": true
+    "AVGGroupId": "17"
   }
 }

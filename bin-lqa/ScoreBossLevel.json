@@ -4,15 +4,14 @@
     "FloorId": 1001001,
     "MonsterId": 6310010,
     "NonDamageScoreGet": 1007,
-    "ScoreBossAbility": 100001,
+    "ScoreBossAbility": 100000,
     "ScoreGetSwitchGroup": 1001,
     "Episode": "Icon/MapChallenge/challenge_boss_bust_01",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/challenge_boss_01",
-    "HasImage": true,
     "BG": "Image/UIBG/uniseed_basement",
-    "HasBG": true,
-    "SummonLevelUp": false
+    "SummonLevelUp": false,
+    "ExtraImage": "",
+    "ExtraImageAni": ""
   },
   "2": {
     "Id": 2,
@@ -22,12 +21,11 @@
     "ScoreBossAbility": 100000,
     "ScoreGetSwitchGroup": 1003,
     "Episode": "Icon/MapChallenge/cover_Bossrush_fengcao",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/boss_Tachie_05",
-    "HasImage": true,
     "BG": "Image/UIBG/uniseed_basement",
-    "HasBG": true,
-    "SummonLevelUp": true
+    "SummonLevelUp": true,
+    "ExtraImage": "",
+    "ExtraImageAni": ""
   },
   "3": {
     "Id": 3,
@@ -37,12 +35,11 @@
     "ScoreBossAbility": 100002,
     "ScoreGetSwitchGroup": 1002,
     "Episode": "Icon/MapChallenge/cover_Bossrush_chushi",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/boss_Tachie_07",
-    "HasImage": true,
     "BG": "Image/UIBG/tower_fire_earth",
-    "HasBG": true,
-    "SummonLevelUp": true
+    "SummonLevelUp": true,
+    "ExtraImage": "",
+    "ExtraImageAni": ""
   },
   "4": {
     "Id": 4,
@@ -52,12 +49,11 @@
     "ScoreBossAbility": 100003,
     "ScoreGetSwitchGroup": 1004,
     "Episode": "Icon/MapChallenge/cover_Bossrush_jinduan",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/boss_Tachie_09",
-    "HasImage": true,
     "BG": "ImageAvg/AvgBg/tower_wind_light",
-    "HasBG": true,
-    "SummonLevelUp": true
+    "SummonLevelUp": true,
+    "ExtraImage": "",
+    "ExtraImageAni": ""
   },
   "5": {
     "Id": 5,
@@ -67,12 +63,11 @@
     "ScoreBossAbility": 100004,
     "ScoreGetSwitchGroup": 1005,
     "Episode": "Icon/MapChallenge/cover_Bossrush_shayu",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/boss_Tachie_08",
-    "HasImage": true,
     "BG": "ImageAvg/AvgBg/tower_inside",
-    "HasBG": true,
-    "SummonLevelUp": true
+    "SummonLevelUp": true,
+    "ExtraImage": "",
+    "ExtraImageAni": ""
   },
   "6": {
     "Id": 6,
@@ -82,12 +77,11 @@
     "ScoreBossAbility": 100005,
     "ScoreGetSwitchGroup": 1006,
     "Episode": "Icon/MapChallenge/cover_Bossrush_fengshanji",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/boss_Tachie_10",
-    "HasImage": true,
     "BG": "ImageAvg/AvgBg/tower_wind_light",
-    "HasBG": true,
-    "SummonLevelUp": true
+    "SummonLevelUp": true,
+    "ExtraImage": "",
+    "ExtraImageAni": ""
   },
   "7": {
     "Id": 7,
@@ -97,12 +91,11 @@
     "ScoreBossAbility": 100006,
     "ScoreGetSwitchGroup": 1006,
     "Episode": "Icon/MapChallenge/cover_Bossrush_duobitaideng",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/boss_Tachie_11",
-    "HasImage": true,
     "BG": "ImageAvg/AvgBg/tower_wind_light",
-    "HasBG": true,
-    "SummonLevelUp": true
+    "SummonLevelUp": true,
+    "ExtraImage": "",
+    "ExtraImageAni": ""
   },
   "8": {
     "Id": 8,
@@ -112,12 +105,11 @@
     "ScoreBossAbility": 100007,
     "ScoreGetSwitchGroup": 1002,
     "Episode": "Icon/MapChallenge/cover_Bossrush_chushi",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/boss_Tachie_07",
-    "HasImage": true,
     "BG": "Image/UIBG/tower_fire_earth",
-    "HasBG": true,
-    "SummonLevelUp": true
+    "SummonLevelUp": true,
+    "ExtraImage": "",
+    "ExtraImageAni": ""
   },
   "9": {
     "Id": 9,
@@ -127,11 +119,38 @@
     "ScoreBossAbility": 100008,
     "ScoreGetSwitchGroup": 1002,
     "Episode": "Icon/MapChallenge/cover_Bossrush_fengniao",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/boss_Tachie_04",
-    "HasImage": true,
     "BG": "ImageAvg/AvgBg/tower_wind_light",
-    "HasBG": true,
-    "SummonLevelUp": true
+    "SummonLevelUp": true,
+    "ExtraImage": "",
+    "ExtraImageAni": ""
+  },
+  "10": {
+    "Id": 10,
+    "FloorId": 1001009,
+    "MonsterId": 6310090,
+    "NonDamageScoreGet": 1018,
+    "ScoreBossAbility": 100009,
+    "ScoreGetSwitchGroup": 1006,
+    "Episode": "Icon/MapChallenge/cover_Bossrush_daguanzi",
+    "Image": "Icon/MapChallenge/boss_Tachie_12",
+    "BG": "Image/UIBG/tower_fire_earth",
+    "SummonLevelUp": true,
+    "ExtraImage": "",
+    "ExtraImageAni": ""
+  },
+  "11": {
+    "Id": 11,
+    "FloorId": 1001011,
+    "MonsterId": 6310100,
+    "NonDamageScoreGet": 1019,
+    "ScoreBossAbility": 100010,
+    "ScoreGetSwitchGroup": 1006,
+    "Episode": "Icon/MapChallenge/cover_Bossrush_shayu",
+    "Image": "Icon/MapChallenge/boss_Tachie_08",
+    "BG": "ImageAvg/AvgBg/tower_inside",
+    "SummonLevelUp": true,
+    "ExtraImage": "",
+    "ExtraImageAni": ""
   }
 }

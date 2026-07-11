@@ -4,8 +4,7 @@
     "ActivityId": 102001,
     "GuideType": 1,
     "ObjectId": 8010301,
-    "IconPath": "",
-    "HasIconPath": false,
+    "Str": "",
     "LevelId": 0,
     "IsShow": true
   },
@@ -14,8 +13,7 @@
     "ActivityId": 102001,
     "GuideType": 1,
     "ObjectId": 8011101,
-    "IconPath": "",
-    "HasIconPath": false,
+    "Str": "",
     "LevelId": 0,
     "IsShow": true
   },
@@ -24,8 +22,7 @@
     "ActivityId": 102001,
     "GuideType": 1,
     "ObjectId": 8011201,
-    "IconPath": "",
-    "HasIconPath": false,
+    "Str": "",
     "LevelId": 0,
     "IsShow": true
   },
@@ -34,8 +31,7 @@
     "ActivityId": 102001,
     "GuideType": 2,
     "ObjectId": 1001,
-    "IconPath": "",
-    "HasIconPath": false,
+    "Str": "",
     "LevelId": 0,
     "IsShow": true
   },
@@ -44,8 +40,7 @@
     "ActivityId": 102001,
     "GuideType": 1,
     "ObjectId": 8012701,
-    "IconPath": "",
-    "HasIconPath": false,
+    "Str": "",
     "LevelId": 0,
     "IsShow": true
   },
@@ -54,8 +49,7 @@
     "ActivityId": 102001,
     "GuideType": 1,
     "ObjectId": 8013401,
-    "IconPath": "",
-    "HasIconPath": false,
+    "Str": "",
     "LevelId": 0,
     "IsShow": true
   },
@@ -64,8 +58,7 @@
     "ActivityId": 102001,
     "GuideType": 1,
     "ObjectId": 8015601,
-    "IconPath": "",
-    "HasIconPath": false,
+    "Str": "",
     "LevelId": 0,
     "IsShow": true
   },
@@ -74,8 +67,7 @@
     "ActivityId": 102002,
     "GuideType": 1,
     "ObjectId": 8010301,
-    "IconPath": "",
-    "HasIconPath": false,
+    "Str": "",
     "LevelId": 0,
     "IsShow": true
   },
@@ -84,8 +76,7 @@
     "ActivityId": 102002,
     "GuideType": 1,
     "ObjectId": 8011101,
-    "IconPath": "",
-    "HasIconPath": false,
+    "Str": "",
     "LevelId": 0,
     "IsShow": true
   },
@@ -94,8 +85,7 @@
     "ActivityId": 102002,
     "GuideType": 1,
     "ObjectId": 8011201,
-    "IconPath": "",
-    "HasIconPath": false,
+    "Str": "",
     "LevelId": 0,
     "IsShow": true
   },
@@ -104,8 +94,7 @@
     "ActivityId": 102002,
     "GuideType": 1,
     "ObjectId": 8012701,
-    "IconPath": "",
-    "HasIconPath": false,
+    "Str": "",
     "LevelId": 0,
     "IsShow": true
   },
@@ -114,8 +103,7 @@
     "ActivityId": 102002,
     "GuideType": 1,
     "ObjectId": 8013401,
-    "IconPath": "",
-    "HasIconPath": false,
+    "Str": "",
     "LevelId": 0,
     "IsShow": true
   },
@@ -124,8 +112,7 @@
     "ActivityId": 102002,
     "GuideType": 1,
     "ObjectId": 8015601,
-    "IconPath": "",
-    "HasIconPath": false,
+    "Str": "",
     "LevelId": 0,
     "IsShow": true
   },
@@ -134,8 +121,7 @@
     "ActivityId": 102002,
     "GuideType": 1,
     "ObjectId": 8013301,
-    "IconPath": "zs_towerdef_s2",
-    "HasIconPath": true,
+    "Str": "S2",
     "LevelId": 0,
     "IsShow": true
   },
@@ -144,8 +130,7 @@
     "ActivityId": 102002,
     "GuideType": 1,
     "ObjectId": 8011801,
-    "IconPath": "zs_towerdef_s2",
-    "HasIconPath": true,
+    "Str": "S2",
     "LevelId": 0,
     "IsShow": true
   },
@@ -154,8 +139,7 @@
     "ActivityId": 102002,
     "GuideType": 1,
     "ObjectId": 8011001,
-    "IconPath": "zs_towerdef_s2",
-    "HasIconPath": true,
+    "Str": "S2",
     "LevelId": 0,
     "IsShow": true
   },
@@ -164,8 +148,7 @@
     "ActivityId": 102002,
     "GuideType": 1,
     "ObjectId": 8012301,
-    "IconPath": "zs_towerdef_s2",
-    "HasIconPath": true,
+    "Str": "S2",
     "LevelId": 0,
     "IsShow": true
   },
@@ -174,8 +157,7 @@
     "ActivityId": 102002,
     "GuideType": 2,
     "ObjectId": 1011,
-    "IconPath": "zs_towerdef_s2",
-    "HasIconPath": true,
+    "Str": "S2",
     "LevelId": 0,
     "IsShow": true
   },
@@ -184,8 +166,7 @@
     "ActivityId": 102002,
     "GuideType": 1,
     "ObjectId": 8011899,
-    "IconPath": "",
-    "HasIconPath": false,
+    "Str": "",
     "LevelId": 0,
     "IsShow": false
   },
@@ -194,8 +175,7 @@
     "ActivityId": 102002,
     "GuideType": 1,
     "ObjectId": 8013399,
-    "IconPath": "",
-    "HasIconPath": false,
+    "Str": "",
     "LevelId": 0,
     "IsShow": false
   },
@@ -204,8 +184,7 @@
     "ActivityId": 102002,
     "GuideType": 1,
     "ObjectId": 8012399,
-    "IconPath": "",
-    "HasIconPath": false,
+    "Str": "",
     "LevelId": 0,
     "IsShow": false
   }

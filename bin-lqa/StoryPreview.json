@@ -1,0 +1,58 @@
+{
+  "1": {
+    "Id": 1,
+    "Type": 0,
+    "StoryId": 0,
+    "ShowTime": "2025-10-20T12:00:00+08:00",
+    "Title": "StoryPreview.1.1",
+    "Icon": ""
+  },
+  "2": {
+    "Id": 2,
+    "Type": 2,
+    "StoryId": 1007,
+    "ShowTime": "2025-12-30T12:00:00+08:00",
+    "Title": "诺瓦异闻 #07",
+    "Icon": "UI/big_sprites/banner_StorySet_07"
+  },
+  "3": {
+    "Id": 3,
+    "Type": 1,
+    "StoryId": 5,
+    "ShowTime": "2026-01-06T12:00:00+08:00",
+    "Title": "主线剧情 第五章",
+    "Icon": "UI/big_sprites/banner_avg_chapter5"
+  },
+  "4": {
+    "Id": 4,
+    "Type": 1,
+    "StoryId": 6,
+    "ShowTime": "2026-01-13T12:00:00+08:00",
+    "Title": "主线剧情 第六章",
+    "Icon": "UI/big_sprites/banner_avg_chapter6"
+  },
+  "5": {
+    "Id": 5,
+    "Type": 2,
+    "StoryId": 1008,
+    "ShowTime": "2026-01-27T12:00:00+08:00",
+    "Title": "诺瓦异闻 #08",
+    "Icon": "UI/big_sprites/banner_StorySet_08"
+  },
+  "6": {
+    "Id": 6,
+    "Type": 2,
+    "StoryId": 1009,
+    "ShowTime": "2026-02-17T12:00:00+08:00",
+    "Title": "诺瓦异闻 #09",
+    "Icon": "UI/big_sprites/banner_StorySet_09"
+  },
+  "7": {
+    "Id": 7,
+    "Type": 2,
+    "StoryId": 1010,
+    "ShowTime": "2026-02-17T12:00:00+08:00",
+    "Title": "诺瓦异闻 #10",
+    "Icon": "UI/big_sprites/banner_StorySet_10"
+  }
+}

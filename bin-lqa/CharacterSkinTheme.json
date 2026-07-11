@@ -2,28 +2,19 @@
   "1": {
     "Id": 1,
     "Name": "CharacterSkinTheme.1.1",
-    "HasName": true,
     "Desc": "CharacterSkinTheme.1.2",
-    "HasDesc": true,
-    "Icon": "Icon/Item/item_99904",
-    "HasIcon": true
+    "Icon": "Icon/Item/item_99904"
   },
   "2": {
     "Id": 2,
     "Name": "CharacterSkinTheme.2.1",
-    "HasName": true,
     "Desc": "CharacterSkinTheme.2.2",
-    "HasDesc": true,
-    "Icon": "Icon/Item/item_99905",
-    "HasIcon": true
+    "Icon": "Icon/Item/item_99905"
   },
   "3": {
     "Id": 3,
     "Name": "CharacterSkinTheme.3.1",
-    "HasName": true,
     "Desc": "CharacterSkinTheme.3.2",
-    "HasDesc": true,
-    "Icon": "Icon/Item/item_99906",
-    "HasIcon": true
+    "Icon": "Icon/Item/item_99906"
   }
 }

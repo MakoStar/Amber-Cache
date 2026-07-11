@@ -3,15 +3,9 @@
     "Id": 600001,
     "BossLevelId": 200100,
     "AffixGroupIds": "[100201,100202,100204,100205,100206,201,202,210,215,204,205,206,207,208,209,212,213,216,214,211,203]",
-    "HasAffixGroupIds": true,
     "QuestGroupId": 2001,
     "BackGroundSource": "duelquest_1001",
-    "HasBackGroundSource": true,
     "OpenTime": "2025-12-23T12:00:00+08:00",
-    "HasOpenTime": true,
-    "EndTime": "2026-01-06T03:59:59+08:00",
-    "HasEndTime": true,
-    "FastEntranceIcon": "Icon/Banner/banner_travelerduel_r",
-    "HasFastEntranceIcon": true
+    "EndTime": "2026-01-06T03:59:59+08:00"
   }
 }

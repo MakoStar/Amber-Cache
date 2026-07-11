@@ -2,49 +2,33 @@
   "8100101": {
     "Id": 8100101,
     "SceneName": "Levels/VampireSurvivor/VS_Scene_01a",
-    "HasSceneName": true,
     "ConfigPrefabName": "VampireSurvivor_01a",
-    "HasConfigPrefabName": true,
     "Theme": 2,
     "BGM": "vampire_combatNormal_setState",
-    "HasBGM": true,
-    "LeaveTriggerEvent": "amb_vampire_all_stop",
-    "HasLeaveTriggerEvent": true
+    "LeaveTriggerEvent": "amb_vampire_all_stop"
   },
   "8100201": {
     "Id": 8100201,
     "SceneName": "Levels/VampireSurvivor/VS_Scene_02a",
-    "HasSceneName": true,
     "ConfigPrefabName": "VampireSurvivor_02a",
-    "HasConfigPrefabName": true,
     "Theme": 302,
     "BGM": "vampireForest_combatNormal_setState",
-    "HasBGM": true,
-    "LeaveTriggerEvent": "amb_vampire_all_stop",
-    "HasLeaveTriggerEvent": true
+    "LeaveTriggerEvent": "amb_vampire_all_stop"
   },
   "8100301": {
     "Id": 8100301,
     "SceneName": "Levels/VampireSurvivor/VS_Scene_03a",
-    "HasSceneName": true,
     "ConfigPrefabName": "VampireSurvivor_03a",
-    "HasConfigPrefabName": true,
     "Theme": 303,
     "BGM": "vampireRuins_combatNormal_setState",
-    "HasBGM": true,
-    "LeaveTriggerEvent": "amb_vampire_all_stop",
-    "HasLeaveTriggerEvent": true
+    "LeaveTriggerEvent": "amb_vampire_all_stop"
   },
   "8100401": {
     "Id": 8100401,
     "SceneName": "Levels/VampireSurvivor/VS_Scene_04a",
-    "HasSceneName": true,
     "ConfigPrefabName": "VampireSurvivor_04a",
-    "HasConfigPrefabName": true,
     "Theme": 304,
     "BGM": "vampireRuins_combatNormal_setState",
-    "HasBGM": true,
-    "LeaveTriggerEvent": "amb_vampire_all_stop",
-    "HasLeaveTriggerEvent": true
+    "LeaveTriggerEvent": "amb_vampire_all_stop"
   }
 }

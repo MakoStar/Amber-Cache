@@ -2,14 +2,10 @@
   "6014101": {
     "Id": 6014101,
     "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_Boss_002",
-    "HasSceneName": true,
     "ConfigPrefabName": "PenguinSherlock_1",
-    "HasConfigPrefabName": true,
     "Theme": 105,
     "BGM": "daily_penguinHunt_combatBoss_setState",
-    "HasBGM": true,
     "LeaveTriggerEvent": "amb_city_all_stop",
-    "HasLeaveTriggerEvent": true,
     "MonsterId": 0,
     "OneStarCondition": 80,
     "TwoStarCondition": 60,
@@ -21,20 +17,15 @@
     "DropEntityGroupId": 0,
     "DropEntityRate": 0,
     "DropMaxNum": 0,
-    "IntroCutscene": "",
-    "HasIntroCutscene": false
+    "IntroCutscene": ""
   },
   "6014102": {
     "Id": 6014102,
     "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_Boss_002",
-    "HasSceneName": true,
     "ConfigPrefabName": "PenguinSherlock_1",
-    "HasConfigPrefabName": true,
     "Theme": 105,
     "BGM": "daily_penguinHunt_combatBoss_setState",
-    "HasBGM": true,
     "LeaveTriggerEvent": "amb_city_all_stop",
-    "HasLeaveTriggerEvent": true,
     "MonsterId": 0,
     "OneStarCondition": 80,
     "TwoStarCondition": 60,
@@ -46,20 +37,15 @@
     "DropEntityGroupId": 0,
     "DropEntityRate": 0,
     "DropMaxNum": 0,
-    "IntroCutscene": "",
-    "HasIntroCutscene": false
+    "IntroCutscene": ""
   },
   "6014103": {
     "Id": 6014103,
     "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_Boss_002",
-    "HasSceneName": true,
     "ConfigPrefabName": "PenguinSherlock_1",
-    "HasConfigPrefabName": true,
     "Theme": 105,
     "BGM": "daily_penguinHunt_combatBoss_setState",
-    "HasBGM": true,
     "LeaveTriggerEvent": "amb_city_all_stop",
-    "HasLeaveTriggerEvent": true,
     "MonsterId": 0,
     "OneStarCondition": 80,
     "TwoStarCondition": 60,
@@ -71,20 +57,15 @@
     "DropEntityGroupId": 0,
     "DropEntityRate": 0,
     "DropMaxNum": 0,
-    "IntroCutscene": "",
-    "HasIntroCutscene": false
+    "IntroCutscene": ""
   },
   "6014104": {
     "Id": 6014104,
     "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_Boss_002",
-    "HasSceneName": true,
     "ConfigPrefabName": "PenguinSherlock_1",
-    "HasConfigPrefabName": true,
     "Theme": 105,
     "BGM": "daily_penguinHunt_combatBoss_setState",
-    "HasBGM": true,
     "LeaveTriggerEvent": "amb_city_all_stop",
-    "HasLeaveTriggerEvent": true,
     "MonsterId": 0,
     "OneStarCondition": 80,
     "TwoStarCondition": 60,
@@ -96,20 +77,15 @@
     "DropEntityGroupId": 0,
     "DropEntityRate": 0,
     "DropMaxNum": 0,
-    "IntroCutscene": "",
-    "HasIntroCutscene": false
+    "IntroCutscene": ""
   },
   "6014105": {
     "Id": 6014105,
     "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_Boss_002",
-    "HasSceneName": true,
     "ConfigPrefabName": "PenguinSherlock_1",
-    "HasConfigPrefabName": true,
     "Theme": 105,
     "BGM": "daily_penguinHunt_combatBoss_setState",
-    "HasBGM": true,
     "LeaveTriggerEvent": "amb_city_all_stop",
-    "HasLeaveTriggerEvent": true,
     "MonsterId": 0,
     "OneStarCondition": 80,
     "TwoStarCondition": 60,
@@ -121,20 +97,15 @@
     "DropEntityGroupId": 0,
     "DropEntityRate": 0,
     "DropMaxNum": 0,
-    "IntroCutscene": "",
-    "HasIntroCutscene": false
+    "IntroCutscene": ""
   },
   "6014106": {
     "Id": 6014106,
     "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_Boss_002",
-    "HasSceneName": true,
     "ConfigPrefabName": "PenguinSherlock_1",
-    "HasConfigPrefabName": true,
     "Theme": 105,
     "BGM": "daily_penguinHunt_combatBoss_setState",
-    "HasBGM": true,
     "LeaveTriggerEvent": "amb_city_all_stop",
-    "HasLeaveTriggerEvent": true,
     "MonsterId": 0,
     "OneStarCondition": 80,
     "TwoStarCondition": 60,
@@ -146,20 +117,15 @@
     "DropEntityGroupId": 0,
     "DropEntityRate": 0,
     "DropMaxNum": 0,
-    "IntroCutscene": "",
-    "HasIntroCutscene": false
+    "IntroCutscene": ""
   },
   "6014107": {
     "Id": 6014107,
     "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_Boss_002",
-    "HasSceneName": true,
     "ConfigPrefabName": "PenguinSherlock_1",
-    "HasConfigPrefabName": true,
     "Theme": 105,
     "BGM": "daily_penguinHunt_combatBoss_setState",
-    "HasBGM": true,
     "LeaveTriggerEvent": "amb_city_all_stop",
-    "HasLeaveTriggerEvent": true,
     "MonsterId": 0,
     "OneStarCondition": 80,
     "TwoStarCondition": 60,
@@ -171,20 +137,15 @@
     "DropEntityGroupId": 0,
     "DropEntityRate": 0,
     "DropMaxNum": 0,
-    "IntroCutscene": "",
-    "HasIntroCutscene": false
+    "IntroCutscene": ""
   },
   "6014108": {
     "Id": 6014108,
     "SceneName": "Levels/Roguelike/Roguelike_2/Roguelike_2_Boss_002",
-    "HasSceneName": true,
     "ConfigPrefabName": "PenguinSherlock_1",
-    "HasConfigPrefabName": true,
     "Theme": 105,
     "BGM": "daily_penguinHunt_combatBoss_setState",
-    "HasBGM": true,
     "LeaveTriggerEvent": "amb_city_all_stop",
-    "HasLeaveTriggerEvent": true,
     "MonsterId": 0,
     "OneStarCondition": 80,
     "TwoStarCondition": 60,
@@ -196,7 +157,6 @@
     "DropEntityGroupId": 0,
     "DropEntityRate": 0,
     "DropMaxNum": 0,
-    "IntroCutscene": "",
-    "HasIntroCutscene": false
+    "IntroCutscene": ""
   }
 }

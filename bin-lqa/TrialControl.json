@@ -8,9 +8,7 @@
       10144
     ],
     "UIAssets": "Trial",
-    "HasUIAssets": true,
-    "CtrlName": "TrialCtrl",
-    "HasCtrlName": true
+    "CtrlName": "TrialCtrl"
   },
   "700102": {
     "Id": 700102,
@@ -21,9 +19,7 @@
       10134
     ],
     "UIAssets": "Trial",
-    "HasUIAssets": true,
-    "CtrlName": "TrialCtrl",
-    "HasCtrlName": true
+    "CtrlName": "TrialCtrl"
   },
   "700103": {
     "Id": 700103,
@@ -34,9 +30,7 @@
       10119
     ],
     "UIAssets": "Trial",
-    "HasUIAssets": true,
-    "CtrlName": "TrialCtrl",
-    "HasCtrlName": true
+    "CtrlName": "TrialCtrl"
   },
   "700104": {
     "Id": 700104,
@@ -47,9 +41,7 @@
       10155
     ],
     "UIAssets": "Trial",
-    "HasUIAssets": true,
-    "CtrlName": "TrialCtrl",
-    "HasCtrlName": true
+    "CtrlName": "TrialCtrl"
   },
   "700105": {
     "Id": 700105,
@@ -60,9 +52,7 @@
       10125
     ],
     "UIAssets": "Trial",
-    "HasUIAssets": true,
-    "CtrlName": "TrialCtrl",
-    "HasCtrlName": true
+    "CtrlName": "TrialCtrl"
   },
   "700106": {
     "Id": 700106,
@@ -73,9 +63,7 @@
       10158
     ],
     "UIAssets": "Trial",
-    "HasUIAssets": true,
-    "CtrlName": "TrialCtrl",
-    "HasCtrlName": true
+    "CtrlName": "TrialCtrl"
   },
   "700107": {
     "Id": 700107,
@@ -86,9 +74,7 @@
       10149
     ],
     "UIAssets": "Trial",
-    "HasUIAssets": true,
-    "CtrlName": "TrialCtrl",
-    "HasCtrlName": true
+    "CtrlName": "TrialCtrl"
   },
   "700108": {
     "Id": 700108,
@@ -99,9 +85,7 @@
       10133
     ],
     "UIAssets": "Trial",
-    "HasUIAssets": true,
-    "CtrlName": "TrialCtrl",
-    "HasCtrlName": true
+    "CtrlName": "TrialCtrl"
   },
   "700109": {
     "Id": 700109,
@@ -112,9 +96,7 @@
       10110
     ],
     "UIAssets": "Trial",
-    "HasUIAssets": true,
-    "CtrlName": "TrialCtrl",
-    "HasCtrlName": true
+    "CtrlName": "TrialCtrl"
   },
   "700110": {
     "Id": 700110,
@@ -125,8 +107,50 @@
       10135
     ],
     "UIAssets": "Trial",
-    "HasUIAssets": true,
-    "CtrlName": "TrialCtrl",
-    "HasCtrlName": true
+    "CtrlName": "TrialCtrl"
+  },
+  "700111": {
+    "Id": 700111,
+    "GroupIds": [
+      15901
+    ],
+    "Gachas": [
+      10159
+    ],
+    "UIAssets": "Trial",
+    "CtrlName": "TrialCtrl"
+  },
+  "700112": {
+    "Id": 700112,
+    "GroupIds": [
+      14101
+    ],
+    "Gachas": [
+      10141
+    ],
+    "UIAssets": "Trial",
+    "CtrlName": "TrialCtrl"
+  },
+  "700113": {
+    "Id": 700113,
+    "GroupIds": [
+      14301
+    ],
+    "Gachas": [
+      10143
+    ],
+    "UIAssets": "Trial",
+    "CtrlName": "TrialCtrl"
+  },
+  "700114": {
+    "Id": 700114,
+    "GroupIds": [
+      13201
+    ],
+    "Gachas": [
+      10132
+    ],
+    "UIAssets": "Trial",
+    "CtrlName": "TrialCtrl"
   }
 }

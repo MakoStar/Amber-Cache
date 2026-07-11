@@ -2,118 +2,79 @@
   "1": {
     "Id": 1,
     "Icon": "Icon/Handbook/Handbook_city_alley_daylight",
-    "HasIcon": true,
     "Position": "拍摄于埃摩市集，晴",
-    "HasPosition": true,
-    "Desc": "伫立在那，令人心安",
-    "HasDesc": true
+    "Desc": "伫立在那，令人心安"
   },
   "2": {
     "Id": 2,
     "Icon": "Icon/Handbook/Handbook_city_alley_dusk",
-    "HasIcon": true,
     "Position": "拍摄于埃摩市集，黄昏",
-    "HasPosition": true,
-    "Desc": "伫立在那，令人心安",
-    "HasDesc": true
+    "Desc": "伫立在那，令人心安"
   },
   "3": {
     "Id": 3,
     "Icon": "Icon/Handbook/Handbook_city_street_daylight",
-    "HasIcon": true,
     "Position": "拍摄于埃摩街头，晴",
-    "HasPosition": true,
-    "Desc": "“它只是他们所享有之物罢了”",
-    "HasDesc": true
+    "Desc": "“它只是他们所享有之物罢了”"
   },
   "4": {
     "Id": 4,
     "Icon": "Icon/Handbook/Handbook_city_street_night",
-    "HasIcon": true,
     "Position": "拍摄于埃摩街头，夜",
-    "HasPosition": true,
-    "Desc": "“它只是他们所享有之物罢了”",
-    "HasDesc": true
+    "Desc": "“它只是他们所享有之物罢了”"
   },
   "5": {
     "Id": 5,
     "Icon": "Icon/Handbook/Handbook_city_street_water",
-    "HasIcon": true,
     "Position": "拍摄于菲莱的街道，晴",
-    "HasPosition": true,
-    "Desc": "“谎言说了一千遍也不会成真”",
-    "HasDesc": true
+    "Desc": "“谎言说了一千遍也不会成真”"
   },
   "6": {
     "Id": 6,
     "Icon": "Icon/Handbook/Handbook_city_street_water_rain",
-    "HasIcon": true,
     "Position": "拍摄于菲莱的街道，雨",
-    "HasPosition": true,
-    "Desc": "“谎言说了一千遍也不会成真”",
-    "HasDesc": true
+    "Desc": "“谎言说了一千遍也不会成真”"
   },
   "7": {
     "Id": 7,
     "Icon": "Icon/Handbook/Handbook_desert_daylight",
-    "HasIcon": true,
     "Position": "拍摄于米拉什城外，风沙",
-    "HasPosition": true,
-    "Desc": "命运的相会，是此刻吗？",
-    "HasDesc": true
+    "Desc": "命运的相会，是此刻吗？"
   },
   "8": {
     "Id": 8,
     "Icon": "Icon/Handbook/Handbook_field_daylight",
-    "HasIcon": true,
     "Position": "拍摄于菲莱的田野，晴",
-    "HasPosition": true,
-    "Desc": "墙外的想走进去，墙里的想逃出来",
-    "HasDesc": true
+    "Desc": "墙外的想走进去，墙里的想逃出来"
   },
   "9": {
     "Id": 9,
     "Icon": "Icon/Handbook/Handbook_forest_daylight_2",
-    "HasIcon": true,
     "Position": "拍摄于菲莱的森林，晴",
-    "HasPosition": true,
-    "Desc": "一切就像水车一样循环着",
-    "HasDesc": true
+    "Desc": "一切就像水车一样循环着"
   },
   "10": {
     "Id": 10,
     "Icon": "Icon/Handbook/Handbook_uniseed_greenhouse_outside",
-    "HasIcon": true,
     "Position": "拍摄于菲莱的温室，晴",
-    "HasPosition": true,
-    "Desc": "就像锁住阳光一样，锁住财富",
-    "HasDesc": true
+    "Desc": "就像锁住阳光一样，锁住财富"
   },
   "11": {
     "Id": 11,
     "Icon": "Icon/Handbook/Handbook_ttc_harbour_daylight",
-    "HasIcon": true,
     "Position": "拍摄于埃摩的港口，晴",
-    "HasPosition": true,
-    "Desc": "向未知与贪婪扬帆起航",
-    "HasDesc": true
+    "Desc": "向未知与贪婪扬帆起航"
   },
   "12": {
     "Id": 12,
     "Icon": "Icon/Handbook/Handbook_ttc_parkbase_night",
-    "HasIcon": true,
     "Position": "拍摄于埃摩灰城区，夜",
-    "HasPosition": true,
-    "Desc": "最温暖的地方，是家里的被窝",
-    "HasDesc": true
+    "Desc": "最温暖的地方，是家里的被窝"
   },
   "13": {
     "Id": 13,
     "Icon": "Icon/Handbook/Handbook_story_main_015",
-    "HasIcon": true,
     "Position": "拍摄于埃摩的远郊，清晨",
-    "HasPosition": true,
-    "Desc": "出发吧，挑战荒野的勇者们",
-    "HasDesc": true
+    "Desc": "出发吧，挑战荒野的勇者们"
   }
 }

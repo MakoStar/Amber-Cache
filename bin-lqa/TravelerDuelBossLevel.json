@@ -3,9 +3,7 @@
     "Id": 100100,
     "BossId": 1001,
     "Name": "猫临城下",
-    "HasName": true,
     "Desc": "在光怪陆离的虚幻世界里，她才是那个高高在上，天下无敌的混世魔王。",
-    "HasDesc": true,
     "SuggestedPower": 90,
     "RecommendBuildRank": 35,
     "EET": [
@@ -17,19 +15,15 @@
     "PreviewMonsterGroupId": 70000,
     "FloorId": 6004111,
     "Icon": "Icon/MapChallenge/duel_challenge_big_001",
-    "HasIcon": true,
     "SkillShow": [],
     "Cover": "UI/TravelerDuelLevelSelect/Cover/Cover_Challenge_1001",
-    "HasCover": true,
     "SkinId": 11401
   },
   "200100": {
     "Id": 200100,
     "BossId": 2001,
     "Name": "这个女仆不太冷",
-    "HasName": true,
     "Desc": "彷徨之人从不畏惧毁灭，利刃贴近喉管的那一刻，她只是想感受你的体温。",
-    "HasDesc": true,
     "SuggestedPower": 90,
     "RecommendBuildRank": 35,
     "EET": [
@@ -39,10 +33,8 @@
     "PreviewMonsterGroupId": 70001,
     "FloorId": 6005111,
     "Icon": "Icon/MapChallenge/duel_challenge_big_002",
-    "HasIcon": true,
     "SkillShow": [],
     "Cover": "UI/TravelerDuelLevelSelect/Cover/Cover_Challenge_2001",
-    "HasCover": true,
     "SkinId": 11901
   }
 }

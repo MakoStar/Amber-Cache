@@ -2,233 +2,223 @@
   "9102": {
     "Id": 9102,
     "Name": "薇洛",
-    "HasName": true,
     "Alias": "看板",
-    "HasAlias": true,
     "DefaultSkinId": 910201
   },
   "910202": {
     "Id": 910202,
     "Name": "薇洛",
-    "HasName": true,
     "Alias": "看板",
-    "HasAlias": true,
     "DefaultSkinId": 910202
   },
   "9133": {
     "Id": 9133,
     "Name": "波西亚",
-    "HasName": true,
     "Alias": "星塔商店",
-    "HasAlias": true,
     "DefaultSkinId": 913301
   },
   "913302": {
     "Id": 913302,
     "Name": "波西亚",
-    "HasName": true,
     "Alias": "星塔商店",
-    "HasAlias": true,
     "DefaultSkinId": 913302
   },
   "913303": {
     "Id": 913303,
     "Name": "波西亚",
-    "HasName": true,
     "Alias": "星塔商店",
-    "HasAlias": true,
     "DefaultSkinId": 913303
   },
   "9131": {
     "Id": 9131,
     "Name": "布洛克",
-    "HasName": true,
     "Alias": "外部商店",
-    "HasAlias": true,
     "DefaultSkinId": 913101
   },
   "9159": {
     "Id": 9159,
     "Name": "彼岸",
-    "HasName": true,
     "Alias": "联合讨伐",
-    "HasAlias": true,
     "DefaultSkinId": 915901
   },
   "93004": {
     "Id": 93004,
     "Name": "强化机",
-    "HasName": true,
     "Alias": "强化机",
-    "HasAlias": true,
     "DefaultSkinId": 93004
   },
   "917201": {
     "Id": 917201,
     "Name": "贝缇丽",
-    "HasName": true,
     "Alias": "护士",
-    "HasAlias": true,
     "DefaultSkinId": 917201
   },
   "917202": {
     "Id": 917202,
     "Name": "贝缇丽",
-    "HasName": true,
     "Alias": "主播",
-    "HasAlias": true,
     "DefaultSkinId": 917202
   },
   "917203": {
     "Id": 917203,
     "Name": "贝缇丽",
-    "HasName": true,
     "Alias": "治疗",
-    "HasAlias": true,
     "DefaultSkinId": 917203
   },
   "917301": {
     "Id": 917301,
     "Name": "珀尔娜",
-    "HasName": true,
     "Alias": "恶魔",
-    "HasAlias": true,
     "DefaultSkinId": 917301
   },
   "917302": {
     "Id": 917302,
     "Name": "珀尔娜",
-    "HasName": true,
     "Alias": "兔女郎",
-    "HasAlias": true,
     "DefaultSkinId": 917302
   },
   "917401": {
     "Id": 917401,
     "Name": "维嘉尔",
-    "HasName": true,
     "Alias": "恶魔",
-    "HasAlias": true,
     "DefaultSkinId": 917401
   },
   "917402": {
     "Id": 917402,
     "Name": "维嘉尔",
-    "HasName": true,
     "Alias": "兔女郎",
-    "HasAlias": true,
     "DefaultSkinId": 917402
   },
   "173174": {
     "Id": 173174,
     "Name": "珀尔娜&维嘉尔",
-    "HasName": true,
     "Alias": "兔女郎双人",
-    "HasAlias": true,
     "DefaultSkinId": 173174
   },
   "9155": {
     "Id": 9155,
     "Name": "希娅",
-    "HasName": true,
     "Alias": "活动商店",
-    "HasAlias": true,
     "DefaultSkinId": 915501
   },
   "8134": {
     "Id": 8134,
     "Name": "冬香",
-    "HasName": true,
     "Alias": "活动商店",
-    "HasAlias": true,
     "DefaultSkinId": 813401
   },
   "8133": {
     "Id": 8133,
     "Name": "夏花",
-    "HasName": true,
     "Alias": "活动商店",
-    "HasAlias": true,
     "DefaultSkinId": 813301
   },
   "8110": {
     "Id": 8110,
     "Name": "翡冷翠",
-    "HasName": true,
     "Alias": "活动商店",
-    "HasAlias": true,
     "DefaultSkinId": 811001
   },
   "7158": {
     "Id": 7158,
     "Name": "菈露（圣夜）",
-    "HasName": true,
     "Alias": "特殊签到",
-    "HasAlias": true,
     "DefaultSkinId": 715801
   },
   "8158": {
     "Id": 8158,
     "Name": "菈露（圣夜）",
-    "HasName": true,
     "Alias": "活动商店",
-    "HasAlias": true,
     "DefaultSkinId": 815801
   },
   "7111": {
     "Id": 7111,
     "Name": "鸢尾",
-    "HasName": true,
     "Alias": "特殊签到",
-    "HasAlias": true,
     "DefaultSkinId": 711101
   },
   "7103": {
     "Id": 7103,
     "Name": "琥珀",
-    "HasName": true,
     "Alias": "特殊签到",
-    "HasAlias": true,
     "DefaultSkinId": 710301
   },
   "7112": {
     "Id": 7112,
     "Name": "尘沙",
-    "HasName": true,
     "Alias": "特殊签到",
-    "HasAlias": true,
     "DefaultSkinId": 711201
   },
   "7135": {
     "Id": 7135,
     "Name": "雾语",
-    "HasName": true,
     "Alias": "特殊签到",
-    "HasAlias": true,
     "DefaultSkinId": 713501
   },
   "7125": {
     "Id": 7125,
     "Name": "苍兰",
-    "HasName": true,
     "Alias": "特殊签到",
-    "HasAlias": true,
     "DefaultSkinId": 712501
   },
   "7133": {
     "Id": 7133,
     "Name": "夏花",
-    "HasName": true,
     "Alias": "特殊签到",
-    "HasAlias": true,
     "DefaultSkinId": 713301
   },
   "7134": {
     "Id": 7134,
     "Name": "冬香",
-    "HasName": true,
     "Alias": "特殊签到",
-    "HasAlias": true,
     "DefaultSkinId": 713401
+  },
+  "7110": {
+    "Id": 7110,
+    "Name": "翡冷翠",
+    "Alias": "特殊签到",
+    "DefaultSkinId": 711001
+  },
+  "713503": {
+    "Id": 713503,
+    "Name": "情人节雾语",
+    "Alias": "特殊签到",
+    "DefaultSkinId": 713503
+  },
+  "7141": {
+    "Id": 7141,
+    "Name": "赤霞",
+    "Alias": "特殊签到",
+    "DefaultSkinId": 714101
+  },
+  "7113": {
+    "Id": 7113,
+    "Name": "师渺",
+    "Alias": "特殊签到",
+    "DefaultSkinId": 711301
+  },
+  "7117": {
+    "Id": 7117,
+    "Name": "璟麟",
+    "Alias": "特殊签到",
+    "DefaultSkinId": 711701
+  },
+  "7159": {
+    "Id": 7159,
+    "Name": "科洛妮丝（新春）",
+    "Alias": "特殊签到",
+    "DefaultSkinId": 715901
+  },
+  "8159": {
+    "Id": 8159,
+    "Name": "科洛妮丝（新春）",
+    "Alias": "活动商店",
+    "DefaultSkinId": 815901
+  },
+  "8143": {
+    "Id": 8143,
+    "Name": "风影",
+    "Alias": "活动商店",
+    "DefaultSkinId": 814301
   }
 }

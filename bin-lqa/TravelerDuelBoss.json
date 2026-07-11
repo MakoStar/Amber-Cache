@@ -2,27 +2,19 @@
   "1001": {
     "Id": 1001,
     "Name": "猫临城下",
-    "HasName": true,
     "TravelerDuelBossType": 2,
     "Episode": "Icon/MapEpisode/ep_ duel_challenge_001",
-    "HasEpisode": true,
     "Image": "Icon/MapEpisode/ep_duel_challenge_boss_002",
-    "HasImage": true,
     "Cover": "UI/TravelerDuelLevelSelect/Cover/Cover_1001",
-    "HasCover": true,
     "ShowReward": []
   },
   "2001": {
     "Id": 2001,
     "Name": "这个女仆不太冷",
-    "HasName": true,
     "TravelerDuelBossType": 2,
     "Episode": "Icon/MapEpisode/ep_ duel_challenge_002",
-    "HasEpisode": true,
     "Image": "Icon/MapEpisode/ep_duel_challenge_boss_001",
-    "HasImage": true,
     "Cover": "UI/TravelerDuelLevelSelect/Cover/Cover_2001",
-    "HasCover": true,
     "ShowReward": []
   }
 }

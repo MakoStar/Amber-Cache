@@ -6,17 +6,13 @@
     ],
     "Type": 0,
     "Name": "征途票根商店",
-    "HasName": true,
     "Sequence": 1,
     "RefreshTimeType": 3,
     "RefreshInterval": 1,
     "UnlockCondType": 0,
     "UnlockCondParams": "",
-    "HasUnlockCondParams": false,
     "OpenTime": "2025-10-15T04:00:00+08:00",
-    "HasOpenTime": true,
-    "CloseTime": "",
-    "HasCloseTime": false
+    "CloseTime": ""
   },
   "2": {
     "Id": 2,
@@ -25,17 +21,13 @@
     ],
     "Type": 0,
     "Name": "灾变防线商店",
-    "HasName": true,
     "Sequence": 3,
     "RefreshTimeType": 3,
     "RefreshInterval": 1,
     "UnlockCondType": 0,
     "UnlockCondParams": "",
-    "HasUnlockCondParams": false,
     "OpenTime": "2025-10-15T04:00:00+08:00",
-    "HasOpenTime": true,
-    "CloseTime": "",
-    "HasCloseTime": false
+    "CloseTime": ""
   },
   "3": {
     "Id": 3,
@@ -44,16 +36,12 @@
     ],
     "Type": 0,
     "Name": "终焉绝响商店",
-    "HasName": true,
     "Sequence": 4,
     "RefreshTimeType": 3,
     "RefreshInterval": 1,
     "UnlockCondType": 0,
     "UnlockCondParams": "",
-    "HasUnlockCondParams": false,
     "OpenTime": "2025-11-10T12:00:00+08:00",
-    "HasOpenTime": true,
-    "CloseTime": "",
-    "HasCloseTime": false
+    "CloseTime": ""
   }
 }

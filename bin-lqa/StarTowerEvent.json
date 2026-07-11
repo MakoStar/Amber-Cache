@@ -3,7 +3,6 @@
     "Id": 101,
     "OptionsRulesId": 101,
     "Desc": "交易-潜能",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -18,7 +17,6 @@
     "Id": 102,
     "OptionsRulesId": 102,
     "Desc": "交易-潜能",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -33,7 +31,6 @@
     "Id": 103,
     "OptionsRulesId": 103,
     "Desc": "获取辉光币",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -48,7 +45,6 @@
     "Id": 104,
     "OptionsRulesId": 104,
     "Desc": "获取潜能",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -63,7 +59,6 @@
     "Id": 105,
     "OptionsRulesId": 105,
     "Desc": "赌辉光币",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -78,7 +73,6 @@
     "Id": 106,
     "OptionsRulesId": 106,
     "Desc": "赌潜能",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -93,7 +87,6 @@
     "Id": 107,
     "OptionsRulesId": 107,
     "Desc": "获取音符",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -108,7 +101,6 @@
     "Id": 108,
     "OptionsRulesId": 108,
     "Desc": "交易音符",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -123,7 +115,6 @@
     "Id": 109,
     "OptionsRulesId": 109,
     "Desc": "购买随机",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -138,7 +129,6 @@
     "Id": 110,
     "OptionsRulesId": 110,
     "Desc": "购买随机",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -153,7 +143,6 @@
     "Id": 111,
     "OptionsRulesId": 111,
     "Desc": "恢复or潜能",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -168,7 +157,6 @@
     "Id": 112,
     "OptionsRulesId": 112,
     "Desc": "恢复or潜能",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -183,7 +171,6 @@
     "Id": 113,
     "OptionsRulesId": 113,
     "Desc": "恢复or潜能",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -198,7 +185,6 @@
     "Id": 114,
     "OptionsRulesId": 114,
     "Desc": "获取音符",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -213,7 +199,6 @@
     "Id": 115,
     "OptionsRulesId": 115,
     "Desc": "获取潜能",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -228,7 +213,6 @@
     "Id": 116,
     "OptionsRulesId": 116,
     "Desc": "获取潜能",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -243,7 +227,6 @@
     "Id": 117,
     "OptionsRulesId": 117,
     "Desc": "随机货币",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -258,7 +241,6 @@
     "Id": 118,
     "OptionsRulesId": 118,
     "Desc": "随机货币&潜能",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -273,7 +255,6 @@
     "Id": 119,
     "OptionsRulesId": 119,
     "Desc": "随机货币&潜能",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -288,7 +269,6 @@
     "Id": 120,
     "OptionsRulesId": 120,
     "Desc": "随机音符",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -303,7 +283,6 @@
     "Id": 121,
     "OptionsRulesId": 121,
     "Desc": "随机潜能",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -318,7 +297,6 @@
     "Id": 122,
     "OptionsRulesId": 122,
     "Desc": "随机潜能",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -333,7 +311,6 @@
     "Id": 123,
     "OptionsRulesId": 123,
     "Desc": "随机潜能",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -348,7 +325,6 @@
     "Id": 124,
     "OptionsRulesId": 124,
     "Desc": "随机潜能",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -363,7 +339,6 @@
     "Id": 125,
     "OptionsRulesId": 125,
     "Desc": "随机潜能",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -378,7 +353,6 @@
     "Id": 126,
     "OptionsRulesId": 126,
     "Desc": "随机潜能",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -393,7 +367,6 @@
     "Id": 127,
     "OptionsRulesId": 127,
     "Desc": "随机潜能&音符",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [
@@ -408,7 +381,6 @@
     "Id": 128,
     "OptionsRulesId": 128,
     "Desc": "随机潜能&货币",
-    "HasDesc": true,
     "EventType": 4,
     "GuaranteedMapId": 201114,
     "RelatedNPCs": [

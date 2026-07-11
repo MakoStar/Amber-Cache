@@ -2,9 +2,7 @@
   "12101": {
     "Id": 12101,
     "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
-    "HasSceneName": true,
     "ConfigPrefabName": "TutorialLevel_01",
-    "HasConfigPrefabName": true,
     "ScriptType": 1,
     "QuestFlow": [
       1210101,
@@ -14,18 +12,14 @@
       1210105
     ],
     "BGM": "travelerTrail_combatNormal_setState",
-    "HasBGM": true,
     "LeaveTriggerEvent": "amb_city_all_stop",
-    "HasLeaveTriggerEvent": true,
     "Theme": 901,
     "MonsterLv": 1
   },
   "12102": {
     "Id": 12102,
     "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
-    "HasSceneName": true,
     "ConfigPrefabName": "TutorialLevel_02",
-    "HasConfigPrefabName": true,
     "ScriptType": 2,
     "QuestFlow": [
       1210201,
@@ -33,18 +27,14 @@
       1210203
     ],
     "BGM": "travelerTrail_combatNormal_setState",
-    "HasBGM": true,
     "LeaveTriggerEvent": "amb_city_all_stop",
-    "HasLeaveTriggerEvent": true,
     "Theme": 901,
     "MonsterLv": 1
   },
   "12103": {
     "Id": 12103,
     "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
-    "HasSceneName": true,
     "ConfigPrefabName": "TutorialLevel_03",
-    "HasConfigPrefabName": true,
     "ScriptType": 3,
     "QuestFlow": [
       1210301,
@@ -55,18 +45,14 @@
       1210306
     ],
     "BGM": "travelerTrail_combatNormal_setState",
-    "HasBGM": true,
     "LeaveTriggerEvent": "amb_city_all_stop",
-    "HasLeaveTriggerEvent": true,
     "Theme": 901,
     "MonsterLv": 1
   },
   "12104": {
     "Id": 12104,
     "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
-    "HasSceneName": true,
     "ConfigPrefabName": "TutorialLevel_04",
-    "HasConfigPrefabName": true,
     "ScriptType": 4,
     "QuestFlow": [
       1210401,
@@ -74,18 +60,14 @@
       1210403
     ],
     "BGM": "travelerTrail_combatNormal_setState",
-    "HasBGM": true,
     "LeaveTriggerEvent": "amb_city_all_stop",
-    "HasLeaveTriggerEvent": true,
     "Theme": 901,
     "MonsterLv": 1
   },
   "12105": {
     "Id": 12105,
     "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
-    "HasSceneName": true,
     "ConfigPrefabName": "TutorialLevel_05",
-    "HasConfigPrefabName": true,
     "ScriptType": 5,
     "QuestFlow": [
       1210501,
@@ -94,18 +76,14 @@
       1210504
     ],
     "BGM": "travelerTrail_combatNormal_setState",
-    "HasBGM": true,
     "LeaveTriggerEvent": "amb_city_all_stop",
-    "HasLeaveTriggerEvent": true,
     "Theme": 901,
     "MonsterLv": 1
   },
   "12106": {
     "Id": 12106,
     "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
-    "HasSceneName": true,
     "ConfigPrefabName": "TutorialLevel_06",
-    "HasConfigPrefabName": true,
     "ScriptType": 6,
     "QuestFlow": [
       1210601,
@@ -114,18 +92,14 @@
       1210604
     ],
     "BGM": "travelerTrail_combatNormal_setState",
-    "HasBGM": true,
     "LeaveTriggerEvent": "amb_city_all_stop",
-    "HasLeaveTriggerEvent": true,
     "Theme": 901,
     "MonsterLv": 1
   },
   "12107": {
     "Id": 12107,
     "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
-    "HasSceneName": true,
     "ConfigPrefabName": "TutorialLevel_07",
-    "HasConfigPrefabName": true,
     "ScriptType": 7,
     "QuestFlow": [
       1210701,
@@ -133,18 +107,14 @@
       1210703
     ],
     "BGM": "travelerTrail_combatNormal_setState",
-    "HasBGM": true,
     "LeaveTriggerEvent": "amb_city_all_stop",
-    "HasLeaveTriggerEvent": true,
     "Theme": 901,
     "MonsterLv": 1
   },
   "12108": {
     "Id": 12108,
     "SceneName": "Levels/TrainingLevels/TrainingLevels_01/TrainingLevels_01",
-    "HasSceneName": true,
     "ConfigPrefabName": "TutorialLevel_08",
-    "HasConfigPrefabName": true,
     "ScriptType": 8,
     "QuestFlow": [
       1210801,
@@ -152,9 +122,7 @@
       1210803
     ],
     "BGM": "travelerTrail_combatNormal_setState",
-    "HasBGM": true,
     "LeaveTriggerEvent": "amb_city_all_stop",
-    "HasLeaveTriggerEvent": true,
     "Theme": 901,
     "MonsterLv": 1
   }

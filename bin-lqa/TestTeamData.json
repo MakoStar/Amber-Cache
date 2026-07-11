@@ -6,8 +6,7 @@
     "DiscLevel": 0,
     "DiscPromoteLevel": 0,
     "DiscLimitBreakLevel": 0,
-    "SubNoteList": "",
-    "HasSubNoteList": false
+    "SubNoteList": ""
   },
   "1": {
     "Id": 1,
@@ -16,8 +15,7 @@
     "DiscLevel": 0,
     "DiscPromoteLevel": 0,
     "DiscLimitBreakLevel": 0,
-    "SubNoteList": "",
-    "HasSubNoteList": false
+    "SubNoteList": ""
   },
   "4": {
     "Id": 4,
@@ -26,8 +24,7 @@
     "DiscLevel": 0,
     "DiscPromoteLevel": 0,
     "DiscLimitBreakLevel": 0,
-    "SubNoteList": "",
-    "HasSubNoteList": false
+    "SubNoteList": ""
   },
   "5": {
     "Id": 5,
@@ -36,8 +33,7 @@
     "DiscLevel": 0,
     "DiscPromoteLevel": 0,
     "DiscLimitBreakLevel": 0,
-    "SubNoteList": "",
-    "HasSubNoteList": false
+    "SubNoteList": ""
   },
   "6": {
     "Id": 6,
@@ -46,8 +42,7 @@
     "DiscLevel": 0,
     "DiscPromoteLevel": 0,
     "DiscLimitBreakLevel": 0,
-    "SubNoteList": "",
-    "HasSubNoteList": false
+    "SubNoteList": ""
   },
   "3": {
     "Id": 3,
@@ -56,7 +51,6 @@
     "DiscLevel": 0,
     "DiscPromoteLevel": 0,
     "DiscLimitBreakLevel": 0,
-    "SubNoteList": "",
-    "HasSubNoteList": false
+    "SubNoteList": ""
   }
 }

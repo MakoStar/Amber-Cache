@@ -7,13 +7,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.103101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "103102": {
     "Id": 103102,
@@ -23,13 +19,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.103102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "107101": {
     "Id": 107101,
@@ -39,13 +31,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.107101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "107102": {
     "Id": 107102,
@@ -55,13 +43,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.107102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "108101": {
     "Id": 108101,
@@ -71,13 +55,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.108101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "108102": {
     "Id": 108102,
@@ -87,13 +67,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.108102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "111101": {
     "Id": 111101,
@@ -103,13 +79,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.111101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "111102": {
     "Id": 111102,
@@ -119,13 +91,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.111102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "112101": {
     "Id": 112101,
@@ -135,13 +103,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.112101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "112102": {
     "Id": 112102,
@@ -151,13 +115,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.112102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "113101": {
     "Id": 113101,
@@ -167,13 +127,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.113101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "113102": {
     "Id": 113102,
@@ -183,13 +139,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.113102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "114101": {
     "Id": 114101,
@@ -199,13 +151,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.114101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "114102": {
     "Id": 114102,
@@ -215,13 +163,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.114102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "115101": {
     "Id": 115101,
@@ -231,13 +175,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.115101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "115102": {
     "Id": 115102,
@@ -247,13 +187,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.115102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "116101": {
     "Id": 116101,
@@ -263,13 +199,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.116101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "116102": {
     "Id": 116102,
@@ -279,13 +211,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.116102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "117101": {
     "Id": 117101,
@@ -295,13 +223,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.117101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "117102": {
     "Id": 117102,
@@ -311,13 +235,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.117102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "118101": {
     "Id": 118101,
@@ -327,13 +247,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.118101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "118102": {
     "Id": 118102,
@@ -343,13 +259,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.118102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "119101": {
     "Id": 119101,
@@ -359,13 +271,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.119101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "119102": {
     "Id": 119102,
@@ -375,13 +283,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.119102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "120101": {
     "Id": 120101,
@@ -391,13 +295,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.120101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "120102": {
     "Id": 120102,
@@ -407,13 +307,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.120102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "123101": {
     "Id": 123101,
@@ -423,13 +319,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.123101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "123102": {
     "Id": 123102,
@@ -439,13 +331,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.123102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "125101": {
     "Id": 125101,
@@ -455,13 +343,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.125101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "125102": {
     "Id": 125102,
@@ -471,13 +355,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.125102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "126101": {
     "Id": 126101,
@@ -487,13 +367,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.126101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "126102": {
     "Id": 126102,
@@ -503,13 +379,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.126102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "127101": {
     "Id": 127101,
@@ -519,13 +391,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.127101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "127102": {
     "Id": 127102,
@@ -535,13 +403,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.127102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "132101": {
     "Id": 132101,
@@ -551,13 +415,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.132101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "132102": {
     "Id": 132102,
@@ -567,13 +427,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.132102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "135101": {
     "Id": 135101,
@@ -583,13 +439,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.135101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "135102": {
     "Id": 135102,
@@ -599,13 +451,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.135102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "141101": {
     "Id": 141101,
@@ -615,13 +463,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.141101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "141102": {
     "Id": 141102,
@@ -631,13 +475,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.141102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "142101": {
     "Id": 142101,
@@ -647,13 +487,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.142101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "142102": {
     "Id": 142102,
@@ -663,13 +499,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.142102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "144101": {
     "Id": 144101,
@@ -679,13 +511,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.144101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "144102": {
     "Id": 144102,
@@ -695,13 +523,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.144102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "147101": {
     "Id": 147101,
@@ -711,13 +535,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.147101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "147102": {
     "Id": 147102,
@@ -727,13 +547,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.147102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "149101": {
     "Id": 149101,
@@ -743,13 +559,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.149101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "149102": {
     "Id": 149102,
@@ -759,13 +571,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.149102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "150101": {
     "Id": 150101,
@@ -775,13 +583,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.150101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "150102": {
     "Id": 150102,
@@ -791,13 +595,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.150102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "155101": {
     "Id": 155101,
@@ -807,13 +607,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.155101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "155102": {
     "Id": 155102,
@@ -823,13 +619,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.155102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "156101": {
     "Id": 156101,
@@ -839,13 +631,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.156101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "156102": {
     "Id": 156102,
@@ -855,13 +643,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.156102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "134101": {
     "Id": 134101,
@@ -871,13 +655,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.134101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "134102": {
     "Id": 134102,
@@ -887,13 +667,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.134102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "133101": {
     "Id": 133101,
@@ -903,13 +679,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.133101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "133102": {
     "Id": 133102,
@@ -919,13 +691,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.133102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "110101": {
     "Id": 110101,
@@ -935,13 +703,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.110101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "110102": {
     "Id": 110102,
@@ -951,13 +715,9 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.110102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
   },
   "158101": {
     "Id": 158101,
@@ -967,13 +727,9 @@
     ],
     "Affinity": 0,
     "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
-    "HasDesc1": true,
     "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.158101.3",
-    "HasDesc3": true,
-    "Response": "greet",
-    "HasResponse": true
+    "Response": "greet"
   },
   "158102": {
     "Id": 158102,
@@ -983,12 +739,56 @@
     ],
     "Affinity": 0,
     "Desc1": "转眼，时候不早了。",
-    "HasDesc1": true,
     "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
-    "HasDesc2": true,
     "Desc3": "DatingStartEndEvent.158102.3",
-    "HasDesc3": true,
-    "Response": "shy",
-    "HasResponse": true
+    "Response": "shy"
+  },
+  "159101": {
+    "Id": 159101,
+    "DatingEventType": 1,
+    "DatingEventParams": [
+      159
+    ],
+    "Affinity": 0,
+    "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
+    "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
+    "Desc3": "DatingStartEndEvent.159101.3",
+    "Response": "greet"
+  },
+  "159102": {
+    "Id": 159102,
+    "DatingEventType": 2,
+    "DatingEventParams": [
+      159
+    ],
+    "Affinity": 0,
+    "Desc1": "转眼，时候不早了。",
+    "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
+    "Desc3": "DatingStartEndEvent.159102.3",
+    "Response": "shy"
+  },
+  "143101": {
+    "Id": 143101,
+    "DatingEventType": 1,
+    "DatingEventParams": [
+      143
+    ],
+    "Affinity": 0,
+    "Desc1": "一时兴起，你用手机向==DATING_CHARACTER==发出了同游的邀请。",
+    "Desc2": "接下来的这段时间，就要和她一起行动了，会发生什么事呢？",
+    "Desc3": "DatingStartEndEvent.143101.3",
+    "Response": "greet"
+  },
+  "143102": {
+    "Id": 143102,
+    "DatingEventType": 2,
+    "DatingEventParams": [
+      143
+    ],
+    "Affinity": 0,
+    "Desc1": "转眼，时候不早了。",
+    "Desc2": "确实和==DATING_CHARACTER==度过了一段难忘的时光，接下来……",
+    "Desc3": "DatingStartEndEvent.143102.3",
+    "Response": "shy"
   }
 }

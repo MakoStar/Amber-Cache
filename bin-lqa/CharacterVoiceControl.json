@@ -1,7 +1,6 @@
 {
   "perk": {
     "Id": "perk",
-    "HasId": true,
     "Probability": 50,
     "ResType": 4,
     "CombatOnly": false,
@@ -13,12 +12,10 @@
     "VoPlayer": 3,
     "Priority": 3,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "subPerk": {
     "Id": "subPerk",
-    "HasId": true,
     "Probability": 50,
     "ResType": 4,
     "CombatOnly": false,
@@ -30,12 +27,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "chat": {
     "Id": "chat",
-    "HasId": true,
     "Probability": 100,
     "ResType": 3,
     "CombatOnly": false,
@@ -47,12 +42,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "chatLvUp": {
     "Id": "chatLvUp",
-    "HasId": true,
     "Probability": 100,
     "ResType": 3,
     "CombatOnly": false,
@@ -64,12 +57,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "chatNext": {
     "Id": "chatNext",
-    "HasId": true,
     "Probability": 100,
     "ResType": 3,
     "CombatOnly": false,
@@ -81,12 +72,10 @@
     "VoPlayer": 3,
     "Priority": 3,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "shopRoom": {
     "Id": "shopRoom",
-    "HasId": true,
     "Probability": 50,
     "ResType": 3,
     "CombatOnly": false,
@@ -98,12 +87,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "restRoom": {
     "Id": "restRoom",
-    "HasId": true,
     "Probability": 50,
     "ResType": 3,
     "CombatOnly": false,
@@ -115,12 +102,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "eventRoom": {
     "Id": "eventRoom",
-    "HasId": true,
     "Probability": 50,
     "ResType": 3,
     "CombatOnly": false,
@@ -132,12 +117,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "battleClear": {
     "Id": "battleClear",
-    "HasId": true,
     "Probability": 50,
     "ResType": 3,
     "CombatOnly": false,
@@ -149,13 +132,11 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "music": {
     "Id": "music",
-    "HasId": true,
-    "Probability": 0,
+    "Probability": 50,
     "ResType": 3,
     "CombatOnly": false,
     "WorldLevelTypes": [
@@ -166,13 +147,11 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "uniMusic": {
     "Id": "uniMusic",
-    "HasId": true,
-    "Probability": 0,
+    "Probability": 50,
     "ResType": 4,
     "CombatOnly": false,
     "WorldLevelTypes": [
@@ -183,12 +162,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "swap": {
     "Id": "swap",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -200,12 +177,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "buildPick": {
     "Id": "buildPick",
-    "HasId": true,
     "Probability": 100,
     "ResType": 3,
     "CombatOnly": false,
@@ -217,12 +192,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "win": {
     "Id": "win",
-    "HasId": true,
     "Probability": 100,
     "ResType": 3,
     "CombatOnly": false,
@@ -234,12 +207,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "lose": {
     "Id": "lose",
-    "HasId": true,
     "Probability": 100,
     "ResType": 3,
     "CombatOnly": false,
@@ -251,12 +222,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "gachaNew": {
     "Id": "gachaNew",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -268,12 +237,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "gacha": {
     "Id": "gacha",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -285,12 +252,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "charUp": {
     "Id": "charUp",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -302,12 +267,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "exCharUp": {
     "Id": "exCharUp",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -319,12 +282,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "unlockLook": {
     "Id": "unlockLook",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -336,12 +297,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "unlockCG": {
     "Id": "unlockCG",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -353,12 +312,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "thankSmall": {
     "Id": "thankSmall",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -370,12 +327,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "thank": {
     "Id": "thank",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -387,12 +342,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "thankEx": {
     "Id": "thankEx",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -404,12 +357,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "afflv1": {
     "Id": "afflv1",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -421,12 +372,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "afflv2": {
     "Id": "afflv2",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -438,12 +387,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "afflv3": {
     "Id": "afflv3",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -455,12 +402,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "afflv4": {
     "Id": "afflv4",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -472,12 +417,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "greet": {
     "Id": "greet",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -489,12 +432,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "greetmorn": {
     "Id": "greetmorn",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -506,12 +447,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "greetnoon": {
     "Id": "greetnoon",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -523,12 +462,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "greetnight": {
     "Id": "greetnight",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -540,12 +477,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "standee": {
     "Id": "standee",
-    "HasId": true,
     "Probability": 50,
     "ResType": 4,
     "CombatOnly": false,
@@ -557,12 +492,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "fullscreen": {
     "Id": "fullscreen",
-    "HasId": true,
     "Probability": 50,
     "ResType": 4,
     "CombatOnly": false,
@@ -574,12 +507,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "posterchat": {
     "Id": "posterchat",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -591,12 +522,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "affchat1": {
     "Id": "affchat1",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -608,12 +537,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "affchat2": {
     "Id": "affchat2",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -625,12 +552,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "affchat3": {
     "Id": "affchat3",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -642,12 +567,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "affchat4": {
     "Id": "affchat4",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -659,12 +582,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "affchat5": {
     "Id": "affchat5",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -676,12 +597,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "hfc": {
     "Id": "hfc",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -693,12 +612,10 @@
     "VoPlayer": 3,
     "Priority": 3,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "hang": {
     "Id": "hang",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -710,12 +627,10 @@
     "VoPlayer": 3,
     "Priority": 3,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "exhang": {
     "Id": "exhang",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -727,12 +642,10 @@
     "VoPlayer": 3,
     "Priority": 3,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "yostar": {
     "Id": "yostar",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -744,12 +657,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "confirm": {
     "Id": "confirm",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -761,12 +672,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "deny": {
     "Id": "deny",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -778,12 +687,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "question": {
     "Id": "question",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -795,12 +702,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "confuse": {
     "Id": "confuse",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -812,12 +717,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "sad": {
     "Id": "sad",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -829,12 +732,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "excit": {
     "Id": "excit",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -846,12 +747,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "angry": {
     "Id": "angry",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -863,12 +762,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "happy": {
     "Id": "happy",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -880,12 +777,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "sigh": {
     "Id": "sigh",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -897,12 +792,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "catchphrase": {
     "Id": "catchphrase",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -914,12 +807,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "ultskill": {
     "Id": "ultskill",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -931,12 +822,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "dead": {
     "Id": "dead",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -948,12 +837,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "valentine": {
     "Id": "valentine",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -965,12 +852,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": true,
-    "Date": "2.14",
-    "HasDate": true
+    "Date": "2.14"
   },
   "xmas": {
     "Id": "xmas",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -982,12 +867,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": true,
-    "Date": "12.25",
-    "HasDate": true
+    "Date": "12.25"
   },
   "newyear": {
     "Id": "newyear",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -999,12 +882,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": true,
-    "Date": "1.1",
-    "HasDate": true
+    "Date": "1.1"
   },
   "birth": {
     "Id": "birth",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1016,12 +897,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "yourbirth": {
     "Id": "yourbirth",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1033,12 +912,10 @@
     "VoPlayer": 3,
     "Priority": 1,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "Tower_typeA": {
     "Id": "Tower_typeA",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1050,12 +927,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "Tower_typeB": {
     "Id": "Tower_typeB",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1067,12 +942,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "Tower_typeC": {
     "Id": "Tower_typeC",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1084,12 +957,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "final": {
     "Id": "final",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1101,12 +972,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "leave": {
     "Id": "leave",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1118,12 +987,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "chat_lv1": {
     "Id": "chat_lv1",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1135,12 +1002,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "chat_lv2": {
     "Id": "chat_lv2",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1152,12 +1017,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "chat_lv3": {
     "Id": "chat_lv3",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1169,12 +1032,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "event_lv1": {
     "Id": "event_lv1",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1186,12 +1047,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "event_lv2": {
     "Id": "event_lv2",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1203,12 +1062,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "event_lv3": {
     "Id": "event_lv3",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1220,12 +1077,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "greet_npc": {
     "Id": "greet_npc",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1237,12 +1092,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "greetmorn_npc": {
     "Id": "greetmorn_npc",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1254,12 +1107,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "greetnoon_npc": {
     "Id": "greetnoon_npc",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1271,12 +1122,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "greetnight_npc": {
     "Id": "greetnight_npc",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1288,12 +1137,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "posterchat_npc": {
     "Id": "posterchat_npc",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1305,12 +1152,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "hfc_npc": {
     "Id": "hfc_npc",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1322,12 +1167,10 @@
     "VoPlayer": 3,
     "Priority": 3,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "hang_npc": {
     "Id": "hang_npc",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1339,12 +1182,10 @@
     "VoPlayer": 3,
     "Priority": 3,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "exhang_npc": {
     "Id": "exhang_npc",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1356,12 +1197,10 @@
     "VoPlayer": 3,
     "Priority": 3,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "thank_npc": {
     "Id": "thank_npc",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1373,12 +1212,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "thanksp": {
     "Id": "thanksp",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1390,12 +1227,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "thankLvup": {
     "Id": "thankLvup",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1407,12 +1242,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "onsale": {
     "Id": "onsale",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1424,12 +1257,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "limited": {
     "Id": "limited",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1441,12 +1272,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "Tab": {
     "Id": "Tab",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1458,12 +1287,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "clear": {
     "Id": "clear",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1475,12 +1302,10 @@
     "VoPlayer": 3,
     "Priority": 3,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "Lvup": {
     "Id": "Lvup",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1492,12 +1317,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "enterTourGuild": {
     "Id": "enterTourGuild",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1509,12 +1332,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "enterWorldClass": {
     "Id": "enterWorldClass",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1526,12 +1347,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "enterDailyQuest": {
     "Id": "enterDailyQuest",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1543,12 +1362,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "questCompelete": {
     "Id": "questCompelete",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1560,12 +1377,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "twin_greet": {
     "Id": "twin_greet",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1577,12 +1392,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "twin_effect": {
     "Id": "twin_effect",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1594,12 +1407,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "heal": {
     "Id": "heal",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1611,12 +1422,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "login_npc_day01": {
     "Id": "login_npc_day01",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1628,12 +1437,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "login_npc_day02": {
     "Id": "login_npc_day02",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1645,12 +1452,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "login_npc_day03": {
     "Id": "login_npc_day03",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1662,12 +1467,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "login_npc_day04": {
     "Id": "login_npc_day04",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1679,12 +1482,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "login_npc_day05": {
     "Id": "login_npc_day05",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1696,12 +1497,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "login_npc_day06": {
     "Id": "login_npc_day06",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1713,12 +1512,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "login_npc_day07": {
     "Id": "login_npc_day07",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1730,12 +1527,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "login_npc_day08": {
     "Id": "login_npc_day08",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1747,12 +1542,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "login_npc_day09": {
     "Id": "login_npc_day09",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1764,12 +1557,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "login_npc_day10": {
     "Id": "login_npc_day10",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1781,12 +1572,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "TrekkerVersus_victory": {
     "Id": "TrekkerVersus_victory",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1798,12 +1587,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "TrekkerVersus_fail": {
     "Id": "TrekkerVersus_fail",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1815,12 +1602,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "TrekkerVersus_difficulty1": {
     "Id": "TrekkerVersus_difficulty1",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1832,12 +1617,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "TrekkerVersus_difficulty2": {
     "Id": "TrekkerVersus_difficulty2",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1849,12 +1632,10 @@
     "VoPlayer": 3,
     "Priority": 3,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "TrekkerVersus_difficulty3": {
     "Id": "TrekkerVersus_difficulty3",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1866,12 +1647,10 @@
     "VoPlayer": 3,
     "Priority": 4,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "TrekkerVersus_difficulty4": {
     "Id": "TrekkerVersus_difficulty4",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1883,12 +1662,10 @@
     "VoPlayer": 3,
     "Priority": 5,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "TrekkerVersus_difficulty5": {
     "Id": "TrekkerVersus_difficulty5",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1900,12 +1677,10 @@
     "VoPlayer": 3,
     "Priority": 6,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "TrekkerVersus_clear1": {
     "Id": "TrekkerVersus_clear1",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1917,12 +1692,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "TrekkerVersus_clear2": {
     "Id": "TrekkerVersus_clear2",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1934,12 +1707,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "TrekkerVersus_clear3": {
     "Id": "TrekkerVersus_clear3",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1951,12 +1722,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "TrekkerVersus_clear4": {
     "Id": "TrekkerVersus_clear4",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1968,12 +1737,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "TrekkerVersus_clear5": {
     "Id": "TrekkerVersus_clear5",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -1985,12 +1752,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "TrekkerVersus_smallG": {
     "Id": "TrekkerVersus_smallG",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -2002,12 +1767,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "TrekkerVersus_normalG": {
     "Id": "TrekkerVersus_normalG",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -2019,12 +1782,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "TrekkerVersus_largeG": {
     "Id": "TrekkerVersus_largeG",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -2036,12 +1797,10 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   },
   "TrekkerVersus_defeat": {
     "Id": "TrekkerVersus_defeat",
-    "HasId": true,
     "Probability": 100,
     "ResType": 4,
     "CombatOnly": false,
@@ -2053,7 +1812,6 @@
     "VoPlayer": 3,
     "Priority": 2,
     "DateTrigger": false,
-    "Date": "",
-    "HasDate": false
+    "Date": ""
   }
 }

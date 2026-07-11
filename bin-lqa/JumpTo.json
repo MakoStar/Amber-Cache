@@ -6,9 +6,7 @@
       13001
     ],
     "Desc": "1-1",
-    "HasDesc": true,
-    "Icon": "",
-    "HasIcon": false
+    "Icon": ""
   },
   "2": {
     "Id": 2,
@@ -17,9 +15,7 @@
       14101
     ],
     "Desc": "2-1",
-    "HasDesc": true,
-    "Icon": "",
-    "HasIcon": false
+    "Icon": ""
   },
   "3": {
     "Id": 3,
@@ -28,9 +24,7 @@
       1
     ],
     "Desc": "星塔探索",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_FixedRoguelike",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_FixedRoguelike"
   },
   "4": {
     "Id": 4,
@@ -39,45 +33,35 @@
       1
     ],
     "Desc": "星塔探索",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_FixedRoguelike",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_FixedRoguelike"
   },
   "6": {
     "Id": 6,
     "Type": 8,
     "Param": [],
     "Desc": "限时活动",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Event",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Event"
   },
   "7": {
     "Id": 7,
     "Type": 9,
     "Param": [],
     "Desc": "关卡掉落",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_RegionBoss",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_RegionBoss"
   },
   "8": {
     "Id": 8,
     "Type": 8,
     "Param": [],
     "Desc": "商店购买",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_ResidentShop",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_ResidentShop"
   },
   "10": {
     "Id": 10,
     "Type": 8,
     "Param": [],
     "Desc": "暂无来源",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_main_system_recruit",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_main_system_recruit"
   },
   "13": {
     "Id": 13,
@@ -86,9 +70,7 @@
       1
     ],
     "Desc": "征途票根商店",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_ResidentShop",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_ResidentShop"
   },
   "14": {
     "Id": 14,
@@ -97,9 +79,7 @@
       2
     ],
     "Desc": "灾变防线商店",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_ResidentShop",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_ResidentShop"
   },
   "15": {
     "Id": 15,
@@ -108,9 +88,7 @@
       3
     ],
     "Desc": "终焉绝响商店",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_ResidentShop",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_ResidentShop"
   },
   "16": {
     "Id": 16,
@@ -119,9 +97,7 @@
       4
     ],
     "Desc": "【不要翻译】暂未启用",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_ResidentShop",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_ResidentShop"
   },
   "17": {
     "Id": 17,
@@ -130,9 +106,7 @@
       1
     ],
     "Desc": "盈月星愿",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_MallGem",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_MallGem"
   },
   "18": {
     "Id": 18,
@@ -141,9 +115,7 @@
       2
     ],
     "Desc": "旅人优选",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_MallGem",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_MallGem"
   },
   "19": {
     "Id": 19,
@@ -152,9 +124,7 @@
       3
     ],
     "Desc": "星之彩充值",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_MallGem",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_MallGem"
   },
   "20": {
     "Id": 20,
@@ -163,9 +133,7 @@
       1
     ],
     "Desc": "旅人招募",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Gacha",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Gacha"
   },
   "21": {
     "Id": 21,
@@ -174,9 +142,7 @@
       2
     ],
     "Desc": "秘纹招募",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Gacha",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Gacha"
   },
   "22": {
     "Id": 22,
@@ -185,27 +151,21 @@
       4
     ],
     "Desc": "凭证兑换",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_MallGem",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_MallGem"
   },
   "23": {
     "Id": 23,
     "Type": 0,
     "Param": [],
     "Desc": "JumpTo.23.1",
-    "HasDesc": true,
-    "Icon": "",
-    "HasIcon": false
+    "Icon": ""
   },
   "24": {
     "Id": 24,
     "Type": 0,
     "Param": [],
     "Desc": "JumpTo.24.1",
-    "HasDesc": true,
-    "Icon": "",
-    "HasIcon": false
+    "Icon": ""
   },
   "25": {
     "Id": 25,
@@ -215,9 +175,7 @@
       1000
     ],
     "Desc": "巅峰揭幕-猫眼",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_TravelerDuel",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_TravelerDuel"
   },
   "252": {
     "Id": 252,
@@ -227,9 +185,7 @@
       1000
     ],
     "Desc": "巅峰揭幕-猫眼 难度2",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_TravelerDuel",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_TravelerDuel"
   },
   "26": {
     "Id": 26,
@@ -238,9 +194,7 @@
       0
     ],
     "Desc": "强敌讨伐",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_RegionBoss",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_RegionBoss"
   },
   "27": {
     "Id": 27,
@@ -249,9 +203,7 @@
       0
     ],
     "Desc": "星塔探索",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_FixedRoguelike",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_FixedRoguelike"
   },
   "28": {
     "Id": 28,
@@ -260,9 +212,7 @@
       5
     ],
     "Desc": "徽章背包",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_main_bag",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_main_bag"
   },
   "29": {
     "Id": 29,
@@ -271,9 +221,7 @@
       4
     ],
     "Desc": "消耗品",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_main_bag",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_main_bag"
   },
   "30": {
     "Id": 30,
@@ -283,9 +231,7 @@
       0
     ],
     "Desc": "巅峰揭幕",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_TravelerDuel",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_TravelerDuel"
   },
   "31": {
     "Id": 31,
@@ -294,9 +240,7 @@
       0
     ],
     "Desc": "基础试炼",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_DailyInstance",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_DailyInstance"
   },
   "32": {
     "Id": 32,
@@ -305,9 +249,7 @@
       0
     ],
     "Desc": "出发界面",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Event",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Event"
   },
   "33": {
     "Id": 33,
@@ -316,9 +258,7 @@
       0
     ],
     "Desc": "角色背包",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_main_system_character",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_main_system_character"
   },
   "35": {
     "Id": 35,
@@ -328,9 +268,7 @@
       1
     ],
     "Desc": "基础试炼-笔记",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_DailyInstance",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_DailyInstance"
   },
   "36": {
     "Id": 36,
@@ -340,9 +278,7 @@
       2
     ],
     "Desc": "基础试炼-朵拉",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_DailyInstance",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_DailyInstance"
   },
   "37": {
     "Id": 37,
@@ -352,9 +288,7 @@
       4
     ],
     "Desc": "基础试炼-空唱片",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_DailyInstance",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_DailyInstance"
   },
   "38": {
     "Id": 38,
@@ -363,9 +297,7 @@
       2
     ],
     "Desc": "尘埃与烈焰",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_FixedRoguelike",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_FixedRoguelike"
   },
   "39": {
     "Id": 39,
@@ -374,9 +306,7 @@
       1
     ],
     "Desc": "流水与暗影",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_FixedRoguelike",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_FixedRoguelike"
   },
   "40": {
     "Id": 40,
@@ -385,9 +315,7 @@
       4
     ],
     "Desc": "原初的迷途",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_FixedRoguelike",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_FixedRoguelike"
   },
   "41": {
     "Id": 41,
@@ -396,9 +324,7 @@
       0
     ],
     "Desc": "秘纹背包",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_main_bag",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_main_bag"
   },
   "42": {
     "Id": 42,
@@ -407,9 +333,7 @@
       0
     ],
     "Desc": "心危擂台",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_InfinityTower",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_InfinityTower"
   },
   "43": {
     "Id": 43,
@@ -418,9 +342,7 @@
       1
     ],
     "Desc": "无极角斗",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_InfinityTower",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_InfinityTower"
   },
   "44": {
     "Id": 44,
@@ -429,9 +351,7 @@
       2
     ],
     "Desc": "飒爽疾奏",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_InfinityTower",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_InfinityTower"
   },
   "45": {
     "Id": 45,
@@ -440,9 +360,7 @@
       3
     ],
     "Desc": "荒垒震音",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_InfinityTower",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_InfinityTower"
   },
   "46": {
     "Id": 46,
@@ -451,9 +369,7 @@
       4
     ],
     "Desc": "幽闭仪典",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_InfinityTower",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_InfinityTower"
   },
   "47": {
     "Id": 47,
@@ -462,9 +378,7 @@
       5
     ],
     "Desc": "炽热狂舞",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_InfinityTower",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_InfinityTower"
   },
   "48": {
     "Id": 48,
@@ -473,9 +387,7 @@
       6
     ],
     "Desc": "清雅流歌",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_InfinityTower",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_InfinityTower"
   },
   "49": {
     "Id": 49,
@@ -484,9 +396,7 @@
       7
     ],
     "Desc": "纷闪派对",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_InfinityTower",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_InfinityTower"
   },
   "50": {
     "Id": 50,
@@ -495,9 +405,7 @@
       0
     ],
     "Desc": "技巧试炼",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_SkillInstance",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_SkillInstance"
   },
   "51": {
     "Id": 51,
@@ -506,9 +414,7 @@
       1
     ],
     "Desc": "技巧试炼-节奏卡带",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_SkillInstance",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_SkillInstance"
   },
   "52": {
     "Id": 52,
@@ -517,9 +423,7 @@
       2
     ],
     "Desc": "技巧试炼-射击卡带",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_SkillInstance",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_SkillInstance"
   },
   "53": {
     "Id": 53,
@@ -528,9 +432,7 @@
       3
     ],
     "Desc": "技巧试炼-格斗卡带",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_SkillInstance",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_SkillInstance"
   },
   "54": {
     "Id": 54,
@@ -539,27 +441,21 @@
       0
     ],
     "Desc": "主线故事",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_main_system_character",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_main_system_character"
   },
   "55": {
     "Id": 55,
     "Type": 14,
     "Param": [],
     "Desc": "巅峰秀场",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_TravelerDuel",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_TravelerDuel"
   },
   "552": {
     "Id": 552,
     "Type": 14,
     "Param": [],
     "Desc": "巅峰秀场",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_TravelerDuel",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_TravelerDuel"
   },
   "56": {
     "Id": 56,
@@ -568,9 +464,7 @@
       3
     ],
     "Desc": "风暴与闪电",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_FixedRoguelike",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_FixedRoguelike"
   },
   "57": {
     "Id": 57,
@@ -579,9 +473,7 @@
       0
     ],
     "Desc": "委托界面",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Agent",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Agent"
   },
   "58": {
     "Id": 58,
@@ -590,9 +482,7 @@
       1
     ],
     "Desc": "通讯",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Event",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Event"
   },
   "59": {
     "Id": 59,
@@ -601,9 +491,7 @@
       2
     ],
     "Desc": "旅人邀约",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Event",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Event"
   },
   "60": {
     "Id": 60,
@@ -612,9 +500,7 @@
       3
     ],
     "Desc": "赠礼邮寄",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Event",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Event"
   },
   "61": {
     "Id": 61,
@@ -623,18 +509,14 @@
       0
     ],
     "Desc": "灾变防线",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_VampireSurvivor",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_VampireSurvivor"
   },
   "62": {
     "Id": 62,
     "Type": 31,
     "Param": [],
     "Desc": "自选包-%s",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_MallGem",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_MallGem"
   },
   "63": {
     "Id": 63,
@@ -643,9 +525,7 @@
       0
     ],
     "Desc": "联合讨伐",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_TravelerDuel",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_TravelerDuel"
   },
   "64": {
     "Id": 64,
@@ -654,9 +534,7 @@
       1
     ],
     "Desc": "王权-魔王养成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Event",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Event"
   },
   "65": {
     "Id": 65,
@@ -665,9 +543,7 @@
       2
     ],
     "Desc": "王权-今日事务",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Event",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Event"
   },
   "66": {
     "Id": 66,
@@ -676,9 +552,7 @@
       3
     ],
     "Desc": "王权-每周事务",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Event",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Event"
   },
   "67": {
     "Id": 67,
@@ -687,9 +561,7 @@
       0
     ],
     "Desc": "纹章试炼",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_EquipmentInstance",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_EquipmentInstance"
   },
   "68": {
     "Id": 68,
@@ -698,9 +570,7 @@
       1
     ],
     "Desc": "纹章试炼-好市民点数",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_EquipmentInstance",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_EquipmentInstance"
   },
   "69": {
     "Id": 69,
@@ -709,9 +579,7 @@
       2
     ],
     "Desc": "纹章试炼-协会贡献证",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_EquipmentInstance",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_EquipmentInstance"
   },
   "70": {
     "Id": 70,
@@ -720,9 +588,7 @@
       3
     ],
     "Desc": "纹章试炼-恩赐消费券",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_EquipmentInstance",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_EquipmentInstance"
   },
   "71": {
     "Id": 71,
@@ -731,9 +597,7 @@
       0
     ],
     "Desc": "诺瓦异闻",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_main_system_character",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_main_system_character"
   },
   "72": {
     "Id": 72,
@@ -742,9 +606,7 @@
       0
     ],
     "Desc": "星塔研究",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_FixedRoguelike",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_FixedRoguelike"
   },
   "73": {
     "Id": 73,
@@ -754,9 +616,7 @@
       2
     ],
     "Desc": "活动卖场",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_MallGem",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_MallGem"
   },
   "74": {
     "Id": 74,
@@ -765,9 +625,7 @@
       1
     ],
     "Desc": "配队教学",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Event",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Event"
   },
   "75": {
     "Id": 75,
@@ -776,9 +634,7 @@
       2
     ],
     "Desc": "新手教学",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Event",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Event"
   },
   "76": {
     "Id": 76,
@@ -787,9 +643,7 @@
       4
     ],
     "Desc": "王权-等级奖励",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Event",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Event"
   },
   "5005": {
     "Id": 5005,
@@ -798,9 +652,7 @@
       5
     ],
     "Desc": "主线故事",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_main_system_character",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_main_system_character"
   },
   "6009": {
     "Id": 6009,
@@ -809,9 +661,7 @@
       6009
     ],
     "Desc": "晋升试炼-终宵萤辉",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_RegionBoss",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_RegionBoss"
   },
   "6010": {
     "Id": 6010,
@@ -820,9 +670,7 @@
       6010
     ],
     "Desc": "晋升试炼-热嘟噜噗男爵",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_RegionBoss",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_RegionBoss"
   },
   "6011": {
     "Id": 6011,
@@ -831,9 +679,7 @@
       6011
     ],
     "Desc": "晋升试炼-怪诞舞者",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_RegionBoss",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_RegionBoss"
   },
   "11201": {
     "Id": 11201,
@@ -843,9 +689,7 @@
       1
     ],
     "Desc": "旅人养成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Event",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Event"
   },
   "11202": {
     "Id": 11202,
@@ -855,9 +699,7 @@
       2
     ],
     "Desc": "旅人养成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Event",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Event"
   },
   "12001": {
     "Id": 12001,
@@ -867,9 +709,7 @@
       1
     ],
     "Desc": "旅人养成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Event",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Event"
   },
   "12002": {
     "Id": 12002,
@@ -879,9 +719,7 @@
       2
     ],
     "Desc": "旅人养成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Event",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Event"
   },
   "12301": {
     "Id": 12301,
@@ -891,9 +729,7 @@
       1
     ],
     "Desc": "旅人养成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Event",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Event"
   },
   "12302": {
     "Id": 12302,
@@ -903,9 +739,7 @@
       2
     ],
     "Desc": "旅人养成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Event",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Event"
   },
   "62001": {
     "Id": 62001,
@@ -914,9 +748,7 @@
       0
     ],
     "Desc": "真格挑战",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_WeekBoss",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_WeekBoss"
   },
   "62011": {
     "Id": 62011,
@@ -925,9 +757,7 @@
       62011
     ],
     "Desc": "真格挑战-寄生之庭",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_WeekBoss",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_WeekBoss"
   },
   "62021": {
     "Id": 62021,
@@ -936,9 +766,7 @@
       62021
     ],
     "Desc": "真格挑战-猛进之灵",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_WeekBoss",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_WeekBoss"
   },
   "62031": {
     "Id": 62031,
@@ -947,9 +775,7 @@
       62031
     ],
     "Desc": "真格挑战-魔侍巨像",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_WeekBoss",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_WeekBoss"
   },
   "62041": {
     "Id": 62041,
@@ -958,9 +784,7 @@
       62041
     ],
     "Desc": "真格挑战-流风美人",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_WeekBoss",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_WeekBoss"
   },
   "62051": {
     "Id": 62051,
@@ -969,9 +793,7 @@
       62051
     ],
     "Desc": "真格挑战-翠煌之刃",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_WeekBoss",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_WeekBoss"
   },
   "62061": {
     "Id": 62061,
@@ -980,9 +802,7 @@
       62061
     ],
     "Desc": "真格挑战-咕噜六角鲸",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_WeekBoss",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_WeekBoss"
   },
   "400000": {
     "Id": 400000,
@@ -993,9 +813,7 @@
       1
     ],
     "Desc": "活动任务",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_Activity_SwimMiningTask",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_Activity_SwimMiningTask"
   },
   "400002": {
     "Id": 400002,
@@ -1006,9 +824,7 @@
       2
     ],
     "Desc": "活动任务",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_Activity_DreamMiningTask",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_Activity_DreamMiningTask"
   },
   "400003": {
     "Id": 400003,
@@ -1019,9 +835,7 @@
       2
     ],
     "Desc": "活动任务",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_Activity_MiracleMiningTask",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_Activity_MiracleMiningTask"
   },
   "20072001": {
     "Id": 20072001,
@@ -1030,9 +844,7 @@
       20072001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "21072001": {
     "Id": 21072001,
@@ -1041,9 +853,7 @@
       21072001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "20073001": {
     "Id": 20073001,
@@ -1052,9 +862,7 @@
       20073001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "21073001": {
     "Id": 21073001,
@@ -1063,9 +871,7 @@
       21073001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "20082001": {
     "Id": 20082001,
@@ -1074,9 +880,7 @@
       20082001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "21082001": {
     "Id": 21082001,
@@ -1085,9 +889,7 @@
       21082001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "20083001": {
     "Id": 20083001,
@@ -1096,9 +898,7 @@
       20083001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "21083001": {
     "Id": 21083001,
@@ -1107,9 +907,7 @@
       21083001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "20092001": {
     "Id": 20092001,
@@ -1118,9 +916,7 @@
       20092001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "21092001": {
     "Id": 21092001,
@@ -1129,9 +925,7 @@
       21092001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "20093001": {
     "Id": 20093001,
@@ -1140,9 +934,7 @@
       20093001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "21093001": {
     "Id": 21093001,
@@ -1151,9 +943,7 @@
       21093001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "31012001": {
     "Id": 31012001,
@@ -1162,9 +952,7 @@
       31012001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "31013001": {
     "Id": 31013001,
@@ -1173,9 +961,7 @@
       31013001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "31022001": {
     "Id": 31022001,
@@ -1184,9 +970,7 @@
       31022001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "31023001": {
     "Id": 31023001,
@@ -1195,9 +979,7 @@
       31023001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "31032001": {
     "Id": 31032001,
@@ -1206,9 +988,7 @@
       31032001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "31033001": {
     "Id": 31033001,
@@ -1217,9 +997,7 @@
       31033001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "31052001": {
     "Id": 31052001,
@@ -1228,9 +1006,7 @@
       31052001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "31053001": {
     "Id": 31053001,
@@ -1239,9 +1015,7 @@
       31053001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "31062001": {
     "Id": 31062001,
@@ -1250,9 +1024,7 @@
       31062001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "31063001": {
     "Id": 31063001,
@@ -1261,9 +1033,7 @@
       31063001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "32002001": {
     "Id": 32002001,
@@ -1272,9 +1042,7 @@
       32002001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "32003001": {
     "Id": 32003001,
@@ -1283,9 +1051,7 @@
       32003001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "32012001": {
     "Id": 32012001,
@@ -1294,9 +1060,7 @@
       32012001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "32013001": {
     "Id": 32013001,
@@ -1305,9 +1069,7 @@
       32013001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "32022001": {
     "Id": 32022001,
@@ -1316,9 +1078,7 @@
       32022001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "32023001": {
     "Id": 32023001,
@@ -1327,9 +1087,7 @@
       32023001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "22012001": {
     "Id": 22012001,
@@ -1338,9 +1096,7 @@
       22012001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "22013001": {
     "Id": 22013001,
@@ -1349,9 +1105,7 @@
       22013001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "22022001": {
     "Id": 22022001,
@@ -1360,9 +1114,7 @@
       22022001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "22023001": {
     "Id": 22023001,
@@ -1371,9 +1123,7 @@
       22023001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "22032001": {
     "Id": 22032001,
@@ -1382,9 +1132,7 @@
       22032001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "22033001": {
     "Id": 22033001,
@@ -1393,9 +1141,7 @@
       22033001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "22052001": {
     "Id": 22052001,
@@ -1404,9 +1150,7 @@
       22052001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "22053001": {
     "Id": 22053001,
@@ -1415,9 +1159,7 @@
       22053001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "22062001": {
     "Id": 22062001,
@@ -1426,9 +1168,7 @@
       22062001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "22063001": {
     "Id": 22063001,
@@ -1437,9 +1177,7 @@
       22063001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "33911001": {
     "Id": 33911001,
@@ -1448,9 +1186,7 @@
       33911001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "33012001": {
     "Id": 33012001,
@@ -1459,9 +1195,7 @@
       33012001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "33022001": {
     "Id": 33022001,
@@ -1470,9 +1204,7 @@
       33022001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "33032001": {
     "Id": 33032001,
@@ -1481,9 +1213,7 @@
       33032001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "33042001": {
     "Id": 33042001,
@@ -1492,9 +1222,7 @@
       33042001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "33052001": {
     "Id": 33052001,
@@ -1503,9 +1231,7 @@
       33052001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "33062001": {
     "Id": 33062001,
@@ -1514,9 +1240,7 @@
       33062001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "33072001": {
     "Id": 33072001,
@@ -1525,9 +1249,7 @@
       33072001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   },
   "33082001": {
     "Id": 33082001,
@@ -1536,8 +1258,114 @@
       33082001
     ],
     "Desc": "材料合成",
-    "HasDesc": true,
-    "Icon": "Icon/JumpTo/btn_icon_system_Production",
-    "HasIcon": true
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
+  },
+  "20003001": {
+    "Id": 20003001,
+    "Type": 17,
+    "Param": [
+      20003001
+    ],
+    "Desc": "材料合成",
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
+  },
+  "20013001": {
+    "Id": 20013001,
+    "Type": 17,
+    "Param": [
+      20013001
+    ],
+    "Desc": "材料合成",
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
+  },
+  "20023001": {
+    "Id": 20023001,
+    "Type": 17,
+    "Param": [
+      20023001
+    ],
+    "Desc": "材料合成",
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
+  },
+  "20043001": {
+    "Id": 20043001,
+    "Type": 17,
+    "Param": [
+      20043001
+    ],
+    "Desc": "材料合成",
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
+  },
+  "20053001": {
+    "Id": 20053001,
+    "Type": 17,
+    "Param": [
+      20053001
+    ],
+    "Desc": "材料合成",
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
+  },
+  "20063001": {
+    "Id": 20063001,
+    "Type": 17,
+    "Param": [
+      20063001
+    ],
+    "Desc": "材料合成",
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
+  },
+  "21003001": {
+    "Id": 21003001,
+    "Type": 17,
+    "Param": [
+      21003001
+    ],
+    "Desc": "材料合成",
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
+  },
+  "21013001": {
+    "Id": 21013001,
+    "Type": 17,
+    "Param": [
+      21013001
+    ],
+    "Desc": "材料合成",
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
+  },
+  "21023001": {
+    "Id": 21023001,
+    "Type": 17,
+    "Param": [
+      21023001
+    ],
+    "Desc": "材料合成",
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
+  },
+  "21043001": {
+    "Id": 21043001,
+    "Type": 17,
+    "Param": [
+      21043001
+    ],
+    "Desc": "材料合成",
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
+  },
+  "21053001": {
+    "Id": 21053001,
+    "Type": 17,
+    "Param": [
+      21053001
+    ],
+    "Desc": "材料合成",
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
+  },
+  "21063001": {
+    "Id": 21063001,
+    "Type": 17,
+    "Param": [
+      21063001
+    ],
+    "Desc": "材料合成",
+    "Icon": "Icon/JumpTo/btn_icon_system_Production"
   }
 }

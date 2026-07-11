@@ -2,7 +2,6 @@
   "103": {
     "Id": 103,
     "Name": "琥珀",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 2,
@@ -66,7 +65,6 @@
     "TransformQty": 30,
     "RecruitmentQty": 30,
     "AttributeId": "103",
-    "HasAttributeId": true,
     "PresentsTraitId": 103,
     "SkillsUpgradeGroup": [
       103,
@@ -84,7 +82,6 @@
   "106": {
     "Id": 106,
     "Name": "???",
-    "HasName": true,
     "Visible": false,
     "Available": false,
     "Grade": 1,
@@ -148,7 +145,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "106",
-    "HasAttributeId": true,
     "PresentsTraitId": 101,
     "SkillsUpgradeGroup": [
       106,
@@ -166,7 +162,6 @@
   "107": {
     "Id": 107,
     "Name": "缇莉娅",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 2,
@@ -230,7 +225,6 @@
     "TransformQty": 30,
     "RecruitmentQty": 30,
     "AttributeId": "107",
-    "HasAttributeId": true,
     "PresentsTraitId": 107,
     "SkillsUpgradeGroup": [
       107,
@@ -248,7 +242,6 @@
   "108": {
     "Id": 108,
     "Name": "卡西米拉",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 2,
@@ -312,7 +305,6 @@
     "TransformQty": 30,
     "RecruitmentQty": 30,
     "AttributeId": "108",
-    "HasAttributeId": true,
     "PresentsTraitId": 108,
     "SkillsUpgradeGroup": [
       108,
@@ -330,7 +322,6 @@
   "109": {
     "Id": 109,
     "Name": "???",
-    "HasName": true,
     "Visible": false,
     "Available": false,
     "Grade": 2,
@@ -394,7 +385,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "109",
-    "HasAttributeId": true,
     "PresentsTraitId": 101,
     "SkillsUpgradeGroup": [
       109,
@@ -412,7 +402,6 @@
   "110": {
     "Id": 110,
     "Name": "翡冷翠",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 1,
@@ -476,7 +465,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "110",
-    "HasAttributeId": true,
     "PresentsTraitId": 110,
     "SkillsUpgradeGroup": [
       110,
@@ -494,7 +482,6 @@
   "111": {
     "Id": 111,
     "Name": "鸢尾",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 2,
@@ -558,7 +545,6 @@
     "TransformQty": 30,
     "RecruitmentQty": 30,
     "AttributeId": "111",
-    "HasAttributeId": true,
     "PresentsTraitId": 104,
     "SkillsUpgradeGroup": [
       111,
@@ -576,7 +562,6 @@
   "112": {
     "Id": 112,
     "Name": "尘沙",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 2,
@@ -640,7 +625,6 @@
     "TransformQty": 30,
     "RecruitmentQty": 30,
     "AttributeId": "112",
-    "HasAttributeId": true,
     "PresentsTraitId": 105,
     "SkillsUpgradeGroup": [
       112,
@@ -658,7 +642,6 @@
   "113": {
     "Id": 113,
     "Name": "师渺",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 2,
@@ -722,7 +705,6 @@
     "TransformQty": 30,
     "RecruitmentQty": 30,
     "AttributeId": "113",
-    "HasAttributeId": true,
     "PresentsTraitId": 113,
     "SkillsUpgradeGroup": [
       113,
@@ -740,7 +722,6 @@
   "114": {
     "Id": 114,
     "Name": "???",
-    "HasName": true,
     "Visible": false,
     "Available": false,
     "Grade": 1,
@@ -804,7 +785,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "114",
-    "HasAttributeId": true,
     "PresentsTraitId": 101,
     "SkillsUpgradeGroup": [
       114,
@@ -822,7 +802,6 @@
   "115": {
     "Id": 115,
     "Name": "???",
-    "HasName": true,
     "Visible": false,
     "Available": false,
     "Grade": 1,
@@ -886,7 +865,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "115",
-    "HasAttributeId": true,
     "PresentsTraitId": 101,
     "SkillsUpgradeGroup": [
       115,
@@ -904,7 +882,6 @@
   "116": {
     "Id": 116,
     "Name": "岭川",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 2,
@@ -968,7 +945,6 @@
     "TransformQty": 30,
     "RecruitmentQty": 30,
     "AttributeId": "116",
-    "HasAttributeId": true,
     "PresentsTraitId": 103,
     "SkillsUpgradeGroup": [
       116,
@@ -986,7 +962,6 @@
   "117": {
     "Id": 117,
     "Name": "璟麟",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 2,
@@ -1050,7 +1025,6 @@
     "TransformQty": 30,
     "RecruitmentQty": 30,
     "AttributeId": "117",
-    "HasAttributeId": true,
     "PresentsTraitId": 117,
     "SkillsUpgradeGroup": [
       117,
@@ -1068,7 +1042,6 @@
   "118": {
     "Id": 118,
     "Name": "科洛妮丝",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 2,
@@ -1132,7 +1105,6 @@
     "TransformQty": 30,
     "RecruitmentQty": 30,
     "AttributeId": "118",
-    "HasAttributeId": true,
     "PresentsTraitId": 101,
     "SkillsUpgradeGroup": [
       118,
@@ -1150,7 +1122,6 @@
   "119": {
     "Id": 119,
     "Name": "花原",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 1,
@@ -1214,7 +1185,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "119",
-    "HasAttributeId": true,
     "PresentsTraitId": 119,
     "SkillsUpgradeGroup": [
       119,
@@ -1232,7 +1202,6 @@
   "120": {
     "Id": 120,
     "Name": "卡娜丝",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 2,
@@ -1296,7 +1265,6 @@
     "TransformQty": 30,
     "RecruitmentQty": 30,
     "AttributeId": "120",
-    "HasAttributeId": true,
     "PresentsTraitId": 101,
     "SkillsUpgradeGroup": [
       120,
@@ -1314,7 +1282,6 @@
   "123": {
     "Id": 123,
     "Name": "杏子",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 2,
@@ -1378,7 +1345,6 @@
     "TransformQty": 30,
     "RecruitmentQty": 30,
     "AttributeId": "123",
-    "HasAttributeId": true,
     "PresentsTraitId": 123,
     "SkillsUpgradeGroup": [
       123,
@@ -1396,7 +1362,6 @@
   "125": {
     "Id": 125,
     "Name": "苍兰",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 1,
@@ -1460,7 +1425,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "125",
-    "HasAttributeId": true,
     "PresentsTraitId": 125,
     "SkillsUpgradeGroup": [
       125,
@@ -1478,7 +1442,6 @@
   "126": {
     "Id": 126,
     "Name": "紫槿",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 2,
@@ -1542,7 +1505,6 @@
     "TransformQty": 30,
     "RecruitmentQty": 30,
     "AttributeId": "126",
-    "HasAttributeId": true,
     "PresentsTraitId": 126,
     "SkillsUpgradeGroup": [
       126,
@@ -1560,7 +1522,6 @@
   "127": {
     "Id": 127,
     "Name": "特丽莎",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 2,
@@ -1624,7 +1585,6 @@
     "TransformQty": 30,
     "RecruitmentQty": 30,
     "AttributeId": "127",
-    "HasAttributeId": true,
     "PresentsTraitId": 127,
     "SkillsUpgradeGroup": [
       127,
@@ -1642,7 +1602,6 @@
   "129": {
     "Id": 129,
     "Name": "???",
-    "HasName": true,
     "Visible": false,
     "Available": false,
     "Grade": 2,
@@ -1706,7 +1665,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "129",
-    "HasAttributeId": true,
     "PresentsTraitId": 103,
     "SkillsUpgradeGroup": [
       129,
@@ -1724,7 +1682,6 @@
   "130": {
     "Id": 130,
     "Name": "???",
-    "HasName": true,
     "Visible": false,
     "Available": false,
     "Grade": 1,
@@ -1788,7 +1745,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "130",
-    "HasAttributeId": true,
     "PresentsTraitId": 130,
     "SkillsUpgradeGroup": [
       130,
@@ -1806,7 +1762,6 @@
   "132": {
     "Id": 132,
     "Name": "密涅瓦",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 1,
@@ -1870,7 +1825,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "132",
-    "HasAttributeId": true,
     "PresentsTraitId": 107,
     "SkillsUpgradeGroup": [
       132,
@@ -1888,7 +1842,6 @@
   "133": {
     "Id": 133,
     "Name": "夏花",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 1,
@@ -1952,7 +1905,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "133",
-    "HasAttributeId": true,
     "PresentsTraitId": 103,
     "SkillsUpgradeGroup": [
       133,
@@ -1970,7 +1922,6 @@
   "134": {
     "Id": 134,
     "Name": "冬香",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 1,
@@ -2034,7 +1985,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "134",
-    "HasAttributeId": true,
     "PresentsTraitId": 107,
     "SkillsUpgradeGroup": [
       134,
@@ -2052,7 +2002,6 @@
   "135": {
     "Id": 135,
     "Name": "雾语",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 1,
@@ -2116,7 +2065,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "135",
-    "HasAttributeId": true,
     "PresentsTraitId": 130,
     "SkillsUpgradeGroup": [
       135,
@@ -2134,7 +2082,6 @@
   "136": {
     "Id": 136,
     "Name": "???",
-    "HasName": true,
     "Visible": false,
     "Available": false,
     "Grade": 1,
@@ -2198,7 +2145,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "129",
-    "HasAttributeId": true,
     "PresentsTraitId": 103,
     "SkillsUpgradeGroup": [
       136,
@@ -2213,10 +2159,89 @@
       303
     ]
   },
+  "140": {
+    "Id": 140,
+    "Name": "???",
+    "Visible": false,
+    "Available": false,
+    "Grade": 1,
+    "DefaultSkinId": 14001,
+    "AdvanceSkinId": 14002,
+    "AdvanceGroup": 140,
+    "AdvanceSkinUnlockLevel": 3,
+    "ViewId": 140,
+    "Faction": 1,
+    "Weight": 2,
+    "EET": 3,
+    "Class": 1,
+    "CharacterAttackType": 2,
+    "SearchTargetType": 2,
+    "AtkSpd": 1000000,
+    "MovType": 2,
+    "WalkSpd": 48750,
+    "RunSpd": 65000,
+    "SpRunSpd": 100000,
+    "TransSpd": 58500,
+    "WalkToRunDuration": 1000,
+    "DodgeToRunAccelerationOrNot": true,
+    "MovAcc": 1200000,
+    "RotSpd": 4000000,
+    "RotAcc": 60000,
+    "VisionDeg": 450000,
+    "VisionRng": 105000,
+    "VisionAttackRng": 100000,
+    "HearRng": 120000,
+    "HearAttackRng": 100000,
+    "RaiseGunRng": 105000,
+    "BulletType": 0,
+    "Ammo": 0,
+    "AIId": 14001,
+    "NormalAtkId": 14010000,
+    "DodgeId": 14020000,
+    "SkillId": 14031000,
+    "SpecialSkillId": 14070000,
+    "UltimateId": 14040000,
+    "AssistAIId": 14002,
+    "AssistNormalAtkId": 14010000,
+    "AssistDodgeId": 14020000,
+    "AssistSkillId": 14032000,
+    "AssistSpecialSkillId": 14070000,
+    "AssistUltimateId": 14040000,
+    "TalentSkillId": 14032000,
+    "AssistSkillOnStageType": 1,
+    "AssistSkillAngle": 300000,
+    "AssistSkillRadius": 43000,
+    "AssistSkillOnStageOrientation": 0,
+    "AssistUltimateOnStageType": 1,
+    "AssistUltimateAngle": 300000,
+    "AssistUltimateRadius": 40000,
+    "AssistUltimateOnStageOrientation": 0,
+    "SkillSemiAutoRng": 90000,
+    "UltimateSemiAutoRng": 40000,
+    "SwitchCD": 200,
+    "EnergyConvRatio": 7500,
+    "EnergyEfficiency": 10000,
+    "FragmentsId": 1400,
+    "TransformQty": 60,
+    "RecruitmentQty": 60,
+    "AttributeId": "140",
+    "PresentsTraitId": 101,
+    "SkillsUpgradeGroup": [
+      140,
+      140,
+      140,
+      140
+    ],
+    "FrozenTimeHighlightUnit": 1,
+    "GemSlots": [
+      201,
+      302,
+      103
+    ]
+  },
   "141": {
     "Id": 141,
     "Name": "赤霞",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 1,
@@ -2280,7 +2305,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "141",
-    "HasAttributeId": true,
     "PresentsTraitId": 107,
     "SkillsUpgradeGroup": [
       141,
@@ -2298,7 +2322,6 @@
   "142": {
     "Id": 142,
     "Name": "珂赛特",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 2,
@@ -2362,7 +2385,6 @@
     "TransformQty": 30,
     "RecruitmentQty": 30,
     "AttributeId": "142",
-    "HasAttributeId": true,
     "PresentsTraitId": 130,
     "SkillsUpgradeGroup": [
       142,
@@ -2379,10 +2401,9 @@
   },
   "143": {
     "Id": 143,
-    "Name": "???",
-    "HasName": true,
-    "Visible": false,
-    "Available": false,
+    "Name": "风影",
+    "Visible": true,
+    "Available": true,
     "Grade": 1,
     "DefaultSkinId": 14301,
     "AdvanceSkinId": 14302,
@@ -2397,20 +2418,20 @@
     "SearchTargetType": 2,
     "AtkSpd": 1000000,
     "MovType": 2,
-    "WalkSpd": 48750,
-    "RunSpd": 65000,
+    "WalkSpd": 52500,
+    "RunSpd": 70000,
     "SpRunSpd": 100000,
-    "TransSpd": 58500,
+    "TransSpd": 63000,
     "WalkToRunDuration": 1000,
     "DodgeToRunAccelerationOrNot": true,
     "MovAcc": 999990000,
     "RotSpd": 7200000,
     "RotAcc": 60000,
     "VisionDeg": 450000,
-    "VisionRng": 85000,
-    "VisionAttackRng": 80000,
-    "HearRng": 120000,
-    "HearAttackRng": 80000,
+    "VisionRng": 105000,
+    "VisionAttackRng": 100000,
+    "HearRng": 110000,
+    "HearAttackRng": 100000,
     "RaiseGunRng": 80000,
     "BulletType": 0,
     "Ammo": 0,
@@ -2435,8 +2456,8 @@
     "AssistUltimateAngle": 300000,
     "AssistUltimateRadius": 40000,
     "AssistUltimateOnStageOrientation": 0,
-    "SkillSemiAutoRng": 80000,
-    "UltimateSemiAutoRng": 70000,
+    "SkillSemiAutoRng": 100000,
+    "UltimateSemiAutoRng": 100000,
     "SwitchCD": 200,
     "EnergyConvRatio": 7500,
     "EnergyEfficiency": 10000,
@@ -2444,7 +2465,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "143",
-    "HasAttributeId": true,
     "PresentsTraitId": 130,
     "SkillsUpgradeGroup": [
       143,
@@ -2462,7 +2482,6 @@
   "144": {
     "Id": 144,
     "Name": "千都世",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 1,
@@ -2526,7 +2545,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "144",
-    "HasAttributeId": true,
     "PresentsTraitId": 144,
     "SkillsUpgradeGroup": [
       144,
@@ -2544,7 +2562,6 @@
   "145": {
     "Id": 145,
     "Name": "???",
-    "HasName": true,
     "Visible": false,
     "Available": false,
     "Grade": 1,
@@ -2608,7 +2625,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "145",
-    "HasAttributeId": true,
     "PresentsTraitId": 130,
     "SkillsUpgradeGroup": [
       145,
@@ -2626,7 +2642,6 @@
   "147": {
     "Id": 147,
     "Name": "焦糖",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 2,
@@ -2690,7 +2705,6 @@
     "TransformQty": 30,
     "RecruitmentQty": 30,
     "AttributeId": "147",
-    "HasAttributeId": true,
     "PresentsTraitId": 130,
     "SkillsUpgradeGroup": [
       147,
@@ -2708,7 +2722,6 @@
   "149": {
     "Id": 149,
     "Name": "格芮",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 1,
@@ -2772,7 +2785,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "149",
-    "HasAttributeId": true,
     "PresentsTraitId": 101,
     "SkillsUpgradeGroup": [
       149,
@@ -2790,7 +2802,6 @@
   "150": {
     "Id": 150,
     "Name": "菈露",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 2,
@@ -2854,7 +2865,6 @@
     "TransformQty": 30,
     "RecruitmentQty": 30,
     "AttributeId": "150",
-    "HasAttributeId": true,
     "PresentsTraitId": 107,
     "SkillsUpgradeGroup": [
       150,
@@ -2872,7 +2882,6 @@
   "155": {
     "Id": 155,
     "Name": "希娅",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 1,
@@ -2936,7 +2945,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "155",
-    "HasAttributeId": true,
     "PresentsTraitId": 101,
     "SkillsUpgradeGroup": [
       155,
@@ -2954,7 +2962,6 @@
   "156": {
     "Id": 156,
     "Name": "小禾",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 1,
@@ -3018,7 +3025,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "156",
-    "HasAttributeId": true,
     "PresentsTraitId": 130,
     "SkillsUpgradeGroup": [
       156,
@@ -3036,7 +3042,6 @@
   "158": {
     "Id": 158,
     "Name": "菈露（圣夜）",
-    "HasName": true,
     "Visible": true,
     "Available": true,
     "Grade": 1,
@@ -3100,7 +3105,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "158",
-    "HasAttributeId": true,
     "PresentsTraitId": 107,
     "SkillsUpgradeGroup": [
       158,
@@ -3117,10 +3121,9 @@
   },
   "159": {
     "Id": 159,
-    "Name": "???",
-    "HasName": true,
-    "Visible": false,
-    "Available": false,
+    "Name": "科洛妮丝（新春）",
+    "Visible": true,
+    "Available": true,
     "Grade": 1,
     "DefaultSkinId": 15901,
     "AdvanceSkinId": 15902,
@@ -3166,8 +3169,8 @@
     "AssistUltimateId": 15940000,
     "TalentSkillId": 15900000,
     "AssistSkillOnStageType": 1,
-    "AssistSkillAngle": 450000,
-    "AssistSkillRadius": 10000,
+    "AssistSkillAngle": 50000,
+    "AssistSkillRadius": 35000,
     "AssistSkillOnStageOrientation": 0,
     "AssistUltimateOnStageType": 1,
     "AssistUltimateAngle": 300000,
@@ -3182,7 +3185,6 @@
     "TransformQty": 60,
     "RecruitmentQty": 60,
     "AttributeId": "159",
-    "HasAttributeId": true,
     "PresentsTraitId": 103,
     "SkillsUpgradeGroup": [
       159,

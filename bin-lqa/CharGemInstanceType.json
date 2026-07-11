@@ -2,27 +2,21 @@
   "1": {
     "Id": 1,
     "Name": "帝国卫队\u000b好市民点数",
-    "HasName": true,
     "Episode": "db_stage_chargem_03",
-    "HasEpisode": true,
     "Sort": 1,
     "EET": []
   },
   "2": {
     "Id": 2,
     "Name": "地理协会\u000b协会贡献证",
-    "HasName": true,
     "Episode": "db_stage_chargem_02",
-    "HasEpisode": true,
     "Sort": 2,
     "EET": []
   },
   "3": {
     "Id": 3,
     "Name": "恩赐意志\u000b恩赐消费券",
-    "HasName": true,
     "Episode": "db_stage_chargem_01",
-    "HasEpisode": true,
     "Sort": 3,
     "EET": []
   }

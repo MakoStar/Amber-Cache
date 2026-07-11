@@ -4,11 +4,8 @@
     "MonsterId": 4,
     "RegionType": 1,
     "Name": "终宵萤辉",
-    "HasName": true,
     "Icon": "worldboss_s_banshengshu",
-    "HasIcon": true,
     "UnlockCondition": "",
-    "HasUnlockCondition": false,
     "NeedRoguelike": 0,
     "Sort": 2,
     "OpenDay": [
@@ -21,14 +18,11 @@
       6
     ],
     "OpenDayDesc": "全天开放",
-    "HasOpenDayDesc": true,
     "EET": [
       7
     ],
     "Episode": "Icon/MapChallenge/challenge_boss_bust_03",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/challenge_boss_03",
-    "HasImage": true,
     "DropItem": [
       20093,
       21093
@@ -39,11 +33,8 @@
     "MonsterId": 4,
     "RegionType": 1,
     "Name": "热嘟噜噗男爵",
-    "HasName": true,
     "Icon": "worldboss_s_banshengshu",
-    "HasIcon": true,
     "UnlockCondition": "",
-    "HasUnlockCondition": false,
     "NeedRoguelike": 0,
     "Sort": 3,
     "OpenDay": [
@@ -56,14 +47,11 @@
       6
     ],
     "OpenDayDesc": "全天开放",
-    "HasOpenDayDesc": true,
     "EET": [
       7
     ],
     "Episode": "Icon/MapChallenge/challenge_boss_bust_02",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/challenge_boss_02",
-    "HasImage": true,
     "DropItem": [
       20083,
       21083
@@ -74,11 +62,8 @@
     "MonsterId": 4,
     "RegionType": 1,
     "Name": "怪诞舞者",
-    "HasName": true,
     "Icon": "worldboss_s_banshengshu",
-    "HasIcon": true,
     "UnlockCondition": "",
-    "HasUnlockCondition": false,
     "NeedRoguelike": 0,
     "Sort": 1,
     "OpenDay": [
@@ -91,14 +76,11 @@
       6
     ],
     "OpenDayDesc": "全天开放",
-    "HasOpenDayDesc": true,
     "EET": [
       7
     ],
     "Episode": "Icon/MapChallenge/challenge_boss_bust_01",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/challenge_boss_01",
-    "HasImage": true,
     "DropItem": [
       20073,
       21073
@@ -109,11 +91,8 @@
     "MonsterId": 4,
     "RegionType": 2,
     "Name": "寄生之庭-真格",
-    "HasName": true,
     "Icon": "worldboss_s_banshengshu",
-    "HasIcon": true,
     "UnlockCondition": "",
-    "HasUnlockCondition": false,
     "NeedRoguelike": 0,
     "Sort": 2,
     "OpenDay": [
@@ -126,14 +105,11 @@
       6
     ],
     "OpenDayDesc": "全天开放",
-    "HasOpenDayDesc": true,
     "EET": [
       7
     ],
     "Episode": "Icon/MapChallenge/challenge_boss_bust_01",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/challenge_boss_01",
-    "HasImage": true,
     "DropItem": [
       22063,
       20013,
@@ -145,11 +121,8 @@
     "MonsterId": 4,
     "RegionType": 2,
     "Name": "猛进之灵-真格",
-    "HasName": true,
     "Icon": "worldboss_s_fanrongshiti",
-    "HasIcon": true,
     "UnlockCondition": "",
-    "HasUnlockCondition": false,
     "NeedRoguelike": 0,
     "Sort": 3,
     "OpenDay": [
@@ -162,14 +135,11 @@
       6
     ],
     "OpenDayDesc": "全天开放",
-    "HasOpenDayDesc": true,
     "EET": [
       4
     ],
     "Episode": "Icon/MapChallenge/challenge_boss_bust_02",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/challenge_boss_02",
-    "HasImage": true,
     "DropItem": [
       22023,
       20003,
@@ -181,11 +151,8 @@
     "MonsterId": 4,
     "RegionType": 2,
     "Name": "魔侍巨像-真格",
-    "HasName": true,
     "Icon": "worldboss_s_banshengshu",
-    "HasIcon": true,
     "UnlockCondition": "",
-    "HasUnlockCondition": false,
     "NeedRoguelike": 0,
     "Sort": 1,
     "OpenDay": [
@@ -198,14 +165,11 @@
       6
     ],
     "OpenDayDesc": "全天开放",
-    "HasOpenDayDesc": true,
     "EET": [
       1
     ],
     "Episode": "Icon/MapChallenge/challenge_boss_bust_03",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/challenge_boss_03",
-    "HasImage": true,
     "DropItem": [
       22013,
       20023,
@@ -217,11 +181,8 @@
     "MonsterId": 4,
     "RegionType": 2,
     "Name": "翠煌之刃-真格",
-    "HasName": true,
     "Icon": "worldboss_s_banshengshu",
-    "HasIcon": true,
     "UnlockCondition": "",
-    "HasUnlockCondition": false,
     "NeedRoguelike": 0,
     "Sort": 4,
     "OpenDay": [
@@ -234,14 +195,11 @@
       6
     ],
     "OpenDayDesc": "全天开放",
-    "HasOpenDayDesc": true,
     "EET": [
       6
     ],
     "Episode": "Icon/MapChallenge/challenge_boss_bust_04",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/challenge_boss_04",
-    "HasImage": true,
     "DropItem": [
       22053,
       20053,
@@ -253,11 +211,8 @@
     "MonsterId": 4,
     "RegionType": 2,
     "Name": "流风美人-真格",
-    "HasName": true,
     "Icon": "worldboss_s_banshengshu",
-    "HasIcon": true,
     "UnlockCondition": "",
-    "HasUnlockCondition": false,
     "NeedRoguelike": 0,
     "Sort": 5,
     "OpenDay": [
@@ -270,14 +225,11 @@
       6
     ],
     "OpenDayDesc": "全天开放",
-    "HasOpenDayDesc": true,
     "EET": [
       2
     ],
     "Episode": "Icon/MapChallenge/challenge_boss_bust_05",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/challenge_boss_05",
-    "HasImage": true,
     "DropItem": [
       22033,
       20043,
@@ -289,11 +241,8 @@
     "MonsterId": 4,
     "RegionType": 2,
     "Name": "咕噜六角鲸-真格",
-    "HasName": true,
     "Icon": "worldboss_s_banshengshu",
-    "HasIcon": true,
     "UnlockCondition": "",
-    "HasUnlockCondition": false,
     "NeedRoguelike": 0,
     "Sort": 6,
     "OpenDay": [
@@ -306,14 +255,11 @@
       6
     ],
     "OpenDayDesc": "全天开放",
-    "HasOpenDayDesc": true,
     "EET": [
       7
     ],
     "Episode": "Icon/MapChallenge/challenge_boss_bust_06",
-    "HasEpisode": true,
     "Image": "Icon/MapChallenge/challenge_boss_06",
-    "HasImage": true,
     "DropItem": [
       22043,
       20063,

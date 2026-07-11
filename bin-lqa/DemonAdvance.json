@@ -2,7 +2,6 @@
   "1": {
     "Id": 1,
     "AdvanceName": "魔王权限等级",
-    "HasAdvanceName": true,
     "LevelRange": [
       1,
       40

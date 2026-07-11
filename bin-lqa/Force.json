@@ -2,41 +2,29 @@
   "1": {
     "Id": 1,
     "Title": "空白旅团",
-    "HasTitle": true,
     "Icon1": "Icon/ZZZOther/forces_001_l",
-    "HasIcon1": true,
     "Icon2": "Icon/ZZZOther/forces_001",
-    "HasIcon2": true,
     "TalentPos": []
   },
   "2": {
     "Id": 2,
     "Title": "自由旅人",
-    "HasTitle": true,
     "Icon1": "Icon/ZZZOther/forces_002_l",
-    "HasIcon1": true,
     "Icon2": "Icon/ZZZOther/forces_002",
-    "HasIcon2": true,
     "TalentPos": []
   },
   "4": {
     "Id": 4,
     "Title": "帝国卫队",
-    "HasTitle": true,
     "Icon1": "Icon/ZZZOther/forces_004_l",
-    "HasIcon1": true,
     "Icon2": "Icon/ZZZOther/forces_004",
-    "HasIcon2": true,
     "TalentPos": []
   },
   "5": {
     "Id": 5,
     "Title": "白猫剧团",
-    "HasTitle": true,
     "Icon1": "Icon/ZZZOther/forces_005_l",
-    "HasIcon1": true,
     "Icon2": "Icon/ZZZOther/forces_005",
-    "HasIcon2": true,
     "TalentPos": [
       0,
       -27
@@ -45,91 +33,64 @@
   "6": {
     "Id": 6,
     "Title": "灰风俱乐部",
-    "HasTitle": true,
     "Icon1": "Icon/ZZZOther/forces_006_l",
-    "HasIcon1": true,
     "Icon2": "Icon/ZZZOther/forces_006",
-    "HasIcon2": true,
     "TalentPos": []
   },
   "7": {
     "Id": 7,
     "Title": "万送屋",
-    "HasTitle": true,
     "Icon1": "Icon/ZZZOther/forces_007_l",
-    "HasIcon1": true,
     "Icon2": "Icon/ZZZOther/forces_007",
-    "HasIcon2": true,
     "TalentPos": []
   },
   "8": {
     "Id": 8,
     "Title": "谷风家政",
-    "HasTitle": true,
     "Icon1": "Icon/ZZZOther/forces_008_l",
-    "HasIcon1": true,
     "Icon2": "Icon/ZZZOther/forces_008",
-    "HasIcon2": true,
     "TalentPos": []
   },
   "9": {
     "Id": 9,
     "Title": "绯瞳传讯",
-    "HasTitle": true,
     "Icon1": "Icon/ZZZOther/forces_009_l",
-    "HasIcon1": true,
     "Icon2": "Icon/ZZZOther/forces_009",
-    "HasIcon2": true,
     "TalentPos": []
   },
   "10": {
     "Id": 10,
     "Title": "恩赐意志",
-    "HasTitle": true,
     "Icon1": "Icon/ZZZOther/forces_010_l",
-    "HasIcon1": true,
     "Icon2": "Icon/ZZZOther/forces_010",
-    "HasIcon2": true,
     "TalentPos": []
   },
   "11": {
     "Id": 11,
     "Title": "联合种业",
-    "HasTitle": true,
     "Icon1": "Icon/ZZZOther/forces_011_l",
-    "HasIcon1": true,
     "Icon2": "Icon/ZZZOther/forces_011",
-    "HasIcon2": true,
     "TalentPos": []
   },
   "12": {
     "Id": 12,
     "Title": "花令旅团",
-    "HasTitle": true,
     "Icon1": "Icon/ZZZOther/forces_012_l",
-    "HasIcon1": true,
     "Icon2": "Icon/ZZZOther/forces_012",
-    "HasIcon2": true,
     "TalentPos": []
   },
   "13": {
     "Id": 13,
     "Title": "地理协会",
-    "HasTitle": true,
     "Icon1": "Icon/ZZZOther/forces_013_l",
-    "HasIcon1": true,
     "Icon2": "Icon/ZZZOther/forces_013",
-    "HasIcon2": true,
     "TalentPos": []
   },
   "14": {
     "Id": 14,
     "Title": "凤凰炒蛋",
-    "HasTitle": true,
     "Icon1": "Icon/ZZZOther/forces_003_l",
-    "HasIcon1": true,
     "Icon2": "Icon/ZZZOther/forces_003",
-    "HasIcon2": true,
     "TalentPos": [
       0,
       -11
@@ -138,11 +99,8 @@
   "15": {
     "Id": 15,
     "Title": "白泽公署",
-    "HasTitle": true,
     "Icon1": "Icon/ZZZOther/forces_003_l",
-    "HasIcon1": true,
     "Icon2": "Icon/ZZZOther/forces_003",
-    "HasIcon2": true,
     "TalentPos": [
       0,
       -11
@@ -151,11 +109,8 @@
   "16": {
     "Id": 16,
     "Title": "云笈文化",
-    "HasTitle": true,
     "Icon1": "Icon/ZZZOther/forces_003_l",
-    "HasIcon1": true,
     "Icon2": "Icon/ZZZOther/forces_003",
-    "HasIcon2": true,
     "TalentPos": [
       0,
       -11
@@ -164,11 +119,8 @@
   "17": {
     "Id": 17,
     "Title": "柔光会社",
-    "HasTitle": true,
     "Icon1": "Icon/ZZZOther/forces_017_l",
-    "HasIcon1": true,
     "Icon2": "Icon/ZZZOther/forces_017",
-    "HasIcon2": true,
     "TalentPos": []
   }
 }

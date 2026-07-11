@@ -1163,12 +1163,6 @@
     "LevelData": 0,
     "MainOrSupport": 0
   },
-  "14308011": {
-    "Id": 14308011,
-    "LevelTypeData": 0,
-    "LevelData": 0,
-    "MainOrSupport": 0
-  },
   "14309011": {
     "Id": 14309011,
     "LevelTypeData": 0,
@@ -1275,6 +1269,12 @@
     "Id": 15643011,
     "LevelTypeData": 0,
     "LevelData": 0,
+    "MainOrSupport": 0
+  },
+  "15907001": {
+    "Id": 15907001,
+    "LevelTypeData": 1,
+    "LevelData": 515907,
     "MainOrSupport": 0
   },
   "3007100": {

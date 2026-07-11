@@ -1,611 +1,437 @@
 {
   "1": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 1,
-    "Key": "Enums_Effect_1",
-    "HasKey": true
+    "Key": "Enums_Effect_1"
   },
   "2": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 2,
-    "Key": "Enums_Effect_2",
-    "HasKey": true
+    "Key": "Enums_Effect_2"
   },
   "3": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 3,
-    "Key": "Enums_Effect_3",
-    "HasKey": true
+    "Key": "Enums_Effect_3"
   },
   "4": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 4,
-    "Key": "Enums_Effect_4",
-    "HasKey": true
+    "Key": "Enums_Effect_4"
   },
   "5": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 5,
-    "Key": "Enums_Effect_5",
-    "HasKey": true
+    "Key": "Enums_Effect_5"
   },
   "6": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 6,
-    "Key": "Enums_Effect_6",
-    "HasKey": true
+    "Key": "Enums_Effect_6"
   },
   "7": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 7,
-    "Key": "Enums_Effect_7",
-    "HasKey": true
+    "Key": "Enums_Effect_7"
   },
   "8": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 8,
-    "Key": "Enums_Effect_8",
-    "HasKey": true
+    "Key": "Enums_Effect_8"
   },
   "9": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 9,
-    "Key": "Enums_Effect_9",
-    "HasKey": true
+    "Key": "Enums_Effect_9"
   },
   "10": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 10,
-    "Key": "Enums_Effect_10",
-    "HasKey": true
+    "Key": "Enums_Effect_10"
   },
   "11": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 11,
-    "Key": "Enums_Effect_11",
-    "HasKey": true
+    "Key": "Enums_Effect_11"
   },
   "12": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 12,
-    "Key": "Enums_Effect_12",
-    "HasKey": true
+    "Key": "Enums_Effect_12"
   },
   "13": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 13,
-    "Key": "Enums_Effect_13",
-    "HasKey": true
+    "Key": "Enums_Effect_13"
   },
   "14": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 14,
-    "Key": "Enums_Effect_14",
-    "HasKey": true
+    "Key": "Enums_Effect_14"
   },
   "15": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 15,
-    "Key": "Enums_Effect_15",
-    "HasKey": true
+    "Key": "Enums_Effect_15"
   },
   "16": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 16,
-    "Key": "Enums_Effect_16",
-    "HasKey": true
+    "Key": "Enums_Effect_16"
   },
   "17": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 17,
-    "Key": "Enums_Effect_17",
-    "HasKey": true
+    "Key": "Enums_Effect_17"
   },
   "18": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 18,
-    "Key": "Enums_Effect_18",
-    "HasKey": true
+    "Key": "Enums_Effect_18"
   },
   "19": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 19,
-    "Key": "Enums_Effect_19",
-    "HasKey": true
+    "Key": "Enums_Effect_19"
   },
   "20": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 20,
-    "Key": "Enums_Effect_20",
-    "HasKey": true
+    "Key": "Enums_Effect_20"
   },
   "21": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 21,
-    "Key": "Enums_Effect_21",
-    "HasKey": true
+    "Key": "Enums_Effect_21"
   },
   "22": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 22,
-    "Key": "Enums_Effect_22",
-    "HasKey": true
+    "Key": "Enums_Effect_22"
   },
   "23": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 23,
-    "Key": "Enums_Effect_23",
-    "HasKey": true
+    "Key": "Enums_Effect_23"
   },
   "24": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 24,
-    "Key": "Enums_Effect_24",
-    "HasKey": true
+    "Key": "Enums_Effect_24"
   },
   "25": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 25,
-    "Key": "Enums_Effect_25",
-    "HasKey": true
+    "Key": "Enums_Effect_25"
   },
   "26": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 26,
-    "Key": "Enums_Effect_26",
-    "HasKey": true
+    "Key": "Enums_Effect_26"
   },
   "27": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 27,
-    "Key": "Enums_Effect_27",
-    "HasKey": true
+    "Key": "Enums_Effect_27"
   },
   "28": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 28,
-    "Key": "Enums_Effect_28",
-    "HasKey": true
+    "Key": "Enums_Effect_28"
   },
   "29": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 29,
-    "Key": "Enums_Effect_29",
-    "HasKey": true
+    "Key": "Enums_Effect_29"
   },
   "30": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 30,
-    "Key": "Enums_Effect_30",
-    "HasKey": true
+    "Key": "Enums_Effect_30"
   },
   "31": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 31,
-    "Key": "Enums_Effect_31",
-    "HasKey": true
+    "Key": "Enums_Effect_31"
   },
   "32": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 32,
-    "Key": "Enums_Effect_32",
-    "HasKey": true
+    "Key": "Enums_Effect_32"
   },
   "33": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 33,
-    "Key": "Enums_Effect_33",
-    "HasKey": true
+    "Key": "Enums_Effect_33"
   },
   "34": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 34,
-    "Key": "Enums_Effect_34",
-    "HasKey": true
+    "Key": "Enums_Effect_34"
   },
   "35": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 35,
-    "Key": "Enums_Effect_35",
-    "HasKey": true
+    "Key": "Enums_Effect_35"
   },
   "36": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 36,
-    "Key": "Enums_Effect_36",
-    "HasKey": true
+    "Key": "Enums_Effect_36"
   },
   "37": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 37,
-    "Key": "Enums_Effect_37",
-    "HasKey": true
+    "Key": "Enums_Effect_37"
   },
   "38": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 38,
-    "Key": "Enums_Effect_38",
-    "HasKey": true
+    "Key": "Enums_Effect_38"
   },
   "39": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 39,
-    "Key": "Enums_Effect_39",
-    "HasKey": true
+    "Key": "Enums_Effect_39"
   },
   "40": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 40,
-    "Key": "Enums_Effect_40",
-    "HasKey": true
+    "Key": "Enums_Effect_40"
   },
   "41": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 41,
-    "Key": "Enums_Effect_41",
-    "HasKey": true
+    "Key": "Enums_Effect_41"
   },
   "42": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 42,
-    "Key": "Enums_Effect_42",
-    "HasKey": true
+    "Key": "Enums_Effect_42"
   },
   "43": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 43,
-    "Key": "Enums_Effect_43",
-    "HasKey": true
+    "Key": "Enums_Effect_43"
   },
   "44": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 44,
-    "Key": "Enums_Effect_44",
-    "HasKey": true
+    "Key": "Enums_Effect_44"
   },
   "45": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 45,
-    "Key": "Enums_Effect_45",
-    "HasKey": true
+    "Key": "Enums_Effect_45"
   },
   "46": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 46,
-    "Key": "Enums_Effect_46",
-    "HasKey": true
+    "Key": "Enums_Effect_46"
   },
   "47": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 47,
-    "Key": "Enums_Effect_47",
-    "HasKey": true
+    "Key": "Enums_Effect_47"
   },
   "48": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 48,
-    "Key": "Enums_Effect_48",
-    "HasKey": true
+    "Key": "Enums_Effect_48"
   },
   "49": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 49,
-    "Key": "Enums_Effect_49",
-    "HasKey": true
+    "Key": "Enums_Effect_49"
   },
   "50": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 50,
-    "Key": "Enums_Effect_50",
-    "HasKey": true
+    "Key": "Enums_Effect_50"
   },
   "51": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 51,
-    "Key": "Enums_Effect_51",
-    "HasKey": true
+    "Key": "Enums_Effect_51"
   },
   "52": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 52,
-    "Key": "Enums_Effect_52",
-    "HasKey": true
+    "Key": "Enums_Effect_52"
   },
   "53": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 53,
-    "Key": "Enums_Effect_53",
-    "HasKey": true
+    "Key": "Enums_Effect_53"
   },
   "54": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 54,
-    "Key": "Enums_Effect_54",
-    "HasKey": true
+    "Key": "Enums_Effect_54"
   },
   "55": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 55,
-    "Key": "Enums_Effect_55",
-    "HasKey": true
+    "Key": "Enums_Effect_55"
   },
   "56": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 56,
-    "Key": "Enums_Effect_56",
-    "HasKey": true
+    "Key": "Enums_Effect_56"
   },
   "57": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 57,
-    "Key": "Enums_Effect_57",
-    "HasKey": true
+    "Key": "Enums_Effect_57"
   },
   "58": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 58,
-    "Key": "Enums_Effect_58",
-    "HasKey": true
+    "Key": "Enums_Effect_58"
   },
   "59": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 59,
-    "Key": "Enums_Effect_59",
-    "HasKey": true
+    "Key": "Enums_Effect_59"
   },
   "60": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 60,
-    "Key": "Enums_Effect_60",
-    "HasKey": true
+    "Key": "Enums_Effect_60"
   },
   "61": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 61,
-    "Key": "Enums_Effect_61",
-    "HasKey": true
+    "Key": "Enums_Effect_61"
   },
   "62": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 62,
-    "Key": "Enums_Effect_62",
-    "HasKey": true
+    "Key": "Enums_Effect_62"
   },
   "63": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 63,
-    "Key": "Enums_Effect_63",
-    "HasKey": true
+    "Key": "Enums_Effect_63"
   },
   "64": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 64,
-    "Key": "Enums_Effect_64",
-    "HasKey": true
+    "Key": "Enums_Effect_64"
   },
   "65": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 65,
-    "Key": "Enums_Effect_65",
-    "HasKey": true
+    "Key": "Enums_Effect_65"
   },
   "66": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 66,
-    "Key": "Enums_Effect_66",
-    "HasKey": true
+    "Key": "Enums_Effect_66"
   },
   "67": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 67,
-    "Key": "Enums_Effect_67",
-    "HasKey": true
+    "Key": "Enums_Effect_67"
   },
   "68": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 68,
-    "Key": "Enums_Effect_68",
-    "HasKey": true
+    "Key": "Enums_Effect_68"
   },
   "69": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 69,
-    "Key": "Enums_Effect_69",
-    "HasKey": true
+    "Key": "Enums_Effect_69"
   },
   "70": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 70,
-    "Key": "Enums_Effect_70",
-    "HasKey": true
+    "Key": "Enums_Effect_70"
   },
   "71": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 71,
-    "Key": "Enums_Effect_71",
-    "HasKey": true
+    "Key": "Enums_Effect_71"
   },
   "72": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 72,
-    "Key": "Enums_Effect_72",
-    "HasKey": true
+    "Key": "Enums_Effect_72"
   },
   "73": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 73,
-    "Key": "Enums_Effect_73",
-    "HasKey": true
+    "Key": "Enums_Effect_73"
   },
   "74": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 74,
-    "Key": "Enums_Effect_74",
-    "HasKey": true
+    "Key": "Enums_Effect_74"
   },
   "75": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 75,
-    "Key": "Enums_Effect_75",
-    "HasKey": true
+    "Key": "Enums_Effect_75"
   },
   "76": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 76,
-    "Key": "Enums_Effect_76",
-    "HasKey": true
+    "Key": "Enums_Effect_76"
   },
   "77": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 77,
-    "Key": "Enums_Effect_77",
-    "HasKey": true
+    "Key": "Enums_Effect_77"
   },
   "78": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 78,
-    "Key": "Enums_Effect_78",
-    "HasKey": true
+    "Key": "Enums_Effect_78"
   },
   "79": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 79,
-    "Key": "Enums_Effect_79",
-    "HasKey": true
+    "Key": "Enums_Effect_79"
   },
   "80": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 80,
-    "Key": "Enums_Effect_80",
-    "HasKey": true
+    "Key": "Enums_Effect_80"
   },
   "81": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 81,
-    "Key": "Enums_Effect_81",
-    "HasKey": true
+    "Key": "Enums_Effect_81"
   },
   "82": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 82,
-    "Key": "Enums_Effect_82",
-    "HasKey": true
+    "Key": "Enums_Effect_82"
   },
   "83": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 83,
-    "Key": "Enums_Effect_83",
-    "HasKey": true
+    "Key": "Enums_Effect_83"
   },
   "84": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 84,
-    "Key": "Enums_Effect_84",
-    "HasKey": true
+    "Key": "Enums_Effect_84"
   },
   "85": {
     "EnumName": "EAT",
-    "HasEnumName": true,
     "Value": 85,
-    "Key": "Enums_Effect_85",
-    "HasKey": true
+    "Key": "Enums_Effect_85"
   },
   "86": {
     "EnumName": "PAT",
-    "HasEnumName": true,
     "Value": 1,
-    "Key": "Enums_Effect_86",
-    "HasKey": true
+    "Key": "Enums_Effect_86"
   },
   "87": {
     "EnumName": "PAT",
-    "HasEnumName": true,
     "Value": 2,
-    "Key": "Enums_Effect_87",
-    "HasKey": true
+    "Key": "Enums_Effect_87"
   }
 }

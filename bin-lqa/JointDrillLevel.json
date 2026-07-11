@@ -11,15 +11,12 @@
     "BossId": 7010001,
     "FirstRRDropId": 104,
     "RewardPreview": "[[2,50,1],[34,200,0]]",
-    "HasRewardPreview": true,
     "TimeScore": 340000,
     "ScorePerSec": 600,
     "LevelScore": 200000,
     "BaseHpScore": 180000,
     "LevelImage": "UI_Activity/_510001/SpriteAtlas/zs_jointdrill_level_01",
-    "HasLevelImage": true,
     "LevelImageGoing": "UI_Activity/_510001/SpriteAtlas/zs_jointdrill_level_02",
-    "HasLevelImageGoing": true,
     "BossAffix": [
       10001,
       10002,
@@ -30,8 +27,7 @@
     ],
     "RecommendBuildRank": 14,
     "RecommendLv": 42,
-    "SubName": "交响曲",
-    "HasSubName": true
+    "SubName": "交响曲"
   },
   "1002": {
     "Id": 1002,
@@ -45,15 +41,12 @@
     "BossId": 7010003,
     "FirstRRDropId": 104,
     "RewardPreview": "[[2,50,1],[34,300,0]]",
-    "HasRewardPreview": true,
     "TimeScore": 680000,
     "ScorePerSec": 1200,
     "LevelScore": 400000,
     "BaseHpScore": 360000,
     "LevelImage": "UI_Activity/_510001/SpriteAtlas/zs_jointdrill_level_01",
-    "HasLevelImage": true,
     "LevelImageGoing": "UI_Activity/_510001/SpriteAtlas/zs_jointdrill_level_02",
-    "HasLevelImageGoing": true,
     "BossAffix": [
       10001,
       10002,
@@ -64,8 +57,7 @@
     ],
     "RecommendBuildRank": 17,
     "RecommendLv": 62,
-    "SubName": "交响曲",
-    "HasSubName": true
+    "SubName": "交响曲"
   },
   "1003": {
     "Id": 1003,
@@ -79,15 +71,12 @@
     "BossId": 7010005,
     "FirstRRDropId": 104,
     "RewardPreview": "[[2,50,1],[34,400,0]]",
-    "HasRewardPreview": true,
     "TimeScore": 1370000,
     "ScorePerSec": 2400,
     "LevelScore": 800000,
     "BaseHpScore": 720000,
     "LevelImage": "UI_Activity/_510001/SpriteAtlas/zs_jointdrill_level_01",
-    "HasLevelImage": true,
     "LevelImageGoing": "UI_Activity/_510001/SpriteAtlas/zs_jointdrill_level_02",
-    "HasLevelImageGoing": true,
     "BossAffix": [
       10001,
       10002,
@@ -98,8 +87,7 @@
     ],
     "RecommendBuildRank": 22,
     "RecommendLv": 72,
-    "SubName": "交响曲",
-    "HasSubName": true
+    "SubName": "交响曲"
   },
   "1004": {
     "Id": 1004,
@@ -113,15 +101,12 @@
     "BossId": 7010007,
     "FirstRRDropId": 104,
     "RewardPreview": "[[2,50,1],[34,500,0]]",
-    "HasRewardPreview": true,
     "TimeScore": 2740000,
     "ScorePerSec": 4800,
     "LevelScore": 1600000,
     "BaseHpScore": 1440000,
     "LevelImage": "UI_Activity/_510001/SpriteAtlas/zs_jointdrill_level_01",
-    "HasLevelImage": true,
     "LevelImageGoing": "UI_Activity/_510001/SpriteAtlas/zs_jointdrill_level_02",
-    "HasLevelImageGoing": true,
     "BossAffix": [
       10001,
       10002,
@@ -132,8 +117,7 @@
     ],
     "RecommendBuildRank": 27,
     "RecommendLv": 82,
-    "SubName": "交响曲",
-    "HasSubName": true
+    "SubName": "交响曲"
   },
   "1005": {
     "Id": 1005,
@@ -147,15 +131,12 @@
     "BossId": 7010031,
     "FirstRRDropId": 104,
     "RewardPreview": "[[2,50,1],[34,200,0]]",
-    "HasRewardPreview": true,
     "TimeScore": 340000,
     "ScorePerSec": 600,
     "LevelScore": 200000,
     "BaseHpScore": 180000,
     "LevelImage": "UI_Activity/_510001/SpriteAtlas/zs_jointdrill_level_03",
-    "HasLevelImage": true,
     "LevelImageGoing": "UI_Activity/_510001/SpriteAtlas/zs_jointdrill_level_04",
-    "HasLevelImageGoing": true,
     "BossAffix": [
       10007,
       10008,
@@ -166,8 +147,7 @@
     ],
     "RecommendBuildRank": 14,
     "RecommendLv": 42,
-    "SubName": "圆舞曲",
-    "HasSubName": true
+    "SubName": "圆舞曲"
   },
   "1006": {
     "Id": 1006,
@@ -181,15 +161,12 @@
     "BossId": 7010033,
     "FirstRRDropId": 104,
     "RewardPreview": "[[2,50,1],[34,300,0]]",
-    "HasRewardPreview": true,
     "TimeScore": 680000,
     "ScorePerSec": 1200,
     "LevelScore": 400000,
     "BaseHpScore": 360000,
     "LevelImage": "UI_Activity/_510001/SpriteAtlas/zs_jointdrill_level_03",
-    "HasLevelImage": true,
     "LevelImageGoing": "UI_Activity/_510001/SpriteAtlas/zs_jointdrill_level_04",
-    "HasLevelImageGoing": true,
     "BossAffix": [
       10007,
       10008,
@@ -200,8 +177,7 @@
     ],
     "RecommendBuildRank": 17,
     "RecommendLv": 62,
-    "SubName": "圆舞曲",
-    "HasSubName": true
+    "SubName": "圆舞曲"
   },
   "1007": {
     "Id": 1007,
@@ -215,15 +191,12 @@
     "BossId": 7010035,
     "FirstRRDropId": 104,
     "RewardPreview": "[[2,50,1],[34,400,0]]",
-    "HasRewardPreview": true,
     "TimeScore": 1370000,
     "ScorePerSec": 2400,
     "LevelScore": 800000,
     "BaseHpScore": 720000,
     "LevelImage": "UI_Activity/_510001/SpriteAtlas/zs_jointdrill_level_03",
-    "HasLevelImage": true,
     "LevelImageGoing": "UI_Activity/_510001/SpriteAtlas/zs_jointdrill_level_04",
-    "HasLevelImageGoing": true,
     "BossAffix": [
       10007,
       10008,
@@ -234,8 +207,7 @@
     ],
     "RecommendBuildRank": 22,
     "RecommendLv": 72,
-    "SubName": "圆舞曲",
-    "HasSubName": true
+    "SubName": "圆舞曲"
   },
   "1008": {
     "Id": 1008,
@@ -249,15 +221,12 @@
     "BossId": 7010037,
     "FirstRRDropId": 104,
     "RewardPreview": "[[2,50,1],[34,500,0]]",
-    "HasRewardPreview": true,
     "TimeScore": 2740000,
     "ScorePerSec": 4800,
     "LevelScore": 1600000,
     "BaseHpScore": 1440000,
     "LevelImage": "UI_Activity/_510001/SpriteAtlas/zs_jointdrill_level_03",
-    "HasLevelImage": true,
     "LevelImageGoing": "UI_Activity/_510001/SpriteAtlas/zs_jointdrill_level_04",
-    "HasLevelImageGoing": true,
     "BossAffix": [
       10007,
       10008,
@@ -268,8 +237,7 @@
     ],
     "RecommendBuildRank": 27,
     "RecommendLv": 82,
-    "SubName": "圆舞曲",
-    "HasSubName": true
+    "SubName": "圆舞曲"
   },
   "1009": {
     "Id": 1009,
@@ -283,15 +251,12 @@
     "BossId": 7010039,
     "FirstRRDropId": 104,
     "RewardPreview": "[[2,50,1],[34,500,0]]",
-    "HasRewardPreview": true,
     "TimeScore": 4380000,
-    "ScorePerSec": 7680,
+    "ScorePerSec": 6200,
     "LevelScore": 2560000,
     "BaseHpScore": 2304000,
     "LevelImage": "UI_Activity/_510001/SpriteAtlas/zs_jointdrill_level_03",
-    "HasLevelImage": true,
     "LevelImageGoing": "UI_Activity/_510001/SpriteAtlas/zs_jointdrill_level_04",
-    "HasLevelImageGoing": true,
     "BossAffix": [
       10007,
       10008,
@@ -302,7 +267,6 @@
     ],
     "RecommendBuildRank": 32,
     "RecommendLv": 90,
-    "SubName": "圆舞曲",
-    "HasSubName": true
+    "SubName": "圆舞曲"
   }
 }

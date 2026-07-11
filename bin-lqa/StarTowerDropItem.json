@@ -12,8 +12,7 @@
       100,
       100
     ],
-    "Model": "FX/Drop/fx_drop_coin",
-    "HasModel": true
+    "Model": "FX/Drop/fx_drop_coin"
   },
   "2": {
     "Id": 2,
@@ -28,8 +27,7 @@
       0,
       0
     ],
-    "Model": "FX/Drop/fx_drop_exp_small",
-    "HasModel": true
+    "Model": "FX/Drop/fx_drop_exp_small"
   },
   "3": {
     "Id": 3,
@@ -44,8 +42,7 @@
       100,
       100
     ],
-    "Model": "FX/Drop/fx_drop_exp_big",
-    "HasModel": true
+    "Model": "FX/Drop/fx_drop_exp_big"
   },
   "4": {
     "Id": 4,
@@ -60,8 +57,7 @@
       100,
       100
     ],
-    "Model": "FX/Drop/fx_drop_card",
-    "HasModel": true
+    "Model": "FX/Drop/fx_drop_card"
   },
   "5": {
     "Id": 5,
@@ -76,7 +72,6 @@
       100,
       100
     ],
-    "Model": "FX/Drop/fx_drop_note_glass",
-    "HasModel": true
+    "Model": "FX/Drop/fx_drop_note_glass"
   }
 }

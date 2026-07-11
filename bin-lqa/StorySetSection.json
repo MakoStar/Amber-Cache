@@ -5,11 +5,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第一话",
-    "HasTitle": true,
     "Desc": "刀尖之寒，掌心之暖 其一",
-    "HasDesc": true,
-    "AVGId": "STsp_01_01",
-    "HasAVGId": true
+    "AVGId": "STsp_01_01"
   },
   "100102": {
     "Id": 100102,
@@ -17,11 +14,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第二话",
-    "HasTitle": true,
     "Desc": "刀尖之寒，掌心之暖 其二",
-    "HasDesc": true,
-    "AVGId": "STsp_01_02",
-    "HasAVGId": true
+    "AVGId": "STsp_01_02"
   },
   "100103": {
     "Id": 100103,
@@ -29,11 +23,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第三话",
-    "HasTitle": true,
     "Desc": "刀尖之寒，掌心之暖 其三",
-    "HasDesc": true,
-    "AVGId": "STsp_01_03",
-    "HasAVGId": true
+    "AVGId": "STsp_01_03"
   },
   "100201": {
     "Id": 100201,
@@ -41,11 +32,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第一话",
-    "HasTitle": true,
     "Desc": "仍未知晓，你的名字 其一",
-    "HasDesc": true,
-    "AVGId": "STsp_02_01",
-    "HasAVGId": true
+    "AVGId": "STsp_02_01"
   },
   "100202": {
     "Id": 100202,
@@ -53,11 +41,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第二话",
-    "HasTitle": true,
     "Desc": "仍未知晓，你的名字 其二",
-    "HasDesc": true,
-    "AVGId": "STsp_02_02",
-    "HasAVGId": true
+    "AVGId": "STsp_02_02"
   },
   "100203": {
     "Id": 100203,
@@ -65,11 +50,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第三话",
-    "HasTitle": true,
     "Desc": "仍未知晓，你的名字 其三",
-    "HasDesc": true,
-    "AVGId": "STsp_02_03",
-    "HasAVGId": true
+    "AVGId": "STsp_02_03"
   },
   "100204": {
     "Id": 100204,
@@ -77,11 +59,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第四话",
-    "HasTitle": true,
     "Desc": "仍未知晓，你的名字 其四",
-    "HasDesc": true,
-    "AVGId": "STsp_02_04",
-    "HasAVGId": true
+    "AVGId": "STsp_02_04"
   },
   "100301": {
     "Id": 100301,
@@ -89,11 +68,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第一话",
-    "HasTitle": true,
     "Desc": "夜放花千树 其一",
-    "HasDesc": true,
-    "AVGId": "STsp_03_01",
-    "HasAVGId": true
+    "AVGId": "STsp_03_01"
   },
   "100302": {
     "Id": 100302,
@@ -101,11 +77,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第二话",
-    "HasTitle": true,
     "Desc": "夜放花千树 其二",
-    "HasDesc": true,
-    "AVGId": "STsp_03_02",
-    "HasAVGId": true
+    "AVGId": "STsp_03_02"
   },
   "100303": {
     "Id": 100303,
@@ -113,11 +86,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第三话",
-    "HasTitle": true,
     "Desc": "夜放花千树 其三",
-    "HasDesc": true,
-    "AVGId": "STsp_03_03",
-    "HasAVGId": true
+    "AVGId": "STsp_03_03"
   },
   "100401": {
     "Id": 100401,
@@ -125,11 +95,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第一话",
-    "HasTitle": true,
     "Desc": "抹茶梦语 其一",
-    "HasDesc": true,
-    "AVGId": "STsp_04_01",
-    "HasAVGId": true
+    "AVGId": "STsp_04_01"
   },
   "100402": {
     "Id": 100402,
@@ -137,11 +104,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第二话",
-    "HasTitle": true,
     "Desc": "抹茶梦语 其二",
-    "HasDesc": true,
-    "AVGId": "STsp_04_02",
-    "HasAVGId": true
+    "AVGId": "STsp_04_02"
   },
   "100403": {
     "Id": 100403,
@@ -149,11 +113,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第三话",
-    "HasTitle": true,
     "Desc": "抹茶梦语 其三",
-    "HasDesc": true,
-    "AVGId": "STsp_04_03",
-    "HasAVGId": true
+    "AVGId": "STsp_04_03"
   },
   "100501": {
     "Id": 100501,
@@ -161,11 +122,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第一话",
-    "HasTitle": true,
     "Desc": "老油条与新员工 其一",
-    "HasDesc": true,
-    "AVGId": "STsp_05_01",
-    "HasAVGId": true
+    "AVGId": "STsp_05_01"
   },
   "100502": {
     "Id": 100502,
@@ -173,11 +131,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第二话",
-    "HasTitle": true,
     "Desc": "老油条与新员工 其二",
-    "HasDesc": true,
-    "AVGId": "STsp_05_02",
-    "HasAVGId": true
+    "AVGId": "STsp_05_02"
   },
   "100503": {
     "Id": 100503,
@@ -185,11 +140,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第三话",
-    "HasTitle": true,
     "Desc": "老油条与新员工 其三",
-    "HasDesc": true,
-    "AVGId": "STsp_05_03",
-    "HasAVGId": true
+    "AVGId": "STsp_05_03"
   },
   "100601": {
     "Id": 100601,
@@ -197,11 +149,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第一话",
-    "HasTitle": true,
     "Desc": "卫队之魂，骑士之心 其一",
-    "HasDesc": true,
-    "AVGId": "STsp_06_01",
-    "HasAVGId": true
+    "AVGId": "STsp_06_01"
   },
   "100602": {
     "Id": 100602,
@@ -209,11 +158,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第二话",
-    "HasTitle": true,
     "Desc": "卫队之魂，骑士之心 其二",
-    "HasDesc": true,
-    "AVGId": "STsp_06_02",
-    "HasAVGId": true
+    "AVGId": "STsp_06_02"
   },
   "100603": {
     "Id": 100603,
@@ -221,11 +167,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第三话",
-    "HasTitle": true,
     "Desc": "卫队之魂，骑士之心 其三",
-    "HasDesc": true,
-    "AVGId": "STsp_06_03",
-    "HasAVGId": true
+    "AVGId": "STsp_06_03"
   },
   "100701": {
     "Id": 100701,
@@ -233,11 +176,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第一话",
-    "HasTitle": true,
     "Desc": "雪愿的回响 其一",
-    "HasDesc": true,
-    "AVGId": "STsp_07_01",
-    "HasAVGId": true
+    "AVGId": "STsp_07_01"
   },
   "100702": {
     "Id": 100702,
@@ -245,11 +185,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第二话",
-    "HasTitle": true,
     "Desc": "雪愿的回响 其二",
-    "HasDesc": true,
-    "AVGId": "STsp_07_02",
-    "HasAVGId": true
+    "AVGId": "STsp_07_02"
   },
   "100703": {
     "Id": 100703,
@@ -257,11 +194,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第三话",
-    "HasTitle": true,
     "Desc": "雪愿的回响 其三",
-    "HasDesc": true,
-    "AVGId": "STsp_07_03",
-    "HasAVGId": true
+    "AVGId": "STsp_07_03"
   },
   "100801": {
     "Id": 100801,
@@ -269,11 +203,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第一话",
-    "HasTitle": true,
     "Desc": "真理的囚徒 其一",
-    "HasDesc": true,
-    "AVGId": "STsp_08_01",
-    "HasAVGId": true
+    "AVGId": "STsp_08_01"
   },
   "100802": {
     "Id": 100802,
@@ -281,11 +212,8 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第二话",
-    "HasTitle": true,
     "Desc": "真理的囚徒 其二",
-    "HasDesc": true,
-    "AVGId": "STsp_08_02",
-    "HasAVGId": true
+    "AVGId": "STsp_08_02"
   },
   "100803": {
     "Id": 100803,
@@ -293,10 +221,124 @@
     "RewardItem1Tid": 2,
     "RewardItem1Qty": 30,
     "Title": "第三话",
-    "HasTitle": true,
     "Desc": "真理的囚徒 其三",
-    "HasDesc": true,
-    "AVGId": "STsp_08_03",
-    "HasAVGId": true
+    "AVGId": "STsp_08_03"
+  },
+  "100901": {
+    "Id": 100901,
+    "ChapterId": 1009,
+    "RewardItem1Tid": 2,
+    "RewardItem1Qty": 30,
+    "Title": "第一话",
+    "Desc": "临时搭档 其一",
+    "AVGId": "STsp_09_01"
+  },
+  "100902": {
+    "Id": 100902,
+    "ChapterId": 1009,
+    "RewardItem1Tid": 2,
+    "RewardItem1Qty": 30,
+    "Title": "第二话",
+    "Desc": "临时搭档 其二",
+    "AVGId": "STsp_09_02"
+  },
+  "100903": {
+    "Id": 100903,
+    "ChapterId": 1009,
+    "RewardItem1Tid": 2,
+    "RewardItem1Qty": 30,
+    "Title": "第三话",
+    "Desc": "临时搭档 其三",
+    "AVGId": "STsp_09_03"
+  },
+  "101001": {
+    "Id": 101001,
+    "ChapterId": 1010,
+    "RewardItem1Tid": 2,
+    "RewardItem1Qty": 30,
+    "Title": "第一话",
+    "Desc": "丰收日 其一",
+    "AVGId": "STsp_10_01"
+  },
+  "101002": {
+    "Id": 101002,
+    "ChapterId": 1010,
+    "RewardItem1Tid": 2,
+    "RewardItem1Qty": 30,
+    "Title": "第二话",
+    "Desc": "丰收日 其二",
+    "AVGId": "STsp_10_02"
+  },
+  "101003": {
+    "Id": 101003,
+    "ChapterId": 1010,
+    "RewardItem1Tid": 2,
+    "RewardItem1Qty": 30,
+    "Title": "第三话",
+    "Desc": "丰收日 其三",
+    "AVGId": "STsp_10_03"
+  },
+  "101101": {
+    "Id": 101101,
+    "ChapterId": 1011,
+    "RewardItem1Tid": 2,
+    "RewardItem1Qty": 30,
+    "Title": "第一话",
+    "Desc": "晨间溜走的信使 其一",
+    "AVGId": "STsp_11_01"
+  },
+  "101102": {
+    "Id": 101102,
+    "ChapterId": 1011,
+    "RewardItem1Tid": 2,
+    "RewardItem1Qty": 30,
+    "Title": "第二话",
+    "Desc": "晨间溜走的信使 其二",
+    "AVGId": "STsp_11_02"
+  },
+  "101103": {
+    "Id": 101103,
+    "ChapterId": 1011,
+    "RewardItem1Tid": 2,
+    "RewardItem1Qty": 30,
+    "Title": "第三话",
+    "Desc": "晨间溜走的信使 其三",
+    "AVGId": "STsp_11_03"
+  },
+  "101201": {
+    "Id": 101201,
+    "ChapterId": 1012,
+    "RewardItem1Tid": 2,
+    "RewardItem1Qty": 30,
+    "Title": "第一话",
+    "Desc": "眼眸中的彼此 其一",
+    "AVGId": "STsp_12_01"
+  },
+  "101202": {
+    "Id": 101202,
+    "ChapterId": 1012,
+    "RewardItem1Tid": 2,
+    "RewardItem1Qty": 30,
+    "Title": "第二话",
+    "Desc": "眼眸中的彼此 其二",
+    "AVGId": "STsp_12_02"
+  },
+  "101203": {
+    "Id": 101203,
+    "ChapterId": 1012,
+    "RewardItem1Tid": 2,
+    "RewardItem1Qty": 30,
+    "Title": "第三话",
+    "Desc": "眼眸中的彼此 其三",
+    "AVGId": "STsp_12_03"
+  },
+  "101204": {
+    "Id": 101204,
+    "ChapterId": 1012,
+    "RewardItem1Tid": 2,
+    "RewardItem1Qty": 30,
+    "Title": "第四话",
+    "Desc": "眼眸中的彼此 其四",
+    "AVGId": "STsp_12_04"
   }
 }

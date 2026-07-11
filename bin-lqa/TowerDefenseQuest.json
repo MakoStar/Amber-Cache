@@ -7,7 +7,6 @@
       1101
     ],
     "Desc": "在「保卫战教程 I」中通关",
-    "HasDesc": true,
     "Item1": 32000,
     "Qty1": 40,
     "Item2": 0,
@@ -22,7 +21,6 @@
       2
     ],
     "Desc": "在「保卫战教程 I」中达到2星",
-    "HasDesc": true,
     "Item1": 33912,
     "Qty1": 10,
     "Item2": 0,
@@ -37,7 +35,6 @@
       3
     ],
     "Desc": "在「保卫战教程 I」中达到3星",
-    "HasDesc": true,
     "Item1": 2,
     "Qty1": 55,
     "Item2": 0,
@@ -51,7 +48,6 @@
       1102
     ],
     "Desc": "在「保卫战教程 II」中通关",
-    "HasDesc": true,
     "Item1": 32000,
     "Qty1": 40,
     "Item2": 0,
@@ -66,7 +62,6 @@
       2
     ],
     "Desc": "在「保卫战教程 II」中达到2星",
-    "HasDesc": true,
     "Item1": 33912,
     "Qty1": 10,
     "Item2": 0,
@@ -81,7 +76,6 @@
       3
     ],
     "Desc": "在「保卫战教程 II」中达到3星",
-    "HasDesc": true,
     "Item1": 2,
     "Qty1": 55,
     "Item2": 0,
@@ -95,7 +89,6 @@
       1103
     ],
     "Desc": "在「林中卫士 I」中通关",
-    "HasDesc": true,
     "Item1": 32000,
     "Qty1": 40,
     "Item2": 0,
@@ -110,7 +103,6 @@
       2
     ],
     "Desc": "在「林中卫士 I」中达到2星",
-    "HasDesc": true,
     "Item1": 82007,
     "Qty1": 50,
     "Item2": 0,
@@ -125,7 +117,6 @@
       3
     ],
     "Desc": "在「林中卫士 I」中达到3星",
-    "HasDesc": true,
     "Item1": 2,
     "Qty1": 80,
     "Item2": 0,
@@ -139,7 +130,6 @@
       1104
     ],
     "Desc": "在「林中卫士 II」中通关",
-    "HasDesc": true,
     "Item1": 32000,
     "Qty1": 40,
     "Item2": 0,
@@ -154,7 +144,6 @@
       2
     ],
     "Desc": "在「林中卫士 II」中达到2星",
-    "HasDesc": true,
     "Item1": 82007,
     "Qty1": 50,
     "Item2": 0,
@@ -169,7 +158,6 @@
       3
     ],
     "Desc": "在「林中卫士 II」中达到3星",
-    "HasDesc": true,
     "Item1": 2,
     "Qty1": 80,
     "Item2": 0,
@@ -183,7 +171,6 @@
       1105
     ],
     "Desc": "在「林中卫士 III」中通关",
-    "HasDesc": true,
     "Item1": 32000,
     "Qty1": 40,
     "Item2": 0,
@@ -198,7 +185,6 @@
       2
     ],
     "Desc": "在「林中卫士 III」中达到2星",
-    "HasDesc": true,
     "Item1": 82007,
     "Qty1": 50,
     "Item2": 0,
@@ -213,7 +199,6 @@
       3
     ],
     "Desc": "在「林中卫士 III」中达到3星",
-    "HasDesc": true,
     "Item1": 2,
     "Qty1": 80,
     "Item2": 0,
@@ -227,7 +212,6 @@
       1106
     ],
     "Desc": "在「魔潮侵袭 I」中通关",
-    "HasDesc": true,
     "Item1": 32000,
     "Qty1": 50,
     "Item2": 0,
@@ -242,7 +226,6 @@
       2
     ],
     "Desc": "在「魔潮侵袭 I」中达到2星",
-    "HasDesc": true,
     "Item1": 82007,
     "Qty1": 100,
     "Item2": 0,
@@ -257,7 +240,6 @@
       3
     ],
     "Desc": "在「魔潮侵袭 I」中达到3星",
-    "HasDesc": true,
     "Item1": 2,
     "Qty1": 100,
     "Item2": 0,
@@ -271,7 +253,6 @@
       1107
     ],
     "Desc": "在「魔潮侵袭 II」中通关",
-    "HasDesc": true,
     "Item1": 32000,
     "Qty1": 50,
     "Item2": 0,
@@ -286,7 +267,6 @@
       2
     ],
     "Desc": "在「魔潮侵袭 II」中达到2星",
-    "HasDesc": true,
     "Item1": 82007,
     "Qty1": 100,
     "Item2": 0,
@@ -301,7 +281,6 @@
       3
     ],
     "Desc": "在「魔潮侵袭 II」中达到3星",
-    "HasDesc": true,
     "Item1": 2,
     "Qty1": 100,
     "Item2": 0,
@@ -315,7 +294,6 @@
       1108
     ],
     "Desc": "在「魔潮侵袭·真格 I」中通关",
-    "HasDesc": true,
     "Item1": 32000,
     "Qty1": 50,
     "Item2": 0,
@@ -330,7 +308,6 @@
       2
     ],
     "Desc": "在「魔潮侵袭·真格 I」中达到2星",
-    "HasDesc": true,
     "Item1": 82007,
     "Qty1": 125,
     "Item2": 0,
@@ -345,7 +322,6 @@
       3
     ],
     "Desc": "在「魔潮侵袭·真格 I」中达到3星",
-    "HasDesc": true,
     "Item1": 2,
     "Qty1": 150,
     "Item2": 0,
@@ -359,7 +335,6 @@
       1109
     ],
     "Desc": "在「魔潮侵袭·真格 II」中通关",
-    "HasDesc": true,
     "Item1": 32000,
     "Qty1": 50,
     "Item2": 0,
@@ -374,7 +349,6 @@
       2
     ],
     "Desc": "在「魔潮侵袭·真格 II」中达到2星",
-    "HasDesc": true,
     "Item1": 82007,
     "Qty1": 125,
     "Item2": 0,
@@ -389,7 +363,6 @@
       3
     ],
     "Desc": "在「魔潮侵袭·真格 II」中达到3星",
-    "HasDesc": true,
     "Item1": 2,
     "Qty1": 150,
     "Item2": 0,
@@ -403,7 +376,6 @@
       1201
     ],
     "Desc": "在「保卫战教程 I」中通关",
-    "HasDesc": true,
     "Item1": 32000,
     "Qty1": 20,
     "Item2": 0,
@@ -417,7 +389,6 @@
       1202
     ],
     "Desc": "在「保卫战教程 II」中通关",
-    "HasDesc": true,
     "Item1": 33912,
     "Qty1": 10,
     "Item2": 0,
@@ -431,7 +402,6 @@
       1203
     ],
     "Desc": "在「疏通航道 I」中通关",
-    "HasDesc": true,
     "Item1": 33912,
     "Qty1": 10,
     "Item2": 0,
@@ -446,7 +416,6 @@
       3
     ],
     "Desc": "在「疏通航道 I」中达到3星",
-    "HasDesc": true,
     "Item1": 32000,
     "Qty1": 20,
     "Item2": 0,
@@ -460,7 +429,6 @@
       1204
     ],
     "Desc": "在「疏通航道 II」中通关",
-    "HasDesc": true,
     "Item1": 82007,
     "Qty1": 40,
     "Item2": 0,
@@ -475,7 +443,6 @@
       3
     ],
     "Desc": "在「疏通航道 II」中达到3星",
-    "HasDesc": true,
     "Item1": 2,
     "Qty1": 100,
     "Item2": 0,
@@ -489,7 +456,6 @@
       1205
     ],
     "Desc": "在「疏通航道 III」中通关",
-    "HasDesc": true,
     "Item1": 32000,
     "Qty1": 40,
     "Item2": 0,
@@ -504,7 +470,6 @@
       2
     ],
     "Desc": "在「疏通航道 III」中达到2星",
-    "HasDesc": true,
     "Item1": 82007,
     "Qty1": 60,
     "Item2": 0,
@@ -519,7 +484,6 @@
       3
     ],
     "Desc": "在「疏通航道 III」中达到3星",
-    "HasDesc": true,
     "Item1": 2,
     "Qty1": 100,
     "Item2": 0,
@@ -533,7 +497,6 @@
       1206
     ],
     "Desc": "在「疏通航道 IV」中通关",
-    "HasDesc": true,
     "Item1": 32000,
     "Qty1": 40,
     "Item2": 0,
@@ -548,7 +511,6 @@
       2
     ],
     "Desc": "在「疏通航道 IV」中达到2星",
-    "HasDesc": true,
     "Item1": 82007,
     "Qty1": 60,
     "Item2": 0,
@@ -563,7 +525,6 @@
       3
     ],
     "Desc": "在「疏通航道 IV」中达到3星",
-    "HasDesc": true,
     "Item1": 2,
     "Qty1": 100,
     "Item2": 0,
@@ -577,7 +538,6 @@
       1207
     ],
     "Desc": "在「暗河激战 I」中通关",
-    "HasDesc": true,
     "Item1": 32000,
     "Qty1": 60,
     "Item2": 0,
@@ -592,7 +552,6 @@
       2
     ],
     "Desc": "在「暗河激战 I」中达到2星",
-    "HasDesc": true,
     "Item1": 82007,
     "Qty1": 100,
     "Item2": 0,
@@ -607,7 +566,6 @@
       3
     ],
     "Desc": "在「暗河激战 I」中达到3星",
-    "HasDesc": true,
     "Item1": 2,
     "Qty1": 100,
     "Item2": 0,
@@ -621,7 +579,6 @@
       1208
     ],
     "Desc": "在「暗河激战 II」中通关",
-    "HasDesc": true,
     "Item1": 32000,
     "Qty1": 60,
     "Item2": 0,
@@ -636,7 +593,6 @@
       2
     ],
     "Desc": "在「暗河激战 II」中达到2星",
-    "HasDesc": true,
     "Item1": 82007,
     "Qty1": 100,
     "Item2": 0,
@@ -651,7 +607,6 @@
       3
     ],
     "Desc": "在「暗河激战 II」中达到3星",
-    "HasDesc": true,
     "Item1": 2,
     "Qty1": 100,
     "Item2": 0,
@@ -665,7 +620,6 @@
       1209
     ],
     "Desc": "在「暗河激战 III」中通关",
-    "HasDesc": true,
     "Item1": 32000,
     "Qty1": 80,
     "Item2": 0,
@@ -680,7 +634,6 @@
       2
     ],
     "Desc": "在「暗河激战 III」中达到2星",
-    "HasDesc": true,
     "Item1": 82007,
     "Qty1": 120,
     "Item2": 0,
@@ -695,7 +648,6 @@
       3
     ],
     "Desc": "在「暗河激战 III」中达到3星",
-    "HasDesc": true,
     "Item1": 2,
     "Qty1": 150,
     "Item2": 0,
@@ -709,7 +661,6 @@
       1210
     ],
     "Desc": "在「暗河激战 IV」中通关",
-    "HasDesc": true,
     "Item1": 32000,
     "Qty1": 80,
     "Item2": 0,
@@ -724,7 +675,6 @@
       2
     ],
     "Desc": "在「暗河激战 IV」中达到2星",
-    "HasDesc": true,
     "Item1": 82007,
     "Qty1": 120,
     "Item2": 0,
@@ -739,7 +689,6 @@
       3
     ],
     "Desc": "在「暗河激战 IV」中达到3星",
-    "HasDesc": true,
     "Item1": 2,
     "Qty1": 150,
     "Item2": 0,

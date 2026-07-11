@@ -8,17 +8,14 @@
     ],
     "MaxSub": 1,
     "Icon": "UI_Activity/_500001/SpriteAtlas/icon_collection_hard_s",
-    "HasIcon": true,
     "BasicReward": "{\"73201\":600,\"82004\":120,\"82001\":120}",
-    "HasBasicReward": true,
     "BasicRewardPreview": [
       73201,
       82001,
       82004
     ],
     "DoubleCheckMinLevel": 15,
-    "Des": "递交「极限登峰」级纪录",
-    "HasDes": true
+    "Des": "递交「极限登峰」级纪录"
   },
   "102": {
     "Id": 102,
@@ -29,17 +26,14 @@
     ],
     "MaxSub": 3,
     "Icon": "UI_Activity/_500001/SpriteAtlas/icon_collection_hard_a",
-    "HasIcon": true,
     "BasicReward": "{\"73201\":400,\"82001\":40,\"82004\":40}",
-    "HasBasicReward": true,
     "BasicRewardPreview": [
       73201,
       82001,
       82004
     ],
     "DoubleCheckMinLevel": 15,
-    "Des": "递交「深域探索」级纪录",
-    "HasDes": true
+    "Des": "递交「深域探索」级纪录"
   },
   "103": {
     "Id": 103,
@@ -49,16 +43,13 @@
     ],
     "MaxSub": 6,
     "Icon": "UI_Activity/_500001/SpriteAtlas/icon_collection_hard_b",
-    "HasIcon": true,
     "BasicReward": "{\"73201\":200,\"1\":200000}",
-    "HasBasicReward": true,
     "BasicRewardPreview": [
       73201,
       1
     ],
     "DoubleCheckMinLevel": 15,
-    "Des": "递交「浅层调查」级纪录",
-    "HasDes": true
+    "Des": "递交「浅层调查」级纪录"
   },
   "201": {
     "Id": 201,
@@ -69,16 +60,13 @@
     ],
     "MaxSub": 1,
     "Icon": "UI_Activity/_500001/SpriteAtlas/icon_collection_hard_s",
-    "HasIcon": true,
     "BasicReward": "{\"73201\":600,\"35000\":5}",
-    "HasBasicReward": true,
     "BasicRewardPreview": [
       73201,
       35000
     ],
     "DoubleCheckMinLevel": 15,
-    "Des": "递交「极限登峰」级纪录",
-    "HasDes": true
+    "Des": "递交「极限登峰」级纪录"
   },
   "202": {
     "Id": 202,
@@ -89,16 +77,13 @@
     ],
     "MaxSub": 3,
     "Icon": "UI_Activity/_500001/SpriteAtlas/icon_collection_hard_a",
-    "HasIcon": true,
     "BasicReward": "{\"73201\":400,\"82004\":60}",
-    "HasBasicReward": true,
     "BasicRewardPreview": [
       73201,
       82004
     ],
     "DoubleCheckMinLevel": 15,
-    "Des": "递交「深域探索」级纪录",
-    "HasDes": true
+    "Des": "递交「深域探索」级纪录"
   },
   "203": {
     "Id": 203,
@@ -109,15 +94,63 @@
     ],
     "MaxSub": 6,
     "Icon": "UI_Activity/_500001/SpriteAtlas/icon_collection_hard_b",
-    "HasIcon": true,
     "BasicReward": "{\"73201\":200,\"82001\":40}",
-    "HasBasicReward": true,
     "BasicRewardPreview": [
       73201,
       82001
     ],
     "DoubleCheckMinLevel": 15,
-    "Des": "递交「浅层调查」级纪录",
-    "HasDes": true
+    "Des": "递交「浅层调查」级纪录"
+  },
+  "301": {
+    "Id": 301,
+    "ConvertConditionList": [
+      103,
+      607,
+      502
+    ],
+    "MaxSub": 1,
+    "Icon": "UI_Activity/_500001/SpriteAtlas/icon_collection_hard_s",
+    "BasicReward": "{\"73201\":600,\"35000\":5}",
+    "BasicRewardPreview": [
+      73201,
+      35000
+    ],
+    "DoubleCheckMinLevel": 15,
+    "Des": "递交「极限登峰」级纪录"
+  },
+  "302": {
+    "Id": 302,
+    "ConvertConditionList": [
+      106,
+      403,
+      501
+    ],
+    "MaxSub": 3,
+    "Icon": "UI_Activity/_500001/SpriteAtlas/icon_collection_hard_a",
+    "BasicReward": "{\"73201\":400,\"82004\":60}",
+    "BasicRewardPreview": [
+      73201,
+      82004
+    ],
+    "DoubleCheckMinLevel": 15,
+    "Des": "递交「深域探索」级纪录"
+  },
+  "303": {
+    "Id": 303,
+    "ConvertConditionList": [
+      101,
+      402,
+      506
+    ],
+    "MaxSub": 6,
+    "Icon": "UI_Activity/_500001/SpriteAtlas/icon_collection_hard_b",
+    "BasicReward": "{\"73201\":200,\"82001\":40}",
+    "BasicRewardPreview": [
+      73201,
+      82001
+    ],
+    "DoubleCheckMinLevel": 15,
+    "Des": "递交「浅层调查」级纪录"
   }
 }

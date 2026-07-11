@@ -2,10 +2,8 @@
   "1001": {
     "Id": 1001,
     "Name": "限时通关",
-    "HasName": true,
     "Type": 1,
     "Params": "限时通关",
-    "HasParams": true,
     "Active": 1,
     "Start": 1,
     "Interact": 0
@@ -13,10 +11,8 @@
   "1002": {
     "Id": 1002,
     "Name": "呼噜夏洛克",
-    "HasName": true,
     "Type": 2,
     "Params": "呼噜夏洛克",
-    "HasParams": true,
     "Active": 1,
     "Start": 1,
     "Interact": 0
@@ -24,10 +20,8 @@
   "1003": {
     "Id": 1003,
     "Name": "避免受击",
-    "HasName": true,
     "Type": 3,
     "Params": "避免受击",
-    "HasParams": true,
     "Active": 1,
     "Start": 1,
     "Interact": 0
@@ -35,10 +29,8 @@
   "1004": {
     "Id": 1004,
     "Name": "连续杀敌",
-    "HasName": true,
     "Type": 4,
     "Params": "连续杀敌",
-    "HasParams": true,
     "Active": 1,
     "Start": 1,
     "Interact": 0
@@ -46,10 +38,8 @@
   "1005": {
     "Id": 1005,
     "Name": "旅人入侵",
-    "HasName": true,
     "Type": 5,
     "Params": "230600",
-    "HasParams": true,
     "Active": 7,
     "Start": 1,
     "Interact": 0
@@ -57,10 +47,8 @@
   "1006": {
     "Id": 1006,
     "Name": "波次额外怪物",
-    "HasName": true,
     "Type": 5,
     "Params": "230601",
-    "HasParams": true,
     "Active": 4,
     "Start": 1,
     "Interact": 0
@@ -68,10 +56,8 @@
   "1007": {
     "Id": 1007,
     "Name": "额外波次",
-    "HasName": true,
     "Type": 5,
     "Params": "230602",
-    "HasParams": true,
     "Active": 3,
     "Start": 1,
     "Interact": 0
@@ -79,10 +65,8 @@
   "1008": {
     "Id": 1008,
     "Name": "塔主注视",
-    "HasName": true,
     "Type": 6,
     "Params": "230603",
-    "HasParams": true,
     "Active": 2,
     "Start": 1,
     "Interact": 0

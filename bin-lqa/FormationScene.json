@@ -1,56 +1,42 @@
 {
   "1": {
     "SceneName": "SelectRole_Main",
-    "HasSceneName": true,
-    "Path": "Assets/AssetBundles/Levels/SelectRole/SelectRole_Main01",
-    "HasPath": true
+    "Path": "Assets/AssetBundles/Levels/SelectRole/SelectRole_Main01"
   },
   "2": {
     "SceneName": "SelectRole_Roguelike",
-    "HasSceneName": true,
-    "Path": "Assets/AssetBundles/Levels/SelectRole/SelectRole_Roguelike01",
-    "HasPath": true
+    "Path": "Assets/AssetBundles/Levels/SelectRole/SelectRole_Roguelike01"
   },
   "3": {
     "SceneName": "SelectRole_InfinityTower_Aqua",
-    "HasSceneName": true,
-    "Path": "Assets/AssetBundles/Levels/SelectRole/SelectRole_InfinityTower01_Aqua",
-    "HasPath": true
+    "Path": "Assets/AssetBundles/Levels/SelectRole/SelectRole_InfinityTower01_Aqua"
   },
   "4": {
     "SceneName": "SelectRole_InfinityTower_Dark",
-    "HasSceneName": true,
-    "Path": "Assets/AssetBundles/Levels/SelectRole/SelectRole_InfinityTower01_Dark",
-    "HasPath": true
+    "Path": "Assets/AssetBundles/Levels/SelectRole/SelectRole_InfinityTower01_Dark"
   },
   "5": {
     "SceneName": "SelectRole_InfinityTower_Earth",
-    "HasSceneName": true,
-    "Path": "Assets/AssetBundles/Levels/SelectRole/SelectRole_InfinityTower01_Earth",
-    "HasPath": true
+    "Path": "Assets/AssetBundles/Levels/SelectRole/SelectRole_InfinityTower01_Earth"
   },
   "6": {
     "SceneName": "SelectRole_InfinityTower_Fire",
-    "HasSceneName": true,
-    "Path": "Assets/AssetBundles/Levels/SelectRole/SelectRole_InfinityTower01_Fire",
-    "HasPath": true
+    "Path": "Assets/AssetBundles/Levels/SelectRole/SelectRole_InfinityTower01_Fire"
   },
   "7": {
     "SceneName": "SelectRole_InfinityTower_Light",
-    "HasSceneName": true,
-    "Path": "Assets/AssetBundles/Levels/SelectRole/SelectRole_InfinityTower01_Light",
-    "HasPath": true
+    "Path": "Assets/AssetBundles/Levels/SelectRole/SelectRole_InfinityTower01_Light"
   },
   "8": {
     "SceneName": "SelectRole_InfinityTower_Wind",
-    "HasSceneName": true,
-    "Path": "Assets/AssetBundles/Levels/SelectRole/SelectRole_InfinityTower01_Wind",
-    "HasPath": true
+    "Path": "Assets/AssetBundles/Levels/SelectRole/SelectRole_InfinityTower01_Wind"
   },
   "9": {
     "SceneName": "SelectRole_InfinityTower_None",
-    "HasSceneName": true,
-    "Path": "Assets/AssetBundles/Levels/SelectRole/SelectRole_InfinityTower01_None",
-    "HasPath": true
+    "Path": "Assets/AssetBundles/Levels/SelectRole/SelectRole_InfinityTower01_None"
+  },
+  "10": {
+    "SceneName": "SelectRole_BreakOut_01",
+    "Path": "Assets/AssetBundles/Levels/SelectRole/SelectRole_BreakOut01"
   }
 }

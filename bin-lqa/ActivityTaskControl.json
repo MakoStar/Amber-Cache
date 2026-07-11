@@ -2,55 +2,46 @@
   "1": {
     "ActivityId": 101003,
     "UIAssets": "ActivityTask_act_01",
-    "HasUIAssets": true,
-    "CtrlName": "ActivityTaskCtrl_01",
-    "HasCtrlName": true,
-    "FastEntranceIcon": "banner_activity_101003",
-    "HasFastEntranceIcon": true
+    "CtrlName": "ActivityTaskCtrl_01"
   },
   "2": {
     "ActivityId": 1010003,
     "UIAssets": "",
-    "HasUIAssets": false,
-    "CtrlName": "",
-    "HasCtrlName": false,
-    "FastEntranceIcon": "",
-    "HasFastEntranceIcon": false
+    "CtrlName": ""
   },
   "3": {
     "ActivityId": 1010103,
     "UIAssets": "",
-    "HasUIAssets": false,
-    "CtrlName": "",
-    "HasCtrlName": false,
-    "FastEntranceIcon": "",
-    "HasFastEntranceIcon": false
+    "CtrlName": ""
   },
   "4": {
     "ActivityId": 1010203,
     "UIAssets": "",
-    "HasUIAssets": false,
-    "CtrlName": "",
-    "HasCtrlName": false,
-    "FastEntranceIcon": "",
-    "HasFastEntranceIcon": false
+    "CtrlName": ""
   },
   "5": {
     "ActivityId": 2010103,
     "UIAssets": "",
-    "HasUIAssets": false,
-    "CtrlName": "",
-    "HasCtrlName": false,
-    "FastEntranceIcon": "",
-    "HasFastEntranceIcon": false
+    "CtrlName": ""
   },
   "6": {
     "ActivityId": 1010303,
     "UIAssets": "",
-    "HasUIAssets": false,
-    "CtrlName": "",
-    "HasCtrlName": false,
-    "FastEntranceIcon": "",
-    "HasFastEntranceIcon": false
+    "CtrlName": ""
+  },
+  "7": {
+    "ActivityId": 1010403,
+    "UIAssets": "",
+    "CtrlName": ""
+  },
+  "8": {
+    "ActivityId": 3010102,
+    "UIAssets": "",
+    "CtrlName": ""
+  },
+  "9": {
+    "ActivityId": 1010503,
+    "UIAssets": "",
+    "CtrlName": ""
   }
 }

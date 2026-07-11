@@ -5,18 +5,12 @@
     "WorldClass": 1,
     "PrevStories": [],
     "Index": "01",
-    "HasIndex": true,
     "Name": "第一章",
-    "HasName": true,
     "Desc": "没有记忆的生物",
-    "HasDesc": true,
     "ChapterIcon": "Icon/MapChapter/chapter_stage_01",
-    "HasChapterIcon": true,
     "ChapterYear": "星塔历 996 年",
-    "HasChapterYear": true,
     "UnlockShowStoryId": 101,
-    "OpenTime": "",
-    "HasOpenTime": false
+    "OpenTime": ""
   },
   "2": {
     "Id": 2,
@@ -26,18 +20,12 @@
       "STm01_10"
     ],
     "Index": "02",
-    "HasIndex": true,
     "Name": "第二章",
-    "HasName": true,
     "Desc": "水道桥上的风",
-    "HasDesc": true,
     "ChapterIcon": "Icon/MapChapter/chapter_stage_02",
-    "HasChapterIcon": true,
     "ChapterYear": "星塔历 996 年",
-    "HasChapterYear": true,
     "UnlockShowStoryId": 204,
-    "OpenTime": "",
-    "HasOpenTime": false
+    "OpenTime": ""
   },
   "3": {
     "Id": 3,
@@ -47,18 +35,12 @@
       "STm02_11"
     ],
     "Index": "03",
-    "HasIndex": true,
     "Name": "第三章",
-    "HasName": true,
     "Desc": "我们的旅团",
-    "HasDesc": true,
     "ChapterIcon": "Icon/MapChapter/chapter_stage_03",
-    "HasChapterIcon": true,
     "ChapterYear": "星塔历 996 年",
-    "HasChapterYear": true,
     "UnlockShowStoryId": 304,
-    "OpenTime": "",
-    "HasOpenTime": false
+    "OpenTime": ""
   },
   "4": {
     "Id": 4,
@@ -68,18 +50,12 @@
       "STm03_11"
     ],
     "Index": "04",
-    "HasIndex": true,
     "Name": "第四章",
-    "HasName": true,
     "Desc": "梦的彼岸",
-    "HasDesc": true,
     "ChapterIcon": "Icon/MapChapter/chapter_stage_04",
-    "HasChapterIcon": true,
     "ChapterYear": "星塔历 996 年",
-    "HasChapterYear": true,
     "UnlockShowStoryId": 403,
-    "OpenTime": "",
-    "HasOpenTime": false
+    "OpenTime": ""
   },
   "5": {
     "Id": 5,
@@ -89,18 +65,12 @@
       "STm04_11"
     ],
     "Index": "05",
-    "HasIndex": true,
     "Name": "第五章",
-    "HasName": true,
     "Desc": "落于暗夜的荧光",
-    "HasDesc": true,
     "ChapterIcon": "Icon/MapChapter/chapter_stage_05",
-    "HasChapterIcon": true,
     "ChapterYear": "星塔历 996 年",
-    "HasChapterYear": true,
     "UnlockShowStoryId": 504,
-    "OpenTime": "",
-    "HasOpenTime": false
+    "OpenTime": ""
   },
   "6": {
     "Id": 6,
@@ -110,17 +80,11 @@
       "STm05_11"
     ],
     "Index": "06",
-    "HasIndex": true,
     "Name": "第六章",
-    "HasName": true,
     "Desc": "微火的奇迹",
-    "HasDesc": true,
     "ChapterIcon": "Icon/MapChapter/chapter_stage_06",
-    "HasChapterIcon": true,
     "ChapterYear": "星塔历 996 年",
-    "HasChapterYear": true,
     "UnlockShowStoryId": 604,
-    "OpenTime": "",
-    "HasOpenTime": false
+    "OpenTime": ""
   }
 }

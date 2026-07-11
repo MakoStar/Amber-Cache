@@ -485,9 +485,9 @@
   },
   "46": {
     "Id": 46,
-    "Lower": 10000,
+    "Lower": 0,
     "Upper": 100000000,
-    "IsLimited": false,
+    "IsLimited": true,
     "IsPlayer": false,
     "LowerPre": 0,
     "UpperPre": 1000000,

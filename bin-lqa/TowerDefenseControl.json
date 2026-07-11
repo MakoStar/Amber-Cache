@@ -2,31 +2,17 @@
   "102001": {
     "Id": 102001,
     "UIAssets": "ActivityTowerDefense",
-    "HasUIAssets": true,
     "CtrlName": "ActivityTowerDefenseCtrl",
-    "HasCtrlName": true,
     "RewardsShow": "[2,30,33912]",
-    "HasRewardsShow": true,
     "DesText": "\u000b【活动时间】\u000b2025/12/02 12:00~2025/12/09 11:00 \u000b\u000b【参与条件】\u000b权限等级≥5级\u000b\u000b【活动说明】\u000b1、和小禾一起使用旅人棋子保卫森林，熟悉的旅人将会以棋子模式进入关卡协助战斗。\u000b2、攻略关卡可完成活动任务获取丰厚奖励和当期限定头衔。",
-    "HasDesText": true,
-    "BGM": "",
-    "HasBGM": false,
-    "FastEntranceIcon": "Icon/Banner/banner_avtivity_towerdef_m",
-    "HasFastEntranceIcon": true
+    "BGM": ""
   },
   "102002": {
     "Id": 102002,
     "UIAssets": "ActivityTowerDefense",
-    "HasUIAssets": true,
     "CtrlName": "ActivityTowerDefenseCtrl",
-    "HasCtrlName": true,
     "RewardsShow": "[2,30,33912,71013,72013,82007,32000,1]",
-    "HasRewardsShow": true,
     "DesText": "\u000b【活动时间】\u000b2026/01/27 12:00~2026/02/03 11:00 \u000b\u000b【参与条件】\u000b权限等级≥5级\u000b\u000b【活动说明】\u000b1、和小禾一起使用旅人棋子保卫森林，熟悉的旅人将会以棋子模式进入关卡协助战斗。\u000b2、攻略关卡可完成活动任务获取丰厚奖励和当期限定头衔。",
-    "HasDesText": true,
-    "BGM": "",
-    "HasBGM": false,
-    "FastEntranceIcon": "Icon/Banner/banner_avtivity_towerdef_m",
-    "HasFastEntranceIcon": true
+    "BGM": ""
   }
 }

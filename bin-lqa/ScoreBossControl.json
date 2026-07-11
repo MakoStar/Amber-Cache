@@ -2,9 +2,7 @@
   "1": {
     "Id": 1,
     "StartTime": "2025-10-20T04:00:00+08:00",
-    "HasStartTime": true,
     "EndTime": "2025-11-30T04:00:00+08:00",
-    "HasEndTime": true,
     "LevelGroup": [
       2,
       3
@@ -13,9 +11,7 @@
   "2": {
     "Id": 2,
     "StartTime": "2025-12-02T12:00:00+08:00",
-    "HasStartTime": true,
     "EndTime": "2026-01-01T03:00:00+08:00",
-    "HasEndTime": true,
     "LevelGroup": [
       4,
       5
@@ -24,9 +20,7 @@
   "3": {
     "Id": 3,
     "StartTime": "2026-01-01T04:00:00+08:00",
-    "HasStartTime": true,
     "EndTime": "2026-02-01T03:00:00+08:00",
-    "HasEndTime": true,
     "LevelGroup": [
       6,
       7
@@ -35,9 +29,7 @@
   "4": {
     "Id": 4,
     "StartTime": "2026-02-01T04:00:00+08:00",
-    "HasStartTime": true,
     "EndTime": "2026-03-01T03:00:00+08:00",
-    "HasEndTime": true,
     "LevelGroup": [
       8,
       9
@@ -46,20 +38,16 @@
   "5": {
     "Id": 5,
     "StartTime": "2026-03-01T04:00:00+08:00",
-    "HasStartTime": true,
     "EndTime": "2026-04-01T03:00:00+08:00",
-    "HasEndTime": true,
     "LevelGroup": [
-      2,
-      3
+      10,
+      11
     ]
   },
   "6": {
     "Id": 6,
     "StartTime": "2026-04-01T04:00:00+08:00",
-    "HasStartTime": true,
     "EndTime": "2026-05-01T03:00:00+08:00",
-    "HasEndTime": true,
     "LevelGroup": [
       2,
       3
@@ -68,9 +56,7 @@
   "7": {
     "Id": 7,
     "StartTime": "2026-05-01T04:00:00+08:00",
-    "HasStartTime": true,
     "EndTime": "2026-06-01T03:00:00+08:00",
-    "HasEndTime": true,
     "LevelGroup": [
       2,
       3
@@ -79,9 +65,7 @@
   "8": {
     "Id": 8,
     "StartTime": "2026-06-01T04:00:00+08:00",
-    "HasStartTime": true,
     "EndTime": "2026-07-01T03:00:00+08:00",
-    "HasEndTime": true,
     "LevelGroup": [
       2,
       3
@@ -90,9 +74,7 @@
   "9": {
     "Id": 9,
     "StartTime": "2026-07-01T04:00:00+08:00",
-    "HasStartTime": true,
     "EndTime": "2026-08-01T03:00:00+08:00",
-    "HasEndTime": true,
     "LevelGroup": [
       2,
       3
@@ -101,9 +83,7 @@
   "10": {
     "Id": 10,
     "StartTime": "2026-08-01T04:00:00+08:00",
-    "HasStartTime": true,
     "EndTime": "2026-09-01T03:00:00+08:00",
-    "HasEndTime": true,
     "LevelGroup": [
       2,
       3
@@ -112,9 +92,7 @@
   "11": {
     "Id": 11,
     "StartTime": "2026-09-01T04:00:00+08:00",
-    "HasStartTime": true,
     "EndTime": "2026-10-01T03:00:00+08:00",
-    "HasEndTime": true,
     "LevelGroup": [
       2,
       3
@@ -123,9 +101,7 @@
   "12": {
     "Id": 12,
     "StartTime": "2026-10-01T04:00:00+08:00",
-    "HasStartTime": true,
     "EndTime": "2026-11-01T03:00:00+08:00",
-    "HasEndTime": true,
     "LevelGroup": [
       2,
       3
@@ -134,9 +110,7 @@
   "13": {
     "Id": 13,
     "StartTime": "2026-11-01T04:00:00+08:00",
-    "HasStartTime": true,
     "EndTime": "2026-12-01T03:00:00+08:00",
-    "HasEndTime": true,
     "LevelGroup": [
       2,
       3
@@ -145,9 +119,7 @@
   "14": {
     "Id": 14,
     "StartTime": "2026-12-01T04:00:00+08:00",
-    "HasStartTime": true,
     "EndTime": "2027-01-01T03:00:00+08:00",
-    "HasEndTime": true,
     "LevelGroup": [
       2,
       3

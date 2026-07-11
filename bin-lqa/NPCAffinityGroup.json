@@ -5,12 +5,9 @@
     "AffinityValue": 0,
     "AffinityGroupId": 9133,
     "RelationshipName": "萍水相逢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_01",
-    "HasIcon": true,
     "AffinityLevelStage": 1,
-    "Reward": "",
-    "HasReward": false
+    "Reward": ""
   },
   "913301": {
     "Id": 913301,
@@ -18,12 +15,9 @@
     "AffinityValue": 150,
     "AffinityGroupId": 9133,
     "RelationshipName": "萍水相逢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_01",
-    "HasIcon": true,
     "AffinityLevelStage": 1,
-    "Reward": "{\"33001\":4}",
-    "HasReward": true
+    "Reward": "{\"33001\":4}"
   },
   "913302": {
     "Id": 913302,
@@ -31,12 +25,9 @@
     "AffinityValue": 300,
     "AffinityGroupId": 9133,
     "RelationshipName": "萍水相逢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_01",
-    "HasIcon": true,
     "AffinityLevelStage": 1,
-    "Reward": "{\"1\":10000}",
-    "HasReward": true
+    "Reward": "{\"1\":10000}"
   },
   "913303": {
     "Id": 913303,
@@ -44,12 +35,9 @@
     "AffinityValue": 600,
     "AffinityGroupId": 9133,
     "RelationshipName": "萍水相逢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_01",
-    "HasIcon": true,
     "AffinityLevelStage": 1,
-    "Reward": "{\"33001\":4}",
-    "HasReward": true
+    "Reward": "{\"33001\":4}"
   },
   "913304": {
     "Id": 913304,
@@ -57,12 +45,9 @@
     "AffinityValue": 900,
     "AffinityGroupId": 9133,
     "RelationshipName": "萍水相逢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_01",
-    "HasIcon": true,
     "AffinityLevelStage": 1,
-    "Reward": "{\"1\":10000}",
-    "HasReward": true
+    "Reward": "{\"1\":10000}"
   },
   "913305": {
     "Id": 913305,
@@ -70,12 +55,9 @@
     "AffinityValue": 1200,
     "AffinityGroupId": 9133,
     "RelationshipName": "相谈甚欢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_02",
-    "HasIcon": true,
     "AffinityLevelStage": 2,
-    "Reward": "{\"33901\":1}",
-    "HasReward": true
+    "Reward": "{\"33901\":1}"
   },
   "913306": {
     "Id": 913306,
@@ -83,12 +65,9 @@
     "AffinityValue": 1500,
     "AffinityGroupId": 9133,
     "RelationshipName": "相谈甚欢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_02",
-    "HasIcon": true,
     "AffinityLevelStage": 2,
-    "Reward": "{\"1\":20000}",
-    "HasReward": true
+    "Reward": "{\"1\":20000}"
   },
   "913307": {
     "Id": 913307,
@@ -96,12 +75,9 @@
     "AffinityValue": 1800,
     "AffinityGroupId": 9133,
     "RelationshipName": "相谈甚欢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_02",
-    "HasIcon": true,
     "AffinityLevelStage": 2,
-    "Reward": "{\"33001\":6}",
-    "HasReward": true
+    "Reward": "{\"33001\":6}"
   },
   "913308": {
     "Id": 913308,
@@ -109,12 +85,9 @@
     "AffinityValue": 2100,
     "AffinityGroupId": 9133,
     "RelationshipName": "相谈甚欢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_02",
-    "HasIcon": true,
     "AffinityLevelStage": 2,
-    "Reward": "{\"1\":20000}",
-    "HasReward": true
+    "Reward": "{\"1\":20000}"
   },
   "913309": {
     "Id": 913309,
@@ -122,12 +95,9 @@
     "AffinityValue": 2400,
     "AffinityGroupId": 9133,
     "RelationshipName": "相谈甚欢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_02",
-    "HasIcon": true,
     "AffinityLevelStage": 2,
-    "Reward": "{\"33001\":6}",
-    "HasReward": true
+    "Reward": "{\"33001\":6}"
   },
   "913310": {
     "Id": 913310,
@@ -135,12 +105,9 @@
     "AffinityValue": 2700,
     "AffinityGroupId": 9133,
     "RelationshipName": "情投意合",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_03",
-    "HasIcon": true,
     "AffinityLevelStage": 3,
-    "Reward": "{\"2\":10}",
-    "HasReward": true
+    "Reward": "{\"2\":10}"
   },
   "913311": {
     "Id": 913311,
@@ -148,12 +115,9 @@
     "AffinityValue": 3300,
     "AffinityGroupId": 9133,
     "RelationshipName": "情投意合",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_03",
-    "HasIcon": true,
     "AffinityLevelStage": 3,
-    "Reward": "{\"1\":30000}",
-    "HasReward": true
+    "Reward": "{\"1\":30000}"
   },
   "913312": {
     "Id": 913312,
@@ -161,12 +125,9 @@
     "AffinityValue": 3900,
     "AffinityGroupId": 9133,
     "RelationshipName": "情投意合",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_03",
-    "HasIcon": true,
     "AffinityLevelStage": 3,
-    "Reward": "{\"33001\":8}",
-    "HasReward": true
+    "Reward": "{\"33001\":8}"
   },
   "913313": {
     "Id": 913313,
@@ -174,12 +135,9 @@
     "AffinityValue": 4500,
     "AffinityGroupId": 9133,
     "RelationshipName": "情投意合",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_03",
-    "HasIcon": true,
     "AffinityLevelStage": 3,
-    "Reward": "{\"1\":30000}",
-    "HasReward": true
+    "Reward": "{\"1\":30000}"
   },
   "913314": {
     "Id": 913314,
@@ -187,12 +145,9 @@
     "AffinityValue": 5100,
     "AffinityGroupId": 9133,
     "RelationshipName": "情投意合",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_03",
-    "HasIcon": true,
     "AffinityLevelStage": 3,
-    "Reward": "{\"33001\":8}",
-    "HasReward": true
+    "Reward": "{\"33001\":8}"
   },
   "913315": {
     "Id": 913315,
@@ -200,12 +155,9 @@
     "AffinityValue": 5700,
     "AffinityGroupId": 9133,
     "RelationshipName": "心有灵犀",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_04",
-    "HasIcon": true,
     "AffinityLevelStage": 4,
-    "Reward": "{\"33901\":2}",
-    "HasReward": true
+    "Reward": "{\"33901\":2}"
   },
   "913316": {
     "Id": 913316,
@@ -213,12 +165,9 @@
     "AffinityValue": 6700,
     "AffinityGroupId": 9133,
     "RelationshipName": "心有灵犀",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_04",
-    "HasIcon": true,
     "AffinityLevelStage": 4,
-    "Reward": "{\"1\":40000}",
-    "HasReward": true
+    "Reward": "{\"1\":40000}"
   },
   "913317": {
     "Id": 913317,
@@ -226,12 +175,9 @@
     "AffinityValue": 7700,
     "AffinityGroupId": 9133,
     "RelationshipName": "心有灵犀",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_04",
-    "HasIcon": true,
     "AffinityLevelStage": 4,
-    "Reward": "{\"33001\":10}",
-    "HasReward": true
+    "Reward": "{\"33001\":10}"
   },
   "913318": {
     "Id": 913318,
@@ -239,12 +185,9 @@
     "AffinityValue": 8700,
     "AffinityGroupId": 9133,
     "RelationshipName": "心有灵犀",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_04",
-    "HasIcon": true,
     "AffinityLevelStage": 4,
-    "Reward": "{\"1\":40000}",
-    "HasReward": true
+    "Reward": "{\"1\":40000}"
   },
   "913319": {
     "Id": 913319,
@@ -252,12 +195,9 @@
     "AffinityValue": 9700,
     "AffinityGroupId": 9133,
     "RelationshipName": "心有灵犀",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_04",
-    "HasIcon": true,
     "AffinityLevelStage": 4,
-    "Reward": "{\"33001\":10}",
-    "HasReward": true
+    "Reward": "{\"33001\":10}"
   },
   "913320": {
     "Id": 913320,
@@ -265,12 +205,9 @@
     "AffinityValue": 10700,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"2\":20}",
-    "HasReward": true
+    "Reward": "{\"2\":20}"
   },
   "913321": {
     "Id": 913321,
@@ -278,12 +215,9 @@
     "AffinityValue": 12100,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "913322": {
     "Id": 913322,
@@ -291,12 +225,9 @@
     "AffinityValue": 13500,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "913323": {
     "Id": 913323,
@@ -304,12 +235,9 @@
     "AffinityValue": 14900,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "913324": {
     "Id": 913324,
@@ -317,12 +245,9 @@
     "AffinityValue": 16300,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "913325": {
     "Id": 913325,
@@ -330,12 +255,9 @@
     "AffinityValue": 17700,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33901\":3}",
-    "HasReward": true
+    "Reward": "{\"33901\":3}"
   },
   "913326": {
     "Id": 913326,
@@ -343,12 +265,9 @@
     "AffinityValue": 19100,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "913327": {
     "Id": 913327,
@@ -356,12 +275,9 @@
     "AffinityValue": 20500,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "913328": {
     "Id": 913328,
@@ -369,12 +285,9 @@
     "AffinityValue": 21900,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "913329": {
     "Id": 913329,
@@ -382,12 +295,9 @@
     "AffinityValue": 23300,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "913330": {
     "Id": 913330,
@@ -395,12 +305,9 @@
     "AffinityValue": 24700,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"2\":20}",
-    "HasReward": true
+    "Reward": "{\"2\":20}"
   },
   "913331": {
     "Id": 913331,
@@ -408,12 +315,9 @@
     "AffinityValue": 26500,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "913332": {
     "Id": 913332,
@@ -421,12 +325,9 @@
     "AffinityValue": 28300,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "913333": {
     "Id": 913333,
@@ -434,12 +335,9 @@
     "AffinityValue": 30100,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "913334": {
     "Id": 913334,
@@ -447,12 +345,9 @@
     "AffinityValue": 31900,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "913335": {
     "Id": 913335,
@@ -460,12 +355,9 @@
     "AffinityValue": 33700,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33902\":1}",
-    "HasReward": true
+    "Reward": "{\"33902\":1}"
   },
   "913336": {
     "Id": 913336,
@@ -473,12 +365,9 @@
     "AffinityValue": 35500,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "913337": {
     "Id": 913337,
@@ -486,12 +375,9 @@
     "AffinityValue": 37300,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "913338": {
     "Id": 913338,
@@ -499,12 +385,9 @@
     "AffinityValue": 39100,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "913339": {
     "Id": 913339,
@@ -512,12 +395,9 @@
     "AffinityValue": 40900,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "913340": {
     "Id": 913340,
@@ -525,12 +405,9 @@
     "AffinityValue": 42700,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"2\":20}",
-    "HasReward": true
+    "Reward": "{\"2\":20}"
   },
   "913341": {
     "Id": 913341,
@@ -538,12 +415,9 @@
     "AffinityValue": 44900,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "913342": {
     "Id": 913342,
@@ -551,12 +425,9 @@
     "AffinityValue": 47100,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "913343": {
     "Id": 913343,
@@ -564,12 +435,9 @@
     "AffinityValue": 49300,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "913344": {
     "Id": 913344,
@@ -577,12 +445,9 @@
     "AffinityValue": 51500,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "913345": {
     "Id": 913345,
@@ -590,12 +455,9 @@
     "AffinityValue": 53700,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33902\":2}",
-    "HasReward": true
+    "Reward": "{\"33902\":2}"
   },
   "913346": {
     "Id": 913346,
@@ -603,12 +465,9 @@
     "AffinityValue": 55900,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "913347": {
     "Id": 913347,
@@ -616,12 +475,9 @@
     "AffinityValue": 58100,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "913348": {
     "Id": 913348,
@@ -629,12 +485,9 @@
     "AffinityValue": 60300,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "913349": {
     "Id": 913349,
@@ -642,12 +495,9 @@
     "AffinityValue": 62500,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "913350": {
     "Id": 913350,
@@ -655,12 +505,9 @@
     "AffinityValue": 64700,
     "AffinityGroupId": 9133,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"2\":20}",
-    "HasReward": true
+    "Reward": "{\"2\":20}"
   },
   "917200": {
     "Id": 917200,
@@ -668,12 +515,9 @@
     "AffinityValue": 0,
     "AffinityGroupId": 9172,
     "RelationshipName": "萍水相逢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_01",
-    "HasIcon": true,
     "AffinityLevelStage": 1,
-    "Reward": "",
-    "HasReward": false
+    "Reward": ""
   },
   "917201": {
     "Id": 917201,
@@ -681,12 +525,9 @@
     "AffinityValue": 150,
     "AffinityGroupId": 9172,
     "RelationshipName": "萍水相逢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_01",
-    "HasIcon": true,
     "AffinityLevelStage": 1,
-    "Reward": "{\"33001\":4}",
-    "HasReward": true
+    "Reward": "{\"33001\":4}"
   },
   "917202": {
     "Id": 917202,
@@ -694,12 +535,9 @@
     "AffinityValue": 300,
     "AffinityGroupId": 9172,
     "RelationshipName": "萍水相逢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_01",
-    "HasIcon": true,
     "AffinityLevelStage": 1,
-    "Reward": "{\"1\":10000}",
-    "HasReward": true
+    "Reward": "{\"1\":10000}"
   },
   "917203": {
     "Id": 917203,
@@ -707,12 +545,9 @@
     "AffinityValue": 600,
     "AffinityGroupId": 9172,
     "RelationshipName": "萍水相逢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_01",
-    "HasIcon": true,
     "AffinityLevelStage": 1,
-    "Reward": "{\"33001\":4}",
-    "HasReward": true
+    "Reward": "{\"33001\":4}"
   },
   "917204": {
     "Id": 917204,
@@ -720,12 +555,9 @@
     "AffinityValue": 900,
     "AffinityGroupId": 9172,
     "RelationshipName": "萍水相逢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_01",
-    "HasIcon": true,
     "AffinityLevelStage": 1,
-    "Reward": "{\"1\":10000}",
-    "HasReward": true
+    "Reward": "{\"1\":10000}"
   },
   "917205": {
     "Id": 917205,
@@ -733,12 +565,9 @@
     "AffinityValue": 1200,
     "AffinityGroupId": 9172,
     "RelationshipName": "相谈甚欢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_02",
-    "HasIcon": true,
     "AffinityLevelStage": 2,
-    "Reward": "{\"33901\":1}",
-    "HasReward": true
+    "Reward": "{\"33901\":1}"
   },
   "917206": {
     "Id": 917206,
@@ -746,12 +575,9 @@
     "AffinityValue": 1500,
     "AffinityGroupId": 9172,
     "RelationshipName": "相谈甚欢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_02",
-    "HasIcon": true,
     "AffinityLevelStage": 2,
-    "Reward": "{\"1\":20000}",
-    "HasReward": true
+    "Reward": "{\"1\":20000}"
   },
   "917207": {
     "Id": 917207,
@@ -759,12 +585,9 @@
     "AffinityValue": 1800,
     "AffinityGroupId": 9172,
     "RelationshipName": "相谈甚欢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_02",
-    "HasIcon": true,
     "AffinityLevelStage": 2,
-    "Reward": "{\"33001\":6}",
-    "HasReward": true
+    "Reward": "{\"33001\":6}"
   },
   "917208": {
     "Id": 917208,
@@ -772,12 +595,9 @@
     "AffinityValue": 2100,
     "AffinityGroupId": 9172,
     "RelationshipName": "相谈甚欢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_02",
-    "HasIcon": true,
     "AffinityLevelStage": 2,
-    "Reward": "{\"1\":20000}",
-    "HasReward": true
+    "Reward": "{\"1\":20000}"
   },
   "917209": {
     "Id": 917209,
@@ -785,12 +605,9 @@
     "AffinityValue": 2400,
     "AffinityGroupId": 9172,
     "RelationshipName": "相谈甚欢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_02",
-    "HasIcon": true,
     "AffinityLevelStage": 2,
-    "Reward": "{\"33001\":6}",
-    "HasReward": true
+    "Reward": "{\"33001\":6}"
   },
   "917210": {
     "Id": 917210,
@@ -798,12 +615,9 @@
     "AffinityValue": 2700,
     "AffinityGroupId": 9172,
     "RelationshipName": "情投意合",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_03",
-    "HasIcon": true,
     "AffinityLevelStage": 3,
-    "Reward": "{\"2\":10}",
-    "HasReward": true
+    "Reward": "{\"2\":10}"
   },
   "917211": {
     "Id": 917211,
@@ -811,12 +625,9 @@
     "AffinityValue": 3300,
     "AffinityGroupId": 9172,
     "RelationshipName": "情投意合",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_03",
-    "HasIcon": true,
     "AffinityLevelStage": 3,
-    "Reward": "{\"1\":30000}",
-    "HasReward": true
+    "Reward": "{\"1\":30000}"
   },
   "917212": {
     "Id": 917212,
@@ -824,12 +635,9 @@
     "AffinityValue": 3900,
     "AffinityGroupId": 9172,
     "RelationshipName": "情投意合",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_03",
-    "HasIcon": true,
     "AffinityLevelStage": 3,
-    "Reward": "{\"33001\":8}",
-    "HasReward": true
+    "Reward": "{\"33001\":8}"
   },
   "917213": {
     "Id": 917213,
@@ -837,12 +645,9 @@
     "AffinityValue": 4500,
     "AffinityGroupId": 9172,
     "RelationshipName": "情投意合",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_03",
-    "HasIcon": true,
     "AffinityLevelStage": 3,
-    "Reward": "{\"1\":30000}",
-    "HasReward": true
+    "Reward": "{\"1\":30000}"
   },
   "917214": {
     "Id": 917214,
@@ -850,12 +655,9 @@
     "AffinityValue": 5100,
     "AffinityGroupId": 9172,
     "RelationshipName": "情投意合",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_03",
-    "HasIcon": true,
     "AffinityLevelStage": 3,
-    "Reward": "{\"33001\":8}",
-    "HasReward": true
+    "Reward": "{\"33001\":8}"
   },
   "917215": {
     "Id": 917215,
@@ -863,12 +665,9 @@
     "AffinityValue": 5700,
     "AffinityGroupId": 9172,
     "RelationshipName": "心有灵犀",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_04",
-    "HasIcon": true,
     "AffinityLevelStage": 4,
-    "Reward": "{\"33901\":2}",
-    "HasReward": true
+    "Reward": "{\"33901\":2}"
   },
   "917216": {
     "Id": 917216,
@@ -876,12 +675,9 @@
     "AffinityValue": 6700,
     "AffinityGroupId": 9172,
     "RelationshipName": "心有灵犀",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_04",
-    "HasIcon": true,
     "AffinityLevelStage": 4,
-    "Reward": "{\"1\":40000}",
-    "HasReward": true
+    "Reward": "{\"1\":40000}"
   },
   "917217": {
     "Id": 917217,
@@ -889,12 +685,9 @@
     "AffinityValue": 7700,
     "AffinityGroupId": 9172,
     "RelationshipName": "心有灵犀",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_04",
-    "HasIcon": true,
     "AffinityLevelStage": 4,
-    "Reward": "{\"33001\":10}",
-    "HasReward": true
+    "Reward": "{\"33001\":10}"
   },
   "917218": {
     "Id": 917218,
@@ -902,12 +695,9 @@
     "AffinityValue": 8700,
     "AffinityGroupId": 9172,
     "RelationshipName": "心有灵犀",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_04",
-    "HasIcon": true,
     "AffinityLevelStage": 4,
-    "Reward": "{\"1\":40000}",
-    "HasReward": true
+    "Reward": "{\"1\":40000}"
   },
   "917219": {
     "Id": 917219,
@@ -915,12 +705,9 @@
     "AffinityValue": 9700,
     "AffinityGroupId": 9172,
     "RelationshipName": "心有灵犀",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_04",
-    "HasIcon": true,
     "AffinityLevelStage": 4,
-    "Reward": "{\"33001\":10}",
-    "HasReward": true
+    "Reward": "{\"33001\":10}"
   },
   "917220": {
     "Id": 917220,
@@ -928,12 +715,9 @@
     "AffinityValue": 10700,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"2\":20}",
-    "HasReward": true
+    "Reward": "{\"2\":20}"
   },
   "917221": {
     "Id": 917221,
@@ -941,12 +725,9 @@
     "AffinityValue": 12100,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917222": {
     "Id": 917222,
@@ -954,12 +735,9 @@
     "AffinityValue": 13500,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917223": {
     "Id": 917223,
@@ -967,12 +745,9 @@
     "AffinityValue": 14900,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917224": {
     "Id": 917224,
@@ -980,12 +755,9 @@
     "AffinityValue": 16300,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917225": {
     "Id": 917225,
@@ -993,12 +765,9 @@
     "AffinityValue": 17700,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33901\":3}",
-    "HasReward": true
+    "Reward": "{\"33901\":3}"
   },
   "917226": {
     "Id": 917226,
@@ -1006,12 +775,9 @@
     "AffinityValue": 19100,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917227": {
     "Id": 917227,
@@ -1019,12 +785,9 @@
     "AffinityValue": 20500,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917228": {
     "Id": 917228,
@@ -1032,12 +795,9 @@
     "AffinityValue": 21900,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917229": {
     "Id": 917229,
@@ -1045,12 +805,9 @@
     "AffinityValue": 23300,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917230": {
     "Id": 917230,
@@ -1058,12 +815,9 @@
     "AffinityValue": 24700,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"2\":20}",
-    "HasReward": true
+    "Reward": "{\"2\":20}"
   },
   "917231": {
     "Id": 917231,
@@ -1071,12 +825,9 @@
     "AffinityValue": 26500,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917232": {
     "Id": 917232,
@@ -1084,12 +835,9 @@
     "AffinityValue": 28300,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917233": {
     "Id": 917233,
@@ -1097,12 +845,9 @@
     "AffinityValue": 30100,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917234": {
     "Id": 917234,
@@ -1110,12 +855,9 @@
     "AffinityValue": 31900,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917235": {
     "Id": 917235,
@@ -1123,12 +865,9 @@
     "AffinityValue": 33700,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33902\":1}",
-    "HasReward": true
+    "Reward": "{\"33902\":1}"
   },
   "917236": {
     "Id": 917236,
@@ -1136,12 +875,9 @@
     "AffinityValue": 35500,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917237": {
     "Id": 917237,
@@ -1149,12 +885,9 @@
     "AffinityValue": 37300,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917238": {
     "Id": 917238,
@@ -1162,12 +895,9 @@
     "AffinityValue": 39100,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917239": {
     "Id": 917239,
@@ -1175,12 +905,9 @@
     "AffinityValue": 40900,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917240": {
     "Id": 917240,
@@ -1188,12 +915,9 @@
     "AffinityValue": 42700,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"2\":20}",
-    "HasReward": true
+    "Reward": "{\"2\":20}"
   },
   "917241": {
     "Id": 917241,
@@ -1201,12 +925,9 @@
     "AffinityValue": 44900,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917242": {
     "Id": 917242,
@@ -1214,12 +935,9 @@
     "AffinityValue": 47100,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917243": {
     "Id": 917243,
@@ -1227,12 +945,9 @@
     "AffinityValue": 49300,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917244": {
     "Id": 917244,
@@ -1240,12 +955,9 @@
     "AffinityValue": 51500,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917245": {
     "Id": 917245,
@@ -1253,12 +965,9 @@
     "AffinityValue": 53700,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33902\":2}",
-    "HasReward": true
+    "Reward": "{\"33902\":2}"
   },
   "917246": {
     "Id": 917246,
@@ -1266,12 +975,9 @@
     "AffinityValue": 55900,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917247": {
     "Id": 917247,
@@ -1279,12 +985,9 @@
     "AffinityValue": 58100,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917248": {
     "Id": 917248,
@@ -1292,12 +995,9 @@
     "AffinityValue": 60300,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917249": {
     "Id": 917249,
@@ -1305,12 +1005,9 @@
     "AffinityValue": 62500,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917250": {
     "Id": 917250,
@@ -1318,12 +1015,9 @@
     "AffinityValue": 64700,
     "AffinityGroupId": 9172,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"2\":20}",
-    "HasReward": true
+    "Reward": "{\"2\":20}"
   },
   "917300": {
     "Id": 917300,
@@ -1331,12 +1025,9 @@
     "AffinityValue": 0,
     "AffinityGroupId": 9173,
     "RelationshipName": "萍水相逢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_01",
-    "HasIcon": true,
     "AffinityLevelStage": 1,
-    "Reward": "",
-    "HasReward": false
+    "Reward": ""
   },
   "917301": {
     "Id": 917301,
@@ -1344,12 +1035,9 @@
     "AffinityValue": 150,
     "AffinityGroupId": 9173,
     "RelationshipName": "萍水相逢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_01",
-    "HasIcon": true,
     "AffinityLevelStage": 1,
-    "Reward": "{\"33001\":4}",
-    "HasReward": true
+    "Reward": "{\"33001\":4}"
   },
   "917302": {
     "Id": 917302,
@@ -1357,12 +1045,9 @@
     "AffinityValue": 300,
     "AffinityGroupId": 9173,
     "RelationshipName": "萍水相逢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_01",
-    "HasIcon": true,
     "AffinityLevelStage": 1,
-    "Reward": "{\"1\":10000}",
-    "HasReward": true
+    "Reward": "{\"1\":10000}"
   },
   "917303": {
     "Id": 917303,
@@ -1370,12 +1055,9 @@
     "AffinityValue": 600,
     "AffinityGroupId": 9173,
     "RelationshipName": "萍水相逢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_01",
-    "HasIcon": true,
     "AffinityLevelStage": 1,
-    "Reward": "{\"33001\":4}",
-    "HasReward": true
+    "Reward": "{\"33001\":4}"
   },
   "917304": {
     "Id": 917304,
@@ -1383,12 +1065,9 @@
     "AffinityValue": 900,
     "AffinityGroupId": 9173,
     "RelationshipName": "萍水相逢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_01",
-    "HasIcon": true,
     "AffinityLevelStage": 1,
-    "Reward": "{\"1\":10000}",
-    "HasReward": true
+    "Reward": "{\"1\":10000}"
   },
   "917305": {
     "Id": 917305,
@@ -1396,12 +1075,9 @@
     "AffinityValue": 1200,
     "AffinityGroupId": 9173,
     "RelationshipName": "相谈甚欢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_02",
-    "HasIcon": true,
     "AffinityLevelStage": 2,
-    "Reward": "{\"33901\":1}",
-    "HasReward": true
+    "Reward": "{\"33901\":1}"
   },
   "917306": {
     "Id": 917306,
@@ -1409,12 +1085,9 @@
     "AffinityValue": 1500,
     "AffinityGroupId": 9173,
     "RelationshipName": "相谈甚欢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_02",
-    "HasIcon": true,
     "AffinityLevelStage": 2,
-    "Reward": "{\"1\":20000}",
-    "HasReward": true
+    "Reward": "{\"1\":20000}"
   },
   "917307": {
     "Id": 917307,
@@ -1422,12 +1095,9 @@
     "AffinityValue": 1800,
     "AffinityGroupId": 9173,
     "RelationshipName": "相谈甚欢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_02",
-    "HasIcon": true,
     "AffinityLevelStage": 2,
-    "Reward": "{\"33001\":6}",
-    "HasReward": true
+    "Reward": "{\"33001\":6}"
   },
   "917308": {
     "Id": 917308,
@@ -1435,12 +1105,9 @@
     "AffinityValue": 2100,
     "AffinityGroupId": 9173,
     "RelationshipName": "相谈甚欢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_02",
-    "HasIcon": true,
     "AffinityLevelStage": 2,
-    "Reward": "{\"1\":20000}",
-    "HasReward": true
+    "Reward": "{\"1\":20000}"
   },
   "917309": {
     "Id": 917309,
@@ -1448,12 +1115,9 @@
     "AffinityValue": 2400,
     "AffinityGroupId": 9173,
     "RelationshipName": "相谈甚欢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_02",
-    "HasIcon": true,
     "AffinityLevelStage": 2,
-    "Reward": "{\"33001\":6}",
-    "HasReward": true
+    "Reward": "{\"33001\":6}"
   },
   "917310": {
     "Id": 917310,
@@ -1461,12 +1125,9 @@
     "AffinityValue": 2700,
     "AffinityGroupId": 9173,
     "RelationshipName": "情投意合",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_03",
-    "HasIcon": true,
     "AffinityLevelStage": 3,
-    "Reward": "{\"2\":10}",
-    "HasReward": true
+    "Reward": "{\"2\":10}"
   },
   "917311": {
     "Id": 917311,
@@ -1474,12 +1135,9 @@
     "AffinityValue": 3300,
     "AffinityGroupId": 9173,
     "RelationshipName": "情投意合",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_03",
-    "HasIcon": true,
     "AffinityLevelStage": 3,
-    "Reward": "{\"1\":30000}",
-    "HasReward": true
+    "Reward": "{\"1\":30000}"
   },
   "917312": {
     "Id": 917312,
@@ -1487,12 +1145,9 @@
     "AffinityValue": 3900,
     "AffinityGroupId": 9173,
     "RelationshipName": "情投意合",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_03",
-    "HasIcon": true,
     "AffinityLevelStage": 3,
-    "Reward": "{\"33001\":8}",
-    "HasReward": true
+    "Reward": "{\"33001\":8}"
   },
   "917313": {
     "Id": 917313,
@@ -1500,12 +1155,9 @@
     "AffinityValue": 4500,
     "AffinityGroupId": 9173,
     "RelationshipName": "情投意合",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_03",
-    "HasIcon": true,
     "AffinityLevelStage": 3,
-    "Reward": "{\"1\":30000}",
-    "HasReward": true
+    "Reward": "{\"1\":30000}"
   },
   "917314": {
     "Id": 917314,
@@ -1513,12 +1165,9 @@
     "AffinityValue": 5100,
     "AffinityGroupId": 9173,
     "RelationshipName": "情投意合",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_03",
-    "HasIcon": true,
     "AffinityLevelStage": 3,
-    "Reward": "{\"33001\":8}",
-    "HasReward": true
+    "Reward": "{\"33001\":8}"
   },
   "917315": {
     "Id": 917315,
@@ -1526,12 +1175,9 @@
     "AffinityValue": 5700,
     "AffinityGroupId": 9173,
     "RelationshipName": "心有灵犀",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_04",
-    "HasIcon": true,
     "AffinityLevelStage": 4,
-    "Reward": "{\"33901\":2}",
-    "HasReward": true
+    "Reward": "{\"33901\":2}"
   },
   "917316": {
     "Id": 917316,
@@ -1539,12 +1185,9 @@
     "AffinityValue": 6700,
     "AffinityGroupId": 9173,
     "RelationshipName": "心有灵犀",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_04",
-    "HasIcon": true,
     "AffinityLevelStage": 4,
-    "Reward": "{\"1\":40000}",
-    "HasReward": true
+    "Reward": "{\"1\":40000}"
   },
   "917317": {
     "Id": 917317,
@@ -1552,12 +1195,9 @@
     "AffinityValue": 7700,
     "AffinityGroupId": 9173,
     "RelationshipName": "心有灵犀",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_04",
-    "HasIcon": true,
     "AffinityLevelStage": 4,
-    "Reward": "{\"33001\":10}",
-    "HasReward": true
+    "Reward": "{\"33001\":10}"
   },
   "917318": {
     "Id": 917318,
@@ -1565,12 +1205,9 @@
     "AffinityValue": 8700,
     "AffinityGroupId": 9173,
     "RelationshipName": "心有灵犀",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_04",
-    "HasIcon": true,
     "AffinityLevelStage": 4,
-    "Reward": "{\"1\":40000}",
-    "HasReward": true
+    "Reward": "{\"1\":40000}"
   },
   "917319": {
     "Id": 917319,
@@ -1578,12 +1215,9 @@
     "AffinityValue": 9700,
     "AffinityGroupId": 9173,
     "RelationshipName": "心有灵犀",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_04",
-    "HasIcon": true,
     "AffinityLevelStage": 4,
-    "Reward": "{\"33001\":10}",
-    "HasReward": true
+    "Reward": "{\"33001\":10}"
   },
   "917320": {
     "Id": 917320,
@@ -1591,12 +1225,9 @@
     "AffinityValue": 10700,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"2\":20}",
-    "HasReward": true
+    "Reward": "{\"2\":20}"
   },
   "917321": {
     "Id": 917321,
@@ -1604,12 +1235,9 @@
     "AffinityValue": 12100,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917322": {
     "Id": 917322,
@@ -1617,12 +1245,9 @@
     "AffinityValue": 13500,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917323": {
     "Id": 917323,
@@ -1630,12 +1255,9 @@
     "AffinityValue": 14900,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917324": {
     "Id": 917324,
@@ -1643,12 +1265,9 @@
     "AffinityValue": 16300,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917325": {
     "Id": 917325,
@@ -1656,12 +1275,9 @@
     "AffinityValue": 17700,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33901\":3}",
-    "HasReward": true
+    "Reward": "{\"33901\":3}"
   },
   "917326": {
     "Id": 917326,
@@ -1669,12 +1285,9 @@
     "AffinityValue": 19100,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917327": {
     "Id": 917327,
@@ -1682,12 +1295,9 @@
     "AffinityValue": 20500,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917328": {
     "Id": 917328,
@@ -1695,12 +1305,9 @@
     "AffinityValue": 21900,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917329": {
     "Id": 917329,
@@ -1708,12 +1315,9 @@
     "AffinityValue": 23300,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917330": {
     "Id": 917330,
@@ -1721,12 +1325,9 @@
     "AffinityValue": 24700,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"2\":20}",
-    "HasReward": true
+    "Reward": "{\"2\":20}"
   },
   "917331": {
     "Id": 917331,
@@ -1734,12 +1335,9 @@
     "AffinityValue": 26500,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917332": {
     "Id": 917332,
@@ -1747,12 +1345,9 @@
     "AffinityValue": 28300,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917333": {
     "Id": 917333,
@@ -1760,12 +1355,9 @@
     "AffinityValue": 30100,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917334": {
     "Id": 917334,
@@ -1773,12 +1365,9 @@
     "AffinityValue": 31900,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917335": {
     "Id": 917335,
@@ -1786,12 +1375,9 @@
     "AffinityValue": 33700,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33902\":1}",
-    "HasReward": true
+    "Reward": "{\"33902\":1}"
   },
   "917336": {
     "Id": 917336,
@@ -1799,12 +1385,9 @@
     "AffinityValue": 35500,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917337": {
     "Id": 917337,
@@ -1812,12 +1395,9 @@
     "AffinityValue": 37300,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917338": {
     "Id": 917338,
@@ -1825,12 +1405,9 @@
     "AffinityValue": 39100,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917339": {
     "Id": 917339,
@@ -1838,12 +1415,9 @@
     "AffinityValue": 40900,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917340": {
     "Id": 917340,
@@ -1851,12 +1425,9 @@
     "AffinityValue": 42700,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"2\":20}",
-    "HasReward": true
+    "Reward": "{\"2\":20}"
   },
   "917341": {
     "Id": 917341,
@@ -1864,12 +1435,9 @@
     "AffinityValue": 44900,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917342": {
     "Id": 917342,
@@ -1877,12 +1445,9 @@
     "AffinityValue": 47100,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917343": {
     "Id": 917343,
@@ -1890,12 +1455,9 @@
     "AffinityValue": 49300,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917344": {
     "Id": 917344,
@@ -1903,12 +1465,9 @@
     "AffinityValue": 51500,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917345": {
     "Id": 917345,
@@ -1916,12 +1475,9 @@
     "AffinityValue": 53700,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33902\":2}",
-    "HasReward": true
+    "Reward": "{\"33902\":2}"
   },
   "917346": {
     "Id": 917346,
@@ -1929,12 +1485,9 @@
     "AffinityValue": 55900,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917347": {
     "Id": 917347,
@@ -1942,12 +1495,9 @@
     "AffinityValue": 58100,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917348": {
     "Id": 917348,
@@ -1955,12 +1505,9 @@
     "AffinityValue": 60300,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917349": {
     "Id": 917349,
@@ -1968,12 +1515,9 @@
     "AffinityValue": 62500,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917350": {
     "Id": 917350,
@@ -1981,12 +1525,9 @@
     "AffinityValue": 64700,
     "AffinityGroupId": 9173,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"2\":20}",
-    "HasReward": true
+    "Reward": "{\"2\":20}"
   },
   "917400": {
     "Id": 917400,
@@ -1994,12 +1535,9 @@
     "AffinityValue": 0,
     "AffinityGroupId": 9174,
     "RelationshipName": "萍水相逢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_01",
-    "HasIcon": true,
     "AffinityLevelStage": 1,
-    "Reward": "",
-    "HasReward": false
+    "Reward": ""
   },
   "917401": {
     "Id": 917401,
@@ -2007,12 +1545,9 @@
     "AffinityValue": 150,
     "AffinityGroupId": 9174,
     "RelationshipName": "萍水相逢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_01",
-    "HasIcon": true,
     "AffinityLevelStage": 1,
-    "Reward": "{\"33001\":4}",
-    "HasReward": true
+    "Reward": "{\"33001\":4}"
   },
   "917402": {
     "Id": 917402,
@@ -2020,12 +1555,9 @@
     "AffinityValue": 300,
     "AffinityGroupId": 9174,
     "RelationshipName": "萍水相逢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_01",
-    "HasIcon": true,
     "AffinityLevelStage": 1,
-    "Reward": "{\"1\":10000}",
-    "HasReward": true
+    "Reward": "{\"1\":10000}"
   },
   "917403": {
     "Id": 917403,
@@ -2033,12 +1565,9 @@
     "AffinityValue": 600,
     "AffinityGroupId": 9174,
     "RelationshipName": "萍水相逢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_01",
-    "HasIcon": true,
     "AffinityLevelStage": 1,
-    "Reward": "{\"33001\":4}",
-    "HasReward": true
+    "Reward": "{\"33001\":4}"
   },
   "917404": {
     "Id": 917404,
@@ -2046,12 +1575,9 @@
     "AffinityValue": 900,
     "AffinityGroupId": 9174,
     "RelationshipName": "萍水相逢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_01",
-    "HasIcon": true,
     "AffinityLevelStage": 1,
-    "Reward": "{\"1\":10000}",
-    "HasReward": true
+    "Reward": "{\"1\":10000}"
   },
   "917405": {
     "Id": 917405,
@@ -2059,12 +1585,9 @@
     "AffinityValue": 1200,
     "AffinityGroupId": 9174,
     "RelationshipName": "相谈甚欢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_02",
-    "HasIcon": true,
     "AffinityLevelStage": 2,
-    "Reward": "{\"33901\":1}",
-    "HasReward": true
+    "Reward": "{\"33901\":1}"
   },
   "917406": {
     "Id": 917406,
@@ -2072,12 +1595,9 @@
     "AffinityValue": 1500,
     "AffinityGroupId": 9174,
     "RelationshipName": "相谈甚欢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_02",
-    "HasIcon": true,
     "AffinityLevelStage": 2,
-    "Reward": "{\"1\":20000}",
-    "HasReward": true
+    "Reward": "{\"1\":20000}"
   },
   "917407": {
     "Id": 917407,
@@ -2085,12 +1605,9 @@
     "AffinityValue": 1800,
     "AffinityGroupId": 9174,
     "RelationshipName": "相谈甚欢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_02",
-    "HasIcon": true,
     "AffinityLevelStage": 2,
-    "Reward": "{\"33001\":6}",
-    "HasReward": true
+    "Reward": "{\"33001\":6}"
   },
   "917408": {
     "Id": 917408,
@@ -2098,12 +1615,9 @@
     "AffinityValue": 2100,
     "AffinityGroupId": 9174,
     "RelationshipName": "相谈甚欢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_02",
-    "HasIcon": true,
     "AffinityLevelStage": 2,
-    "Reward": "{\"1\":20000}",
-    "HasReward": true
+    "Reward": "{\"1\":20000}"
   },
   "917409": {
     "Id": 917409,
@@ -2111,12 +1625,9 @@
     "AffinityValue": 2400,
     "AffinityGroupId": 9174,
     "RelationshipName": "相谈甚欢",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_02",
-    "HasIcon": true,
     "AffinityLevelStage": 2,
-    "Reward": "{\"33001\":6}",
-    "HasReward": true
+    "Reward": "{\"33001\":6}"
   },
   "917410": {
     "Id": 917410,
@@ -2124,12 +1635,9 @@
     "AffinityValue": 2700,
     "AffinityGroupId": 9174,
     "RelationshipName": "情投意合",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_03",
-    "HasIcon": true,
     "AffinityLevelStage": 3,
-    "Reward": "{\"2\":10}",
-    "HasReward": true
+    "Reward": "{\"2\":10}"
   },
   "917411": {
     "Id": 917411,
@@ -2137,12 +1645,9 @@
     "AffinityValue": 3300,
     "AffinityGroupId": 9174,
     "RelationshipName": "情投意合",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_03",
-    "HasIcon": true,
     "AffinityLevelStage": 3,
-    "Reward": "{\"1\":30000}",
-    "HasReward": true
+    "Reward": "{\"1\":30000}"
   },
   "917412": {
     "Id": 917412,
@@ -2150,12 +1655,9 @@
     "AffinityValue": 3900,
     "AffinityGroupId": 9174,
     "RelationshipName": "情投意合",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_03",
-    "HasIcon": true,
     "AffinityLevelStage": 3,
-    "Reward": "{\"33001\":8}",
-    "HasReward": true
+    "Reward": "{\"33001\":8}"
   },
   "917413": {
     "Id": 917413,
@@ -2163,12 +1665,9 @@
     "AffinityValue": 4500,
     "AffinityGroupId": 9174,
     "RelationshipName": "情投意合",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_03",
-    "HasIcon": true,
     "AffinityLevelStage": 3,
-    "Reward": "{\"1\":30000}",
-    "HasReward": true
+    "Reward": "{\"1\":30000}"
   },
   "917414": {
     "Id": 917414,
@@ -2176,12 +1675,9 @@
     "AffinityValue": 5100,
     "AffinityGroupId": 9174,
     "RelationshipName": "情投意合",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_03",
-    "HasIcon": true,
     "AffinityLevelStage": 3,
-    "Reward": "{\"33001\":8}",
-    "HasReward": true
+    "Reward": "{\"33001\":8}"
   },
   "917415": {
     "Id": 917415,
@@ -2189,12 +1685,9 @@
     "AffinityValue": 5700,
     "AffinityGroupId": 9174,
     "RelationshipName": "心有灵犀",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_04",
-    "HasIcon": true,
     "AffinityLevelStage": 4,
-    "Reward": "{\"33901\":2}",
-    "HasReward": true
+    "Reward": "{\"33901\":2}"
   },
   "917416": {
     "Id": 917416,
@@ -2202,12 +1695,9 @@
     "AffinityValue": 6700,
     "AffinityGroupId": 9174,
     "RelationshipName": "心有灵犀",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_04",
-    "HasIcon": true,
     "AffinityLevelStage": 4,
-    "Reward": "{\"1\":40000}",
-    "HasReward": true
+    "Reward": "{\"1\":40000}"
   },
   "917417": {
     "Id": 917417,
@@ -2215,12 +1705,9 @@
     "AffinityValue": 7700,
     "AffinityGroupId": 9174,
     "RelationshipName": "心有灵犀",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_04",
-    "HasIcon": true,
     "AffinityLevelStage": 4,
-    "Reward": "{\"33001\":10}",
-    "HasReward": true
+    "Reward": "{\"33001\":10}"
   },
   "917418": {
     "Id": 917418,
@@ -2228,12 +1715,9 @@
     "AffinityValue": 8700,
     "AffinityGroupId": 9174,
     "RelationshipName": "心有灵犀",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_04",
-    "HasIcon": true,
     "AffinityLevelStage": 4,
-    "Reward": "{\"1\":40000}",
-    "HasReward": true
+    "Reward": "{\"1\":40000}"
   },
   "917419": {
     "Id": 917419,
@@ -2241,12 +1725,9 @@
     "AffinityValue": 9700,
     "AffinityGroupId": 9174,
     "RelationshipName": "心有灵犀",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_04",
-    "HasIcon": true,
     "AffinityLevelStage": 4,
-    "Reward": "{\"33001\":10}",
-    "HasReward": true
+    "Reward": "{\"33001\":10}"
   },
   "917420": {
     "Id": 917420,
@@ -2254,12 +1735,9 @@
     "AffinityValue": 10700,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"2\":20}",
-    "HasReward": true
+    "Reward": "{\"2\":20}"
   },
   "917421": {
     "Id": 917421,
@@ -2267,12 +1745,9 @@
     "AffinityValue": 12100,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917422": {
     "Id": 917422,
@@ -2280,12 +1755,9 @@
     "AffinityValue": 13500,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917423": {
     "Id": 917423,
@@ -2293,12 +1765,9 @@
     "AffinityValue": 14900,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917424": {
     "Id": 917424,
@@ -2306,12 +1775,9 @@
     "AffinityValue": 16300,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917425": {
     "Id": 917425,
@@ -2319,12 +1785,9 @@
     "AffinityValue": 17700,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33901\":3}",
-    "HasReward": true
+    "Reward": "{\"33901\":3}"
   },
   "917426": {
     "Id": 917426,
@@ -2332,12 +1795,9 @@
     "AffinityValue": 19100,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917427": {
     "Id": 917427,
@@ -2345,12 +1805,9 @@
     "AffinityValue": 20500,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917428": {
     "Id": 917428,
@@ -2358,12 +1815,9 @@
     "AffinityValue": 21900,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917429": {
     "Id": 917429,
@@ -2371,12 +1825,9 @@
     "AffinityValue": 23300,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917430": {
     "Id": 917430,
@@ -2384,12 +1835,9 @@
     "AffinityValue": 24700,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"2\":20}",
-    "HasReward": true
+    "Reward": "{\"2\":20}"
   },
   "917431": {
     "Id": 917431,
@@ -2397,12 +1845,9 @@
     "AffinityValue": 26500,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917432": {
     "Id": 917432,
@@ -2410,12 +1855,9 @@
     "AffinityValue": 28300,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917433": {
     "Id": 917433,
@@ -2423,12 +1865,9 @@
     "AffinityValue": 30100,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917434": {
     "Id": 917434,
@@ -2436,12 +1875,9 @@
     "AffinityValue": 31900,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917435": {
     "Id": 917435,
@@ -2449,12 +1885,9 @@
     "AffinityValue": 33700,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33902\":1}",
-    "HasReward": true
+    "Reward": "{\"33902\":1}"
   },
   "917436": {
     "Id": 917436,
@@ -2462,12 +1895,9 @@
     "AffinityValue": 35500,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917437": {
     "Id": 917437,
@@ -2475,12 +1905,9 @@
     "AffinityValue": 37300,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917438": {
     "Id": 917438,
@@ -2488,12 +1915,9 @@
     "AffinityValue": 39100,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917439": {
     "Id": 917439,
@@ -2501,12 +1925,9 @@
     "AffinityValue": 40900,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917440": {
     "Id": 917440,
@@ -2514,12 +1935,9 @@
     "AffinityValue": 42700,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"2\":20}",
-    "HasReward": true
+    "Reward": "{\"2\":20}"
   },
   "917441": {
     "Id": 917441,
@@ -2527,12 +1945,9 @@
     "AffinityValue": 44900,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917442": {
     "Id": 917442,
@@ -2540,12 +1955,9 @@
     "AffinityValue": 47100,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917443": {
     "Id": 917443,
@@ -2553,12 +1965,9 @@
     "AffinityValue": 49300,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917444": {
     "Id": 917444,
@@ -2566,12 +1975,9 @@
     "AffinityValue": 51500,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917445": {
     "Id": 917445,
@@ -2579,12 +1985,9 @@
     "AffinityValue": 53700,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33902\":2}",
-    "HasReward": true
+    "Reward": "{\"33902\":2}"
   },
   "917446": {
     "Id": 917446,
@@ -2592,12 +1995,9 @@
     "AffinityValue": 55900,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917447": {
     "Id": 917447,
@@ -2605,12 +2005,9 @@
     "AffinityValue": 58100,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917448": {
     "Id": 917448,
@@ -2618,12 +2015,9 @@
     "AffinityValue": 60300,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"1\":50000}",
-    "HasReward": true
+    "Reward": "{\"1\":50000}"
   },
   "917449": {
     "Id": 917449,
@@ -2631,12 +2025,9 @@
     "AffinityValue": 62500,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"33001\":12}",
-    "HasReward": true
+    "Reward": "{\"33001\":12}"
   },
   "917450": {
     "Id": 917450,
@@ -2644,11 +2035,8 @@
     "AffinityValue": 64700,
     "AffinityGroupId": 9174,
     "RelationshipName": "亲密无间",
-    "HasRelationshipName": true,
     "Icon": "Icon/ZZZOther/zs_affinity_05",
-    "HasIcon": true,
     "AffinityLevelStage": 5,
-    "Reward": "{\"2\":20}",
-    "HasReward": true
+    "Reward": "{\"2\":20}"
   }
 }

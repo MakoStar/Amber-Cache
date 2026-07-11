@@ -3,13 +3,9 @@
     "Id": 3,
     "Type": 1,
     "HintIcon": "icon_vestige_shop",
-    "HasHintIcon": true,
     "Name": "波西亚",
-    "HasName": true,
     "Desc": "NPCConfig.3.2",
-    "HasDesc": true,
     "Literary": "商店",
-    "HasLiterary": true,
     "RefreshPoint": 1,
     "FirstLines": [
       913301
@@ -35,20 +31,15 @@
     "ChatProp": 0,
     "ChatTime": 10,
     "NPCId": 9133,
-    "AffinityValue": "",
-    "HasAffinityValue": false
+    "AffinityValue": ""
   },
   "4": {
     "Id": 4,
     "Type": 2,
     "HintIcon": "icon_vestige_upgrade",
-    "HasHintIcon": true,
     "Name": "强化机",
-    "HasName": true,
     "Desc": "强化机",
-    "HasDesc": true,
     "Literary": "强化",
-    "HasLiterary": true,
     "RefreshPoint": 2,
     "FirstLines": [],
     "Lines": [],
@@ -56,20 +47,15 @@
     "ChatProp": 0,
     "ChatTime": 10,
     "NPCId": 93004,
-    "AffinityValue": "",
-    "HasAffinityValue": false
+    "AffinityValue": ""
   },
   "5": {
     "Id": 5,
     "Type": 3,
     "HintIcon": "icon_vestige_heal",
-    "HasHintIcon": true,
     "Name": "贝缇丽",
-    "HasName": true,
     "Desc": "NPCConfig.5.2",
-    "HasDesc": true,
     "Literary": "恢复",
-    "HasLiterary": true,
     "RefreshPoint": 1,
     "FirstLines": [
       917201
@@ -95,20 +81,15 @@
     "ChatProp": 0,
     "ChatTime": 10,
     "NPCId": 917203,
-    "AffinityValue": "",
-    "HasAffinityValue": false
+    "AffinityValue": ""
   },
   "9": {
     "Id": 9,
     "Type": 1,
     "HintIcon": "icon_vestige_shop",
-    "HasHintIcon": true,
     "Name": "波西亚",
-    "HasName": true,
     "Desc": "NPCConfig.9.2",
-    "HasDesc": true,
     "Literary": "商店",
-    "HasLiterary": true,
     "RefreshPoint": 1,
     "FirstLines": [
       913301
@@ -134,20 +115,15 @@
     "ChatProp": 0,
     "ChatTime": 10,
     "NPCId": 913303,
-    "AffinityValue": "",
-    "HasAffinityValue": false
+    "AffinityValue": ""
   },
   "9133": {
     "Id": 9133,
     "Type": 5,
     "HintIcon": "icon_vestige_even",
-    "HasHintIcon": true,
     "Name": "波西亚",
-    "HasName": true,
     "Desc": "NPCConfig.9133.2",
-    "HasDesc": true,
     "Literary": "事件",
-    "HasLiterary": true,
     "RefreshPoint": 1,
     "FirstLines": [
       913301,
@@ -187,20 +163,15 @@
     "ChatProp": 0,
     "ChatTime": 10,
     "NPCId": 913302,
-    "AffinityValue": "{\"9133\":100}",
-    "HasAffinityValue": true
+    "AffinityValue": "{\"9133\":100}"
   },
   "9172": {
     "Id": 9172,
     "Type": 5,
     "HintIcon": "icon_vestige_even",
-    "HasHintIcon": true,
     "Name": "贝缇丽",
-    "HasName": true,
     "Desc": "NPCConfig.9172.2",
-    "HasDesc": true,
     "Literary": "事件",
-    "HasLiterary": true,
     "RefreshPoint": 1,
     "FirstLines": [
       917201,
@@ -240,20 +211,15 @@
     "ChatProp": 0,
     "ChatTime": 10,
     "NPCId": 917201,
-    "AffinityValue": "{\"9172\":100}",
-    "HasAffinityValue": true
+    "AffinityValue": "{\"9172\":100}"
   },
   "9173": {
     "Id": 9173,
     "Type": 5,
     "HintIcon": "icon_vestige_even",
-    "HasHintIcon": true,
     "Name": "珀尔娜",
-    "HasName": true,
     "Desc": "NPCConfig.9173.2",
-    "HasDesc": true,
     "Literary": "事件",
-    "HasLiterary": true,
     "RefreshPoint": 1,
     "FirstLines": [
       917301,
@@ -293,20 +259,15 @@
     "ChatProp": 0,
     "ChatTime": 10,
     "NPCId": 917301,
-    "AffinityValue": "{\"9173\":100}",
-    "HasAffinityValue": true
+    "AffinityValue": "{\"9173\":100}"
   },
   "9174": {
     "Id": 9174,
     "Type": 5,
     "HintIcon": "icon_vestige_even",
-    "HasHintIcon": true,
     "Name": "维嘉尔",
-    "HasName": true,
     "Desc": "NPCConfig.9174.2",
-    "HasDesc": true,
     "Literary": "事件",
-    "HasLiterary": true,
     "RefreshPoint": 1,
     "FirstLines": [
       917401,
@@ -346,20 +307,15 @@
     "ChatProp": 0,
     "ChatTime": 10,
     "NPCId": 917401,
-    "AffinityValue": "{\"9174\":100}",
-    "HasAffinityValue": true
+    "AffinityValue": "{\"9174\":100}"
   },
   "173174": {
     "Id": 173174,
     "Type": 5,
     "HintIcon": "icon_vestige_even",
-    "HasHintIcon": true,
     "Name": "维嘉尔&珀尔娜",
-    "HasName": true,
     "Desc": "NPCConfig.173174.2",
-    "HasDesc": true,
     "Literary": "事件",
-    "HasLiterary": true,
     "RefreshPoint": 1,
     "FirstLines": [
       917401,
@@ -399,7 +355,6 @@
     "ChatProp": 0,
     "ChatTime": 10,
     "NPCId": 173174,
-    "AffinityValue": "{\"9173\":50,\"9174\":50}",
-    "HasAffinityValue": true
+    "AffinityValue": "{\"9173\":50,\"9174\":50}"
   }
 }

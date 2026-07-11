@@ -6,7 +6,6 @@
     "AttrBaseGroupId": 900,
     "Level": 1,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 50,
     "Param2": 470
   },
@@ -17,7 +16,6 @@
     "AttrBaseGroupId": 900,
     "Level": 2,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 65,
     "Param2": 610
   },
@@ -28,7 +26,6 @@
     "AttrBaseGroupId": 900,
     "Level": 3,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 80,
     "Param2": 750
   },
@@ -39,7 +36,6 @@
     "AttrBaseGroupId": 900,
     "Level": 4,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 95,
     "Param2": 890
   },
@@ -50,7 +46,6 @@
     "AttrBaseGroupId": 900,
     "Level": 5,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 110,
     "Param2": 1030
   },
@@ -61,7 +56,6 @@
     "AttrBaseGroupId": 900,
     "Level": 6,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 125,
     "Param2": 1170
   },
@@ -72,7 +66,6 @@
     "AttrBaseGroupId": 900,
     "Level": 7,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 140,
     "Param2": 1310
   },
@@ -83,7 +76,6 @@
     "AttrBaseGroupId": 900,
     "Level": 8,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 155,
     "Param2": 1450
   },
@@ -94,7 +86,6 @@
     "AttrBaseGroupId": 900,
     "Level": 9,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 170,
     "Param2": 1590
   },
@@ -105,7 +96,6 @@
     "AttrBaseGroupId": 900,
     "Level": 10,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 185,
     "Param2": 1730
   },
@@ -116,7 +106,6 @@
     "AttrBaseGroupId": 900,
     "Level": 11,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 237,
     "Param2": 2210
   },
@@ -127,7 +116,6 @@
     "AttrBaseGroupId": 900,
     "Level": 12,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 297,
     "Param2": 2770
   },
@@ -138,7 +126,6 @@
     "AttrBaseGroupId": 900,
     "Level": 13,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 357,
     "Param2": 3330
   },
@@ -149,7 +136,6 @@
     "AttrBaseGroupId": 900,
     "Level": 14,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 462,
     "Param2": 4310
   },
@@ -160,7 +146,6 @@
     "AttrBaseGroupId": 900,
     "Level": 15,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 731,
     "Param2": 6820
   },
@@ -171,7 +156,6 @@
     "AttrBaseGroupId": 900,
     "Level": 16,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 791,
     "Param2": 7380
   },
@@ -182,7 +166,6 @@
     "AttrBaseGroupId": 900,
     "Level": 17,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 836,
     "Param2": 7800
   },
@@ -193,7 +176,6 @@
     "AttrBaseGroupId": 900,
     "Level": 18,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 851,
     "Param2": 7940
   },
@@ -204,7 +186,6 @@
     "AttrBaseGroupId": 900,
     "Level": 19,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 866,
     "Param2": 8080
   },
@@ -215,7 +196,6 @@
     "AttrBaseGroupId": 900,
     "Level": 20,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 1054,
     "Param2": 9840
   },
@@ -226,7 +206,6 @@
     "AttrBaseGroupId": 900,
     "Level": 21,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 1457,
     "Param2": 13600
   },
@@ -237,7 +216,6 @@
     "AttrBaseGroupId": 900,
     "Level": 22,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 1472,
     "Param2": 13740
   },
@@ -248,7 +226,6 @@
     "AttrBaseGroupId": 900,
     "Level": 23,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 1487,
     "Param2": 13880
   },
@@ -259,7 +236,6 @@
     "AttrBaseGroupId": 900,
     "Level": 24,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 1502,
     "Param2": 14020
   },
@@ -270,7 +246,6 @@
     "AttrBaseGroupId": 900,
     "Level": 25,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 2466,
     "Param2": 23020
   },
@@ -281,7 +256,6 @@
     "AttrBaseGroupId": 900,
     "Level": 26,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 2481,
     "Param2": 23160
   },
@@ -292,7 +266,6 @@
     "AttrBaseGroupId": 900,
     "Level": 27,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 2496,
     "Param2": 23300
   },
@@ -303,7 +276,6 @@
     "AttrBaseGroupId": 900,
     "Level": 28,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 2511,
     "Param2": 23440
   },
@@ -314,7 +286,6 @@
     "AttrBaseGroupId": 900,
     "Level": 29,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 2526,
     "Param2": 23580
   },
@@ -325,7 +296,6 @@
     "AttrBaseGroupId": 900,
     "Level": 30,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 2541,
     "Param2": 23720
   },
@@ -336,7 +306,6 @@
     "AttrBaseGroupId": 900,
     "Level": 31,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 3136,
     "Param2": 29270
   },
@@ -347,7 +316,6 @@
     "AttrBaseGroupId": 900,
     "Level": 32,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 3151,
     "Param2": 29410
   },
@@ -358,7 +326,6 @@
     "AttrBaseGroupId": 900,
     "Level": 33,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 3166,
     "Param2": 29550
   },
@@ -369,7 +336,6 @@
     "AttrBaseGroupId": 900,
     "Level": 34,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 3181,
     "Param2": 29690
   },
@@ -380,7 +346,6 @@
     "AttrBaseGroupId": 900,
     "Level": 35,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 3196,
     "Param2": 29830
   },
@@ -391,7 +356,6 @@
     "AttrBaseGroupId": 900,
     "Level": 36,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 3211,
     "Param2": 29970
   },
@@ -402,7 +366,6 @@
     "AttrBaseGroupId": 900,
     "Level": 37,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 3226,
     "Param2": 30110
   },
@@ -413,7 +376,6 @@
     "AttrBaseGroupId": 900,
     "Level": 38,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 3241,
     "Param2": 30250
   },
@@ -424,7 +386,6 @@
     "AttrBaseGroupId": 900,
     "Level": 39,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 3256,
     "Param2": 30390
   },
@@ -435,7 +396,6 @@
     "AttrBaseGroupId": 900,
     "Level": 40,
     "Desc": "Build_Attribute_Desc_1",
-    "HasDesc": true,
     "Param1": 3275,
     "Param2": 30570
   }
