@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+package Pb;
+
+message FileDiff {
+    string FileName = 1;
+    string Hash = 2;
+    int64 Version = 3;
+    string AdditionalPath = 4;
+}
+
+message Pb_ClientDiff {
+    repeated FileDiff FileDiff = 1;
+}
