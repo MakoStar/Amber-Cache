@@ -1,8 +1,9 @@
 mod proto;
-use std::fs;
+use anyhow::Context;
 use prost::Message;
-use std::collections::BTreeMap;
 use proto::{FileDiff, PbClientDiff};
+use std::collections::BTreeMap;
+use std::fs;
 
 fn test() {
     let diff1: FileDiff = FileDiff {
@@ -35,7 +36,7 @@ fn test() {
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
     test();
-    let bin_data: Vec<u8> = fs::read("test/win.bin")?;
+    let bin_data: Vec<u8> = fs::read("win.bin").context("File not found win.bin")?;
     let client_diff: PbClientDiff = PbClientDiff::decode(bin_data.as_slice())?;
 
     let mut manifest_map: BTreeMap<String, &proto::FileDiff> = BTreeMap::new();
@@ -44,10 +45,12 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     }
 
     let json_string = serde_json::to_string_pretty(&manifest_map)?;
-    println!("{}", json_string);
+    // println!("{}", json_string);
+    for file_name in manifest_map.keys() {
+        println!("File Key: {}", file_name);
+    }
 
-    std::fs::create_dir_all("output/")
-        .expect("Failed to create output directory");
+    std::fs::create_dir_all("output/").expect("Failed to create output directory");
 
     fs::write("output/manifest.json", json_string)?;
 
