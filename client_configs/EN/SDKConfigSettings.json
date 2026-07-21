@@ -6,7 +6,7 @@
    "Sdk_Url_Lb": "https://en-sdk-api-bk.yostarplat.com",
    "Push_Sdk_Url": "https://sdk-callback.yo-star.com",
    "Sdk_Pid": "US-NOVA",
-   "Brand": "",
+   "Brand": "Yostar",
    "Ali": {
     "Log_Enable": 1,
     "Auto_Detect_Enable": 1,

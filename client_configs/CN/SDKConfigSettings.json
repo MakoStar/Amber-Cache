@@ -15,17 +15,24 @@
    "auto_url": {
     "http": [
      "https://nova-static.yostar.cn/meta/serverlist.html",
-     "https://nova.yostar.cn",
      "https://sdk-api.yostar.cn"
     ],
-    "ping": null,
-    "tcpping": null,
+    "ping": [
+     "https://nova-static.yostar.cn/meta/serverlist.html",
+     "https://sdk-api.yostar.cn"
+    ],
+    "tcpping": [
+     "https://nova-static.yostar.cn/meta/serverlist.html",
+     "https://sdk-api.yostar.cn"
+    ],
     "mtr": [
      "https://nova-static.yostar.cn/meta/serverlist.html",
-     "https://nova.yostar.cn",
      "https://sdk-api.yostar.cn"
     ],
-    "dns": null
+    "dns": [
+     "https://nova-static.yostar.cn/meta/serverlist.html",
+     "https://sdk-api.yostar.cn"
+    ]
    },
    "log": {
     "endpoint": "https://cn-shanghai.log.aliyuncs.com",
@@ -68,7 +75,13 @@
   "cs_url": "https://customer-pc.yostar.net/#/",
   "cs_api_url": "https://customer.yostar.net/"
  },
+ "mac": {
+  "cs_enable": 0,
+  "cs_url": "",
+  "cs_api_url": ""
+ },
  "plist": {
-  "user_tracking_usage_description": "为了提供更好的游戏体验，我们想访问您的广告标识符。"
+  "user_tracking_usage_description": "为了提供更好的游戏体验，我们想访问您的广告标识符。",
+  "location_when_in_use_usage_description": "为向您优化游戏内相关功能体验，我们需要在您使用 App 期间获取位置信息。数据仅用于游戏功能，不会在后台收集。"
  }
 }

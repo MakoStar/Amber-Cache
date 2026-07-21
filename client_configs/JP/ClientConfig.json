@@ -1,5 +1,5 @@
 {
-    "buildVersion": "2026_0408_1144",
+    "buildVersion": "2026_0708_1630",
     "buildTag": "Rel-JP",
     "isOpenGM": false,
     "useLocalResourcesDownloadServer": false,
@@ -10,9 +10,9 @@
             "name": "JP",
             "vendorDisplayName": "JP",
             "flags": 1,
-            "clientVersion_Android": "1.9.0",
-            "clientVersion_IOS": "1.9.0",
-            "clientVersion_Windows": "1.9.0",
+            "clientVersion_Android": "1.13.0",
+            "clientVersion_IOS": "1.13.0",
+            "clientVersion_Windows": "1.13.0",
             "timeZone": 8,
             "localLanguage": "ja_JP",
             "voiceLanguage": "ja_JP",
@@ -26,9 +26,9 @@
             "serverURL": "https://nova-static.stellasora.jp",
             "serverChannelName": "Official",
             "serverMetaKey": "ZnUFA@S9%4KyoryM",
-            "reviewServerMetaKey": "@n8dvw2HRH#D6%fq",
+            "reviewServerMetaKey": "pJkt6M7Y3qW9@g4M",
             "serverGarbleKey": "yX5Gt64PVvVH6$qwBXaPJC*LZKoK5mYh",
-            "reviewServerGarbleKey": "odV&9oD$A39zP@wDaBbTaNNENgx5Zypr"
+            "reviewServerGarbleKey": "UPceM$N!9cEZ3e4zAzWLMYqdZ$!4K6XP"
         }
     ]
 }

@@ -6,6 +6,7 @@
    "Sdk_Url_Lb": "",
    "Push_Sdk_Url": "",
    "Sdk_Pid": "",
+   "Brand": "",
    "Ali": {
     "Log_Enable": 0,
     "Auto_Detect_Enable": 0,
@@ -44,8 +45,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "GooglePlay": {
     "FB_AppId": "",
@@ -56,8 +61,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "Amazon": {
     "FB_AppId": "",
@@ -68,8 +77,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "PC": {
     "FB_AppId": "",
@@ -80,8 +93,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "OneStore": {
     "FB_AppId": "",
@@ -92,8 +109,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "Samsung": {
     "FB_AppId": "",
@@ -104,8 +125,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "Steam": {
     "FB_AppId": "",
@@ -116,8 +141,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    }
   },
   "Kr": {
@@ -125,6 +154,7 @@
    "Sdk_Url_Lb": "",
    "Push_Sdk_Url": "",
    "Sdk_Pid": "",
+   "Brand": "",
    "Ali": {
     "Log_Enable": 0,
     "Auto_Detect_Enable": 0,
@@ -163,8 +193,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "GooglePlay": {
     "FB_AppId": "",
@@ -175,8 +209,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "OneStore": {
     "FB_AppId": "",
@@ -187,8 +225,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "Amazon": {
     "FB_AppId": "",
@@ -199,8 +241,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "PC": {
     "FB_AppId": "",
@@ -211,8 +257,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "Samsung": {
     "FB_AppId": "",
@@ -223,8 +273,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "Steam": {
     "FB_AppId": "",
@@ -235,8 +289,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    }
   },
   "Jp": {
@@ -244,6 +302,7 @@
    "Sdk_Url_Lb": "https://jp-sdk-api-bk.yostarplat.com",
    "Push_Sdk_Url": "https://sdk-callback.yo-star.com",
    "Sdk_Pid": "JP-NOVA",
+   "Brand": "Yostar",
    "Ali": {
     "Log_Enable": 1,
     "Auto_Detect_Enable": 1,
@@ -301,9 +360,13 @@
     "Aihelp_Api_Key": "",
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
-    "Help_Page_Url": "https://stellasora.jp/cs",
+    "Help_Page_Url": "https://stellasora.jp/contact",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 1,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "GooglePlay": {
     "FB_AppId": "",
@@ -313,9 +376,13 @@
     "Aihelp_Api_Key": "",
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
-    "Help_Page_Url": "https://stellasora.jp/cs",
+    "Help_Page_Url": "https://stellasora.jp/contact",
+    "Help_Email": "",
     "Pgs_Appid": "515383833574",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "Amazon": {
     "FB_AppId": "",
@@ -326,8 +393,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "PC": {
     "FB_AppId": "",
@@ -337,9 +408,13 @@
     "Aihelp_Api_Key": "",
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
-    "Help_Page_Url": "https://stellasora.jp/cs",
+    "Help_Page_Url": "https://stellasora.jp/contact",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "OneStore": {
     "FB_AppId": "",
@@ -350,8 +425,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "Samsung": {
     "FB_AppId": "",
@@ -362,8 +441,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "Steam": {
     "FB_AppId": "",
@@ -374,8 +457,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    }
   },
   "Tw": {
@@ -383,6 +470,7 @@
    "Sdk_Url_Lb": "",
    "Push_Sdk_Url": "",
    "Sdk_Pid": "",
+   "Brand": "",
    "Ali": {
     "Log_Enable": 0,
     "Auto_Detect_Enable": 0,
@@ -421,8 +509,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "GooglePlay": {
     "FB_AppId": "",
@@ -433,8 +525,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "Amazon": {
     "FB_AppId": "",
@@ -445,8 +541,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "PC": {
     "FB_AppId": "",
@@ -457,8 +557,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "OneStore": {
     "FB_AppId": "",
@@ -469,8 +573,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "Samsung": {
     "FB_AppId": "",
@@ -481,8 +589,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "Steam": {
     "FB_AppId": "",
@@ -493,8 +605,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    }
   },
   "Mn": {
@@ -502,6 +618,7 @@
    "Sdk_Url_Lb": "",
    "Push_Sdk_Url": "",
    "Sdk_Pid": "",
+   "Brand": "",
    "Ali": {
     "Log_Enable": 0,
     "Auto_Detect_Enable": 0,
@@ -540,8 +657,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "GooglePlay": {
     "FB_AppId": "",
@@ -552,8 +673,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "Amazon": {
     "FB_AppId": "",
@@ -564,8 +689,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "PC": {
     "FB_AppId": "",
@@ -576,8 +705,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "OneStore": {
     "FB_AppId": "",
@@ -588,8 +721,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "Samsung": {
     "FB_AppId": "",
@@ -600,8 +737,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    },
    "Steam": {
     "FB_AppId": "",
@@ -612,8 +753,12 @@
     "Aihelp_Domain": "",
     "Aihelp_Appid": "",
     "Help_Page_Url": "",
+    "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0
+    "Fcm_Push_Switch": 0,
+    "Universal_Link_Domains": "",
+    "App_Link": "",
+    "Scheme_Url": ""
    }
   }
  },

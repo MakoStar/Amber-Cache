@@ -1,4 +1,4 @@
-{
+﻿{
  "Version": "",
  "Regions": {
   "En": {
@@ -450,7 +450,7 @@
    "Sdk_Url_Lb": "https://jp-sdk-api-bk.yostarplat.com",
    "Push_Sdk_Url": "https://sdk-callback.yo-star.com",
    "Sdk_Pid": "TW-NOVA",
-   "Brand": "",
+   "Brand": "Stargazer",
    "Ali": {
     "Log_Enable": 1,
     "Auto_Detect_Enable": 1,
@@ -511,7 +511,7 @@
     "Help_Page_Url": "",
     "Help_Email": "",
     "Pgs_Appid": "",
-    "Fcm_Push_Switch": 0,
+    "Fcm_Push_Switch": 1,
     "Universal_Link_Domains": "",
     "App_Link": "",
     "Scheme_Url": ""
