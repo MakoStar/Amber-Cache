@@ -1,0 +1,27 @@
+{
+    "CN": {
+        "data.arcx": "v129 (p4)",
+        "game_ver": "[c1.13.0_g1.14.0_p4]",
+        "lua.arcx": "v129 (p4)"
+    },
+    "EN": {
+        "data.arcx": "v129 (p4)",
+        "game_ver": "[c1.13.0_g1.14.0_p4]",
+        "lua.arcx": "v129 (p4)"
+    },
+    "JP": {
+        "data.arcx": "v133 (p4)",
+        "game_ver": "[c1.13.0_g1.14.0_p4]",
+        "lua.arcx": "v133 (p4)"
+    },
+    "KR": {
+        "data.arcx": "v134 (p3)",
+        "game_ver": "[c1.13.0_g1.13.2_p3]",
+        "lua.arcx": "v134 (p3)"
+    },
+    "TW": {
+        "data.arcx": "v139 (p4)",
+        "game_ver": "[c1.13.0_g1.14.0_p4]",
+        "lua.arcx": "v139 (p4)"
+    }
+}
