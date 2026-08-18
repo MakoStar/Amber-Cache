@@ -1,0 +1,3680 @@
+{
+    "list": [
+        {
+            "name": "bin/achievement.bytes",
+            "hash": 16128264221813663567
+        },
+        {
+            "name": "bin/acquirereward.bytes",
+            "hash": 7163084829023328131
+        },
+        {
+            "name": "bin/activity.bytes",
+            "hash": 11160455548340252033
+        },
+        {
+            "name": "bin/activityavglevel.bytes",
+            "hash": 6631155368193860753
+        },
+        {
+            "name": "bin/activitydouble.bytes",
+            "hash": 11013317639883558323
+        },
+        {
+            "name": "bin/activitydoublequest.bytes",
+            "hash": 5404804775584616160
+        },
+        {
+            "name": "bin/activitygoods.bytes",
+            "hash": 6241194612667233813
+        },
+        {
+            "name": "bin/activitygroup.bytes",
+            "hash": 14152488425260956732
+        },
+        {
+            "name": "bin/activityicecreamlevel.bytes",
+            "hash": 15304565659993646980
+        },
+        {
+            "name": "bin/activitylevelsfloor.bytes",
+            "hash": 6645265187660164768
+        },
+        {
+            "name": "bin/activitylevelslevel.bytes",
+            "hash": 18278118231264190203
+        },
+        {
+            "name": "bin/activitypenguincardlevel.bytes",
+            "hash": 11685495194534654368
+        },
+        {
+            "name": "bin/activitypenguincardquest.bytes",
+            "hash": 3246664180592264966
+        },
+        {
+            "name": "bin/activitypenguincardquestgroup.bytes",
+            "hash": 4680629357082716820
+        },
+        {
+            "name": "bin/activityshop.bytes",
+            "hash": 12088798178741694556
+        },
+        {
+            "name": "bin/activityshopcontrol.bytes",
+            "hash": 17750376666204870736
+        },
+        {
+            "name": "bin/activitystory.bytes",
+            "hash": 9822461876891457492
+        },
+        {
+            "name": "bin/activitystorychapter.bytes",
+            "hash": 6802733873193492076
+        },
+        {
+            "name": "bin/activitystorycondition.bytes",
+            "hash": 4029264015607908172
+        },
+        {
+            "name": "bin/activitystoryevidence.bytes",
+            "hash": 17340226831036018378
+        },
+        {
+            "name": "bin/activitytask.bytes",
+            "hash": 8442203045033196164
+        },
+        {
+            "name": "bin/activitytaskcontrol.bytes",
+            "hash": 2502296830984393611
+        },
+        {
+            "name": "bin/activitytaskgroup.bytes",
+            "hash": 6652095368368996652
+        },
+        {
+            "name": "bin/adcontrol.bytes",
+            "hash": 11237093437418431889
+        },
+        {
+            "name": "bin/addbuffaction.bytes",
+            "hash": 7265300746511884220
+        },
+        {
+            "name": "bin/affinitygift.bytes",
+            "hash": 8663310143275398197
+        },
+        {
+            "name": "bin/affinitylevel.bytes",
+            "hash": 12147393540517198079
+        },
+        {
+            "name": "bin/affinityquest.bytes",
+            "hash": 10554392770153221154
+        },
+        {
+            "name": "bin/affinityupreward.bytes",
+            "hash": 3983371267883600792
+        },
+        {
+            "name": "bin/agent.bytes",
+            "hash": 9092227079908699390
+        },
+        {
+            "name": "bin/agentspecialperformance.bytes",
+            "hash": 4364939564163837636
+        },
+        {
+            "name": "bin/agenttab.bytes",
+            "hash": 3421742945504246361
+        },
+        {
+            "name": "bin/ai.bytes",
+            "hash": 1576011684637352530
+        },
+        {
+            "name": "bin/areaeffect.bytes",
+            "hash": 3542720799731746453
+        },
+        {
+            "name": "bin/assistattribute.bytes",
+            "hash": 3067228423943652085
+        },
+        {
+            "name": "bin/assistquest.bytes",
+            "hash": 12887104092064281266
+        },
+        {
+            "name": "bin/assistquestgroup.bytes",
+            "hash": 17284288837185991461
+        },
+        {
+            "name": "bin/attribute.bytes",
+            "hash": 7528531885412385247
+        },
+        {
+            "name": "bin/attributelimit.bytes",
+            "hash": 15633904945085651427
+        },
+        {
+            "name": "bin/attributesetlimit.bytes",
+            "hash": 13693861714167244819
+        },
+        {
+            "name": "bin/banner.bytes",
+            "hash": 14731761642624971948
+        },
+        {
+            "name": "bin/battlepass.bytes",
+            "hash": 11552329750781255107
+        },
+        {
+            "name": "bin/battlepasslevel.bytes",
+            "hash": 17169345153737487911
+        },
+        {
+            "name": "bin/battlepassquest.bytes",
+            "hash": 14567262132701487560
+        },
+        {
+            "name": "bin/battlepassreward.bytes",
+            "hash": 12836403649531212886
+        },
+        {
+            "name": "bin/battlethreshold.bytes",
+            "hash": 4367515317593666508
+        },
+        {
+            "name": "bin/bdconvert.bytes",
+            "hash": 14282078857113973497
+        },
+        {
+            "name": "bin/bdconvertcondition.bytes",
+            "hash": 5794667092703082182
+        },
+        {
+            "name": "bin/bdconvertcontent.bytes",
+            "hash": 4884921842557326813
+        },
+        {
+            "name": "bin/bdconvertcontrol.bytes",
+            "hash": 16740449280196522713
+        },
+        {
+            "name": "bin/bdconvertrewardgroup.bytes",
+            "hash": 14513963692439642635
+        },
+        {
+            "name": "bin/boardnpc.bytes",
+            "hash": 14150900786593923993
+        },
+        {
+            "name": "bin/breakoutcharacter.bytes",
+            "hash": 1750129950816406392
+        },
+        {
+            "name": "bin/breakoutcontrol.bytes",
+            "hash": 1837008115725741949
+        },
+        {
+            "name": "bin/breakoutenemyspr.bytes",
+            "hash": 12734139204026563945
+        },
+        {
+            "name": "bin/breakoutfloor.bytes",
+            "hash": 7456853907790294673
+        },
+        {
+            "name": "bin/breakoutlevel.bytes",
+            "hash": 9438098537739310623
+        },
+        {
+            "name": "bin/buff.bytes",
+            "hash": 1612719098932696438
+        },
+        {
+            "name": "bin/buffeffect.bytes",
+            "hash": 2567684341650718200
+        },
+        {
+            "name": "bin/buffvalue.bytes",
+            "hash": 15477145607628414467
+        },
+        {
+            "name": "bin/chapter.bytes",
+            "hash": 16182556033445091026
+        },
+        {
+            "name": "bin/character.bytes",
+            "hash": 4737866690608136108
+        },
+        {
+            "name": "bin/characteradvance.bytes",
+            "hash": 578442227031538782
+        },
+        {
+            "name": "bin/characterarchive.bytes",
+            "hash": 4533849513507197537
+        },
+        {
+            "name": "bin/characterarchivebaseinfo.bytes",
+            "hash": 16112561273663995720
+        },
+        {
+            "name": "bin/characterarchivecontent.bytes",
+            "hash": 16107083256903048560
+        },
+        {
+            "name": "bin/characterarchivevoice.bytes",
+            "hash": 17801406582590258680
+        },
+        {
+            "name": "bin/charactercg.bytes",
+            "hash": 13805845740005732991
+        },
+        {
+            "name": "bin/characterdes.bytes",
+            "hash": 15719231005736410687
+        },
+        {
+            "name": "bin/characterskillupgrade.bytes",
+            "hash": 17983661971227832791
+        },
+        {
+            "name": "bin/characterskin.bytes",
+            "hash": 16292455820929720577
+        },
+        {
+            "name": "bin/characterskinoverlap.bytes",
+            "hash": 6754256864227766705
+        },
+        {
+            "name": "bin/characterskinpanelface.bytes",
+            "hash": 2038170072545613489
+        },
+        {
+            "name": "bin/characterskintheme.bytes",
+            "hash": 9810283157025737541
+        },
+        {
+            "name": "bin/characterspine.bytes",
+            "hash": 12843869018975432088
+        },
+        {
+            "name": "bin/charactertag.bytes",
+            "hash": 13271288549118726081
+        },
+        {
+            "name": "bin/characterupgrade.bytes",
+            "hash": 5653530874593214450
+        },
+        {
+            "name": "bin/charactervoicecontrol.bytes",
+            "hash": 9786145946720116811
+        },
+        {
+            "name": "bin/charaffinitytemplate.bytes",
+            "hash": 15734836443639978422
+        },
+        {
+            "name": "bin/chargem.bytes",
+            "hash": 2858977936986229764
+        },
+        {
+            "name": "bin/chargemattrvalue.bytes",
+            "hash": 11095996167461907198
+        },
+        {
+            "name": "bin/chargeminstance.bytes",
+            "hash": 1900890741145595935
+        },
+        {
+            "name": "bin/chargeminstancefloor.bytes",
+            "hash": 4631084495277276023
+        },
+        {
+            "name": "bin/chargeminstancetype.bytes",
+            "hash": 3968955628875392623
+        },
+        {
+            "name": "bin/chargemslotcontrol.bytes",
+            "hash": 8051901961221663629
+        },
+        {
+            "name": "bin/chargetlines.bytes",
+            "hash": 4374159644364277148
+        },
+        {
+            "name": "bin/chargrade.bytes",
+            "hash": 14680159954730569063
+        },
+        {
+            "name": "bin/charitemexp.bytes",
+            "hash": 17614419846636710192
+        },
+        {
+            "name": "bin/charpotential.bytes",
+            "hash": 4733312909509655868
+        },
+        {
+            "name": "bin/charraritysequence.bytes",
+            "hash": 17176133388208449963
+        },
+        {
+            "name": "bin/chat.bytes",
+            "hash": 12117829711115459483
+        },
+        {
+            "name": "bin/chest.bytes",
+            "hash": 1839358651560777562
+        },
+        {
+            "name": "bin/config.bytes",
+            "hash": 1730352223131856813
+        },
+        {
+            "name": "bin/contentword.bytes",
+            "hash": 13687525431409142292
+        },
+        {
+            "name": "bin/cookiecontrol.bytes",
+            "hash": 6833370990692050255
+        },
+        {
+            "name": "bin/cookiefloor.bytes",
+            "hash": 9537137499979790876
+        },
+        {
+            "name": "bin/cookielevel.bytes",
+            "hash": 6978312584165348820
+        },
+        {
+            "name": "bin/cookiepackagepathsgroup.bytes",
+            "hash": 10499854348556782074
+        },
+        {
+            "name": "bin/cookiequest.bytes",
+            "hash": 15029451454745576785
+        },
+        {
+            "name": "bin/cookierhythmlresult.bytes",
+            "hash": 14555429639712579213
+        },
+        {
+            "name": "bin/dailyinstance.bytes",
+            "hash": 5128160051133992181
+        },
+        {
+            "name": "bin/dailyinstancefloor.bytes",
+            "hash": 12834201980664804545
+        },
+        {
+            "name": "bin/dailyinstancerewardgroup.bytes",
+            "hash": 10094824784310417413
+        },
+        {
+            "name": "bin/dailyinstancetype.bytes",
+            "hash": 18159945393246365385
+        },
+        {
+            "name": "bin/dailyquest.bytes",
+            "hash": 1069910233829015453
+        },
+        {
+            "name": "bin/dailyquestactive.bytes",
+            "hash": 11120622325374623267
+        },
+        {
+            "name": "bin/dailyquestaward.bytes",
+            "hash": 504892285955980403
+        },
+        {
+            "name": "bin/datingbranch.bytes",
+            "hash": 1424307824908307975
+        },
+        {
+            "name": "bin/datingcharacterevent.bytes",
+            "hash": 14646056889594343554
+        },
+        {
+            "name": "bin/datingcharresponse.bytes",
+            "hash": 13022878769628768012
+        },
+        {
+            "name": "bin/datingchartag.bytes",
+            "hash": 17428898909756181868
+        },
+        {
+            "name": "bin/datinglandmark.bytes",
+            "hash": 14898550202031903883
+        },
+        {
+            "name": "bin/datinglandmarkevent.bytes",
+            "hash": 12603626312828799886
+        },
+        {
+            "name": "bin/datingstartendevent.bytes",
+            "hash": 11364584622071582595
+        },
+        {
+            "name": "bin/demonadvance.bytes",
+            "hash": 15115663634391840996
+        },
+        {
+            "name": "bin/demonquest.bytes",
+            "hash": 4723807135833815604
+        },
+        {
+            "name": "bin/destroyobject.bytes",
+            "hash": 13930926607052117884
+        },
+        {
+            "name": "bin/destroyobjectspr.bytes",
+            "hash": 837036944551345584
+        },
+        {
+            "name": "bin/dictionarydiagram.bytes",
+            "hash": 1848610197837673752
+        },
+        {
+            "name": "bin/dictionaryentry.bytes",
+            "hash": 13064599050030712311
+        },
+        {
+            "name": "bin/dictionarytab.bytes",
+            "hash": 8790705657817069965
+        },
+        {
+            "name": "bin/dictionarytopbarentry.bytes",
+            "hash": 4004141488490386068
+        },
+        {
+            "name": "bin/disc.bytes",
+            "hash": 4858945731665881889
+        },
+        {
+            "name": "bin/discextraattribute.bytes",
+            "hash": 802168723954113583
+        },
+        {
+            "name": "bin/discip.bytes",
+            "hash": 2316076956122391298
+        },
+        {
+            "name": "bin/discitemexp.bytes",
+            "hash": 15340962717000311670
+        },
+        {
+            "name": "bin/discpromote.bytes",
+            "hash": 3848538792697343119
+        },
+        {
+            "name": "bin/discpromotelimit.bytes",
+            "hash": 7898821435211507954
+        },
+        {
+            "name": "bin/discstrengthen.bytes",
+            "hash": 4270410612026895717
+        },
+        {
+            "name": "bin/disctag.bytes",
+            "hash": 6198307150577718242
+        },
+        {
+            "name": "bin/drop.bytes",
+            "hash": 3404446743551413708
+        },
+        {
+            "name": "bin/dropitemshow.bytes",
+            "hash": 9111157764313666521
+        },
+        {
+            "name": "bin/dropobject.bytes",
+            "hash": 10962633750875006839
+        },
+        {
+            "name": "bin/dropobjectgroup.bytes",
+            "hash": 13148721404474246199
+        },
+        {
+            "name": "bin/droppkg.bytes",
+            "hash": 14082558555817337460
+        },
+        {
+            "name": "bin/effect.bytes",
+            "hash": 12747462726103940438
+        },
+        {
+            "name": "bin/effectdesc.bytes",
+            "hash": 12251367966240869996
+        },
+        {
+            "name": "bin/effectvalue.bytes",
+            "hash": 17447821909280726468
+        },
+        {
+            "name": "bin/endscenetype.bytes",
+            "hash": 2318119425809130192
+        },
+        {
+            "name": "bin/energybuy.bytes",
+            "hash": 1718556390114448148
+        },
+        {
+            "name": "bin/enumdesc.bytes",
+            "hash": 17541274915982976337
+        },
+        {
+            "name": "bin/errorcode.bytes",
+            "hash": 11717161151396062356
+        },
+        {
+            "name": "bin/eventoptions.bytes",
+            "hash": 16690833454522250600
+        },
+        {
+            "name": "bin/eventoptionsrules.bytes",
+            "hash": 16463025534654733427
+        },
+        {
+            "name": "bin/eventresult.bytes",
+            "hash": 7952301775736870925
+        },
+        {
+            "name": "bin/factionrelation.bytes",
+            "hash": 14933351868195585459
+        },
+        {
+            "name": "bin/fatecard.bytes",
+            "hash": 2659285807482446578
+        },
+        {
+            "name": "bin/floorbuff.bytes",
+            "hash": 7803281856152389937
+        },
+        {
+            "name": "bin/followsocialmediacontrol.bytes",
+            "hash": 10101911317252722986
+        },
+        {
+            "name": "bin/followsocialmedialinkconfig.bytes",
+            "hash": 15201745155442216664
+        },
+        {
+            "name": "bin/force.bytes",
+            "hash": 5212639891792591355
+        },
+        {
+            "name": "bin/formationscene.bytes",
+            "hash": 17100595285584464425
+        },
+        {
+            "name": "bin/gacha.bytes",
+            "hash": 5013875188764858977
+        },
+        {
+            "name": "bin/gachaatypeprob.bytes",
+            "hash": 6496649733765601449
+        },
+        {
+            "name": "bin/gachanewbie.bytes",
+            "hash": 7573970531272048128
+        },
+        {
+            "name": "bin/gachapkg.bytes",
+            "hash": 6658751122547415559
+        },
+        {
+            "name": "bin/gachastorage.bytes",
+            "hash": 16074148591215449558
+        },
+        {
+            "name": "bin/gachatype.bytes",
+            "hash": 2052422557436501398
+        },
+        {
+            "name": "bin/gamepadaction.bytes",
+            "hash": 16113075376047272257
+        },
+        {
+            "name": "bin/gamepadbutton.bytes",
+            "hash": 15549605875165256195
+        },
+        {
+            "name": "bin/gmbuild.bytes",
+            "hash": 17843474433973666076
+        },
+        {
+            "name": "bin/gmorder.bytes",
+            "hash": 16179871851822560525
+        },
+        {
+            "name": "bin/gmsuperman.bytes",
+            "hash": 7648004314589894316
+        },
+        {
+            "name": "bin/gmteam.bytes",
+            "hash": 12467618074094321755
+        },
+        {
+            "name": "bin/goldenspybuffcard.bytes",
+            "hash": 6967240360095901641
+        },
+        {
+            "name": "bin/goldenspybuffcardpool.bytes",
+            "hash": 9339004802777962098
+        },
+        {
+            "name": "bin/goldenspyconfig.bytes",
+            "hash": 13106991348599109299
+        },
+        {
+            "name": "bin/goldenspycontrol.bytes",
+            "hash": 6172350852870456910
+        },
+        {
+            "name": "bin/goldenspyextrascore.bytes",
+            "hash": 5703407344750757182
+        },
+        {
+            "name": "bin/goldenspyfloor.bytes",
+            "hash": 2402831620052765258
+        },
+        {
+            "name": "bin/goldenspyitem.bytes",
+            "hash": 8804370118792927321
+        },
+        {
+            "name": "bin/goldenspylevel.bytes",
+            "hash": 2504517066429003186
+        },
+        {
+            "name": "bin/goldenspylevelgroup.bytes",
+            "hash": 14570343887483279469
+        },
+        {
+            "name": "bin/goldenspyobstacle.bytes",
+            "hash": 17856252013597735201
+        },
+        {
+            "name": "bin/goldenspyskill.bytes",
+            "hash": 5119035187204232375
+        },
+        {
+            "name": "bin/guide.bytes",
+            "hash": 4890556395421845505
+        },
+        {
+            "name": "bin/guidegroup.bytes",
+            "hash": 18388079773651263138
+        },
+        {
+            "name": "bin/handbook.bytes",
+            "hash": 15403717314686342400
+        },
+        {
+            "name": "bin/hitdamage.bytes",
+            "hash": 12044837158545641437
+        },
+        {
+            "name": "bin/honor.bytes",
+            "hash": 17092596147822042761
+        },
+        {
+            "name": "bin/honorcharacter.bytes",
+            "hash": 5945107410144713048
+        },
+        {
+            "name": "bin/honorlevel.bytes",
+            "hash": 5048564634591956822
+        },
+        {
+            "name": "bin/htmlconfig.bytes",
+            "hash": 9609591592552094579
+        },
+        {
+            "name": "bin/icecreambuff.bytes",
+            "hash": 14073527074263963243
+        },
+        {
+            "name": "bin/icecreambuffpool.bytes",
+            "hash": 4473713259189705116
+        },
+        {
+            "name": "bin/icecreamchar.bytes",
+            "hash": 7908816074603259408
+        },
+        {
+            "name": "bin/icecreamcharpool.bytes",
+            "hash": 7130298800761895608
+        },
+        {
+            "name": "bin/icecreamcreate.bytes",
+            "hash": 4085547134652770698
+        },
+        {
+            "name": "bin/icecreamfever.bytes",
+            "hash": 414035033927255768
+        },
+        {
+            "name": "bin/infinitytower.bytes",
+            "hash": 16729995295822977901
+        },
+        {
+            "name": "bin/infinitytoweraffix.bytes",
+            "hash": 205641751221001145
+        },
+        {
+            "name": "bin/infinitytowerbountylevel.bytes",
+            "hash": 10372388795616446986
+        },
+        {
+            "name": "bin/infinitytowerdifficulty.bytes",
+            "hash": 14822835365096962972
+        },
+        {
+            "name": "bin/infinitytowerenemyset.bytes",
+            "hash": 4720351638244982681
+        },
+        {
+            "name": "bin/infinitytowerfloor.bytes",
+            "hash": 111766868025917855
+        },
+        {
+            "name": "bin/infinitytowerlevel.bytes",
+            "hash": 1754527464400193660
+        },
+        {
+            "name": "bin/infinitytowermap.bytes",
+            "hash": 3833294998217171117
+        },
+        {
+            "name": "bin/infinitytowermsg.bytes",
+            "hash": 1418028117450166522
+        },
+        {
+            "name": "bin/infinitytowerplot.bytes",
+            "hash": 15406373166664742130
+        },
+        {
+            "name": "bin/interactiveaction.bytes",
+            "hash": 11045519968791846572
+        },
+        {
+            "name": "bin/item.bytes",
+            "hash": 14633157542577826983
+        },
+        {
+            "name": "bin/itempackmark.bytes",
+            "hash": 4837620731943563569
+        },
+        {
+            "name": "bin/jointdrillaffix.bytes",
+            "hash": 14151623014378219667
+        },
+        {
+            "name": "bin/jointdrillbattlethreshold.bytes",
+            "hash": 12046020257104540307
+        },
+        {
+            "name": "bin/jointdrillcontrol.bytes",
+            "hash": 16995611814061151858
+        },
+        {
+            "name": "bin/jointdrillfloor.bytes",
+            "hash": 14365748498820864079
+        },
+        {
+            "name": "bin/jointdrilllevel.bytes",
+            "hash": 16202119279291301683
+        },
+        {
+            "name": "bin/jointdrillquest.bytes",
+            "hash": 15338665732093649649
+        },
+        {
+            "name": "bin/jointdrillrank.bytes",
+            "hash": 4943041667203332555
+        },
+        {
+            "name": "bin/jointdrill_2_floor.bytes",
+            "hash": 9962932300392985358
+        },
+        {
+            "name": "bin/jointdrill_2_floorchange.bytes",
+            "hash": 5494203914447002992
+        },
+        {
+            "name": "bin/jointdrill_2_level.bytes",
+            "hash": 16923056181690556426
+        },
+        {
+            "name": "bin/jointdrill_2_monstergroup.bytes",
+            "hash": 5708271204509640773
+        },
+        {
+            "name": "bin/jumpto.bytes",
+            "hash": 4415102125406053197
+        },
+        {
+            "name": "bin/levelquest.bytes",
+            "hash": 17248363767751644832
+        },
+        {
+            "name": "bin/levelquesttarget.bytes",
+            "hash": 15722335217487270509
+        },
+        {
+            "name": "bin/loginrewardcontrol.bytes",
+            "hash": 2092237744771278330
+        },
+        {
+            "name": "bin/loginrewardgroup.bytes",
+            "hash": 9947103424890932260
+        },
+        {
+            "name": "bin/mailtemplate.bytes",
+            "hash": 8674374588275907790
+        },
+        {
+            "name": "bin/mainline.bytes",
+            "hash": 15719257018589514464
+        },
+        {
+            "name": "bin/mainlinefloor.bytes",
+            "hash": 17920709045292427420
+        },
+        {
+            "name": "bin/mainscreencg.bytes",
+            "hash": 10646813618121188784
+        },
+        {
+            "name": "bin/mainskill.bytes",
+            "hash": 2110235561428895565
+        },
+        {
+            "name": "bin/malladvrecommend.bytes",
+            "hash": 8018821421142463618
+        },
+        {
+            "name": "bin/mallgem.bytes",
+            "hash": 13651226076424419909
+        },
+        {
+            "name": "bin/mallmonthlycard.bytes",
+            "hash": 12066290891255519281
+        },
+        {
+            "name": "bin/mallpackage.bytes",
+            "hash": 14471062802835817180
+        },
+        {
+            "name": "bin/mallpackagepage.bytes",
+            "hash": 1602452362373099018
+        },
+        {
+            "name": "bin/mallrecommendgroup.bytes",
+            "hash": 13786095294475669165
+        },
+        {
+            "name": "bin/mallshop.bytes",
+            "hash": 15740854420058817300
+        },
+        {
+            "name": "bin/mallshoppage.bytes",
+            "hash": 17783148425592266766
+        },
+        {
+            "name": "bin/mangaloading.bytes",
+            "hash": 17100212569482487426
+        },
+        {
+            "name": "bin/miningcontrol.bytes",
+            "hash": 15942732075666802807
+        },
+        {
+            "name": "bin/miningdemoconfig.bytes",
+            "hash": 791878602806929939
+        },
+        {
+            "name": "bin/miningdemorewardconfig.bytes",
+            "hash": 186172516217329486
+        },
+        {
+            "name": "bin/miningquest.bytes",
+            "hash": 5770548413358636799
+        },
+        {
+            "name": "bin/miningquestgroup.bytes",
+            "hash": 17916140606720068873
+        },
+        {
+            "name": "bin/miningstory.bytes",
+            "hash": 7234965437570451389
+        },
+        {
+            "name": "bin/miningsupport.bytes",
+            "hash": 9494653590645078831
+        },
+        {
+            "name": "bin/miningtreasure.bytes",
+            "hash": 16193871528277715466
+        },
+        {
+            "name": "bin/monster.bytes",
+            "hash": 4933567083859985637
+        },
+        {
+            "name": "bin/monsteractionbranch.bytes",
+            "hash": 1159562884410638672
+        },
+        {
+            "name": "bin/monsterai.bytes",
+            "hash": 10186384411761543710
+        },
+        {
+            "name": "bin/monsterattackajust.bytes",
+            "hash": 11697417485100350243
+        },
+        {
+            "name": "bin/monsterattributecontact.bytes",
+            "hash": 17338699281068523175
+        },
+        {
+            "name": "bin/monsterborngroup.bytes",
+            "hash": 15664037267327005235
+        },
+        {
+            "name": "bin/monstergroup.bytes",
+            "hash": 9508518951650111785
+        },
+        {
+            "name": "bin/monstermanual.bytes",
+            "hash": 1723251126133879233
+        },
+        {
+            "name": "bin/monsterskin.bytes",
+            "hash": 7139924179403783507
+        },
+        {
+            "name": "bin/monsterteam.bytes",
+            "hash": 16593296140349050143
+        },
+        {
+            "name": "bin/monstervaluetemplete.bytes",
+            "hash": 11242757096654326075
+        },
+        {
+            "name": "bin/monstervaluetempleteadjust.bytes",
+            "hash": 14637085167570428129
+        },
+        {
+            "name": "bin/monstervaluetempletemodify.bytes",
+            "hash": 333522490869076318
+        },
+        {
+            "name": "bin/monthlycard.bytes",
+            "hash": 18096657367023955961
+        },
+        {
+            "name": "bin/notificationconfig.bytes",
+            "hash": 13875819223067358170
+        },
+        {
+            "name": "bin/npcaffinitygroup.bytes",
+            "hash": 10316122252992627106
+        },
+        {
+            "name": "bin/npcaffinityplot.bytes",
+            "hash": 13584071300980868941
+        },
+        {
+            "name": "bin/npcconfig.bytes",
+            "hash": 4786146654227878771
+        },
+        {
+            "name": "bin/npcskin.bytes",
+            "hash": 13105851205967614598
+        },
+        {
+            "name": "bin/onceadditionalattribute.bytes",
+            "hash": 14698536584784084247
+        },
+        {
+            "name": "bin/onceadditionalattributevalue.bytes",
+            "hash": 16367618701275221045
+        },
+        {
+            "name": "bin/openfunc.bytes",
+            "hash": 12720258091582341209
+        },
+        {
+            "name": "bin/penguinbasecard.bytes",
+            "hash": 9210194250635033001
+        },
+        {
+            "name": "bin/penguinbasecardpool.bytes",
+            "hash": 11235964255380315932
+        },
+        {
+            "name": "bin/penguincard.bytes",
+            "hash": 15180412144631295121
+        },
+        {
+            "name": "bin/penguincardbuff.bytes",
+            "hash": 11880777814585048144
+        },
+        {
+            "name": "bin/penguincardbuffweight.bytes",
+            "hash": 12883423855323255967
+        },
+        {
+            "name": "bin/penguincardcontrol.bytes",
+            "hash": 17474127966275561332
+        },
+        {
+            "name": "bin/penguincardcost.bytes",
+            "hash": 9887486393954298622
+        },
+        {
+            "name": "bin/penguincardfixedturn.bytes",
+            "hash": 4617734578744090394
+        },
+        {
+            "name": "bin/penguincardfloor.bytes",
+            "hash": 4599212904124605467
+        },
+        {
+            "name": "bin/penguincardhandrank.bytes",
+            "hash": 15923567976904784758
+        },
+        {
+            "name": "bin/penguincardquest.bytes",
+            "hash": 10038462106307097136
+        },
+        {
+            "name": "bin/penguincardquestweight.bytes",
+            "hash": 18050620042700855346
+        },
+        {
+            "name": "bin/penguincardtendency.bytes",
+            "hash": 8379523367451677261
+        },
+        {
+            "name": "bin/penguincardweight.bytes",
+            "hash": 13476507829604562538
+        },
+        {
+            "name": "bin/periodicquest.bytes",
+            "hash": 9910580567175189538
+        },
+        {
+            "name": "bin/periodicquestcontrol.bytes",
+            "hash": 9695729996298849445
+        },
+        {
+            "name": "bin/periodicquestgroup.bytes",
+            "hash": 3373753113527513548
+        },
+        {
+            "name": "bin/perk.bytes",
+            "hash": 12088036293652269428
+        },
+        {
+            "name": "bin/perkpassiveskill.bytes",
+            "hash": 3764492185310043918
+        },
+        {
+            "name": "bin/playerhead.bytes",
+            "hash": 5787721597021877333
+        },
+        {
+            "name": "bin/plot.bytes",
+            "hash": 7065729420682131117
+        },
+        {
+            "name": "bin/popup.bytes",
+            "hash": 4977174053782847829
+        },
+        {
+            "name": "bin/popupsequence.bytes",
+            "hash": 15170136966559378703
+        },
+        {
+            "name": "bin/potential.bytes",
+            "hash": 3062892745470256554
+        },
+        {
+            "name": "bin/potentialpassiveskill.bytes",
+            "hash": 10994518063768810296
+        },
+        {
+            "name": "bin/previewmonstergroup.bytes",
+            "hash": 5221890524501366525
+        },
+        {
+            "name": "bin/producehelper.bytes",
+            "hash": 13970131279316384925
+        },
+        {
+            "name": "bin/production.bytes",
+            "hash": 17172349682851339566
+        },
+        {
+            "name": "bin/productiontype.bytes",
+            "hash": 7678436912789272278
+        },
+        {
+            "name": "bin/randomlevelmonster.bytes",
+            "hash": 2567893003749921274
+        },
+        {
+            "name": "bin/rank.bytes",
+            "hash": 17031458978341460626
+        },
+        {
+            "name": "bin/regionboss.bytes",
+            "hash": 13972670694561348507
+        },
+        {
+            "name": "bin/regionbossaffix.bytes",
+            "hash": 2937778644677434469
+        },
+        {
+            "name": "bin/regionbossfloor.bytes",
+            "hash": 14480826070220924748
+        },
+        {
+            "name": "bin/regionbosslevel.bytes",
+            "hash": 12037093379989847710
+        },
+        {
+            "name": "bin/residentgoods.bytes",
+            "hash": 1204900424573543370
+        },
+        {
+            "name": "bin/residentshop.bytes",
+            "hash": 15390524419027079543
+        },
+        {
+            "name": "bin/scorebossability.bytes",
+            "hash": 3403164154532938050
+        },
+        {
+            "name": "bin/scorebossbattlethreshold.bytes",
+            "hash": 7267692447205484882
+        },
+        {
+            "name": "bin/scorebosscontrol.bytes",
+            "hash": 16759322006196397329
+        },
+        {
+            "name": "bin/scorebossfloor.bytes",
+            "hash": 14323328547973547371
+        },
+        {
+            "name": "bin/scorebossgetcontrol.bytes",
+            "hash": 6604440007648501001
+        },
+        {
+            "name": "bin/scorebosslevel.bytes",
+            "hash": 191477208194795141
+        },
+        {
+            "name": "bin/scorebossrank.bytes",
+            "hash": 18138207066733334527
+        },
+        {
+            "name": "bin/scorebossreward.bytes",
+            "hash": 4059388031411580128
+        },
+        {
+            "name": "bin/scorebossstar.bytes",
+            "hash": 11099705189874974160
+        },
+        {
+            "name": "bin/scoregetswitch.bytes",
+            "hash": 13215687304026263929
+        },
+        {
+            "name": "bin/scriptparameter.bytes",
+            "hash": 18051272862118304306
+        },
+        {
+            "name": "bin/scriptparametervalue.bytes",
+            "hash": 1392794732441184228
+        },
+        {
+            "name": "bin/secondaryskill.bytes",
+            "hash": 11086296866600604181
+        },
+        {
+            "name": "bin/shield.bytes",
+            "hash": 4655168907933475914
+        },
+        {
+            "name": "bin/shieldvalue.bytes",
+            "hash": 7960561724199144800
+        },
+        {
+            "name": "bin/signin.bytes",
+            "hash": 12102070934751891794
+        },
+        {
+            "name": "bin/skill.bytes",
+            "hash": 4305132498958575097
+        },
+        {
+            "name": "bin/skilldamage.bytes",
+            "hash": 13119609750800628381
+        },
+        {
+            "name": "bin/skillinstance.bytes",
+            "hash": 5516076658768609799
+        },
+        {
+            "name": "bin/skillinstancefloor.bytes",
+            "hash": 7426730580777832865
+        },
+        {
+            "name": "bin/skillinstancetype.bytes",
+            "hash": 17419559704582996665
+        },
+        {
+            "name": "bin/soldierbuff.bytes",
+            "hash": 1599299269614596458
+        },
+        {
+            "name": "bin/soldiercardeffect.bytes",
+            "hash": 16912899064573059225
+        },
+        {
+            "name": "bin/soldiercharacter.bytes",
+            "hash": 11161781666331443429
+        },
+        {
+            "name": "bin/soldierchessai.bytes",
+            "hash": 4439736536038976430
+        },
+        {
+            "name": "bin/soldierchesstype.bytes",
+            "hash": 16727449279265509617
+        },
+        {
+            "name": "bin/soldierclientbuff.bytes",
+            "hash": 7045993865020137192
+        },
+        {
+            "name": "bin/soldiercontrol.bytes",
+            "hash": 13544611295911893262
+        },
+        {
+            "name": "bin/soldiereventbattlepool.bytes",
+            "hash": 6488145192487510256
+        },
+        {
+            "name": "bin/soldiereventplan.bytes",
+            "hash": 7252473541612044843
+        },
+        {
+            "name": "bin/soldierfloor.bytes",
+            "hash": 18340337977225548051
+        },
+        {
+            "name": "bin/soldiergradechallenge.bytes",
+            "hash": 5560458802003828651
+        },
+        {
+            "name": "bin/soldierkeygrade.bytes",
+            "hash": 3586293031647049565
+        },
+        {
+            "name": "bin/soldierlabelmark.bytes",
+            "hash": 249676395861058859
+        },
+        {
+            "name": "bin/soldiernodeplan.bytes",
+            "hash": 879943022896431929
+        },
+        {
+            "name": "bin/soldierpartner.bytes",
+            "hash": 14535493309062987054
+        },
+        {
+            "name": "bin/soldierpartnergroup.bytes",
+            "hash": 1454835033696580938
+        },
+        {
+            "name": "bin/soldierpositioneffect.bytes",
+            "hash": 10216032055404372892
+        },
+        {
+            "name": "bin/soldierpotential.bytes",
+            "hash": 148572556518260275
+        },
+        {
+            "name": "bin/soldierquest.bytes",
+            "hash": 10971502512251631878
+        },
+        {
+            "name": "bin/soldierquestgroup.bytes",
+            "hash": 2256196496095215667
+        },
+        {
+            "name": "bin/soldierrecommendbuilds.bytes",
+            "hash": 17122662645951621657
+        },
+        {
+            "name": "bin/soldierseason.bytes",
+            "hash": 16321788052100170676
+        },
+        {
+            "name": "bin/soldiershoplevel.bytes",
+            "hash": 3723446013964412427
+        },
+        {
+            "name": "bin/soldiershoppool.bytes",
+            "hash": 4544945169437357917
+        },
+        {
+            "name": "bin/soldierskin.bytes",
+            "hash": 3721852451646838247
+        },
+        {
+            "name": "bin/soldierstartercard.bytes",
+            "hash": 1491018310241225012
+        },
+        {
+            "name": "bin/soldierstrategycard.bytes",
+            "hash": 5199034360070281964
+        },
+        {
+            "name": "bin/startower.bytes",
+            "hash": 2250287169469921556
+        },
+        {
+            "name": "bin/startowerbookentrance.bytes",
+            "hash": 8201551960729329510
+        },
+        {
+            "name": "bin/startowerbookeventreward.bytes",
+            "hash": 2391736419601084521
+        },
+        {
+            "name": "bin/startowerbookfatecard.bytes",
+            "hash": 9661165338985030905
+        },
+        {
+            "name": "bin/startowerbookfatecardbundle.bytes",
+            "hash": 13156157888294467874
+        },
+        {
+            "name": "bin/startowerbookfatecardquest.bytes",
+            "hash": 10363631948356798416
+        },
+        {
+            "name": "bin/startowerbookpotentialreward.bytes",
+            "hash": 8149419508972795484
+        },
+        {
+            "name": "bin/startowerbuild.bytes",
+            "hash": 3557804136455400300
+        },
+        {
+            "name": "bin/startowerbuildrank.bytes",
+            "hash": 14896264217622711771
+        },
+        {
+            "name": "bin/startowercombatevent.bytes",
+            "hash": 8320453215871993440
+        },
+        {
+            "name": "bin/startowercombo.bytes",
+            "hash": 11579785747200507639
+        },
+        {
+            "name": "bin/startowerdropitem.bytes",
+            "hash": 513839782798515519
+        },
+        {
+            "name": "bin/startowerenemyset.bytes",
+            "hash": 17301359565600545796
+        },
+        {
+            "name": "bin/startowerevent.bytes",
+            "hash": 14157008398130996563
+        },
+        {
+            "name": "bin/startowereventaction.bytes",
+            "hash": 9869866165968818627
+        },
+        {
+            "name": "bin/startowereventoptionaction.bytes",
+            "hash": 1256421041598291289
+        },
+        {
+            "name": "bin/startowerfloor.bytes",
+            "hash": 5338827287731993507
+        },
+        {
+            "name": "bin/startowerfloorexp.bytes",
+            "hash": 13529030223415427423
+        },
+        {
+            "name": "bin/startowerfloorset.bytes",
+            "hash": 8328830073909765977
+        },
+        {
+            "name": "bin/startowergroup.bytes",
+            "hash": 14714755919789634621
+        },
+        {
+            "name": "bin/startowergrowthgroup.bytes",
+            "hash": 14276691422531069910
+        },
+        {
+            "name": "bin/startowergrowthnode.bytes",
+            "hash": 4216344589293812253
+        },
+        {
+            "name": "bin/startowermap.bytes",
+            "hash": 7457729123601221303
+        },
+        {
+            "name": "bin/startowermapmaxnumperstage.bytes",
+            "hash": 4720479192715667286
+        },
+        {
+            "name": "bin/startowermonsterborngroup.bytes",
+            "hash": 10004129013909547548
+        },
+        {
+            "name": "bin/startowermonsterspattr.bytes",
+            "hash": 5010050818660329958
+        },
+        {
+            "name": "bin/startowernpc.bytes",
+            "hash": 17705917197719977029
+        },
+        {
+            "name": "bin/startowerquest.bytes",
+            "hash": 3841349670687057500
+        },
+        {
+            "name": "bin/startowersceneprefab.bytes",
+            "hash": 17695114675043482087
+        },
+        {
+            "name": "bin/startowershopgoods.bytes",
+            "hash": 15845649737025151594
+        },
+        {
+            "name": "bin/startowerspecificcombat.bytes",
+            "hash": 1588782388591068178
+        },
+        {
+            "name": "bin/startowerspmode.bytes",
+            "hash": 14182176394034789436
+        },
+        {
+            "name": "bin/startowerstage.bytes",
+            "hash": 11899663872872287271
+        },
+        {
+            "name": "bin/startowertalk.bytes",
+            "hash": 2836147997363735259
+        },
+        {
+            "name": "bin/startowerteamexp.bytes",
+            "hash": 11989433193027389875
+        },
+        {
+            "name": "bin/story.bytes",
+            "hash": 362162400418184004
+        },
+        {
+            "name": "bin/storychapter.bytes",
+            "hash": 5323291176844094684
+        },
+        {
+            "name": "bin/storychaptertimestamp.bytes",
+            "hash": 1345739431467749904
+        },
+        {
+            "name": "bin/storycondition.bytes",
+            "hash": 5695083019512778794
+        },
+        {
+            "name": "bin/storyevidence.bytes",
+            "hash": 18135268418376272745
+        },
+        {
+            "name": "bin/storypersonality.bytes",
+            "hash": 8345899823332166486
+        },
+        {
+            "name": "bin/storypreview.bytes",
+            "hash": 9322078939054951632
+        },
+        {
+            "name": "bin/storyrolepersonality.bytes",
+            "hash": 13023785522327052315
+        },
+        {
+            "name": "bin/storysetchapter.bytes",
+            "hash": 11859980474934054060
+        },
+        {
+            "name": "bin/storysetsection.bytes",
+            "hash": 7304905910441977323
+        },
+        {
+            "name": "bin/storysettab.bytes",
+            "hash": 7304714662266499158
+        },
+        {
+            "name": "bin/subnoteskill.bytes",
+            "hash": 4225817732108213734
+        },
+        {
+            "name": "bin/subnoteskilldropgroup.bytes",
+            "hash": 14791444370489738390
+        },
+        {
+            "name": "bin/subnoteskillpromotegroup.bytes",
+            "hash": 17864192822654807946
+        },
+        {
+            "name": "bin/talent.bytes",
+            "hash": 2440505488781465795
+        },
+        {
+            "name": "bin/talentgroup.bytes",
+            "hash": 13517434782839975157
+        },
+        {
+            "name": "bin/testcharacteratt.bytes",
+            "hash": 18240527532731276325
+        },
+        {
+            "name": "bin/testcharacterlist.bytes",
+            "hash": 5398393819339883516
+        },
+        {
+            "name": "bin/testteamdata.bytes",
+            "hash": 12729315519146121917
+        },
+        {
+            "name": "bin/throwgiftfloor.bytes",
+            "hash": 1157707065533579098
+        },
+        {
+            "name": "bin/throwgiftguideline.bytes",
+            "hash": 11406341218558033061
+        },
+        {
+            "name": "bin/throwgiftitem.bytes",
+            "hash": 838180048116185261
+        },
+        {
+            "name": "bin/throwgiftitempool.bytes",
+            "hash": 10824204365725674754
+        },
+        {
+            "name": "bin/throwgiftlevel.bytes",
+            "hash": 16824559389615565078
+        },
+        {
+            "name": "bin/throwgiftspawnpoints.bytes",
+            "hash": 100783428526284661
+        },
+        {
+            "name": "bin/throwgiftspecialobstacle.bytes",
+            "hash": 8581306428286028075
+        },
+        {
+            "name": "bin/title.bytes",
+            "hash": 9765981981986287459
+        },
+        {
+            "name": "bin/topbar.bytes",
+            "hash": 10792771088007969443
+        },
+        {
+            "name": "bin/tourguidequest.bytes",
+            "hash": 16358158332035885053
+        },
+        {
+            "name": "bin/tourguidequestgroup.bytes",
+            "hash": 13591423177728189778
+        },
+        {
+            "name": "bin/towerdefencecharacterai.bytes",
+            "hash": 10477494237811547501
+        },
+        {
+            "name": "bin/towerdefensecharacter.bytes",
+            "hash": 10085408497862927254
+        },
+        {
+            "name": "bin/towerdefensecontrol.bytes",
+            "hash": 14426651597185757122
+        },
+        {
+            "name": "bin/towerdefensefloor.bytes",
+            "hash": 18215468856855437027
+        },
+        {
+            "name": "bin/towerdefenseguide.bytes",
+            "hash": 13303098794943797847
+        },
+        {
+            "name": "bin/towerdefenseitem.bytes",
+            "hash": 17090420316140337195
+        },
+        {
+            "name": "bin/towerdefenselevel.bytes",
+            "hash": 17596716512571748417
+        },
+        {
+            "name": "bin/towerdefensemonster.bytes",
+            "hash": 14917683109549235057
+        },
+        {
+            "name": "bin/towerdefensepotential.bytes",
+            "hash": 8547240894269635009
+        },
+        {
+            "name": "bin/towerdefensequest.bytes",
+            "hash": 1731250327105565731
+        },
+        {
+            "name": "bin/towerdefensequestgroup.bytes",
+            "hash": 15296102549473739089
+        },
+        {
+            "name": "bin/towerdefensestory.bytes",
+            "hash": 11363467125830037610
+        },
+        {
+            "name": "bin/towerdefenseteamexp.bytes",
+            "hash": 8473823005408719597
+        },
+        {
+            "name": "bin/tracehuntboss.bytes",
+            "hash": 12896869174799966952
+        },
+        {
+            "name": "bin/tracehuntcontrol.bytes",
+            "hash": 7451375598874904312
+        },
+        {
+            "name": "bin/tracehuntfloor.bytes",
+            "hash": 13145409599673867565
+        },
+        {
+            "name": "bin/tracehuntlevel.bytes",
+            "hash": 8286612030942140241
+        },
+        {
+            "name": "bin/tracehuntlogentrytemplate.bytes",
+            "hash": 14459099176834667768
+        },
+        {
+            "name": "bin/tracehuntscoreswitch.bytes",
+            "hash": 5813945714967476589
+        },
+        {
+            "name": "bin/tracehuntselfhuntextracost.bytes",
+            "hash": 11753673762360710450
+        },
+        {
+            "name": "bin/tracehuntstar.bytes",
+            "hash": 13346420913462621735
+        },
+        {
+            "name": "bin/trap.bytes",
+            "hash": 629412786681843273
+        },
+        {
+            "name": "bin/trapattribute.bytes",
+            "hash": 10933455411099150469
+        },
+        {
+            "name": "bin/travelerduelboss.bytes",
+            "hash": 4166037866626392565
+        },
+        {
+            "name": "bin/travelerduelbosslevel.bytes",
+            "hash": 13287988279730064513
+        },
+        {
+            "name": "bin/travelerduelchallengeaffix.bytes",
+            "hash": 11469858101956746708
+        },
+        {
+            "name": "bin/travelerduelchallengecontrol.bytes",
+            "hash": 16412793111029605292
+        },
+        {
+            "name": "bin/travelerduelchallengedifficulty.bytes",
+            "hash": 5906296442715995775
+        },
+        {
+            "name": "bin/travelerduelchallengequest.bytes",
+            "hash": 5289847574971677018
+        },
+        {
+            "name": "bin/travelerduelfanslevel.bytes",
+            "hash": 3447199142544223003
+        },
+        {
+            "name": "bin/travelerduelfloor.bytes",
+            "hash": 1105484499497357241
+        },
+        {
+            "name": "bin/travelerduelhotvalueitem.bytes",
+            "hash": 6889579216248838123
+        },
+        {
+            "name": "bin/travelerduelhotvaluerewards.bytes",
+            "hash": 831486061763182473
+        },
+        {
+            "name": "bin/travelerduelidlerewards.bytes",
+            "hash": 18411317767052087092
+        },
+        {
+            "name": "bin/travelerdueltarget.bytes",
+            "hash": 2072952001631675007
+        },
+        {
+            "name": "bin/trialbuild.bytes",
+            "hash": 3697698782604039942
+        },
+        {
+            "name": "bin/trialcharacter.bytes",
+            "hash": 3846272746361545074
+        },
+        {
+            "name": "bin/trialcontrol.bytes",
+            "hash": 12963136478004073461
+        },
+        {
+            "name": "bin/trialdisc.bytes",
+            "hash": 15572860683226582805
+        },
+        {
+            "name": "bin/trialfloor.bytes",
+            "hash": 8529343585465577913
+        },
+        {
+            "name": "bin/trialgroup.bytes",
+            "hash": 9659271857928339438
+        },
+        {
+            "name": "bin/trialpotential.bytes",
+            "hash": 12805112000147639946
+        },
+        {
+            "name": "bin/tutoriallevel.bytes",
+            "hash": 18177181844256042873
+        },
+        {
+            "name": "bin/tutoriallevelfloor.bytes",
+            "hash": 10360240477044901097
+        },
+        {
+            "name": "bin/uitext.bytes",
+            "hash": 12112449176364497074
+        },
+        {
+            "name": "bin/vampirebattlethreshold.bytes",
+            "hash": 3686202916708111994
+        },
+        {
+            "name": "bin/vampireenemypool.bytes",
+            "hash": 1430175612687215600
+        },
+        {
+            "name": "bin/vampireenemyset.bytes",
+            "hash": 5054304233452069596
+        },
+        {
+            "name": "bin/vampireenemyspattr.bytes",
+            "hash": 8572599735106740816
+        },
+        {
+            "name": "bin/vampirefloor.bytes",
+            "hash": 13307918510161588497
+        },
+        {
+            "name": "bin/vampiremap.bytes",
+            "hash": 14765652064655223193
+        },
+        {
+            "name": "bin/vampirerankseason.bytes",
+            "hash": 15291671588793017437
+        },
+        {
+            "name": "bin/vampiresurvivor.bytes",
+            "hash": 5517588326160326197
+        },
+        {
+            "name": "bin/vampiresurvivorlevel.bytes",
+            "hash": 4736960931747278335
+        },
+        {
+            "name": "bin/vampiresurvivorquest.bytes",
+            "hash": 2802034265234814984
+        },
+        {
+            "name": "bin/vampiretalent.bytes",
+            "hash": 6767453000896837062
+        },
+        {
+            "name": "bin/vampiretalentdesc.bytes",
+            "hash": 7951362288114009325
+        },
+        {
+            "name": "bin/vampiretalentfloor.bytes",
+            "hash": 3513228908211034023
+        },
+        {
+            "name": "bin/vodirectory.bytes",
+            "hash": 9996685030502336767
+        },
+        {
+            "name": "bin/weekbossaffix.bytes",
+            "hash": 8103219653115287190
+        },
+        {
+            "name": "bin/weekbossfloor.bytes",
+            "hash": 2396975508932252467
+        },
+        {
+            "name": "bin/weekbosslevel.bytes",
+            "hash": 15967140658290810804
+        },
+        {
+            "name": "bin/weekbosstype.bytes",
+            "hash": 9751528394017507700
+        },
+        {
+            "name": "bin/weeklyquest.bytes",
+            "hash": 13671450505773192297
+        },
+        {
+            "name": "bin/weeklyquestactive.bytes",
+            "hash": 14851443925682368674
+        },
+        {
+            "name": "bin/weightparameter.bytes",
+            "hash": 4787417565315971223
+        },
+        {
+            "name": "bin/word.bytes",
+            "hash": 1502460112632282941
+        },
+        {
+            "name": "bin/worldclass.bytes",
+            "hash": 14215942758935954690
+        },
+        {
+            "name": "bubble/bubbleoffset.json",
+            "hash": 4193125073746966085
+        },
+        {
+            "name": "bubble/voreslen.json",
+            "hash": 12386338026025000659
+        },
+        {
+            "name": "dirty_words/characterregex.txt",
+            "hash": 15750281499317150859
+        },
+        {
+            "name": "dirty_words/dirtywords.txt",
+            "hash": 9291858456857679088
+        },
+        {
+            "name": "bubble/_jp/bubbledata.json",
+            "hash": 10269283158575601884
+        },
+        {
+            "name": "language/ja_jp/achievement.json",
+            "hash": 3764795537966401218
+        },
+        {
+            "name": "language/ja_jp/activityavglevel.json",
+            "hash": 15549639943438144346
+        },
+        {
+            "name": "language/ja_jp/activitydouble.json",
+            "hash": 1826887746988041773
+        },
+        {
+            "name": "language/ja_jp/activitydoublequest.json",
+            "hash": 15882585671804870761
+        },
+        {
+            "name": "language/ja_jp/activitygoods.json",
+            "hash": 12157402687102337198
+        },
+        {
+            "name": "language/ja_jp/activitygroup.json",
+            "hash": 6626896479321489190
+        },
+        {
+            "name": "language/ja_jp/activityicecreamlevel.json",
+            "hash": 12753475386372244195
+        },
+        {
+            "name": "language/ja_jp/activitylevelslevel.json",
+            "hash": 5107383322599236293
+        },
+        {
+            "name": "language/ja_jp/activitypenguincardlevel.json",
+            "hash": 12008222198261921203
+        },
+        {
+            "name": "language/ja_jp/activitypenguincardquest.json",
+            "hash": 6657654263114215229
+        },
+        {
+            "name": "language/ja_jp/activitypenguincardquestgroup.json",
+            "hash": 12536982327528113156
+        },
+        {
+            "name": "language/ja_jp/activityshop.json",
+            "hash": 18027853135904956440
+        },
+        {
+            "name": "language/ja_jp/activitystory.json",
+            "hash": 12862479470338912381
+        },
+        {
+            "name": "language/ja_jp/activitytask.json",
+            "hash": 13179249495884158604
+        },
+        {
+            "name": "language/ja_jp/activitytaskgroup.json",
+            "hash": 10517990770866456606
+        },
+        {
+            "name": "language/ja_jp/affinitylevel.json",
+            "hash": 12911741390755433068
+        },
+        {
+            "name": "language/ja_jp/affinityquest.json",
+            "hash": 7161996796173776007
+        },
+        {
+            "name": "language/ja_jp/affinityupreward.json",
+            "hash": 5354226512194779722
+        },
+        {
+            "name": "language/ja_jp/agent.json",
+            "hash": 13499523905725626040
+        },
+        {
+            "name": "language/ja_jp/agenttab.json",
+            "hash": 10576152671049839110
+        },
+        {
+            "name": "language/ja_jp/assistattribute.json",
+            "hash": 16718429956412415051
+        },
+        {
+            "name": "language/ja_jp/assistquest.json",
+            "hash": 7087855588874235207
+        },
+        {
+            "name": "language/ja_jp/battlepassquest.json",
+            "hash": 15296159680187199514
+        },
+        {
+            "name": "language/ja_jp/bdconvertcondition.json",
+            "hash": 3916970687967495317
+        },
+        {
+            "name": "language/ja_jp/bdconvertcontent.json",
+            "hash": 17065638673433785937
+        },
+        {
+            "name": "language/ja_jp/bdconvertcontrol.json",
+            "hash": 9653194081939033254
+        },
+        {
+            "name": "language/ja_jp/bdconvertrewardgroup.json",
+            "hash": 452572126484579952
+        },
+        {
+            "name": "language/ja_jp/boardnpc.json",
+            "hash": 14540578216651366885
+        },
+        {
+            "name": "language/ja_jp/breakoutcharacter.json",
+            "hash": 1258845454565561532
+        },
+        {
+            "name": "language/ja_jp/breakoutlevel.json",
+            "hash": 7885207177533927124
+        },
+        {
+            "name": "language/ja_jp/chapter.json",
+            "hash": 10462951059779208298
+        },
+        {
+            "name": "language/ja_jp/character.json",
+            "hash": 13880162736321740468
+        },
+        {
+            "name": "language/ja_jp/characterarchivebaseinfo.json",
+            "hash": 13439126902819387202
+        },
+        {
+            "name": "language/ja_jp/characterarchivecontent.json",
+            "hash": 2418584815812175197
+        },
+        {
+            "name": "language/ja_jp/characterarchivevoice.json",
+            "hash": 9908522138355380729
+        },
+        {
+            "name": "language/ja_jp/charactercg.json",
+            "hash": 5884947449345327697
+        },
+        {
+            "name": "language/ja_jp/characterdes.json",
+            "hash": 18173792534405024934
+        },
+        {
+            "name": "language/ja_jp/characterskin.json",
+            "hash": 8478596903568534169
+        },
+        {
+            "name": "language/ja_jp/charactertag.json",
+            "hash": 6976297932681528348
+        },
+        {
+            "name": "language/ja_jp/chargem.json",
+            "hash": 8547550668829598548
+        },
+        {
+            "name": "language/ja_jp/chargeminstance.json",
+            "hash": 15222079221327422000
+        },
+        {
+            "name": "language/ja_jp/chargeminstancetype.json",
+            "hash": 2233140232193820020
+        },
+        {
+            "name": "language/ja_jp/chargetlines.json",
+            "hash": 18398529008276334756
+        },
+        {
+            "name": "language/ja_jp/contentword.json",
+            "hash": 15128883529729803468
+        },
+        {
+            "name": "language/ja_jp/cookielevel.json",
+            "hash": 1261619659638505336
+        },
+        {
+            "name": "language/ja_jp/dailyinstance.json",
+            "hash": 2504865629486237993
+        },
+        {
+            "name": "language/ja_jp/dailyinstancerewardgroup.json",
+            "hash": 746522662090447700
+        },
+        {
+            "name": "language/ja_jp/dailyinstancetype.json",
+            "hash": 5162913093723446477
+        },
+        {
+            "name": "language/ja_jp/dailyquest.json",
+            "hash": 17120427146526519138
+        },
+        {
+            "name": "language/ja_jp/datingbranch.json",
+            "hash": 16157036191749252088
+        },
+        {
+            "name": "language/ja_jp/datingcharacterevent.json",
+            "hash": 10667936902702383564
+        },
+        {
+            "name": "language/ja_jp/datinglandmark.json",
+            "hash": 17325649294884792213
+        },
+        {
+            "name": "language/ja_jp/datinglandmarkevent.json",
+            "hash": 13263784545958335506
+        },
+        {
+            "name": "language/ja_jp/datingstartendevent.json",
+            "hash": 4397495681811802401
+        },
+        {
+            "name": "language/ja_jp/demonadvance.json",
+            "hash": 7559649577541533155
+        },
+        {
+            "name": "language/ja_jp/dictionarydiagram.json",
+            "hash": 16893606592247836576
+        },
+        {
+            "name": "language/ja_jp/dictionaryentry.json",
+            "hash": 6341181509870691273
+        },
+        {
+            "name": "language/ja_jp/dictionarytab.json",
+            "hash": 8013777663458540302
+        },
+        {
+            "name": "language/ja_jp/dictionarytopbarentry.json",
+            "hash": 16822710577264721759
+        },
+        {
+            "name": "language/ja_jp/discip.json",
+            "hash": 18370309092202129978
+        },
+        {
+            "name": "language/ja_jp/disctag.json",
+            "hash": 2891441106517091371
+        },
+        {
+            "name": "language/ja_jp/effectdesc.json",
+            "hash": 4553718538647591266
+        },
+        {
+            "name": "language/ja_jp/energybuy.json",
+            "hash": 15947409029734626764
+        },
+        {
+            "name": "language/ja_jp/errorcode.json",
+            "hash": 9754500723299670882
+        },
+        {
+            "name": "language/ja_jp/eventoptions.json",
+            "hash": 16530723392879627782
+        },
+        {
+            "name": "language/ja_jp/fatecard.json",
+            "hash": 1629717929297720572
+        },
+        {
+            "name": "language/ja_jp/force.json",
+            "hash": 811135621137591020
+        },
+        {
+            "name": "language/ja_jp/gacha.json",
+            "hash": 7663338407846607301
+        },
+        {
+            "name": "language/ja_jp/gachastorage.json",
+            "hash": 5349612245878631487
+        },
+        {
+            "name": "language/ja_jp/gachatype.json",
+            "hash": 5429068381756106501
+        },
+        {
+            "name": "language/ja_jp/goldenspybuffcard.json",
+            "hash": 2401586936954717011
+        },
+        {
+            "name": "language/ja_jp/goldenspyitem.json",
+            "hash": 6902242362510897504
+        },
+        {
+            "name": "language/ja_jp/goldenspylevel.json",
+            "hash": 17821778429955277591
+        },
+        {
+            "name": "language/ja_jp/goldenspylevelgroup.json",
+            "hash": 1388379233751809616
+        },
+        {
+            "name": "language/ja_jp/honor.json",
+            "hash": 5630072289707097897
+        },
+        {
+            "name": "language/ja_jp/icecreambuff.json",
+            "hash": 17385235865334829735
+        },
+        {
+            "name": "language/ja_jp/infinitytower.json",
+            "hash": 2408939079589849872
+        },
+        {
+            "name": "language/ja_jp/infinitytoweraffix.json",
+            "hash": 12796088385784033162
+        },
+        {
+            "name": "language/ja_jp/infinitytowerdifficulty.json",
+            "hash": 2676149737926042589
+        },
+        {
+            "name": "language/ja_jp/infinitytowerlevel.json",
+            "hash": 13748250541372102006
+        },
+        {
+            "name": "language/ja_jp/infinitytowermsg.json",
+            "hash": 10219805483778119495
+        },
+        {
+            "name": "language/ja_jp/interactiveaction.json",
+            "hash": 17301687262114073400
+        },
+        {
+            "name": "language/ja_jp/item.json",
+            "hash": 13602362179854360451
+        },
+        {
+            "name": "language/ja_jp/itempackmark.json",
+            "hash": 6221376654134981545
+        },
+        {
+            "name": "language/ja_jp/jointdrillaffix.json",
+            "hash": 7856118259908361278
+        },
+        {
+            "name": "language/ja_jp/jointdrillcontrol.json",
+            "hash": 14061633414927445259
+        },
+        {
+            "name": "language/ja_jp/jointdrilllevel.json",
+            "hash": 8793417633405888351
+        },
+        {
+            "name": "language/ja_jp/jointdrillquest.json",
+            "hash": 17546531389720008495
+        },
+        {
+            "name": "language/ja_jp/jointdrill_2_level.json",
+            "hash": 13936373793081457378
+        },
+        {
+            "name": "language/ja_jp/jumpto.json",
+            "hash": 13897693867549236618
+        },
+        {
+            "name": "language/ja_jp/levelquest.json",
+            "hash": 4998178347137225031
+        },
+        {
+            "name": "language/ja_jp/levelquesttarget.json",
+            "hash": 14083037046021352733
+        },
+        {
+            "name": "language/ja_jp/loginrewardcontrol.json",
+            "hash": 11066360845629204513
+        },
+        {
+            "name": "language/ja_jp/loginrewardgroup.json",
+            "hash": 13258560903537445420
+        },
+        {
+            "name": "language/ja_jp/mailtemplate.json",
+            "hash": 4481643756261013407
+        },
+        {
+            "name": "language/ja_jp/mainscreencg.json",
+            "hash": 13285778218446261909
+        },
+        {
+            "name": "language/ja_jp/mainskill.json",
+            "hash": 6476632581945062832
+        },
+        {
+            "name": "language/ja_jp/mallgem.json",
+            "hash": 5536060061873388630
+        },
+        {
+            "name": "language/ja_jp/mallmonthlycard.json",
+            "hash": 15850648884809573301
+        },
+        {
+            "name": "language/ja_jp/mallpackage.json",
+            "hash": 16736668920403098634
+        },
+        {
+            "name": "language/ja_jp/mallpackagepage.json",
+            "hash": 4750391013952282687
+        },
+        {
+            "name": "language/ja_jp/mallrecommendgroup.json",
+            "hash": 17529111955182891727
+        },
+        {
+            "name": "language/ja_jp/mallshop.json",
+            "hash": 8150425441364695630
+        },
+        {
+            "name": "language/ja_jp/mallshoppage.json",
+            "hash": 16750985669768472801
+        },
+        {
+            "name": "language/ja_jp/mangaloading.json",
+            "hash": 741602643542143266
+        },
+        {
+            "name": "language/ja_jp/miningcontrol.json",
+            "hash": 105260332170498676
+        },
+        {
+            "name": "language/ja_jp/miningquest.json",
+            "hash": 7482431465351403459
+        },
+        {
+            "name": "language/ja_jp/miningquestgroup.json",
+            "hash": 7270310612871831816
+        },
+        {
+            "name": "language/ja_jp/miningsupport.json",
+            "hash": 3117337914926377211
+        },
+        {
+            "name": "language/ja_jp/miningtreasure.json",
+            "hash": 12885636530183395619
+        },
+        {
+            "name": "language/ja_jp/monstermanual.json",
+            "hash": 4156688834155101722
+        },
+        {
+            "name": "language/ja_jp/notificationconfig.json",
+            "hash": 8594917596101320149
+        },
+        {
+            "name": "language/ja_jp/npcaffinitygroup.json",
+            "hash": 1318158072887844572
+        },
+        {
+            "name": "language/ja_jp/npcaffinityplot.json",
+            "hash": 16123752703960585639
+        },
+        {
+            "name": "language/ja_jp/npcconfig.json",
+            "hash": 9541604915675812856
+        },
+        {
+            "name": "language/ja_jp/openfunc.json",
+            "hash": 13659405433790130075
+        },
+        {
+            "name": "language/ja_jp/penguinbasecard.json",
+            "hash": 1132513267725923351
+        },
+        {
+            "name": "language/ja_jp/penguincard.json",
+            "hash": 16844031261823498237
+        },
+        {
+            "name": "language/ja_jp/penguincardbuff.json",
+            "hash": 2921359484927275029
+        },
+        {
+            "name": "language/ja_jp/penguincardcontrol.json",
+            "hash": 8158992235436785950
+        },
+        {
+            "name": "language/ja_jp/penguincardfloor.json",
+            "hash": 6021311041563491578
+        },
+        {
+            "name": "language/ja_jp/penguincardhandrank.json",
+            "hash": 8997297873550828179
+        },
+        {
+            "name": "language/ja_jp/penguincardquest.json",
+            "hash": 11884410261629126110
+        },
+        {
+            "name": "language/ja_jp/periodicquest.json",
+            "hash": 6456578620435832983
+        },
+        {
+            "name": "language/ja_jp/periodicquestcontrol.json",
+            "hash": 8825311122216764302
+        },
+        {
+            "name": "language/ja_jp/playerhead.json",
+            "hash": 3829381139228082041
+        },
+        {
+            "name": "language/ja_jp/plot.json",
+            "hash": 6366596121801530603
+        },
+        {
+            "name": "language/ja_jp/potential.json",
+            "hash": 12543113193389067713
+        },
+        {
+            "name": "language/ja_jp/production.json",
+            "hash": 15570017455673183609
+        },
+        {
+            "name": "language/ja_jp/productiontype.json",
+            "hash": 8336907898689377737
+        },
+        {
+            "name": "language/ja_jp/regionboss.json",
+            "hash": 7755785298999454178
+        },
+        {
+            "name": "language/ja_jp/regionbossaffix.json",
+            "hash": 886576441568673339
+        },
+        {
+            "name": "language/ja_jp/regionbosslevel.json",
+            "hash": 1741905213340382985
+        },
+        {
+            "name": "language/ja_jp/residentgoods.json",
+            "hash": 4677172607585272853
+        },
+        {
+            "name": "language/ja_jp/residentshop.json",
+            "hash": 441059650828773649
+        },
+        {
+            "name": "language/ja_jp/scorebossability.json",
+            "hash": 11190831528333210922
+        },
+        {
+            "name": "language/ja_jp/scorebossgetcontrol.json",
+            "hash": 7129491705117583111
+        },
+        {
+            "name": "language/ja_jp/secondaryskill.json",
+            "hash": 8913575168024235614
+        },
+        {
+            "name": "language/ja_jp/skill.json",
+            "hash": 17757789065411604681
+        },
+        {
+            "name": "language/ja_jp/skillinstance.json",
+            "hash": 192763610878680252
+        },
+        {
+            "name": "language/ja_jp/skillinstancetype.json",
+            "hash": 10752938113701108388
+        },
+        {
+            "name": "language/ja_jp/soldiercharacter.json",
+            "hash": 11159908542322905838
+        },
+        {
+            "name": "language/ja_jp/soldierchesstype.json",
+            "hash": 18424042075009496881
+        },
+        {
+            "name": "language/ja_jp/soldiercontrol.json",
+            "hash": 8955836245244871842
+        },
+        {
+            "name": "language/ja_jp/soldiereventbattlepool.json",
+            "hash": 16931251658084040224
+        },
+        {
+            "name": "language/ja_jp/soldiergradechallenge.json",
+            "hash": 2042754084171616580
+        },
+        {
+            "name": "language/ja_jp/soldierkeygrade.json",
+            "hash": 9855361745353293963
+        },
+        {
+            "name": "language/ja_jp/soldierpartner.json",
+            "hash": 18168988983983159745
+        },
+        {
+            "name": "language/ja_jp/soldierpartnergroup.json",
+            "hash": 17867614524009509397
+        },
+        {
+            "name": "language/ja_jp/soldierpositioneffect.json",
+            "hash": 18444702215038788664
+        },
+        {
+            "name": "language/ja_jp/soldierpotential.json",
+            "hash": 15359175371386638751
+        },
+        {
+            "name": "language/ja_jp/soldierquest.json",
+            "hash": 3827848399221204140
+        },
+        {
+            "name": "language/ja_jp/soldierquestgroup.json",
+            "hash": 2172532818832852029
+        },
+        {
+            "name": "language/ja_jp/soldierrecommendbuilds.json",
+            "hash": 17562647673849811292
+        },
+        {
+            "name": "language/ja_jp/soldierskin.json",
+            "hash": 5356714811815688751
+        },
+        {
+            "name": "language/ja_jp/soldierstartercard.json",
+            "hash": 8995448192449690842
+        },
+        {
+            "name": "language/ja_jp/soldierstrategycard.json",
+            "hash": 13651196361288773650
+        },
+        {
+            "name": "language/ja_jp/startower.json",
+            "hash": 17680096753332516922
+        },
+        {
+            "name": "language/ja_jp/startowerbookentrance.json",
+            "hash": 3938087853225457687
+        },
+        {
+            "name": "language/ja_jp/startowerbookeventreward.json",
+            "hash": 13339938389145293480
+        },
+        {
+            "name": "language/ja_jp/startowerbookfatecard.json",
+            "hash": 17480762961397584961
+        },
+        {
+            "name": "language/ja_jp/startowerbookfatecardbundle.json",
+            "hash": 17426634950629902842
+        },
+        {
+            "name": "language/ja_jp/startowerbookfatecardquest.json",
+            "hash": 3868679800924470784
+        },
+        {
+            "name": "language/ja_jp/startowereventaction.json",
+            "hash": 13007374745427967862
+        },
+        {
+            "name": "language/ja_jp/startowereventoptionaction.json",
+            "hash": 51425016408108153
+        },
+        {
+            "name": "language/ja_jp/startowergroup.json",
+            "hash": 17963212538507600
+        },
+        {
+            "name": "language/ja_jp/startowergrowthgroup.json",
+            "hash": 2812823519029818197
+        },
+        {
+            "name": "language/ja_jp/startowergrowthnode.json",
+            "hash": 12342993007842915997
+        },
+        {
+            "name": "language/ja_jp/startowernpc.json",
+            "hash": 15320342834058310821
+        },
+        {
+            "name": "language/ja_jp/startowerquest.json",
+            "hash": 7109233793061662646
+        },
+        {
+            "name": "language/ja_jp/startowertalk.json",
+            "hash": 1063154379819420414
+        },
+        {
+            "name": "language/ja_jp/story.json",
+            "hash": 16710291834905400105
+        },
+        {
+            "name": "language/ja_jp/storychapter.json",
+            "hash": 7576041595155649509
+        },
+        {
+            "name": "language/ja_jp/storychaptertimestamp.json",
+            "hash": 10455609719513979109
+        },
+        {
+            "name": "language/ja_jp/storyevidence.json",
+            "hash": 5427621479561405321
+        },
+        {
+            "name": "language/ja_jp/storypersonality.json",
+            "hash": 1082986888114559929
+        },
+        {
+            "name": "language/ja_jp/storypreview.json",
+            "hash": 2485457961297604963
+        },
+        {
+            "name": "language/ja_jp/storyrolepersonality.json",
+            "hash": 2688819525090604174
+        },
+        {
+            "name": "language/ja_jp/storysetchapter.json",
+            "hash": 13726606692383884470
+        },
+        {
+            "name": "language/ja_jp/storysetsection.json",
+            "hash": 5451997905501306160
+        },
+        {
+            "name": "language/ja_jp/storysettab.json",
+            "hash": 16631687552759832804
+        },
+        {
+            "name": "language/ja_jp/subnoteskill.json",
+            "hash": 11465155284847653942
+        },
+        {
+            "name": "language/ja_jp/talent.json",
+            "hash": 2389323871738933021
+        },
+        {
+            "name": "language/ja_jp/talentgroup.json",
+            "hash": 7074698140844822816
+        },
+        {
+            "name": "language/ja_jp/throwgiftitem.json",
+            "hash": 17843535580841982958
+        },
+        {
+            "name": "language/ja_jp/throwgiftlevel.json",
+            "hash": 4196457687597926191
+        },
+        {
+            "name": "language/ja_jp/title.json",
+            "hash": 4146271378087527818
+        },
+        {
+            "name": "language/ja_jp/topbar.json",
+            "hash": 8147526382731788785
+        },
+        {
+            "name": "language/ja_jp/tourguidequest.json",
+            "hash": 1377723161906550966
+        },
+        {
+            "name": "language/ja_jp/towerdefensecharacter.json",
+            "hash": 115223430778121683
+        },
+        {
+            "name": "language/ja_jp/towerdefensecontrol.json",
+            "hash": 6457054137555473389
+        },
+        {
+            "name": "language/ja_jp/towerdefenseitem.json",
+            "hash": 2228355707027719438
+        },
+        {
+            "name": "language/ja_jp/towerdefenselevel.json",
+            "hash": 2390306565922844445
+        },
+        {
+            "name": "language/ja_jp/towerdefensemonster.json",
+            "hash": 7426242154802801771
+        },
+        {
+            "name": "language/ja_jp/towerdefensepotential.json",
+            "hash": 3022222576079915040
+        },
+        {
+            "name": "language/ja_jp/towerdefensequest.json",
+            "hash": 588310452741607509
+        },
+        {
+            "name": "language/ja_jp/towerdefensequestgroup.json",
+            "hash": 2378730147010025168
+        },
+        {
+            "name": "language/ja_jp/tracehuntlogentrytemplate.json",
+            "hash": 16528604185584556219
+        },
+        {
+            "name": "language/ja_jp/travelerduelboss.json",
+            "hash": 15586439936498127763
+        },
+        {
+            "name": "language/ja_jp/travelerduelbosslevel.json",
+            "hash": 12311374544746615484
+        },
+        {
+            "name": "language/ja_jp/travelerduelchallengeaffix.json",
+            "hash": 15892546265836114563
+        },
+        {
+            "name": "language/ja_jp/travelerduelchallengequest.json",
+            "hash": 15020560582546235948
+        },
+        {
+            "name": "language/ja_jp/travelerdueltarget.json",
+            "hash": 4566084434015349028
+        },
+        {
+            "name": "language/ja_jp/trialbuild.json",
+            "hash": 4974604916268787619
+        },
+        {
+            "name": "language/ja_jp/trialcharacter.json",
+            "hash": 5468082601276544964
+        },
+        {
+            "name": "language/ja_jp/tutoriallevel.json",
+            "hash": 3008548294931754962
+        },
+        {
+            "name": "language/ja_jp/uitext.json",
+            "hash": 2810678451650223958
+        },
+        {
+            "name": "language/ja_jp/vampiresurvivor.json",
+            "hash": 2047300108090042247
+        },
+        {
+            "name": "language/ja_jp/vampiresurvivorquest.json",
+            "hash": 11016367893849529423
+        },
+        {
+            "name": "language/ja_jp/vampiretalent.json",
+            "hash": 3185342497806586477
+        },
+        {
+            "name": "language/ja_jp/vampiretalentdesc.json",
+            "hash": 9708858634866566199
+        },
+        {
+            "name": "language/ja_jp/weekbossaffix.json",
+            "hash": 11692140519482606522
+        },
+        {
+            "name": "language/ja_jp/weekbosslevel.json",
+            "hash": 893865870951297216
+        },
+        {
+            "name": "language/ja_jp/weekbosstype.json",
+            "hash": 11472162668037017404
+        },
+        {
+            "name": "language/ja_jp/weeklyquest.json",
+            "hash": 1954156591307662622
+        },
+        {
+            "name": "language/ja_jp/word.json",
+            "hash": 5426583828910394
+        },
+        {
+            "name": "language/ja_jp/worldclass.json",
+            "hash": 8360967715053737684
+        },
+        {
+            "name": "language/zh_cn/achievement.json",
+            "hash": 14317307796417740876
+        },
+        {
+            "name": "language/zh_cn/activityavglevel.json",
+            "hash": 8598874010380600016
+        },
+        {
+            "name": "language/zh_cn/activitydouble.json",
+            "hash": 9293134033418897462
+        },
+        {
+            "name": "language/zh_cn/activitydoublequest.json",
+            "hash": 10102409182877020010
+        },
+        {
+            "name": "language/zh_cn/activitygoods.json",
+            "hash": 7387402709693669016
+        },
+        {
+            "name": "language/zh_cn/activitygroup.json",
+            "hash": 7602225145695594747
+        },
+        {
+            "name": "language/zh_cn/activityicecreamlevel.json",
+            "hash": 11793662320462331421
+        },
+        {
+            "name": "language/zh_cn/activitylevelslevel.json",
+            "hash": 13711688471334310466
+        },
+        {
+            "name": "language/zh_cn/activitypenguincardlevel.json",
+            "hash": 1566569915563673518
+        },
+        {
+            "name": "language/zh_cn/activitypenguincardquest.json",
+            "hash": 5736706030445945322
+        },
+        {
+            "name": "language/zh_cn/activitypenguincardquestgroup.json",
+            "hash": 3699366693798725609
+        },
+        {
+            "name": "language/zh_cn/activityshop.json",
+            "hash": 10085771179474619368
+        },
+        {
+            "name": "language/zh_cn/activitystory.json",
+            "hash": 8691533989051620811
+        },
+        {
+            "name": "language/zh_cn/activitytask.json",
+            "hash": 14057630936063479150
+        },
+        {
+            "name": "language/zh_cn/activitytaskgroup.json",
+            "hash": 2294825090306509450
+        },
+        {
+            "name": "language/zh_cn/affinitylevel.json",
+            "hash": 8051545188417738614
+        },
+        {
+            "name": "language/zh_cn/affinityquest.json",
+            "hash": 2195466334290721683
+        },
+        {
+            "name": "language/zh_cn/affinityupreward.json",
+            "hash": 12286684747062069984
+        },
+        {
+            "name": "language/zh_cn/agent.json",
+            "hash": 10308503128330983056
+        },
+        {
+            "name": "language/zh_cn/agenttab.json",
+            "hash": 9973796801962240914
+        },
+        {
+            "name": "language/zh_cn/assistattribute.json",
+            "hash": 9503537257451016571
+        },
+        {
+            "name": "language/zh_cn/assistquest.json",
+            "hash": 9078791893731136184
+        },
+        {
+            "name": "language/zh_cn/battlepassquest.json",
+            "hash": 14550235036652043294
+        },
+        {
+            "name": "language/zh_cn/bdconvertcondition.json",
+            "hash": 12032053636190614420
+        },
+        {
+            "name": "language/zh_cn/bdconvertcontent.json",
+            "hash": 8658585397300638327
+        },
+        {
+            "name": "language/zh_cn/bdconvertcontrol.json",
+            "hash": 8933670814828579389
+        },
+        {
+            "name": "language/zh_cn/bdconvertrewardgroup.json",
+            "hash": 1747850731339003714
+        },
+        {
+            "name": "language/zh_cn/boardnpc.json",
+            "hash": 13538230094388564813
+        },
+        {
+            "name": "language/zh_cn/breakoutcharacter.json",
+            "hash": 2906113824125987816
+        },
+        {
+            "name": "language/zh_cn/breakoutlevel.json",
+            "hash": 8911860066287000359
+        },
+        {
+            "name": "language/zh_cn/chapter.json",
+            "hash": 7887852921938145034
+        },
+        {
+            "name": "language/zh_cn/character.json",
+            "hash": 4940499818169188927
+        },
+        {
+            "name": "language/zh_cn/characterarchivebaseinfo.json",
+            "hash": 12961744709913574870
+        },
+        {
+            "name": "language/zh_cn/characterarchivecontent.json",
+            "hash": 5349225792459511761
+        },
+        {
+            "name": "language/zh_cn/characterarchivevoice.json",
+            "hash": 7331896516399403194
+        },
+        {
+            "name": "language/zh_cn/charactercg.json",
+            "hash": 7897993294551424429
+        },
+        {
+            "name": "language/zh_cn/characterdes.json",
+            "hash": 18166332767307680083
+        },
+        {
+            "name": "language/zh_cn/characterskin.json",
+            "hash": 16812565041417422215
+        },
+        {
+            "name": "language/zh_cn/charactertag.json",
+            "hash": 4371154122842113937
+        },
+        {
+            "name": "language/zh_cn/chargem.json",
+            "hash": 5671180619563414998
+        },
+        {
+            "name": "language/zh_cn/chargeminstance.json",
+            "hash": 952009258061509304
+        },
+        {
+            "name": "language/zh_cn/chargeminstancetype.json",
+            "hash": 10327484360135198786
+        },
+        {
+            "name": "language/zh_cn/chargetlines.json",
+            "hash": 1709709816854834244
+        },
+        {
+            "name": "language/zh_cn/contentword.json",
+            "hash": 9191487676731254837
+        },
+        {
+            "name": "language/zh_cn/cookielevel.json",
+            "hash": 7946048053366565816
+        },
+        {
+            "name": "language/zh_cn/dailyinstance.json",
+            "hash": 502339812466583151
+        },
+        {
+            "name": "language/zh_cn/dailyinstancerewardgroup.json",
+            "hash": 13600583805014354799
+        },
+        {
+            "name": "language/zh_cn/dailyinstancetype.json",
+            "hash": 4281646877751117400
+        },
+        {
+            "name": "language/zh_cn/dailyquest.json",
+            "hash": 17853009296423324398
+        },
+        {
+            "name": "language/zh_cn/datingbranch.json",
+            "hash": 1493608407083305196
+        },
+        {
+            "name": "language/zh_cn/datingcharacterevent.json",
+            "hash": 8304330939340073334
+        },
+        {
+            "name": "language/zh_cn/datinglandmark.json",
+            "hash": 10620373059465249701
+        },
+        {
+            "name": "language/zh_cn/datinglandmarkevent.json",
+            "hash": 4876363959977232426
+        },
+        {
+            "name": "language/zh_cn/datingstartendevent.json",
+            "hash": 11789665562101958301
+        },
+        {
+            "name": "language/zh_cn/demonadvance.json",
+            "hash": 6646442791067320103
+        },
+        {
+            "name": "language/zh_cn/dictionarydiagram.json",
+            "hash": 1272311573405834623
+        },
+        {
+            "name": "language/zh_cn/dictionaryentry.json",
+            "hash": 2078751045315197094
+        },
+        {
+            "name": "language/zh_cn/dictionarytab.json",
+            "hash": 16021676062888524890
+        },
+        {
+            "name": "language/zh_cn/dictionarytopbarentry.json",
+            "hash": 12299455622542818081
+        },
+        {
+            "name": "language/zh_cn/discip.json",
+            "hash": 6703471208883014740
+        },
+        {
+            "name": "language/zh_cn/disctag.json",
+            "hash": 15575710978568043403
+        },
+        {
+            "name": "language/zh_cn/effectdesc.json",
+            "hash": 2837697638171416591
+        },
+        {
+            "name": "language/zh_cn/energybuy.json",
+            "hash": 5706316722408502823
+        },
+        {
+            "name": "language/zh_cn/errorcode.json",
+            "hash": 3955543783347324916
+        },
+        {
+            "name": "language/zh_cn/eventoptions.json",
+            "hash": 13502307972827441138
+        },
+        {
+            "name": "language/zh_cn/fatecard.json",
+            "hash": 9724748457880013494
+        },
+        {
+            "name": "language/zh_cn/force.json",
+            "hash": 4483060752349985125
+        },
+        {
+            "name": "language/zh_cn/gacha.json",
+            "hash": 8865945175478567502
+        },
+        {
+            "name": "language/zh_cn/gachastorage.json",
+            "hash": 574414274776531926
+        },
+        {
+            "name": "language/zh_cn/gachatype.json",
+            "hash": 2615344868264112396
+        },
+        {
+            "name": "language/zh_cn/goldenspybuffcard.json",
+            "hash": 12007324240657786564
+        },
+        {
+            "name": "language/zh_cn/goldenspyitem.json",
+            "hash": 8278905808534041247
+        },
+        {
+            "name": "language/zh_cn/goldenspylevel.json",
+            "hash": 3795749680278797198
+        },
+        {
+            "name": "language/zh_cn/goldenspylevelgroup.json",
+            "hash": 6891546871198048119
+        },
+        {
+            "name": "language/zh_cn/honor.json",
+            "hash": 18166091226809054642
+        },
+        {
+            "name": "language/zh_cn/icecreambuff.json",
+            "hash": 7740442042184330689
+        },
+        {
+            "name": "language/zh_cn/infinitytower.json",
+            "hash": 16459261925208091116
+        },
+        {
+            "name": "language/zh_cn/infinitytoweraffix.json",
+            "hash": 4346555492016105455
+        },
+        {
+            "name": "language/zh_cn/infinitytowerdifficulty.json",
+            "hash": 7904967190845626368
+        },
+        {
+            "name": "language/zh_cn/infinitytowerlevel.json",
+            "hash": 6887288555999472483
+        },
+        {
+            "name": "language/zh_cn/infinitytowermsg.json",
+            "hash": 15672775220944279639
+        },
+        {
+            "name": "language/zh_cn/interactiveaction.json",
+            "hash": 9342313242980323326
+        },
+        {
+            "name": "language/zh_cn/item.json",
+            "hash": 15804379128116255249
+        },
+        {
+            "name": "language/zh_cn/itempackmark.json",
+            "hash": 15241583923442113193
+        },
+        {
+            "name": "language/zh_cn/jointdrillaffix.json",
+            "hash": 15249254849219119250
+        },
+        {
+            "name": "language/zh_cn/jointdrillcontrol.json",
+            "hash": 4910296781804621343
+        },
+        {
+            "name": "language/zh_cn/jointdrilllevel.json",
+            "hash": 16932207881216188783
+        },
+        {
+            "name": "language/zh_cn/jointdrillquest.json",
+            "hash": 10298401362262876040
+        },
+        {
+            "name": "language/zh_cn/jointdrill_2_level.json",
+            "hash": 14903946718129841013
+        },
+        {
+            "name": "language/zh_cn/jumpto.json",
+            "hash": 13629737630847630225
+        },
+        {
+            "name": "language/zh_cn/levelquest.json",
+            "hash": 1433124130936638963
+        },
+        {
+            "name": "language/zh_cn/levelquesttarget.json",
+            "hash": 18251803192497155778
+        },
+        {
+            "name": "language/zh_cn/loginrewardcontrol.json",
+            "hash": 399510638815939966
+        },
+        {
+            "name": "language/zh_cn/loginrewardgroup.json",
+            "hash": 11016830424538005702
+        },
+        {
+            "name": "language/zh_cn/mailtemplate.json",
+            "hash": 4616625837819919887
+        },
+        {
+            "name": "language/zh_cn/mainscreencg.json",
+            "hash": 5894615891457377864
+        },
+        {
+            "name": "language/zh_cn/mainskill.json",
+            "hash": 12725293075654975516
+        },
+        {
+            "name": "language/zh_cn/mallgem.json",
+            "hash": 13849941336566518635
+        },
+        {
+            "name": "language/zh_cn/mallmonthlycard.json",
+            "hash": 9138858151423666860
+        },
+        {
+            "name": "language/zh_cn/mallpackage.json",
+            "hash": 7999344321986894084
+        },
+        {
+            "name": "language/zh_cn/mallpackagepage.json",
+            "hash": 12800166221175871040
+        },
+        {
+            "name": "language/zh_cn/mallrecommendgroup.json",
+            "hash": 17097194375919299079
+        },
+        {
+            "name": "language/zh_cn/mallshop.json",
+            "hash": 3834852561752399909
+        },
+        {
+            "name": "language/zh_cn/mallshoppage.json",
+            "hash": 5191955628885522100
+        },
+        {
+            "name": "language/zh_cn/mangaloading.json",
+            "hash": 11729628164957811559
+        },
+        {
+            "name": "language/zh_cn/miningcontrol.json",
+            "hash": 13305618395883876524
+        },
+        {
+            "name": "language/zh_cn/miningquest.json",
+            "hash": 1428840663698075677
+        },
+        {
+            "name": "language/zh_cn/miningquestgroup.json",
+            "hash": 4082032770181031958
+        },
+        {
+            "name": "language/zh_cn/miningsupport.json",
+            "hash": 18375284003694160608
+        },
+        {
+            "name": "language/zh_cn/miningtreasure.json",
+            "hash": 928023104138673133
+        },
+        {
+            "name": "language/zh_cn/monstermanual.json",
+            "hash": 2452055573100440849
+        },
+        {
+            "name": "language/zh_cn/notificationconfig.json",
+            "hash": 2278236072824123860
+        },
+        {
+            "name": "language/zh_cn/npcaffinitygroup.json",
+            "hash": 12754756743442074782
+        },
+        {
+            "name": "language/zh_cn/npcaffinityplot.json",
+            "hash": 12764759458980420046
+        },
+        {
+            "name": "language/zh_cn/npcconfig.json",
+            "hash": 3508281098558904236
+        },
+        {
+            "name": "language/zh_cn/openfunc.json",
+            "hash": 4751905681915789626
+        },
+        {
+            "name": "language/zh_cn/penguinbasecard.json",
+            "hash": 1231113316443606030
+        },
+        {
+            "name": "language/zh_cn/penguincard.json",
+            "hash": 5088094383996114757
+        },
+        {
+            "name": "language/zh_cn/penguincardbuff.json",
+            "hash": 8372488219048244943
+        },
+        {
+            "name": "language/zh_cn/penguincardcontrol.json",
+            "hash": 4992538096488750104
+        },
+        {
+            "name": "language/zh_cn/penguincardfloor.json",
+            "hash": 12260218918169062805
+        },
+        {
+            "name": "language/zh_cn/penguincardhandrank.json",
+            "hash": 4358226401813509924
+        },
+        {
+            "name": "language/zh_cn/penguincardquest.json",
+            "hash": 3505433514730674861
+        },
+        {
+            "name": "language/zh_cn/periodicquest.json",
+            "hash": 11359136475432676635
+        },
+        {
+            "name": "language/zh_cn/periodicquestcontrol.json",
+            "hash": 4600925993029109029
+        },
+        {
+            "name": "language/zh_cn/playerhead.json",
+            "hash": 4490028535559443910
+        },
+        {
+            "name": "language/zh_cn/plot.json",
+            "hash": 14309339749357631799
+        },
+        {
+            "name": "language/zh_cn/potential.json",
+            "hash": 12267065319223322471
+        },
+        {
+            "name": "language/zh_cn/production.json",
+            "hash": 18425281615950690659
+        },
+        {
+            "name": "language/zh_cn/productiontype.json",
+            "hash": 5916264440396912400
+        },
+        {
+            "name": "language/zh_cn/regionboss.json",
+            "hash": 222025140791378019
+        },
+        {
+            "name": "language/zh_cn/regionbossaffix.json",
+            "hash": 16148783989597377268
+        },
+        {
+            "name": "language/zh_cn/regionbosslevel.json",
+            "hash": 15097397029780978728
+        },
+        {
+            "name": "language/zh_cn/residentgoods.json",
+            "hash": 10281841956242077137
+        },
+        {
+            "name": "language/zh_cn/residentshop.json",
+            "hash": 17911035230922798007
+        },
+        {
+            "name": "language/zh_cn/scorebossability.json",
+            "hash": 17443996064235992201
+        },
+        {
+            "name": "language/zh_cn/scorebossgetcontrol.json",
+            "hash": 3080999138912227345
+        },
+        {
+            "name": "language/zh_cn/secondaryskill.json",
+            "hash": 4871309253912753260
+        },
+        {
+            "name": "language/zh_cn/skill.json",
+            "hash": 16337366213892454137
+        },
+        {
+            "name": "language/zh_cn/skillinstance.json",
+            "hash": 16710820444618929625
+        },
+        {
+            "name": "language/zh_cn/skillinstancetype.json",
+            "hash": 13736437549251686116
+        },
+        {
+            "name": "language/zh_cn/soldiercharacter.json",
+            "hash": 4435682336658423418
+        },
+        {
+            "name": "language/zh_cn/soldierchesstype.json",
+            "hash": 3322528039353215755
+        },
+        {
+            "name": "language/zh_cn/soldiercontrol.json",
+            "hash": 6989577444946408522
+        },
+        {
+            "name": "language/zh_cn/soldiereventbattlepool.json",
+            "hash": 4477018992522968845
+        },
+        {
+            "name": "language/zh_cn/soldiergradechallenge.json",
+            "hash": 3563105019105667840
+        },
+        {
+            "name": "language/zh_cn/soldierkeygrade.json",
+            "hash": 626820410093005521
+        },
+        {
+            "name": "language/zh_cn/soldierpartner.json",
+            "hash": 16665911518241250539
+        },
+        {
+            "name": "language/zh_cn/soldierpartnergroup.json",
+            "hash": 10989840323382906001
+        },
+        {
+            "name": "language/zh_cn/soldierpositioneffect.json",
+            "hash": 3497062822623180736
+        },
+        {
+            "name": "language/zh_cn/soldierpotential.json",
+            "hash": 9497540870490873726
+        },
+        {
+            "name": "language/zh_cn/soldierquest.json",
+            "hash": 12123342236953038364
+        },
+        {
+            "name": "language/zh_cn/soldierquestgroup.json",
+            "hash": 9143488994693104717
+        },
+        {
+            "name": "language/zh_cn/soldierrecommendbuilds.json",
+            "hash": 15612757194172939705
+        },
+        {
+            "name": "language/zh_cn/soldierskin.json",
+            "hash": 13272464325399340132
+        },
+        {
+            "name": "language/zh_cn/soldierstartercard.json",
+            "hash": 10967962184578734950
+        },
+        {
+            "name": "language/zh_cn/soldierstrategycard.json",
+            "hash": 13135866943509325309
+        },
+        {
+            "name": "language/zh_cn/startower.json",
+            "hash": 9999725376444060663
+        },
+        {
+            "name": "language/zh_cn/startowerbookentrance.json",
+            "hash": 16861238139209452274
+        },
+        {
+            "name": "language/zh_cn/startowerbookeventreward.json",
+            "hash": 15242474529234778453
+        },
+        {
+            "name": "language/zh_cn/startowerbookfatecard.json",
+            "hash": 3541309598620965481
+        },
+        {
+            "name": "language/zh_cn/startowerbookfatecardbundle.json",
+            "hash": 8846774470490000641
+        },
+        {
+            "name": "language/zh_cn/startowerbookfatecardquest.json",
+            "hash": 12711810539118746809
+        },
+        {
+            "name": "language/zh_cn/startowereventaction.json",
+            "hash": 4572675047276852062
+        },
+        {
+            "name": "language/zh_cn/startowereventoptionaction.json",
+            "hash": 18390042295674345714
+        },
+        {
+            "name": "language/zh_cn/startowergroup.json",
+            "hash": 17731653876844295895
+        },
+        {
+            "name": "language/zh_cn/startowergrowthgroup.json",
+            "hash": 18373974212928151814
+        },
+        {
+            "name": "language/zh_cn/startowergrowthnode.json",
+            "hash": 11903378495100446811
+        },
+        {
+            "name": "language/zh_cn/startowernpc.json",
+            "hash": 1032184471269783026
+        },
+        {
+            "name": "language/zh_cn/startowerquest.json",
+            "hash": 7166493633629207631
+        },
+        {
+            "name": "language/zh_cn/startowertalk.json",
+            "hash": 4881488073405725886
+        },
+        {
+            "name": "language/zh_cn/story.json",
+            "hash": 10636732184547211517
+        },
+        {
+            "name": "language/zh_cn/storychapter.json",
+            "hash": 16561550565069468414
+        },
+        {
+            "name": "language/zh_cn/storychaptertimestamp.json",
+            "hash": 3336795609835954951
+        },
+        {
+            "name": "language/zh_cn/storyevidence.json",
+            "hash": 11761107122642139262
+        },
+        {
+            "name": "language/zh_cn/storypersonality.json",
+            "hash": 17923747911994051519
+        },
+        {
+            "name": "language/zh_cn/storypreview.json",
+            "hash": 7509109901246060396
+        },
+        {
+            "name": "language/zh_cn/storyrolepersonality.json",
+            "hash": 2254312049988179897
+        },
+        {
+            "name": "language/zh_cn/storysetchapter.json",
+            "hash": 10418424777996484977
+        },
+        {
+            "name": "language/zh_cn/storysetsection.json",
+            "hash": 14236266429371887901
+        },
+        {
+            "name": "language/zh_cn/storysettab.json",
+            "hash": 18349923906142609846
+        },
+        {
+            "name": "language/zh_cn/subnoteskill.json",
+            "hash": 18401470738757856668
+        },
+        {
+            "name": "language/zh_cn/talent.json",
+            "hash": 3090393328364651155
+        },
+        {
+            "name": "language/zh_cn/talentgroup.json",
+            "hash": 13603588167171671659
+        },
+        {
+            "name": "language/zh_cn/throwgiftitem.json",
+            "hash": 913677336515718698
+        },
+        {
+            "name": "language/zh_cn/throwgiftlevel.json",
+            "hash": 4820339233220780601
+        },
+        {
+            "name": "language/zh_cn/title.json",
+            "hash": 3227721250887664010
+        },
+        {
+            "name": "language/zh_cn/topbar.json",
+            "hash": 9294887264925661505
+        },
+        {
+            "name": "language/zh_cn/tourguidequest.json",
+            "hash": 14408784289497305562
+        },
+        {
+            "name": "language/zh_cn/towerdefensecharacter.json",
+            "hash": 2241835039775920252
+        },
+        {
+            "name": "language/zh_cn/towerdefensecontrol.json",
+            "hash": 12609698389411389383
+        },
+        {
+            "name": "language/zh_cn/towerdefenseitem.json",
+            "hash": 11758263743278981315
+        },
+        {
+            "name": "language/zh_cn/towerdefenselevel.json",
+            "hash": 7529580246882353760
+        },
+        {
+            "name": "language/zh_cn/towerdefensemonster.json",
+            "hash": 17407035932411991946
+        },
+        {
+            "name": "language/zh_cn/towerdefensepotential.json",
+            "hash": 202009812545613646
+        },
+        {
+            "name": "language/zh_cn/towerdefensequest.json",
+            "hash": 8527465692572172960
+        },
+        {
+            "name": "language/zh_cn/towerdefensequestgroup.json",
+            "hash": 14387291329284299824
+        },
+        {
+            "name": "language/zh_cn/tracehuntlogentrytemplate.json",
+            "hash": 17801459353727208026
+        },
+        {
+            "name": "language/zh_cn/travelerduelboss.json",
+            "hash": 15458905601932468664
+        },
+        {
+            "name": "language/zh_cn/travelerduelbosslevel.json",
+            "hash": 4247917210191456151
+        },
+        {
+            "name": "language/zh_cn/travelerduelchallengeaffix.json",
+            "hash": 16185069146203303843
+        },
+        {
+            "name": "language/zh_cn/travelerduelchallengequest.json",
+            "hash": 7238251428410967593
+        },
+        {
+            "name": "language/zh_cn/travelerdueltarget.json",
+            "hash": 8984055916490794280
+        },
+        {
+            "name": "language/zh_cn/trialbuild.json",
+            "hash": 1923449226644837479
+        },
+        {
+            "name": "language/zh_cn/trialcharacter.json",
+            "hash": 12933675678272374596
+        },
+        {
+            "name": "language/zh_cn/tutoriallevel.json",
+            "hash": 14962314636366724579
+        },
+        {
+            "name": "language/zh_cn/uitext.json",
+            "hash": 3906468883700601392
+        },
+        {
+            "name": "language/zh_cn/vampiresurvivor.json",
+            "hash": 10449518865650470716
+        },
+        {
+            "name": "language/zh_cn/vampiresurvivorquest.json",
+            "hash": 15761968538489131564
+        },
+        {
+            "name": "language/zh_cn/vampiretalent.json",
+            "hash": 16464295194962031413
+        },
+        {
+            "name": "language/zh_cn/vampiretalentdesc.json",
+            "hash": 15220670907457499409
+        },
+        {
+            "name": "language/zh_cn/weekbossaffix.json",
+            "hash": 11812454656388335132
+        },
+        {
+            "name": "language/zh_cn/weekbosslevel.json",
+            "hash": 3332780894965250778
+        },
+        {
+            "name": "language/zh_cn/weekbosstype.json",
+            "hash": 5573873084418767285
+        },
+        {
+            "name": "language/zh_cn/weeklyquest.json",
+            "hash": 4269594579274473727
+        },
+        {
+            "name": "language/zh_cn/word.json",
+            "hash": 8362466090032878599
+        },
+        {
+            "name": "language/zh_cn/worldclass.json",
+            "hash": 6529813573232179520
+        }
+    ]
+}
