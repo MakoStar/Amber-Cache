@@ -3,6 +3,9 @@ name: Action test
 on:
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   test-job:
     # runs-on: ubuntu-latest
@@ -13,6 +16,7 @@ jobs:
         uses: actions/checkout@v6
         with:
           path: 'source_repo'
+          fetch-depth: 1
           
       # - name: 🐍 Setup python
       #   uses: actions/setup-python@v6
@@ -23,8 +27,15 @@ jobs:
       #   run: |
       #     cd source_repo 
 
-      #   shell: bash
+      - name: 💾 Cache output
+        uses: actions/cache@v6
+        with:
+          path: source_repo/test_manifest/output
+          key: stellasora-manifest-${{ github.run_id }}
+          restore-keys: stellasora-manifest-
+
       - name: 📌 Run test
-        working-directory: source_repo
-        run: ./test_manifest/ManifestTool.exe
+        working-directory: source_repo/test_manifest
+        run: |
+          ./ManifestTool.exe
         shell: pwsh
