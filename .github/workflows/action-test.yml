@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   test-job:
@@ -48,4 +48,3 @@ jobs:
           git add test_manifest/config.toml
           git diff --staged --quiet || (git commit -m "Update config.toml [skip ci]" && git push)
         shell: pwsh
-        
