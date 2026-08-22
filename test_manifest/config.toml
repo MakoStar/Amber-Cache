@@ -107,21 +107,18 @@ KEY = "Xf&FRcsYm48cJ2A@"
 URL = "https://nova-static.stellasora.global"
 KEY = "ma5Dn2FhC*Xhxy%c"
 
-[SERVERS.JP]
-URL = "https://nova-static.stellasora.jp"
-KEY = "ZnUFA@S9%4KyoryM"
+# [SERVERS.JP]
+# URL = "https://nova-static.stellasora.jp"
+# KEY = "ZnUFA@S9%4KyoryM"
 
 # [SERVERS.KR]
 # URL = "https://nova-static.stellasora.kr"
 # KEY = "U9cjHuwGDDx&$drn"
 
-[SERVERS.TW]
-URL = "https://nova-static.stargazer-games.com"
-KEY = "owGYVDmfHrxi^4pm"
+# [SERVERS.TW]
+# URL = "https://nova-static.stargazer-games.com"
+# KEY = "owGYVDmfHrxi^4pm"
 
-[SERVERS.MY]
-URL = "https://nova-static.stellasora.global"
-KEY = "ovovovovovovovovoovovovovovovovvovovovo"
 
 # ============================================================
 # 功能开关
