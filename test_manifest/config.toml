@@ -126,10 +126,10 @@ KEY = "owGYVDmfHrxi^4pm"
 # 因为合并补丁需要读取补丁清单和校验清单中的 hash
 # ============================================================
 [FEATURE_FLAGS]
-IS_USE_DEFAULT_REGION = true
-IS_SAVE_RAW_MANIFEST = false
-IS_SAVE_DECRYPTED_MANIFEST = false
-IS_SAVE_DECODED_MANIFEST = false
+IS_USE_DEFAULT_REGION = false
+IS_SAVE_RAW_MANIFEST = true
+IS_SAVE_DECRYPTED_MANIFEST = true
+IS_SAVE_DECODED_MANIFEST = true
 IS_SAVE_PATCH_MANIFEST = true
 IS_SAVE_VERSION_FILE = true
-IS_OVERWRITE_RESOURCE = false
+IS_OVERWRITE_RESOURCE = true
