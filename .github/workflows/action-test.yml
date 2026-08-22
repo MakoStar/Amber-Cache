@@ -39,3 +39,13 @@ jobs:
         run: |
           ./ManifestTool.exe
         shell: pwsh
+
+      - name: 📤 Commit config.toml only
+        working-directory: source_repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add test_manifest/config.toml
+          git diff --staged --quiet || (git commit -m "Update config.toml [skip ci]" && git push)
+        shell: pwsh
+        
