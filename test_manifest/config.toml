@@ -111,14 +111,17 @@ KEY = "ma5Dn2FhC*Xhxy%c"
 URL = "https://nova-static.stellasora.jp"
 KEY = "ZnUFA@S9%4KyoryM"
 
-[SERVERS.KR]
-URL = "https://nova-static.stellasora.kr"
-KEY = "U9cjHuwGDDx&$drn"
+# [SERVERS.KR]
+# URL = "https://nova-static.stellasora.kr"
+# KEY = "U9cjHuwGDDx&$drn"
 
 [SERVERS.TW]
 URL = "https://nova-static.stargazer-games.com"
 KEY = "owGYVDmfHrxi^4pm"
 
+[SERVERS.MY]
+URL = "https://bk-nove-static-test.com"
+KEY = "ovovovovovovovovoovovovovovovovvovovovo"
 
 # ============================================================
 # 功能开关
@@ -127,9 +130,9 @@ KEY = "owGYVDmfHrxi^4pm"
 # ============================================================
 [FEATURE_FLAGS]
 IS_USE_DEFAULT_REGION = false
-IS_SAVE_RAW_MANIFEST = true
-IS_SAVE_DECRYPTED_MANIFEST = true
-IS_SAVE_DECODED_MANIFEST = true
+IS_SAVE_RAW_MANIFEST = false
+IS_SAVE_DECRYPTED_MANIFEST = false
+IS_SAVE_DECODED_MANIFEST = false
 IS_SAVE_PATCH_MANIFEST = true
 IS_SAVE_VERSION_FILE = true
-IS_OVERWRITE_RESOURCE = true
+IS_OVERWRITE_RESOURCE = false
