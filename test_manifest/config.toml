@@ -51,9 +51,9 @@ UPDATE_ADD_MANIFEST_NAME = "ss_win_add.mani"
 # ============================================================
 [EXTRACTOR]
 DEFAULT_VERSION_KEY = "unknown"
-CLIENT_VERSION_KEY = "CLIENT_VERA"
-GAME_VERSION_KEY = "GAME_VERB"
-PATCH_VERSION_KEY = "BIN_DIFF_PATCH_VERC"
+CLIENT_VERSION_KEY = "CLIENT_VER"
+GAME_VERSION_KEY = "GAME_VER"
+PATCH_VERSION_KEY = "BIN_DIFF_PATCH_VER"
 
 
 # ============================================================
@@ -107,17 +107,17 @@ KEY = "Xf&FRcsYm48cJ2A@"
 URL = "https://nova-static.stellasora.global"
 KEY = "ma5Dn2FhC*Xhxy%c"
 
-# [SERVERS.JP]
-# URL = "https://nova-static.stellasora.jp"
-# KEY = "ZnUFA@S9%4KyoryM"
+[SERVERS.JP]
+URL = "https://nova-static.stellasora.jp"
+KEY = "ZnUFA@S9%4KyoryM"
 
-# [SERVERS.KR]
-# URL = "https://nova-static.stellasora.kr"
-# KEY = "U9cjHuwGDDx&$drn"
+[SERVERS.KR]
+URL = "https://nova-static.stellasora.kr"
+KEY = "U9cjHuwGDDx&$drn"
 
-# [SERVERS.TW]
-# URL = "https://nova-static.stargazer-games.com"
-# KEY = "owGYVDmfHrxi^4pm"
+[SERVERS.TW]
+URL = "https://nova-static.stargazer-games.com"
+KEY = "owGYVDmfHrxi^4pm"
 
 
 # ============================================================
@@ -126,7 +126,7 @@ KEY = "ma5Dn2FhC*Xhxy%c"
 # 因为合并补丁需要读取补丁清单和校验清单中的 hash
 # ============================================================
 [FEATURE_FLAGS]
-IS_USE_DEFAULT_REGION = true
+IS_USE_DEFAULT_REGION = false
 IS_SAVE_RAW_MANIFEST = false
 IS_SAVE_DECRYPTED_MANIFEST = false
 IS_SAVE_DECODED_MANIFEST = false
