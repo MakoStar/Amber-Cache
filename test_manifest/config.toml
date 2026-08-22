@@ -51,9 +51,9 @@ UPDATE_ADD_MANIFEST_NAME = "ss_win_add.mani"
 # ============================================================
 [EXTRACTOR]
 DEFAULT_VERSION_KEY = "unknown"
-CLIENT_VERSION_KEY = "CLIENT_VER"
-GAME_VERSION_KEY = "GAME_VER"
-PATCH_VERSION_KEY = "BIN_DIFF_PATCH_VER"
+CLIENT_VERSION_KEY = "CLIENT_VERA"
+GAME_VERSION_KEY = "GAME_VERB"
+PATCH_VERSION_KEY = "BIN_DIFF_PATCH_VERC"
 
 
 # ============================================================
@@ -126,7 +126,7 @@ KEY = "ma5Dn2FhC*Xhxy%c"
 # 因为合并补丁需要读取补丁清单和校验清单中的 hash
 # ============================================================
 [FEATURE_FLAGS]
-IS_USE_DEFAULT_REGION = false
+IS_USE_DEFAULT_REGION = true
 IS_SAVE_RAW_MANIFEST = false
 IS_SAVE_DECRYPTED_MANIFEST = false
 IS_SAVE_DECODED_MANIFEST = false
