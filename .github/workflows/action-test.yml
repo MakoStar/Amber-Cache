@@ -35,7 +35,7 @@ jobs:
           restore-keys: stellasora-manifest-
 
       - name: ✏️ Modify cached files
-        working-directory: source_repo/test_manifest/output/CN/Unpack
+        working-directory: source_repo/test_manifest/output/Unpack/CN
         run: |
           $bytes = [System.IO.File]::ReadAllBytes("lua.arcx")
           $newBytes = $bytes + @(0x00, 0x01, 0x02, 0x03)
