@@ -34,6 +34,15 @@ jobs:
           key: stellasora-manifest-${{ github.run_id }}
           restore-keys: stellasora-manifest-
 
+      - name: ✏️ Modify cached files
+        working-directory: source_repo/test_manifest/output/CN/Unpack
+        run: |
+          $bytes = [System.IO.File]::ReadAllBytes("lua.arcx")
+          $newBytes = $bytes + @(0x00, 0x01, 0x02, 0x03)
+          [System.IO.File]::WriteAllBytes("lua.arcx", $newBytes)
+          Write-Host "Added 4 bytes to lua.arcc"
+        shell: pwsh
+
       - name: 📌 Run test
         working-directory: source_repo/test_manifest
         run: |
