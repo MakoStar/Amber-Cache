@@ -1,0 +1,2244 @@
+{
+  "0": [
+    "xor edx, edx",
+    "mov eax, 0xffa1eaf",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0xb6]",
+    "xor cl, 0xa1",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "1": [
+    "xor edx, edx",
+    "mov eax, 0x9c6bbeb6",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xa1]",
+    "add eax, 0x449332e0",
+    "mov r9d, edx",
+    "xor edx, edx",
+    "div r11d",
+    "movzx r8d, byte ptr [rdx+r10]",
+    "dec r8b",
+    "sub byte ptr [r9+r10], r8b",
+    "mov byte ptr [rdx+r10], r8b",
+    "jmp 0x18059ee97"
+  ],
+  "2": [
+    "xor edx, edx",
+    "mov eax, 0x5adbaa1",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0xe0]",
+    "xor cl, 0x23",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "3": [
+    "xor edx, edx",
+    "mov eax, 0x449332e0",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x23]",
+    "xor cl, 0x5a",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "4": [
+    "xor edx, edx",
+    "mov eax, 0xe4908623",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x5a]",
+    "xor cl, 0xb5",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "5": [
+    "movzx r9d, byte ptr [rbx+0xb5]",
+    "mov eax, 0x487f585a",
+    "sub r9d, 0x4",
+    "jmp 0x18059ee6b"
+  ],
+  "6": [
+    "xor edx, edx",
+    "mov eax, 0x32e7db5",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xa4]",
+    "add cl, 0x29",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "7": [
+    "xor edx, edx",
+    "mov eax, 0xc91e39a4",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xd7]",
+    "add eax, 0x7912353e",
+    "mov ecx, edx",
+    "xor edx, edx",
+    "div r11d",
+    "movzx r8d, byte ptr [rcx+r10]",
+    "movzx eax, byte ptr [rdx+r10]",
+    "mov byte ptr [rcx+r10], al",
+    "mov byte ptr [rdx+r10], r8b",
+    "jmp 0x18059ee97"
+  ],
+  "8": [
+    "xor edx, edx",
+    "mov eax, 0x590781d7",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x3e]",
+    "xor cl, 0x9",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "9": [
+    "xor edx, edx",
+    "mov eax, 0x7912353e",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x9]",
+    "add eax, 0x1c749da8",
+    "jmp 0x18059d440"
+  ],
+  "10": [
+    "xor edx, edx",
+    "mov eax, 0xace7709",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0xa8]",
+    "xor cl, 0xcb",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "11": [
+    "movzx r9d, byte ptr [rbx+0xcb]",
+    "mov eax, 0x1c749da8",
+    "add r9d, 0x2",
+    "jmp 0x18059ee6b"
+  ],
+  "12": [
+    "movzx r9d, byte ptr [rbx+0x62]",
+    "mov eax, 0x7da165cb",
+    "sub r9d, 0x3",
+    "jmp 0x18059ee6b"
+  ],
+  "13": [
+    "movzx r9d, byte ptr [rbx+0x9d]",
+    "mov eax, 0x97ad5962",
+    "sub r9d, 0x4",
+    "jmp 0x18059ee6b"
+  ],
+  "14": [
+    "xor edx, edx",
+    "mov eax, 0x51029a9d",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "not cl",
+    "xor cl, byte ptr [rbx+0xec]",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "15": [
+    "xor edx, edx",
+    "mov eax, 0x8e0782ec",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xff]",
+    "add cl, 0x3a",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "16": [
+    "movzx r9d, byte ptr [rbx+0xc6]",
+    "mov eax, 0xdd9ac5ff",
+    "inc r9d",
+    "jmp 0x18059ee6b"
+  ],
+  "17": [
+    "xor edx, edx",
+    "mov eax, 0xd5eb08c6",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x71]",
+    "xor cl, 0x70",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "18": [
+    "xor edx, edx",
+    "mov eax, 0x70c1c71",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x70]",
+    "sub eax, 0x1ea1898d",
+    "jmp 0x18059d440"
+  ],
+  "19": [
+    "movzx r9d, byte ptr [rbx+0x73]",
+    "mov eax, 0x77e34d70",
+    "add r9d, 0x2",
+    "jmp 0x18059ee6b"
+  ],
+  "20": [
+    "xor edx, edx",
+    "mov eax, 0xe15e7673",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x6a]",
+    "xor cl, 0x85",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "21": [
+    "xor edx, edx",
+    "mov eax, 0xd6dac76a",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x85]",
+    "xor cl, 0x34",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "22": [
+    "xor edx, edx",
+    "mov eax, 0xeecc7085",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x34]",
+    "add eax, 0x20f98b27",
+    "jmp 0x18059d440"
+  ],
+  "23": [
+    "xor edx, edx",
+    "mov eax, 0xd333a134",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x27]",
+    "sub eax, 0x785aa6b2",
+    "jmp 0x18059d440"
+  ],
+  "24": [
+    "xor edx, edx",
+    "mov eax, 0x20f98b27",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x4e]",
+    "add eax, 0x60d94ad9",
+    "jmp 0x18059d440"
+  ],
+  "25": [
+    "xor edx, edx",
+    "mov eax, 0x87a5594e",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0xd9]",
+    "xor cl, 0x38",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "26": [
+    "movzx r9d, byte ptr [rbx+0x38]",
+    "mov eax, 0x60d94ad9",
+    "add r9d, 0x3",
+    "jmp 0x18059ee6b"
+  ],
+  "27": [
+    "xor edx, edx",
+    "mov eax, 0x76076238",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x1b]",
+    "sub eax, 0x148f3d8e",
+    "jmp 0x18059d440"
+  ],
+  "28": [
+    "movzx r9d, byte ptr [rbx+0x72]",
+    "mov eax, 0xbacf581b",
+    "sub r9d, 0x3",
+    "jmp 0x18059ee6b"
+  ],
+  "29": [
+    "movzx r9d, byte ptr [rbx+0x6d]",
+    "mov eax, 0xeb70c272",
+    "sub r9d, 0x4",
+    "jmp 0x18059ee6b"
+  ],
+  "30": [
+    "xor edx, edx",
+    "mov eax, 0x78d09f6d",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x7c]",
+    "add eax, 0x28d714f",
+    "jmp 0x18059d379"
+  ],
+  "31": [
+    "xor edx, edx",
+    "mov eax, 0xde54b47c",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x4f]",
+    "xor cl, 0xd6",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "32": [
+    "xor edx, edx",
+    "mov eax, 0x28d714f",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xd6]",
+    "sub cl, 0x41",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "33": [
+    "xor edx, edx",
+    "mov eax, 0xde8446d6",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x41]",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "34": [
+    "xor edx, edx",
+    "mov eax, 0x5beca241",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx]",
+    "xor cl, 0xc3",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "35": [
+    "xor edx, edx",
+    "mov eax, 0xae3cfc00",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xc3]",
+    "add eax, 0x14ac6a7a",
+    "jmp 0x18059d379"
+  ],
+  "36": [
+    "movzx r9d, byte ptr [rbx+0x7a]",
+    "mov eax, 0x1c5faac3",
+    "sub r9d, 0x3",
+    "jmp 0x18059ee6b"
+  ],
+  "37": [
+    "xor edx, edx",
+    "mov eax, 0x14ac6a7a",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x55]",
+    "add cl, 0x3c",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "38": [
+    "xor edx, edx",
+    "mov eax, 0xcdd7c755",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xc4]",
+    "add eax, 0x58641877",
+    "jmp 0x18059d379"
+  ],
+  "39": [
+    "xor edx, edx",
+    "mov eax, 0x3d90dcc4",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x77]",
+    "xor cl, 0x5e",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "40": [
+    "movzx r9d, byte ptr [rbx+0x5e]",
+    "mov eax, 0x58641877",
+    "inc r9d",
+    "jmp 0x18059ee6b"
+  ],
+  "41": [
+    "xor edx, edx",
+    "mov eax, 0xd6def15e",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xa9]",
+    "add cl, 0x38",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "42": [
+    "xor edx, edx",
+    "mov eax, 0x87c0c2a9",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xc8]",
+    "sub cl, 0x6b",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "43": [
+    "xor edx, edx",
+    "mov eax, 0xe4943ac8",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x6b]",
+    "add cl, 0x7e",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "44": [
+    "xor edx, edx",
+    "mov eax, 0x625f0e6b",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x82]",
+    "xor cl, 0x3d",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "45": [
+    "movzx r9d, byte ptr [rbx+0x3d]",
+    "mov eax, 0x441edf82",
+    "sub r9d, 0x4",
+    "jmp 0x18059ee6b"
+  ],
+  "46": [
+    "movzx r9d, byte ptr [rbx+0xc]",
+    "mov eax, 0x5ae883d",
+    "dec r9d",
+    "jmp 0x18059ee6b"
+  ],
+  "47": [
+    "xor edx, edx",
+    "mov eax, 0xe4023a0c",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x9f]",
+    "add cl, 0x1a",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "48": [
+    "xor edx, edx",
+    "mov eax, 0x99af209f",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xe6]",
+    "sub cl, 0x11",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "49": [
+    "xor edx, edx",
+    "mov eax, 0x19a078e6",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x11]",
+    "xor cl, 0x90",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "50": [
+    "movzx r9d, byte ptr [rbx+0x90]",
+    "mov eax, 0xbe144c11",
+    "add r9d, 0x3",
+    "jmp 0x18059ee6b"
+  ],
+  "51": [
+    "xor edx, edx",
+    "mov eax, 0xe513e90",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x13]",
+    "xor cl, 0x8a",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "52": [
+    "xor edx, edx",
+    "mov eax, 0x25812313",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x8a]",
+    "sub eax, 0x85a7ddb",
+    "jmp 0x18059d379"
+  ],
+  "53": [
+    "xor edx, edx",
+    "mov eax, 0x462d418a",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x25]",
+    "sub cl, 0x54",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "54": [
+    "xor edx, edx",
+    "mov eax, 0xf7a58225",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x54]",
+    "xor cl, 0xc7",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "55": [
+    "xor edx, edx",
+    "mov eax, 0x9636ec54",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xc7]",
+    "sub eax, 0x33380292",
+    "jmp 0x18059d379"
+  ],
+  "56": [
+    "movzx r9d, byte ptr [rbx+0x6e]",
+    "mov eax, 0x994429c7",
+    "inc r9d",
+    "jmp 0x18059ee6b"
+  ],
+  "57": [
+    "movzx r9d, byte ptr [rbx+0x79]",
+    "mov eax, 0xccc7fd6e",
+    "jmp 0x18059ee6b"
+  ],
+  "58": [
+    "xor edx, edx",
+    "mov eax, 0xb169de79",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x58]",
+    "add cl, 0x45",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "59": [
+    "xor edx, edx",
+    "mov eax, 0xa66c2758",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xbb]",
+    "add cl, 0x6e",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "60": [
+    "xor edx, edx",
+    "mov eax, 0x3d5d88bb",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x92]",
+    "xor cl, 0xd",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "61": [
+    "xor edx, edx",
+    "mov eax, 0xba90b092",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xd]",
+    "add cl, 0x64",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "62": [
+    "xor edx, edx",
+    "mov eax, 0x5111550d",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x9c]",
+    "add eax, 0x501cd3ef",
+    "mov ecx, edx",
+    "xor edx, edx",
+    "div r11d",
+    "movzx r8d, byte ptr [rcx+r10]",
+    "movzx eax, byte ptr [rdx+r10]",
+    "mov byte ptr [rcx+r10], al",
+    "mov byte ptr [rdx+r10], r8b",
+    "jmp 0x18059ee97"
+  ],
+  "63": [
+    "xor edx, edx",
+    "mov eax, 0xa6b1139c",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xef]",
+    "add eax, 0x33e89ef6",
+    "jmp 0x18059da10"
+  ],
+  "64": [
+    "xor edx, edx",
+    "mov eax, 0x501cd3ef",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xf6]",
+    "add cl, 0x1f",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "65": [
+    "xor edx, edx",
+    "mov eax, 0x33e89ef6",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xe1]",
+    "add eax, 0x52111520",
+    "jmp 0x18059d379"
+  ],
+  "66": [
+    "xor edx, edx",
+    "mov eax, 0xb8819e1",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x20]",
+    "sub eax, 0x2d10209d",
+    "jmp 0x18059d379"
+  ],
+  "67": [
+    "xor edx, edx",
+    "mov eax, 0x52111520",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x63]",
+    "sub eax, 0x2329b366",
+    "jmp 0x18059da10"
+  ],
+  "68": [
+    "xor edx, edx",
+    "mov eax, 0xd2efdf63",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x9a]",
+    "add eax, 0x3bcaa0f5",
+    "jmp 0x18059da10"
+  ],
+  "69": [
+    "xor edx, edx",
+    "mov eax, 0xdcd64c9a",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xf5]",
+    "add eax, 0x266cfe4",
+    "jmp 0x18059da10"
+  ],
+  "70": [
+    "xor edx, edx",
+    "mov eax, 0x3bcaa0f5",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xe4]",
+    "sub cl, 0x17",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "71": [
+    "movzx r9d, byte ptr [rbx+0x17]",
+    "mov eax, 0x266cfe4",
+    "jmp 0x18059ee67"
+  ],
+  "72": [
+    "xor edx, edx",
+    "mov eax, 0xb7d6bf17",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x7e]",
+    "sub cl, 0x49",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "73": [
+    "movzx r9d, byte ptr [rbx+0x49]",
+    "mov eax, 0x20a97d7e",
+    "jmp 0x18059ee6b"
+  ],
+  "74": [
+    "xor edx, edx",
+    "mov eax, 0x1bf99e49",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xe8]",
+    "sub cl, 0xb",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "75": [
+    "xor edx, edx",
+    "mov eax, 0xd52027e8",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xb]",
+    "add eax, 0x1cdf35a2",
+    "jmp 0x18059da10"
+  ],
+  "76": [
+    "xor edx, edx",
+    "mov eax, 0x8317c70b",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xa2]",
+    "sub eax, 0x6b51fa23",
+    "jmp 0x18059da10"
+  ],
+  "77": [
+    "xor edx, edx",
+    "mov eax, 0x1cdf35a2",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xdd]",
+    "sub cl, 0x2c",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "78": [
+    "movzx r9d, byte ptr [rbx+0x2c]",
+    "mov eax, 0x94ae05dd",
+    "dec r9d",
+    "jmp 0x18059ee6b"
+  ],
+  "79": [
+    "xor edx, edx",
+    "mov eax, 0x8d42412c",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x3f]",
+    "sub cl, 0x6",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "80": [
+    "xor edx, edx",
+    "mov eax, 0xb5338b3f",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x6]",
+    "add eax, 0x168d0bb1",
+    "jmp 0x18059d379"
+  ],
+  "81": [
+    "xor edx, edx",
+    "mov eax, 0x3345b906",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xb1]",
+    "add cl, 0x50",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "82": [
+    "movzx r9d, byte ptr [rbx+0xb0]",
+    "mov eax, 0x168d0bb1",
+    "add r9d, 0x3",
+    "jmp 0x18059ee6b"
+  ],
+  "83": [
+    "xor edx, edx",
+    "mov eax, 0x56ad7fb0",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xb3]",
+    "add cl, 0x56",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "84": [
+    "xor edx, edx",
+    "mov eax, 0x9118dfb3",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xaa]",
+    "add cl, 0x3b",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "85": [
+    "xor edx, edx",
+    "mov eax, 0x87608baa",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xc5]",
+    "sub eax, 0x315e788c",
+    "jmp 0x18059da10"
+  ],
+  "86": [
+    "xor edx, edx",
+    "mov eax, 0xb21c23c5",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x74]",
+    "sub cl, 0x67",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "87": [
+    "xor edx, edx",
+    "mov eax, 0xcea18774",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x67]",
+    "xor cl, 0x8e",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "88": [
+    "xor edx, edx",
+    "mov eax, 0x1298d867",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x8e]",
+    "sub eax, 0x1e2afde7",
+    "jmp 0x18059d379"
+  ],
+  "89": [
+    "xor edx, edx",
+    "mov eax, 0xeb0c718e",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x19]",
+    "sub eax, 0xa7ec388",
+    "jmp 0x18059d379"
+  ],
+  "90": [
+    "movzx r9d, byte ptr [rbx+0x78]",
+    "mov eax, 0xe1d50219",
+    "add r9d, 0x3",
+    "jmp 0x18059ee6b"
+  ],
+  "91": [
+    "xor edx, edx",
+    "mov eax, 0xf5813c78",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x5b]",
+    "sub eax, 0x19c914e",
+    "jmp 0x18059da10"
+  ],
+  "92": [
+    "xor edx, edx",
+    "mov eax, 0x291ac95b",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0xb2]",
+    "xor cl, 0xad",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "93": [
+    "movzx r9d, byte ptr [rbx+0xad]",
+    "mov eax, 0xfe636eb2",
+    "sub r9d, 0x4",
+    "jmp 0x18059ee6b"
+  ],
+  "94": [
+    "movzx r9d, byte ptr [rbx+0xbc]",
+    "mov eax, 0xba799aad",
+    "dec r9d",
+    "jmp 0x18059ee6b"
+  ],
+  "95": [
+    "xor edx, edx",
+    "mov eax, 0xedd6c2bc",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x8f]",
+    "sub cl, 0x16",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "96": [
+    "movzx r9d, byte ptr [rbx+0x16]",
+    "mov eax, 0x8a90468f",
+    "inc r9d",
+    "jmp 0x18059ee6b"
+  ],
+  "97": [
+    "xor edx, edx",
+    "mov eax, 0x86e0c716",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x81]",
+    "sub eax, 0x536881c0",
+    "jmp 0x18059d379"
+  ],
+  "98": [
+    "xor edx, edx",
+    "mov eax, 0x75a82181",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x40]",
+    "xor cl, 0x3",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "99": [
+    "movzx r9d, byte ptr [rbx+0x3]",
+    "mov eax, 0xac977e40",
+    "add r9d, 0x2",
+    "jmp 0x18059ee6b"
+  ],
+  "100": [
+    "xor edx, edx",
+    "mov eax, 0xb2a92403",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xba]",
+    "sub eax, 0x7550f56b",
+    "jmp 0x18059da10"
+  ],
+  "101": [
+    "xor edx, edx",
+    "mov eax, 0x41c4feba",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x95]",
+    "sub eax, 0x157ecfc",
+    "jmp 0x18059d379"
+  ],
+  "102": [
+    "xor edx, edx",
+    "mov eax, 0x8aaf0a95",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x4]",
+    "add cl, 0x49",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "103": [
+    "xor edx, edx",
+    "mov eax, 0xfea81304",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xb7]",
+    "add cl, 0x62",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "104": [
+    "xor edx, edx",
+    "mov eax, 0xe24775b7",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x9e]",
+    "sub eax, 0x365ef617",
+    "jmp 0x18059da10"
+  ],
+  "105": [
+    "xor edx, edx",
+    "mov eax, 0xb5b9d99e",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0xe9]",
+    "xor cl, 0x8",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "106": [
+    "xor edx, edx",
+    "mov eax, 0xc9a109e9",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x8]",
+    "add eax, 0x33338fab",
+    "jmp 0x18059da10"
+  ],
+  "107": [
+    "xor edx, edx",
+    "mov eax, 0x87a06508",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xab]",
+    "add cl, 0x3e",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "108": [
+    "movzx r9d, byte ptr [rbx+0xc2]",
+    "mov eax, 0x33338fab",
+    "sub r9d, 0x3",
+    "jmp 0x18059ee6b"
+  ],
+  "109": [
+    "movzx r9d, byte ptr [rbx+0x7d]",
+    "mov eax, 0xc7b65bc2",
+    "sub r9d, 0x4",
+    "jmp 0x18059ee6b"
+  ],
+  "110": [
+    "xor edx, edx",
+    "mov eax, 0x2ca9137d",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x4c]",
+    "add cl, 0x21",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "111": [
+    "xor edx, edx",
+    "mov eax, 0x9dcf984c",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xdf]",
+    "sub cl, 0x26",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "112": [
+    "xor edx, edx",
+    "mov eax, 0x141005df",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x26]",
+    "add eax, 0x539e5b51",
+    "jmp 0x18059da10"
+  ],
+  "113": [
+    "xor edx, edx",
+    "mov eax, 0x1722c926",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x51]",
+    "add eax, 0x278010d0",
+    "jmp 0x18059da10"
+  ],
+  "114": [
+    "movzx r9d, byte ptr [rbx+0xd0]",
+    "mov eax, 0x539e5b51",
+    "add r9d, 0x3",
+    "jmp 0x18059ee6b"
+  ],
+  "115": [
+    "xor edx, edx",
+    "mov eax, 0x278010d0",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x53]",
+    "add cl, 0x36",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "116": [
+    "xor edx, edx",
+    "mov eax, 0xc08dac53",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xca]",
+    "sub eax, 0x2227aa9b",
+    "jmp 0x18059d379"
+  ],
+  "117": [
+    "xor edx, edx",
+    "mov eax, 0x653ca5ca",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x65]",
+    "add cl, 0x6c",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "118": [
+    "xor edx, edx",
+    "mov eax, 0xddd85565",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x94]",
+    "sub eax, 0x762068f9",
+    "jmp 0x18059d379"
+  ],
+  "119": [
+    "xor edx, edx",
+    "mov eax, 0xdd7b7294",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x7]",
+    "sub eax, 0x74454a52",
+    "jmp 0x18059d379"
+  ],
+  "120": [
+    "xor edx, edx",
+    "mov eax, 0x89df9707",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xae]",
+    "add eax, 0x1642b5b9",
+    "jmp 0x18059d379"
+  ],
+  "121": [
+    "xor edx, edx",
+    "mov eax, 0x8bbab5ae",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xb9]",
+    "add cl, 0x68",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "122": [
+    "xor edx, edx",
+    "mov eax, 0x1642b5b9",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x98]",
+    "add eax, 0x36f19fb",
+    "jmp 0x18059d379"
+  ],
+  "123": [
+    "xor edx, edx",
+    "mov eax, 0x96cea198",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0xfb]",
+    "xor cl, 0xd2",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "124": [
+    "movzx r9d, byte ptr [rbx+0xd2]",
+    "mov eax, 0x36f19fb",
+    "sub r9d, 0x3",
+    "jmp 0x18059ee6b"
+  ],
+  "125": [
+    "movzx r9d, byte ptr [rbx+0x4d]",
+    "mov eax, 0xc6b0fcd2",
+    "sub r9d, 0x4",
+    "jmp 0x18059ee6b"
+  ],
+  "126": [
+    "xor edx, edx",
+    "mov eax, 0xa5b1704d",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0xdc]",
+    "xor cl, 0x2f",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "127": [
+    "xor edx, edx",
+    "mov eax, 0x81cdc1dc",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x2f]",
+    "sub cl, 0x36",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "128": [
+    "xor edx, edx",
+    "mov eax, 0x67cfc92f",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x36]",
+    "sub cl, 0x21",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "129": [
+    "xor edx, edx",
+    "mov eax, 0x55b4bf36",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x21]",
+    "add eax, 0x6e583760",
+    "jmp 0x18059da10"
+  ],
+  "130": [
+    "xor edx, edx",
+    "mov eax, 0x3f74b921",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x60]",
+    "sub eax, 0x360c875d",
+    "jmp 0x18059d379"
+  ],
+  "131": [
+    "xor edx, edx",
+    "mov eax, 0x6e583760",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0xa3]",
+    "xor cl, 0xda",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "132": [
+    "xor edx, edx",
+    "mov eax, 0xc9f378a3",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xda]",
+    "add eax, 0x7c2d0435",
+    "jmp 0x18059da10"
+  ],
+  "133": [
+    "movzx r9d, byte ptr [rbx+0x35]",
+    "mov eax, 0xb84080da",
+    "sub r9d, 0x4",
+    "jmp 0x18059ee6b"
+  ],
+  "134": [
+    "xor edx, edx",
+    "mov eax, 0x7c2d0435",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x24]",
+    "sub eax, 0x1961c3a9",
+    "jmp 0x18059da10"
+  ],
+  "135": [
+    "movzx r9d, byte ptr [rbx+0x57]",
+    "mov eax, 0x8d5ca624",
+    "jmp 0x18059ee67"
+  ],
+  "136": [
+    "xor edx, edx",
+    "mov eax, 0xe69e3c57",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xbe]",
+    "add cl, 0x77",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "137": [
+    "xor edx, edx",
+    "mov eax, 0x95805be",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x89]",
+    "xor cl, 0x28",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "138": [
+    "xor edx, edx",
+    "mov eax, 0x56df0589",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x28]",
+    "xor cl, 0x4b",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "139": [
+    "xor edx, edx",
+    "mov eax, 0x499cf228",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x4b]",
+    "add eax, 0x3e6c51e2",
+    "jmp 0x18059da10"
+  ],
+  "140": [
+    "xor edx, edx",
+    "mov eax, 0xaa1a684b",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xe2]",
+    "sub cl, 0x1d",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "141": [
+    "xor edx, edx",
+    "mov eax, 0x3e6c51e2",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x1d]",
+    "sub cl, 0x6c",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "142": [
+    "xor edx, edx",
+    "mov eax, 0x47b11d",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x6c]",
+    "xor cl, 0x7f",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "143": [
+    "xor edx, edx",
+    "mov eax, 0x1db23f6c",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x7f]",
+    "add eax, 0x4d7fa946",
+    "jmp 0x18059da10"
+  ],
+  "144": [
+    "xor edx, edx",
+    "mov eax, 0xbe2c907f",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x46]",
+    "sub eax, 0x38fc50f",
+    "jmp 0x18059da10"
+  ],
+  "145": [
+    "xor edx, edx",
+    "mov eax, 0x4d7fa946",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xf1]",
+    "sub eax, 0x74af0e10",
+    "jmp 0x18059d379"
+  ],
+  "146": [
+    "xor edx, edx",
+    "mov eax, 0xfc703af1",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0xf0]",
+    "xor cl, 0xf3",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "147": [
+    "xor edx, edx",
+    "mov eax, 0x8b50f1f0",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xf3]",
+    "add eax, 0x7e898fea",
+    "jmp 0x18059d379"
+  ],
+  "148": [
+    "xor edx, edx",
+    "mov eax, 0xb44788f3",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xea]",
+    "sub eax, 0x417de8fb",
+    "jmp 0x18059d379"
+  ],
+  "149": [
+    "xor edx, edx",
+    "mov eax, 0x7e898fea",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x5]",
+    "xor cl, 0xb4",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "150": [
+    "xor edx, edx",
+    "mov eax, 0xbe821705",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0xb4]",
+    "xor cl, 0xa7",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "151": [
+    "xor edx, edx",
+    "mov eax, 0x97ccadb4",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0xa7]",
+    "xor cl, 0xce",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "152": [
+    "xor edx, edx",
+    "mov eax, 0xa00065a7",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xce]",
+    "add eax, 0x36daf959",
+    "jmp 0x18059d379"
+  ],
+  "153": [
+    "xor edx, edx",
+    "mov eax, 0x6c1ac9ce",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x59]",
+    "add eax, 0x71dc56b8",
+    "jmp 0x18059d379"
+  ],
+  "154": [
+    "xor edx, edx",
+    "mov eax, 0x36daf959",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xb8]",
+    "add eax, 0x35c27a9b",
+    "jmp 0x18059d379"
+  ],
+  "155": [
+    "xor edx, edx",
+    "mov eax, 0x71dc56b8",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x9b]",
+    "add cl, 0xe",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "156": [
+    "xor edx, edx",
+    "mov eax, 0x35c27a9b",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0xf2]",
+    "xor cl, 0xed",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "157": [
+    "xor edx, edx",
+    "mov eax, 0x77415af2",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xed]",
+    "add eax, 0x249e10fc",
+    "jmp 0x18059d379"
+  ],
+  "158": [
+    "movzx r9d, byte ptr [rbx+0xfc]",
+    "mov eax, 0x760d5ed",
+    "dec r9d",
+    "jmp 0x18059ee6b"
+  ],
+  "159": [
+    "xor edx, edx",
+    "mov eax, 0x249e10fc",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xcf]",
+    "sub cl, 0x56",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "160": [
+    "xor edx, edx",
+    "mov eax, 0xc1c35bcf",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x56]",
+    "add eax, 0x5215e0c1",
+    "jmp 0x18059d379"
+  ],
+  "161": [
+    "xor edx, edx",
+    "mov eax, 0xb2ac8756",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xc1]",
+    "add eax, 0x7bdb4080",
+    "jmp 0x18059da10"
+  ],
+  "162": [
+    "xor edx, edx",
+    "mov eax, 0x5215e0c1",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x80]",
+    "sub cl, 0x43",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "163": [
+    "xor edx, edx",
+    "mov eax, 0x7bdb4080",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x43]",
+    "add cl, 0x6",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "164": [
+    "xor edx, edx",
+    "mov eax, 0x8b36dd43",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0xfa]",
+    "xor cl, 0xd5",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "165": [
+    "movzx r9d, byte ptr [rbx+0xd5]",
+    "mov eax, 0x8910d2fa",
+    "sub r9d, 0x4",
+    "jmp 0x18059ee6b"
+  ],
+  "166": [
+    "xor edx, edx",
+    "mov eax, 0x55ec8dd5",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x44]",
+    "add cl, 0x9",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "167": [
+    "xor edx, edx",
+    "mov eax, 0x7d8c8944",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xf7]",
+    "sub eax, 0x5d33fe22",
+    "jmp 0x18059d379"
+  ],
+  "168": [
+    "xor edx, edx",
+    "mov eax, 0x77c312f7",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0xde]",
+    "xor cl, 0x29",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "169": [
+    "xor edx, edx",
+    "mov eax, 0xa2cc01de",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x29]",
+    "xor cl, 0x48",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "170": [
+    "movzx r9d, byte ptr [rbx+0x48]",
+    "mov eax, 0x4ddb9129",
+    "add r9d, 0x3",
+    "jmp 0x18059ee6b"
+  ],
+  "171": [
+    "movzx r9d, byte ptr [rbx+0xeb]",
+    "mov eax, 0x1c9dcf48",
+    "add r9d, 0x2",
+    "jmp 0x18059ee6b"
+  ],
+  "172": [
+    "xor edx, edx",
+    "mov eax, 0x33450eb",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x2]",
+    "add eax, 0x4631debd",
+    "jmp 0x18059da10"
+  ],
+  "173": [
+    "movzx r9d, byte ptr [rbx+0xbd]",
+    "mov eax, 0xcec91802",
+    "sub r9d, 0x4",
+    "jmp 0x18059ee6b"
+  ],
+  "174": [
+    "xor edx, edx",
+    "mov eax, 0x4631debd",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x8c]",
+    "xor cl, 0x1f",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "175": [
+    "xor edx, edx",
+    "mov eax, 0x8f2368c",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x1f]",
+    "sub eax, 0xd5ba69a",
+    "jmp 0x18059d379"
+  ],
+  "176": [
+    "xor edx, edx",
+    "mov eax, 0xdf712b1f",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x66]",
+    "xor cl, 0x91",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "177": [
+    "movzx r9d, byte ptr [rbx+0x91]",
+    "mov eax, 0xf2a45966",
+    "jmp 0x18059ee6b"
+  ],
+  "178": [
+    "xor edx, edx",
+    "mov eax, 0xdc2aaa91",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x10]",
+    "xor cl, 0x93",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "179": [
+    "xor edx, edx",
+    "mov eax, 0xc0a82310",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x93]",
+    "add eax, 0x460f4a0a",
+    "jmp 0x18059da10"
+  ],
+  "180": [
+    "xor edx, edx",
+    "mov eax, 0xd0ae7593",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xa]",
+    "add eax, 0x1bc168a5",
+    "jmp 0x18059da10"
+  ],
+  "181": [
+    "xor edx, edx",
+    "mov eax, 0x460f4a0a",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xa5]",
+    "add cl, 0x2c",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "182": [
+    "xor edx, edx",
+    "mov eax, 0x1bc168a5",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xd4]",
+    "sub cl, 0x47",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "183": [
+    "movzx r9d, byte ptr [rbx+0x47]",
+    "mov eax, 0x469d38d4",
+    "jmp 0x18059ee67"
+  ],
+  "184": [
+    "movzx r9d, byte ptr [rbx+0xee]",
+    "mov eax, 0x99e34447",
+    "inc r9d",
+    "jmp 0x18059ee6b"
+  ],
+  "185": [
+    "xor edx, edx",
+    "mov eax, 0x5d74adee",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0xf9]",
+    "xor cl, 0xd8",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "186": [
+    "movzx r9d, byte ptr [rbx+0xd8]",
+    "mov eax, 0xefc5ccf9",
+    "add r9d, 0x3",
+    "jmp 0x18059ee6b"
+  ],
+  "187": [
+    "xor edx, edx",
+    "mov eax, 0x22325bd8",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x3b]",
+    "xor cl, 0x12",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "188": [
+    "movzx r9d, byte ptr [rbx+0x12]",
+    "mov eax, 0xd7ceb3b",
+    "sub r9d, 0x3",
+    "jmp 0x18059ee6b"
+  ],
+  "189": [
+    "xor edx, edx",
+    "mov eax, 0xc7dc8912",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x8d]",
+    "sub cl, 0x1c",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "190": [
+    "xor edx, edx",
+    "mov eax, 0xd82fcb8d",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x1c]",
+    "sub cl, 0x6f",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "191": [
+    "movzx r9d, byte ptr [rbx+0x6f]",
+    "mov eax, 0x8c4fb01c",
+    "jmp 0x18059ee67"
+  ],
+  "192": [
+    "xor edx, edx",
+    "mov eax, 0x9652fe6f",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x76]",
+    "sub eax, 0x254c679f",
+    "jmp 0x18059da10"
+  ],
+  "193": [
+    "xor edx, edx",
+    "mov eax, 0x44101f76",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x61]",
+    "sub eax, 0x12576660",
+    "jmp 0x18059d379"
+  ],
+  "194": [
+    "xor edx, edx",
+    "mov eax, 0xdab39861",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xa0]",
+    "sub eax, 0x3324ae1d",
+    "jmp 0x18059da10"
+  ],
+  "195": [
+    "xor edx, edx",
+    "mov eax, 0xeda899a0",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xe3]",
+    "sub eax, 0x2f020ae6",
+    "jmp 0x18059d379"
+  ],
+  "196": [
+    "xor edx, edx",
+    "mov eax, 0xccdb51e3",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x1a]",
+    "sub cl, 0x75",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "197": [
+    "xor edx, edx",
+    "mov eax, 0xd0fdf51a",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x75]",
+    "add eax, 0x123fbc64",
+    "jmp 0x18059d379"
+  ],
+  "198": [
+    "xor edx, edx",
+    "mov eax, 0xe195a775",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x64]",
+    "add cl, 0x69",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "199": [
+    "xor edx, edx",
+    "mov eax, 0x123fbc64",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x97]",
+    "add eax, 0x1d5dcdfe",
+    "jmp 0x18059da10"
+  ],
+  "200": [
+    "xor edx, edx",
+    "mov eax, 0xec9df997",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xfe]",
+    "sub eax, 0x3415337",
+    "jmp 0x18059d379"
+  ],
+  "201": [
+    "movzx r9d, byte ptr [rbx+0xc9]",
+    "mov eax, 0x1d5dcdfe",
+    "jmp 0x18059ee6b"
+  ],
+  "202": [
+    "xor edx, edx",
+    "mov eax, 0xfcbeacc9",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x68]",
+    "add eax, 0x3de9498b",
+    "jmp 0x18059d379"
+  ],
+  "203": [
+    "xor edx, edx",
+    "mov eax, 0xb62afc68",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x8b]",
+    "sub cl, 0x22",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "204": [
+    "xor edx, edx",
+    "mov eax, 0x3de9498b",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x22]",
+    "xor cl, 0x5d",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "205": [
+    "xor edx, edx",
+    "mov eax, 0x1a94ae22",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x5d]",
+    "xor cl, 0xac",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "206": [
+    "xor edx, edx",
+    "mov eax, 0x390f9c5d",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xac]",
+    "add cl, 0x41",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "207": [
+    "xor edx, edx",
+    "mov eax, 0x4f977dac",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xbf]",
+    "sub eax, 0x4927267a",
+    "jmp 0x18059da10"
+  ],
+  "208": [
+    "xor edx, edx",
+    "mov eax, 0xc7c5d5bf",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x86]",
+    "sub cl, 0x31",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "209": [
+    "xor edx, edx",
+    "mov eax, 0xb6d8d986",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x31]",
+    "add eax, 0x3a0da430",
+    "jmp 0x18059da10"
+  ],
+  "210": [
+    "xor edx, edx",
+    "mov eax, 0x1f5aa31",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x30]",
+    "xor cl, 0x33",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "211": [
+    "movzx r9d, byte ptr [rbx+0x33]",
+    "mov eax, 0x3a0da430",
+    "add r9d, 0x2",
+    "jmp 0x18059ee6b"
+  ],
+  "212": [
+    "xor edx, edx",
+    "mov eax, 0xde2a7233",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x2a]",
+    "xor cl, 0x45",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "213": [
+    "xor edx, edx",
+    "mov eax, 0x295d42a",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x45]",
+    "sub eax, 0x590aec0c",
+    "jmp 0x18059d379"
+  ],
+  "214": [
+    "movzx r9d, byte ptr [rbx+0xf4]",
+    "mov eax, 0x413e4a45",
+    "dec r9d",
+    "jmp 0x18059ee6b"
+  ],
+  "215": [
+    "xor edx, edx",
+    "mov eax, 0xa6f513f4",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0xe7]",
+    "xor cl, 0xe",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "216": [
+    "xor edx, edx",
+    "mov eax, 0x607032e7",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0xe]",
+    "xor cl, 0x99",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "217": [
+    "movzx r9d, byte ptr [rbx+0x99]",
+    "mov eax, 0x4510620e",
+    "jmp 0x18059ee6b"
+  ],
+  "218": [
+    "movzx r9d, byte ptr [rbx+0xf8]",
+    "mov eax, 0xb12b3099",
+    "add r9d, 0x3",
+    "jmp 0x18059ee6b"
+  ],
+  "219": [
+    "xor edx, edx",
+    "mov eax, 0xf758b0f8",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xdb]",
+    "sub eax, 0x3bb578ce",
+    "jmp 0x18059da10"
+  ],
+  "220": [
+    "xor edx, edx",
+    "mov eax, 0xbc066bdb",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x32]",
+    "sub cl, 0x2d",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "221": [
+    "movzx r9d, byte ptr [rbx+0x2d]",
+    "mov eax, 0xc44a8732",
+    "sub r9d, 0x4",
+    "jmp 0x18059ee6b"
+  ],
+  "222": [
+    "xor edx, edx",
+    "mov eax, 0x14c6512d",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x3c]",
+    "xor cl, 0xf",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "223": [
+    "xor edx, edx",
+    "mov eax, 0x62ea9f3c",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0xf]",
+    "xor cl, 0x96",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "224": [
+    "movzx r9d, byte ptr [rbx+0x96]",
+    "mov eax, 0x766b10f",
+    "inc r9d",
+    "jmp 0x18059ee6b"
+  ],
+  "225": [
+    "xor edx, edx",
+    "mov eax, 0x44278796",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x1]",
+    "add cl, 0x40",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "226": [
+    "xor edx, edx",
+    "mov eax, 0x4a75e001",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0xc0]",
+    "add cl, 0x7d",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "227": [
+    "xor edx, edx",
+    "mov eax, 0x104842c0",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x83]",
+    "sub eax, 0x7f3018c6",
+    "jmp 0x18059da10"
+  ],
+  "228": [
+    "xor edx, edx",
+    "mov eax, 0xc948d683",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x3a]",
+    "sub cl, 0x15",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "229": [
+    "xor edx, edx",
+    "mov eax, 0x80cfe73a",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x15]",
+    "add cl, 0x7c",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "230": [
+    "xor edx, edx",
+    "mov eax, 0x6cd05115",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x84]",
+    "add eax, 0x4016f037",
+    "jmp 0x18059d379"
+  ],
+  "231": [
+    "movzx r9d, byte ptr [rbx+0x37]",
+    "mov eax, 0x27e3f84",
+    "jmp 0x18059ee67"
+  ],
+  "232": [
+    "xor edx, edx",
+    "mov eax, 0x4016f037",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x1e]",
+    "add eax, 0x75b05869",
+    "jmp 0x18059d379"
+  ],
+  "233": [
+    "xor edx, edx",
+    "mov eax, 0x28556a1e",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x69]",
+    "add eax, 0x7fcc7988",
+    "jmp 0x18059d379"
+  ],
+  "234": [
+    "xor edx, edx",
+    "mov eax, 0x75b05869",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x88]",
+    "sub cl, 0x2b",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "235": [
+    "xor edx, edx",
+    "mov eax, 0x7fcc7988",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x2b]",
+    "sub cl, 0x42",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "236": [
+    "xor edx, edx",
+    "mov eax, 0x3da1522b",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x42]",
+    "add cl, 0x3",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "237": [
+    "xor edx, edx",
+    "mov eax, 0x17971442",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xfd]",
+    "sub eax, 0x2a55eb34",
+    "jmp 0x18059d379"
+  ],
+  "238": [
+    "xor edx, edx",
+    "mov eax, 0x1788e9fd",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xcc]",
+    "sub eax, 0x14ed6fa1",
+    "jmp 0x18059da10"
+  ],
+  "239": [
+    "xor edx, edx",
+    "mov eax, 0xd5aa14cc",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x5f]",
+    "xor cl, 0xa6",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "240": [
+    "xor edx, edx",
+    "mov eax, 0xeb12905f",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0xa6]",
+    "xor cl, 0xd1",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "241": [
+    "xor edx, edx",
+    "mov eax, 0xde6529a6",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0xd1]",
+    "sub eax, 0x61f68ab0",
+    "jmp 0x18059da10"
+  ],
+  "242": [
+    "xor edx, edx",
+    "mov eax, 0xc0f939d1",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x50]",
+    "add eax, 0x9237ed3",
+    "jmp 0x18059da10"
+  ],
+  "243": [
+    "xor edx, edx",
+    "mov eax, 0x9e097550",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0xd3]",
+    "xor cl, 0x4a",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "244": [
+    "xor edx, edx",
+    "mov eax, 0x9237ed3",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x4a]",
+    "sub eax, 0x15f441b",
+    "jmp 0x18059da10"
+  ],
+  "245": [
+    "movzx r9d, byte ptr [rbx+0xe5]",
+    "mov eax, 0xcee52e4a",
+    "sub r9d, 0x4",
+    "jmp 0x18059ee6b"
+  ],
+  "246": [
+    "xor edx, edx",
+    "mov eax, 0xfea0bbe5",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x14]",
+    "add cl, 0x79",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "247": [
+    "xor edx, edx",
+    "mov eax, 0xe9dc3f14",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x87]",
+    "xor cl, 0x2e",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "248": [
+    "xor edx, edx",
+    "mov eax, 0x808f3187",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x2e]",
+    "xor cl, 0x39",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "249": [
+    "xor edx, edx",
+    "mov eax, 0x1c35e62e",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "sub cl, byte ptr [rbx+0x39]",
+    "sub cl, 0x18",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "250": [
+    "xor edx, edx",
+    "mov eax, 0xaf332439",
+    "div r11d",
+    "movzx ecx, byte ptr [rdx+r10]",
+    "xor cl, byte ptr [rbx+0x18]",
+    "xor cl, 0x7b",
+    "mov byte ptr [rdx+r10], cl",
+    "jmp 0x18059ee97"
+  ],
+  "251": [
+    "xor edx, edx",
+    "mov eax, 0xf4d75618",
+    "div r11d",
+    "movzx eax, byte ptr [rbx+0x7b]",
+    "sub eax, 0x33acaaae",
+    "jmp 0x18059da10"
+  ],
+  "252": [
+    "movzx r9d, byte ptr [rbx+0x52]",
+    "mov eax, 0x56c6fc7b",
+    "sub r9d, 0x3",
+    "jmp 0x18059ee6b"
+  ],
+  "253": [
+    "movzx r9d, byte ptr [rbx+0xcd]",
+    "mov eax, 0xcc535552",
+    "sub r9d, 0x4",
+    "jmp 0x18059ee6b"
+  ],
+  "254": [
+    "movzx r9d, byte ptr [rbx+0x5c]",
+    "mov eax, 0xbdcc66cd",
+    "dec r9d",
+    "jmp 0x18059ee6b"
+  ],
+  "255": [
+    "movzx r9d, byte ptr [rbx+0xaf]",
+    "mov eax, 0x4676de5c",
+    "sub r9d, 0x2",
+    "xor edx, edx",
+    "and r9d, 0x7",
+    "div r11d",
+    "mov ecx, 0x8",
+    "mov r8d, edx",
+    "sub ecx, r9d",
+    "movzx edx, byte ptr [rdx+r10]",
+    "movzx eax, byte ptr [r8+r10]",
+    "shl dl, cl",
+    "movzx ecx, r9b",
+    "shr al, cl",
+    "or dl, al",
+    "mov byte ptr [r8+r10], dl",
+    "inc rsi",
+    "cmp rsi, rdi",
+    "jb 0x18059d331",
+    "mov r14, qword ptr [rsp+0x18]",
+    "mov rsi, qword ptr [rsp+0x10]",
+    "mov rbx, qword ptr [rsp+0x20]",
+    "mov rbp, qword ptr [rsp+0x28]",
+    "pop rdi",
+    "re ret",
+    "nop dword ptr [rax]",
+    "rcr dword ptr [rcx], cl",
+    "movsxd edx, ebx",
+    "pop rcx",
+    "add byte ptr [rsi-0x48ffa62d], dl",
+    "rcr dword ptr [rcx], cl",
+    "(bad (bad)",
+    "pop rcx",
+    "add bl, dh",
+    "rcr dword ptr [rcx], cl",
+    "or esp, edx",
+    "pop rcx",
+    "add byte ptr [rdx], ch",
+    "(bad (bad)",
+    "add byte ptr [rsi-0x2c], bl",
+    "pop rcx",
+    "add byte ptr [rsp+rdx*8+0x59], bh",
+    "add byte ptr [rcx-0x4dffa62c], dl",
+    "(bad (bad)",
+    "add al, cl",
+    "(bad (bad)",
+    "add bl, bl",
+    "(bad (bad)",
+    "add cl, dh",
+    "(bad (bad)",
+    "add byte ptr [rcx], dl",
+    "(bad (bad)",
+    "add byte ptr [rdx], dh",
+    "(bad (bad)",
+    "add byte ptr [rdi-0x2b], al",
+    "pop rcx",
+    "add byte ptr [rbp-0x2b], ah",
+    "pop rcx",
+    "add byte ptr [rbp-0x2b], bh",
+    "pop rcx",
+    "add byte ptr [rax-0x51ffa62b], dl",
+    "(bad (bad)",
+    "add bh, cl",
+    "(bad (bad)"
+  ]
+}
