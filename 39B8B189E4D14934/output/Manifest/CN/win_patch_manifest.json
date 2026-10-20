@@ -1,0 +1,32 @@
+{
+    "ss_win.mani": {
+        "FileName": "ss_win.mani",
+        "Hash": "20b2c1bad87acb76f8ddbde671d1221a",
+        "Version": 140,
+        "AdditionalPath": "73787d6612412a5fcc174839413f276d"
+    },
+    "ss_win_add.mani": {
+        "FileName": "ss_win_add.mani",
+        "Hash": "c7a6495268e7e218e8fa198fb5f3413b",
+        "Version": 140,
+        "AdditionalPath": "73787d6612412a5fcc174839413f276d"
+    },
+    "lua.json": {
+        "FileName": "lua.json",
+        "Hash": "597161b8fd1041861dc5125cfee325d3",
+        "Version": 140,
+        "AdditionalPath": "73787d6612412a5fcc174839413f276d"
+    },
+    "data.json": {
+        "FileName": "data.json",
+        "Hash": "c431ad506001485a92b0b838eb7fc11b",
+        "Version": 140,
+        "AdditionalPath": "73787d6612412a5fcc174839413f276d"
+    },
+    "p_1_m.ss_win.mani": {
+        "FileName": "p_1_m.ss_win.mani",
+        "Hash": "f52416197f559084f098c270b67adcc5",
+        "Version": 140,
+        "AdditionalPath": "73787d6612412a5fcc174839413f276d"
+    }
+}
